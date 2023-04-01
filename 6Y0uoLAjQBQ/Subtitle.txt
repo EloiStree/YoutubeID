@@ -1,0 +1,196 @@
+[Musique]
+
+bien bonjour à tous Nous sommes à
+
+Molenbeek avec Julie qui est
+
+cofondatrice du coworking elle est aussi
+
+fondatrice de girly qui alors qu'est-ce
+
+que girly alors girly c'est une
+
+plateforme web qui permet en fait de
+
+d'avoir de l'information sur tout ce qui
+
+est nouvelle technologie avec un point
+
+de vue et des perspectives féminines ok
+
+et vous avez pu faire une petite
+
+activité aujourd'hui pour pouvoir
+
+présenter ce que c'était girly à des
+
+jeunes en effet on organise plein
+
+d'événements donc des grands événements
+
+de on va présenter des startups on fait
+
+aussi des workshop comme aujourd'hui des
+
+petits ateliers en électronique et
+
+l'objectif c'est pendant 1h30 ou 3
+
+heures de créer des objets animés des
+
+créer des robots de les connecter entre
+
+eux et de créer vraiment from scratch
+
+sans aucune connaissance en informatique
+
+ou en électronique des objets connectés
+
+inabordable mais abordable vous avez
+
+utilisé le package little bits qui a
+
+paquet qui a l'air vraiment intéressant
+
+alors
+
+quelle est l'utilité de ce package par
+
+rapport à girly alors c'est une
+
+technologie qui a été créée par une
+
+femme qui est maintenant basée aux
+
+États-Unis et l'avantage c'est que ce
+
+sont des petits éléments
+
+des petits légaux aimantés et en fait
+
+chaque composant a une fonctionnalité
+
+donc par exemple on peut avoir une
+
+source d'énergie on peut avoir un bouton
+
+des capteurs de lumière des capteurs de
+
+son on peut avoir des LEDs des Open
+
+graves des escargots etc et en fait ils
+
+sortent il suffit simplement de les
+
+connecter entre eux donc via cet aimant
+
+et c'est comme une phrase sujet vers
+
+complément il faut mettre dans un ordre
+
+pour d'autres énergies le déclencheur et
+
+puis le résultat et donc ça et ça
+
+fonctionne très facile à utiliser du
+
+coup et il faut savoir que généralement
+
+on utilise arduinor Raspberry Pi alors
+
+est-ce que Little Beats est une
+
+transition ou une finalité en soi par
+
+rapport pour l'apprentissage c'est un
+
+peu les deux parce que bon déjà d'une
+
+part on peut s'intéresser à laïti et
+
+commencer à animer des objets les
+
+connecter entre eux sans connaissance en
+
+informatique électronique du coup c'est
+
+une décharge de cette partie technique
+
+donc on peut vraiment se concentrer sur
+
+la créativité donc ça permet d'une part
+
+aux jeunes de découvrir ce monde
+
+opportunités qui que sont les nouvelles
+
+technologies et d'autre part pour des
+
+personnes qui sont en recherche de créer
+
+des prototypes et ils peuvent réaliser
+
+facilement leur prototype et pouvoir par
+
+exemple elle est en train d'investisseur
+
+avant je suis en train de faire ça et ça
+
+fait ça tac je le monte vous allez faire
+
+l'exemple avec DropBox ou avec Google
+
+c'est ça oui j'ai fait ça donc quand
+
+j'étais quand j'ai eu ma fille j'étais
+
+très fatiguée et je savais plus l'heure
+
+à laquelle je devais lui donner le
+
+biberon donc ce que j'ai fait c'est que
+
+j'ai créé une boîte dans lequel je
+
+mettais mes biberons il y avait un
+
+composant qui comptait les biberons et à
+
+chaque fois que je prenais j'en prenais
+
+un ça ouvrait une Google sheet et ça a
+
+indiqué la date et l'heure à laquelle
+
+j'avais pris le biberon et donc
+
+évidemment à quelle heure j'avais des
+
+nouvelles et donc vraiment un bel outil
+
+quand même et une belle communauté où
+
+est-ce qu'on pourrait retrouver sur les
+
+réseaux sociaux ou alors c'est sur
+
+Facebook c'est girly sur Twitter c'est
+
+aussi Girling et sur la toile c'est
+
+gurvic.net
+
+super et donc n'hésitez pas n'hésitez
+
+pas à suivre Girl Like à vous informer
+
+un peu sur Little beats et on vous
+
+souhaite une très bonne soirée à la
+
+prochaine
+
+c'est trop bien
+
+[Musique]
+

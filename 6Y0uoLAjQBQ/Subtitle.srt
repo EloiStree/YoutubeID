@@ -1,0 +1,392 @@
+1
+00:00:00,280 --> 00:00:06,580
+[Musique]
+
+2
+00:00:07,519 --> 00:00:09,840
+bien bonjour à tous Nous sommes à
+
+3
+00:00:09,840 --> 00:00:11,519
+Molenbeek avec Julie qui est
+
+4
+00:00:11,519 --> 00:00:14,460
+cofondatrice du coworking elle est aussi
+
+5
+00:00:14,460 --> 00:00:16,680
+fondatrice de girly qui alors qu'est-ce
+
+6
+00:00:16,680 --> 00:00:18,420
+que girly alors girly c'est une
+
+7
+00:00:18,420 --> 00:00:20,699
+plateforme web qui permet en fait de
+
+8
+00:00:20,699 --> 00:00:22,680
+d'avoir de l'information sur tout ce qui
+
+9
+00:00:22,680 --> 00:00:24,720
+est nouvelle technologie avec un point
+
+10
+00:00:24,720 --> 00:00:26,580
+de vue et des perspectives féminines ok
+
+11
+00:00:26,580 --> 00:00:28,080
+et vous avez pu faire une petite
+
+12
+00:00:28,080 --> 00:00:30,180
+activité aujourd'hui pour pouvoir
+
+13
+00:00:30,180 --> 00:00:31,980
+présenter ce que c'était girly à des
+
+14
+00:00:31,980 --> 00:00:33,719
+jeunes en effet on organise plein
+
+15
+00:00:33,719 --> 00:00:35,219
+d'événements donc des grands événements
+
+16
+00:00:35,219 --> 00:00:37,800
+de on va présenter des startups on fait
+
+17
+00:00:37,800 --> 00:00:39,360
+aussi des workshop comme aujourd'hui des
+
+18
+00:00:39,360 --> 00:00:41,280
+petits ateliers en électronique et
+
+19
+00:00:41,280 --> 00:00:45,000
+l'objectif c'est pendant 1h30 ou 3
+
+20
+00:00:45,000 --> 00:00:48,239
+heures de créer des objets animés des
+
+21
+00:00:48,239 --> 00:00:50,219
+créer des robots de les connecter entre
+
+22
+00:00:50,219 --> 00:00:52,559
+eux et de créer vraiment from scratch
+
+23
+00:00:52,559 --> 00:00:53,820
+sans aucune connaissance en informatique
+
+24
+00:00:53,820 --> 00:00:56,840
+ou en électronique des objets connectés
+
+25
+00:00:56,840 --> 00:01:00,059
+inabordable mais abordable vous avez
+
+26
+00:01:00,059 --> 00:01:03,000
+utilisé le package little bits qui a
+
+27
+00:01:03,000 --> 00:01:04,019
+paquet qui a l'air vraiment intéressant
+
+28
+00:01:04,019 --> 00:01:05,580
+alors
+
+29
+00:01:05,580 --> 00:01:07,260
+quelle est l'utilité de ce package par
+
+30
+00:01:07,260 --> 00:01:08,460
+rapport à girly alors c'est une
+
+31
+00:01:08,460 --> 00:01:09,900
+technologie qui a été créée par une
+
+32
+00:01:09,900 --> 00:01:12,240
+femme qui est maintenant basée aux
+
+33
+00:01:12,240 --> 00:01:14,460
+États-Unis et l'avantage c'est que ce
+
+34
+00:01:14,460 --> 00:01:16,760
+sont des petits éléments
+
+35
+00:01:16,760 --> 00:01:19,560
+des petits légaux aimantés et en fait
+
+36
+00:01:19,560 --> 00:01:21,960
+chaque composant a une fonctionnalité
+
+37
+00:01:21,960 --> 00:01:24,600
+donc par exemple on peut avoir une
+
+38
+00:01:24,600 --> 00:01:26,460
+source d'énergie on peut avoir un bouton
+
+39
+00:01:26,460 --> 00:01:28,320
+des capteurs de lumière des capteurs de
+
+40
+00:01:28,320 --> 00:01:30,299
+son on peut avoir des LEDs des Open
+
+41
+00:01:30,299 --> 00:01:32,460
+graves des escargots etc et en fait ils
+
+42
+00:01:32,460 --> 00:01:35,040
+sortent il suffit simplement de les
+
+43
+00:01:35,040 --> 00:01:36,720
+connecter entre eux donc via cet aimant
+
+44
+00:01:36,720 --> 00:01:39,180
+et c'est comme une phrase sujet vers
+
+45
+00:01:39,180 --> 00:01:40,439
+complément il faut mettre dans un ordre
+
+46
+00:01:40,439 --> 00:01:43,140
+pour d'autres énergies le déclencheur et
+
+47
+00:01:43,140 --> 00:01:45,659
+puis le résultat et donc ça et ça
+
+48
+00:01:45,659 --> 00:01:47,579
+fonctionne très facile à utiliser du
+
+49
+00:01:47,579 --> 00:01:50,579
+coup et il faut savoir que généralement
+
+50
+00:01:50,579 --> 00:01:53,060
+on utilise arduinor Raspberry Pi alors
+
+51
+00:01:53,060 --> 00:01:55,740
+est-ce que Little Beats est une
+
+52
+00:01:55,740 --> 00:01:58,140
+transition ou une finalité en soi par
+
+53
+00:01:58,140 --> 00:02:00,119
+rapport pour l'apprentissage c'est un
+
+54
+00:02:00,119 --> 00:02:01,680
+peu les deux parce que bon déjà d'une
+
+55
+00:02:01,680 --> 00:02:03,840
+part on peut s'intéresser à laïti et
+
+56
+00:02:03,840 --> 00:02:05,880
+commencer à animer des objets les
+
+57
+00:02:05,880 --> 00:02:08,758
+connecter entre eux sans connaissance en
+
+58
+00:02:08,758 --> 00:02:10,139
+informatique électronique du coup c'est
+
+59
+00:02:10,139 --> 00:02:11,840
+une décharge de cette partie technique
+
+60
+00:02:11,840 --> 00:02:14,160
+donc on peut vraiment se concentrer sur
+
+61
+00:02:14,160 --> 00:02:16,739
+la créativité donc ça permet d'une part
+
+62
+00:02:16,739 --> 00:02:19,200
+aux jeunes de découvrir ce monde
+
+63
+00:02:19,200 --> 00:02:20,520
+opportunités qui que sont les nouvelles
+
+64
+00:02:20,520 --> 00:02:23,040
+technologies et d'autre part pour des
+
+65
+00:02:23,040 --> 00:02:25,739
+personnes qui sont en recherche de créer
+
+66
+00:02:25,739 --> 00:02:27,239
+des prototypes et ils peuvent réaliser
+
+67
+00:02:27,239 --> 00:02:30,599
+facilement leur prototype et pouvoir par
+
+68
+00:02:30,599 --> 00:02:31,920
+exemple elle est en train d'investisseur
+
+69
+00:02:31,920 --> 00:02:33,840
+avant je suis en train de faire ça et ça
+
+70
+00:02:33,840 --> 00:02:36,300
+fait ça tac je le monte vous allez faire
+
+71
+00:02:36,300 --> 00:02:38,700
+l'exemple avec DropBox ou avec Google
+
+72
+00:02:38,700 --> 00:02:41,400
+c'est ça oui j'ai fait ça donc quand
+
+73
+00:02:41,400 --> 00:02:43,080
+j'étais quand j'ai eu ma fille j'étais
+
+74
+00:02:43,080 --> 00:02:44,700
+très fatiguée et je savais plus l'heure
+
+75
+00:02:44,700 --> 00:02:45,840
+à laquelle je devais lui donner le
+
+76
+00:02:45,840 --> 00:02:47,280
+biberon donc ce que j'ai fait c'est que
+
+77
+00:02:47,280 --> 00:02:48,360
+j'ai créé une boîte dans lequel je
+
+78
+00:02:48,360 --> 00:02:50,000
+mettais mes biberons il y avait un
+
+79
+00:02:50,000 --> 00:02:52,560
+composant qui comptait les biberons et à
+
+80
+00:02:52,560 --> 00:02:54,060
+chaque fois que je prenais j'en prenais
+
+81
+00:02:54,060 --> 00:02:58,680
+un ça ouvrait une Google sheet et ça a
+
+82
+00:02:58,680 --> 00:02:59,940
+indiqué la date et l'heure à laquelle
+
+83
+00:02:59,940 --> 00:03:01,019
+j'avais pris le biberon et donc
+
+84
+00:03:01,019 --> 00:03:02,340
+évidemment à quelle heure j'avais des
+
+85
+00:03:02,340 --> 00:03:05,040
+nouvelles et donc vraiment un bel outil
+
+86
+00:03:05,040 --> 00:03:07,800
+quand même et une belle communauté où
+
+87
+00:03:07,800 --> 00:03:09,660
+est-ce qu'on pourrait retrouver sur les
+
+88
+00:03:09,660 --> 00:03:11,340
+réseaux sociaux ou alors c'est sur
+
+89
+00:03:11,340 --> 00:03:13,800
+Facebook c'est girly sur Twitter c'est
+
+90
+00:03:13,800 --> 00:03:15,780
+aussi Girling et sur la toile c'est
+
+91
+00:03:15,780 --> 00:03:17,220
+gurvic.net
+
+92
+00:03:17,220 --> 00:03:20,280
+super et donc n'hésitez pas n'hésitez
+
+93
+00:03:20,280 --> 00:03:22,019
+pas à suivre Girl Like à vous informer
+
+94
+00:03:22,019 --> 00:03:24,540
+un peu sur Little beats et on vous
+
+95
+00:03:24,540 --> 00:03:26,159
+souhaite une très bonne soirée à la
+
+96
+00:03:26,159 --> 00:03:27,739
+prochaine
+
+97
+00:03:27,739 --> 00:03:31,040
+c'est trop bien
+
+98
+00:03:31,940 --> 00:03:44,909
+[Musique]
+
