@@ -1,0 +1,7072 @@
+1
+00:00:00,680 --> 00:00:03,120
+bien le bonjour à vous et bienvenue pour
+
+2
+00:00:03,120 --> 00:00:06,180
+cette partie 4 où nous allons parler de
+
+3
+00:00:06,180 --> 00:00:08,179
+comment utiliser plutôt Unity que la VR
+
+4
+00:00:08,179 --> 00:00:10,260
+il faut bien comprendre que dans les
+
+5
+00:00:10,260 --> 00:00:11,340
+précédentes parties nous avons vu
+
+6
+00:00:11,340 --> 00:00:14,280
+comment on installe tout on a vu comment
+
+7
+00:00:14,280 --> 00:00:16,500
+on utilisait side Quest les applications
+
+8
+00:00:16,500 --> 00:00:19,560
+comment dans une troisième partie on
+
+9
+00:00:19,560 --> 00:00:20,699
+pouvait télécharger un projet qui était
+
+10
+00:00:20,699 --> 00:00:22,500
+déjà fait pour vous et que vous pouviez
+
+11
+00:00:22,500 --> 00:00:24,660
+toucher sur le Quest maintenant ce qu'on
+
+12
+00:00:24,660 --> 00:00:25,920
+va voir c'est comment on peut dessiner
+
+13
+00:00:25,920 --> 00:00:27,840
+une salle en 3D la portée sur
+
+14
+00:00:27,840 --> 00:00:29,519
+l'ordinateur la mettre dans une ici
+
+15
+00:00:29,519 --> 00:00:31,800
+mettre deux trois assets 2D dedans
+
+16
+00:00:31,800 --> 00:00:35,040
+peut-être une vidéo et ce sera déjà bien
+
+17
+00:00:35,040 --> 00:00:36,780
+si on arrive à faire ça dans les temps
+
+18
+00:00:36,780 --> 00:00:38,280
+on est content
+
+19
+00:00:38,280 --> 00:00:39,660
+il faut savoir que si jamais vous
+
+20
+00:00:39,660 --> 00:00:41,700
+cherchez à étudier les parties 1 2 3 4
+
+21
+00:00:41,700 --> 00:00:44,340
+le cours est en ligne sur GITS à cette
+
+22
+00:00:44,340 --> 00:00:47,700
+adresse dans le wiki il y aura un onglet
+
+23
+00:00:47,700 --> 00:00:50,460
+vidéo et dans l'onglet vidéo il y aura
+
+24
+00:00:50,460 --> 00:00:52,500
+ces différentes vidéos la première
+
+25
+00:00:52,500 --> 00:00:53,940
+partie est déjà en ligne les autres
+
+26
+00:00:53,940 --> 00:00:55,559
+suivants
+
+27
+00:00:55,559 --> 00:00:58,520
+je vais passer sur l'écran de Mohamed
+
+28
+00:00:58,520 --> 00:01:02,579
+voilà voilà et on va s'y prendre alors
+
+29
+00:01:02,579 --> 00:01:05,339
+déjà Unity on a vu précédemment qui
+
+30
+00:01:05,339 --> 00:01:06,600
+avait deux trois petits interfaces je
+
+31
+00:01:06,600 --> 00:01:07,560
+vous invite vraiment à faire des tutos
+
+32
+00:01:07,560 --> 00:01:08,460
+en ligne il y a des gens qui expliquent
+
+33
+00:01:08,460 --> 00:01:10,560
+1000 fois mieux que moi ce que c'est des
+
+34
+00:01:10,560 --> 00:01:13,200
+interfaces Unity mais dans les bases on
+
+35
+00:01:13,200 --> 00:01:15,240
+a une fenêtre d'édition et on peut y
+
+36
+00:01:15,240 --> 00:01:16,500
+ajouter par exemple des cubes et des
+
+37
+00:01:16,500 --> 00:01:18,420
+ronds par exemple ici s'il fait clic
+
+38
+00:01:18,420 --> 00:01:21,299
+droit dans la hiérarchie et qui va dans
+
+39
+00:01:21,299 --> 00:01:22,979
+Ajouter pour ajouter des cubes des
+
+40
+00:01:22,979 --> 00:01:24,960
+sphères donc vas-y tu peux ajouter un
+
+41
+00:01:24,960 --> 00:01:29,360
+cube 3D 3D objets
+
+42
+00:01:30,259 --> 00:01:32,640
+vous voyez que là avec la souris il peut
+
+43
+00:01:32,640 --> 00:01:34,200
+tourner à gauche tourner à droite monter
+
+44
+00:01:34,200 --> 00:01:35,400
+et des choses comme ça avec son
+
+45
+00:01:35,400 --> 00:01:38,579
+interface et il a un petit menu à gauche
+
+46
+00:01:38,579 --> 00:01:41,220
+qui permet de sélectionner c'est pas
+
+47
+00:01:41,220 --> 00:01:43,040
+pratique mais c'est ça aussi
+
+48
+00:01:43,040 --> 00:01:45,540
+d'être se rappeler l'humain est pas fait
+
+49
+00:01:45,540 --> 00:01:47,880
+pour la les éditeurs sont pas faits pour
+
+50
+00:01:47,880 --> 00:01:49,259
+la 3D mais du coup on doit beaucoup
+
+51
+00:01:49,259 --> 00:01:51,060
+bouger avec la caméra donc là ici je
+
+52
+00:01:51,060 --> 00:01:53,759
+peux aller en mode ici au dessus vous
+
+53
+00:01:53,759 --> 00:01:55,500
+avez un petit un petit menu tu peux le
+
+54
+00:01:55,500 --> 00:01:57,240
+contraire et ce menu permet de choisir
+
+55
+00:01:57,240 --> 00:01:59,700
+si on veut déplacer tourner agrandir Des
+
+56
+00:01:59,700 --> 00:02:01,020
+choses comme ça vous allez des
+
+57
+00:02:01,020 --> 00:02:02,159
+raccourcis clavier qui permet d'aller
+
+58
+00:02:02,159 --> 00:02:05,040
+plus vite avec les doigts et ici vas-y
+
+59
+00:02:05,040 --> 00:02:05,719
+comment
+
+60
+00:02:05,719 --> 00:02:08,720
+du coup
+
+61
+00:02:08,720 --> 00:02:12,440
+donc ici basiquement vous aurez déplacé
+
+62
+00:02:12,440 --> 00:02:15,840
+ici donc vous sélectionnez avec le
+
+63
+00:02:15,840 --> 00:02:18,000
+milieu de la souris avec le contrôle et
+
+64
+00:02:18,000 --> 00:02:19,620
+le droit vous pouvez tourner ici alors
+
+65
+00:02:19,620 --> 00:02:20,819
+il y a une touche qui est très
+
+66
+00:02:20,819 --> 00:02:22,739
+importante c'est F qui veut dire focus
+
+67
+00:02:22,739 --> 00:02:24,840
+et focus c'est à dire mais moi sur
+
+68
+00:02:24,840 --> 00:02:26,580
+l'objet que j'ai ce qui vous permettra
+
+69
+00:02:26,580 --> 00:02:28,440
+de plus facilement tourner et bouger
+
+70
+00:02:28,440 --> 00:02:31,080
+autour du truc enfoncer le bouton du
+
+71
+00:02:31,080 --> 00:02:32,879
+milieu de la souris ça veut dire tourner
+
+72
+00:02:32,879 --> 00:02:34,260
+comme ceci
+
+73
+00:02:34,260 --> 00:02:37,739
+et clic droit c'est tourner comme ceci
+
+74
+00:02:37,739 --> 00:02:40,140
+vous avez l'outil qui permet de bouger
+
+75
+00:02:40,140 --> 00:02:43,560
+ici alors vous pouvez bouger vous pouvez
+
+76
+00:02:43,560 --> 00:02:44,640
+changer ici pour dire si vous voulez
+
+77
+00:02:44,640 --> 00:02:46,260
+bouger par rapport au nombre de initi ou
+
+78
+00:02:46,260 --> 00:02:47,340
+par rapport à l'objet alors qu'est-ce
+
+79
+00:02:47,340 --> 00:02:48,959
+que je veux dire par là c'est que si
+
+80
+00:02:48,959 --> 00:02:51,780
+vous tournez l'objet ici comme ceci
+
+81
+00:02:51,780 --> 00:02:53,879
+vous allez voir que le pivot il est vert
+
+82
+00:02:53,879 --> 00:02:56,160
+l'avant parce que l'objet est orienté
+
+83
+00:02:56,160 --> 00:02:59,819
+par là-bas mais par rapport à Unity ce
+
+84
+00:02:59,819 --> 00:03:02,099
+serait par ici qu'il faudrait et vous
+
+85
+00:03:02,099 --> 00:03:04,440
+avez des couleurs pour dire ça c'est les
+
+86
+00:03:04,440 --> 00:03:07,140
+X ça c'est les Z ça c'est les y dans
+
+87
+00:03:07,140 --> 00:03:09,480
+tous les éditeurs 3D ils ont des pivots
+
+88
+00:03:09,480 --> 00:03:11,340
+qui sont qui sont tous un peu unique à
+
+89
+00:03:11,340 --> 00:03:13,019
+eux par exemple nous dans Unity on est
+
+90
+00:03:13,019 --> 00:03:16,620
+dans cet axe là où c'est Z c'est y
+
+91
+00:03:16,620 --> 00:03:20,459
+ces aides devant X sur le côté et y au
+
+92
+00:03:20,459 --> 00:03:22,500
+dessus ça vous dit rien c'est pas grave
+
+93
+00:03:22,500 --> 00:03:24,120
+au fur et à mesure du temps ça viendra
+
+94
+00:03:24,120 --> 00:03:25,920
+mais basiquement c'est juste une
+
+95
+00:03:25,920 --> 00:03:28,920
+convention de nommage des axes
+
+96
+00:03:28,920 --> 00:03:30,659
+on a la rotation ici qui permet de
+
+97
+00:03:30,659 --> 00:03:32,819
+toucher de tourner l'objet comme ceci
+
+98
+00:03:32,819 --> 00:03:34,879
+après
+
+99
+00:03:34,879 --> 00:03:37,019
+on voit pas trop la différence donc on
+
+100
+00:03:37,019 --> 00:03:39,480
+va ajouter un cube
+
+101
+00:03:39,480 --> 00:03:42,900
+hop ajouter hop en cube
+
+102
+00:03:42,900 --> 00:03:44,640
+et vu que le cube on n'a pas son
+
+103
+00:03:44,640 --> 00:03:46,379
+orientation on pourrait y ajouter une
+
+104
+00:03:46,379 --> 00:03:48,299
+orientation donc ce qu'on peut faire
+
+105
+00:03:48,299 --> 00:03:50,700
+c'est soit le déformer ici par exemple
+
+106
+00:03:50,700 --> 00:03:53,760
+en mettant un en mettant deux ça va être
+
+107
+00:03:53,760 --> 00:03:55,379
+de déformer c'est ce qu'on appelle le
+
+108
+00:03:55,379 --> 00:03:59,400
+Scale rotation position soit vous pouvez
+
+109
+00:03:59,400 --> 00:04:01,860
+y ajouter un enfant et donc ici je vais
+
+110
+00:04:01,860 --> 00:04:05,720
+ajouter un enfant un autre cube
+
+111
+00:04:05,720 --> 00:04:09,319
+on va le faire avancer vers l'avant ici
+
+112
+00:04:09,319 --> 00:04:13,379
+on va demander de le rétrécir comme ceci
+
+113
+00:04:13,379 --> 00:04:15,560
+de la ranger
+
+114
+00:04:15,560 --> 00:04:18,660
+et on a une orientation et vous allez
+
+115
+00:04:18,660 --> 00:04:20,238
+voir que vu qu'il est enfant de celui-là
+
+116
+00:04:20,238 --> 00:04:22,860
+vous allez pouvoir tourner les deux à la
+
+117
+00:04:22,860 --> 00:04:24,560
+fois
+
+118
+00:04:24,560 --> 00:04:27,120
+ce sont deux objets différents imbriqués
+
+119
+00:04:27,120 --> 00:04:28,740
+là dans l'autre mais qui n'en font plus
+
+120
+00:04:28,740 --> 00:04:30,419
+que 1 et ici vous pouvez voir qu'on le
+
+121
+00:04:30,419 --> 00:04:32,400
+tourne on le déplace alors quand vous
+
+122
+00:04:32,400 --> 00:04:33,419
+êtes un peu plus rapide vous pouvez
+
+123
+00:04:33,419 --> 00:04:34,680
+utiliser celui-là qui utilise les trois
+
+124
+00:04:34,680 --> 00:04:35,880
+mais il faut faire attention pas toucher
+
+125
+00:04:35,880 --> 00:04:38,400
+sur le mauvais ça ça aurait ça c'est
+
+126
+00:04:38,400 --> 00:04:40,199
+pour quand c'est sur un plan ça c'est
+
+127
+00:04:40,199 --> 00:04:42,600
+pour tourner ça c'est pour agrandir vous
+
+128
+00:04:42,600 --> 00:04:44,520
+voyez un peu l'idée ça affecte ce qu'on
+
+129
+00:04:44,520 --> 00:04:45,660
+appelle au transforme qui est la
+
+130
+00:04:45,660 --> 00:04:47,340
+position de votre objet si vous êtes
+
+131
+00:04:47,340 --> 00:04:49,080
+développeur et vous allez utiliser le
+
+132
+00:04:49,080 --> 00:04:51,300
+code dans ce projet il va falloir que
+
+133
+00:04:51,300 --> 00:04:52,259
+vous compreniez ce que c'est un
+
+134
+00:04:52,259 --> 00:04:53,639
+transforme et donc dans les tutos
+
+135
+00:04:53,639 --> 00:04:55,080
+n'hésitez pas à aller regarder ce que
+
+136
+00:04:55,080 --> 00:04:56,400
+c'est comment on modifie le niveau du
+
+137
+00:04:56,400 --> 00:04:57,240
+code
+
+138
+00:04:57,240 --> 00:04:59,300
+alors question
+
+139
+00:04:59,300 --> 00:05:01,919
+d'utiliser le transforme directement
+
+140
+00:05:01,919 --> 00:05:06,660
+l'école les valeurs ici donc je le mets
+
+141
+00:05:06,660 --> 00:05:09,320
+par exemple position YZ
+
+142
+00:05:09,320 --> 00:05:11,600
+5 la
+
+143
+00:05:11,600 --> 00:05:15,240
+position alors tu peux les changer
+
+144
+00:05:15,240 --> 00:05:18,240
+directement donc que ce soit l'éditeur
+
+145
+00:05:18,240 --> 00:05:21,000
+donc là par rapport à une ici il est en
+
+146
+00:05:21,000 --> 00:05:23,340
+00 donc je peux le mettre par exemple en
+
+147
+00:05:23,340 --> 00:05:27,360
+y0 x 10 sauf qu'en fait c'est aussi par
+
+148
+00:05:27,360 --> 00:05:29,520
+rapport à ton parent vous voyez ici par
+
+149
+00:05:29,520 --> 00:05:32,699
+exemple ici je suis techniquement hop.8
+
+150
+00:05:32,699 --> 00:05:35,400
+mais si ici je le mets en zéro vous
+
+151
+00:05:35,400 --> 00:05:36,900
+allez voir que il va se mettre en 0 par
+
+152
+00:05:36,900 --> 00:05:38,940
+rapport à mon parent il faut savoir que
+
+153
+00:05:38,940 --> 00:05:40,020
+c'est rien d'autre qu'une représentation
+
+154
+00:05:40,020 --> 00:05:42,600
+de Unity pour avoir plus facile donc ici
+
+155
+00:05:42,600 --> 00:05:44,220
+c'est pas de sa position réelle mais
+
+156
+00:05:44,220 --> 00:05:46,020
+dans le code vous pouvez avoir soit sa
+
+157
+00:05:46,020 --> 00:05:47,160
+position chez le parent qu'on appelle
+
+158
+00:05:47,160 --> 00:05:49,860
+local soit la position dans le monde qui
+
+159
+00:05:49,860 --> 00:05:52,020
+est globale en vrai je trouve que mettre
+
+160
+00:05:52,020 --> 00:05:53,639
+la valeur directement à droite ça a
+
+161
+00:05:53,639 --> 00:05:55,020
+l'air un peu mieux facile alors c'est
+
+162
+00:05:55,020 --> 00:05:56,400
+plus facile pour des cuber les ronds
+
+163
+00:05:56,400 --> 00:05:57,600
+mais quand tu dois placer concerne dans
+
+164
+00:05:57,600 --> 00:05:58,500
+la main de quelqu'un c'est pas toujours
+
+165
+00:05:58,500 --> 00:06:00,900
+facile de sens là je comprends et donc
+
+166
+00:06:00,900 --> 00:06:02,220
+du coup voilà c'est à ça que ça ces
+
+167
+00:06:02,220 --> 00:06:03,780
+outils là piloter et tout faut savoir
+
+168
+00:06:03,780 --> 00:06:05,340
+qu'il y en a un quatrième que je vous ai
+
+169
+00:06:05,340 --> 00:06:07,199
+pas montré qui est aussi celui-là qui
+
+170
+00:06:07,199 --> 00:06:08,520
+permet en fait selon l'orientation
+
+171
+00:06:08,520 --> 00:06:10,139
+d'aller chercher les poids de pivot et
+
+172
+00:06:10,139 --> 00:06:14,699
+de faire ceci comme cela vous voyez vous
+
+173
+00:06:14,699 --> 00:06:16,380
+pouvez agrandir rétrécir et alors si
+
+174
+00:06:16,380 --> 00:06:18,240
+vous voulez l'autre axe vous l'avez
+
+175
+00:06:18,240 --> 00:06:19,740
+tourné votre caméra et vous allez faire
+
+176
+00:06:19,740 --> 00:06:22,800
+ça d'accord c'est vrai que transforme
+
+177
+00:06:22,800 --> 00:06:24,419
+donc en fait c'est juste un gros un gros
+
+178
+00:06:24,419 --> 00:06:27,060
+café qui permet de gérer plutôt des axes
+
+179
+00:06:27,060 --> 00:06:30,479
+tu vois ici comme ceci pour le déplacer
+
+180
+00:06:30,479 --> 00:06:31,860
+mais voilà c'est à vous de voir lequel
+
+181
+00:06:31,860 --> 00:06:33,060
+qu'on via le mieux en fonction de la
+
+182
+00:06:33,060 --> 00:06:34,440
+situation c'est juste des outils quoi
+
+183
+00:06:34,440 --> 00:06:38,479
+d'accord donc ici on a ajouté un cube
+
+184
+00:06:38,479 --> 00:06:41,039
+on peut ajouter si vous voulez un
+
+185
+00:06:41,039 --> 00:06:43,620
+matériel créer ici je vais créer à la
+
+186
+00:06:43,620 --> 00:06:46,380
+racine faut pas faire ça mais écoutez on
+
+187
+00:06:46,380 --> 00:06:47,520
+n'a pas vraiment beaucoup de temps donc
+
+188
+00:06:47,520 --> 00:06:49,860
+on va faire au plus rapide on va
+
+189
+00:06:49,860 --> 00:06:51,840
+l'appeler bleu
+
+190
+00:06:51,840 --> 00:06:55,139
+voilà en fait ici un matériel comme j'ai
+
+191
+00:06:55,139 --> 00:06:56,460
+expliqué dans la vidéo précédente c'est
+
+192
+00:06:56,460 --> 00:06:58,259
+la façon dont on va percevoir l'objet
+
+193
+00:06:58,259 --> 00:07:00,360
+donc je vais déposer un matériel sur
+
+194
+00:07:00,360 --> 00:07:03,600
+l'objet comme ceci voilà et je vais
+
+195
+00:07:03,600 --> 00:07:05,759
+changer la couleur du matériel en bleu
+
+196
+00:07:05,759 --> 00:07:09,000
+et maintenant l'objet il est en bleu et
+
+197
+00:07:09,000 --> 00:07:10,440
+alors le matériel il permet de savoir
+
+198
+00:07:10,440 --> 00:07:12,360
+aussi comment la lumière et la les
+
+199
+00:07:12,360 --> 00:07:13,979
+ombrages vont réagir donc ici vous
+
+200
+00:07:13,979 --> 00:07:15,560
+pouvez voir que si je mets en métallique
+
+201
+00:07:15,560 --> 00:07:19,199
+il y a une sorte de comme si c'était le
+
+202
+00:07:19,199 --> 00:07:20,940
+rayon qui rebondissait sur du métal ici
+
+203
+00:07:20,940 --> 00:07:23,280
+par exemple à la lumière vous voyez vous
+
+204
+00:07:23,280 --> 00:07:24,660
+voyez que la lumière rebondit à une
+
+205
+00:07:24,660 --> 00:07:27,419
+sorte degré dégradé dessus alors que si
+
+206
+00:07:27,419 --> 00:07:31,740
+je le mets ici en online
+
+207
+00:07:32,780 --> 00:07:36,180
+ici en bleu unlight ça veut dire on s'en
+
+208
+00:07:36,180 --> 00:07:37,500
+fout de la lumière de l'ombrage on met
+
+209
+00:07:37,500 --> 00:07:39,060
+juste de la couleur sauf que vous voyez
+
+210
+00:07:39,060 --> 00:07:41,099
+que maintenant discerner la forme 3D
+
+211
+00:07:41,099 --> 00:07:42,539
+dans un truc comme ça c'est extrêmement
+
+212
+00:07:42,539 --> 00:07:45,360
+dur et donc du coup ça nous fait gagner
+
+213
+00:07:45,360 --> 00:07:47,099
+du temps de calcul dans Unity parce
+
+214
+00:07:47,099 --> 00:07:48,000
+qu'on n'a pas besoin de calculer la
+
+215
+00:07:48,000 --> 00:07:50,340
+lumière ombrage mais pour un joueur vert
+
+216
+00:07:50,340 --> 00:07:51,780
+ça va être un peu chaud de savoir où ça
+
+217
+00:07:51,780 --> 00:07:53,180
+débute le cubisme
+
+218
+00:07:53,180 --> 00:07:55,680
+donc c'est pour ça que la lumière est
+
+219
+00:07:55,680 --> 00:07:58,500
+importante en VR a des grands papas de
+
+220
+00:07:58,500 --> 00:08:02,940
+la de la VR qui s'appelle Tom Thomas je
+
+221
+00:08:02,940 --> 00:08:04,919
+sais plus comment avait dit un truc que
+
+222
+00:08:04,919 --> 00:08:05,819
+je trouvais intéressant dans une
+
+223
+00:08:05,819 --> 00:08:08,340
+conférence c'est basiquement la VR oui
+
+224
+00:08:08,340 --> 00:08:09,720
+c'est la stéréoscopie des deux caméras
+
+225
+00:08:09,720 --> 00:08:10,979
+mais ça veut aussi dire que si vous
+
+226
+00:08:10,979 --> 00:08:13,680
+fermez un œil comme ceci et que vous
+
+227
+00:08:13,680 --> 00:08:15,240
+regardez votre jeu vous arrivez quand
+
+228
+00:08:15,240 --> 00:08:17,759
+même à discerner la 3D parce qu'en fait
+
+229
+00:08:17,759 --> 00:08:20,280
+ici la 3D on va le cerveau a plein de
+
+230
+00:08:20,280 --> 00:08:22,259
+manières de voir la 3D de vous voir la
+
+231
+00:08:22,259 --> 00:08:25,680
+profondeur et la lumière l'ombrage la
+
+232
+00:08:25,680 --> 00:08:27,300
+distance le parallaxe c'est plein de
+
+233
+00:08:27,300 --> 00:08:29,039
+choses qui peuvent jouer pour aider la
+
+234
+00:08:29,039 --> 00:08:30,360
+personne à comprendre ce qu'il voit en
+
+235
+00:08:30,360 --> 00:08:32,039
+face de lui
+
+236
+00:08:32,039 --> 00:08:33,240
+donc voilà c'est à ça que ça sert à
+
+237
+00:08:33,240 --> 00:08:35,219
+matériel à gérer la lumière l'ombrage
+
+238
+00:08:35,219 --> 00:08:36,599
+des couleurs les textures qu'on va y
+
+239
+00:08:36,599 --> 00:08:39,779
+appliquer par rapport au mode on a que
+
+240
+00:08:39,779 --> 00:08:41,279
+métallique ou s'il y a autre chose qu'on
+
+241
+00:08:41,279 --> 00:08:44,159
+peut proposer alors il y a tout ce que
+
+242
+00:08:44,159 --> 00:08:45,360
+les développeurs vous met à disposition
+
+243
+00:08:45,360 --> 00:08:47,640
+c'est à dire que ici vous voyez on a
+
+244
+00:08:47,640 --> 00:08:48,779
+plein de choses qui sont disponibles
+
+245
+00:08:48,779 --> 00:08:50,279
+c'est toutes des manières différentes de
+
+246
+00:08:50,279 --> 00:08:51,600
+gérer la lumière et mon ouvrage et les
+
+247
+00:08:51,600 --> 00:08:52,380
+textures
+
+248
+00:08:52,380 --> 00:08:56,100
+si on met nature nature alors il y a pas
+
+249
+00:08:56,100 --> 00:08:58,080
+nature mais par contre tu veux dire
+
+250
+00:08:58,080 --> 00:09:00,380
+nature
+
+251
+00:09:00,540 --> 00:09:01,740
+le truc c'est qu'il faut pas mettre un
+
+252
+00:09:01,740 --> 00:09:03,120
+homme parce que en fait ils ont tous une
+
+253
+00:09:03,120 --> 00:09:04,560
+utilité par exemple ça ça dépend de
+
+254
+00:09:04,560 --> 00:09:07,380
+l'interface graphique dans les plus des
+
+255
+00:09:07,380 --> 00:09:09,720
+menus tu vois ça ça va être pour la VR
+
+256
+00:09:09,720 --> 00:09:11,040
+c'est des trucs oculus nous a préparé
+
+257
+00:09:11,040 --> 00:09:13,740
+pour voir plus l'espace 3D tu vois et
+
+258
+00:09:13,740 --> 00:09:14,820
+c'est ce qu'on appelle des shaders
+
+259
+00:09:14,820 --> 00:09:17,160
+c'est-à-dire des trucs qui vont dire à
+
+260
+00:09:17,160 --> 00:09:18,120
+l'ordinateur comment ils doivent
+
+261
+00:09:18,120 --> 00:09:20,160
+présenter les triangles du jeu qu'est-ce
+
+262
+00:09:20,160 --> 00:09:22,019
+que je veux dire par des triangles en
+
+263
+00:09:22,019 --> 00:09:23,820
+fait vous voyez ici on a un truc qui est
+
+264
+00:09:23,820 --> 00:09:26,519
+lisse avec de la couleur mais si ici on
+
+265
+00:09:26,519 --> 00:09:28,260
+vient et qu'on met en wire frame wire
+
+266
+00:09:28,260 --> 00:09:30,540
+frame ça veut dire le grillage on peut
+
+267
+00:09:30,540 --> 00:09:33,720
+voir que notre cube il est composé de
+
+268
+00:09:33,720 --> 00:09:34,760
+lignes
+
+269
+00:09:34,760 --> 00:09:37,380
+forme des triangles et donc pour faire
+
+270
+00:09:37,380 --> 00:09:39,420
+un cube vous avez besoin de 8 fois x 2
+
+271
+00:09:39,420 --> 00:09:41,940
+triangles soit 16 triangles et on en a
+
+272
+00:09:41,940 --> 00:09:43,740
+deux donc on a 32 triangles ici dans le
+
+273
+00:09:43,740 --> 00:09:44,700
+jeu
+
+274
+00:09:44,700 --> 00:09:46,920
+et des triangles sa forme mèche c'est à
+
+275
+00:09:46,920 --> 00:09:48,600
+dire un objet construit un triangle pour
+
+276
+00:09:48,600 --> 00:09:51,019
+chaque fois si on a deux triangles
+
+277
+00:09:51,019 --> 00:09:54,240
+vu qu'on en a 8 on en a 16 et vu qu'on a
+
+278
+00:09:54,240 --> 00:09:56,220
+deux cubes on en a 32 ce qui veut dire
+
+279
+00:09:56,220 --> 00:09:58,740
+que un ordinateur lui il est calculé des
+
+280
+00:09:58,740 --> 00:09:59,940
+triangles c'est faire ça très très vite
+
+281
+00:09:59,940 --> 00:10:02,700
+mais très très bon ça ok téléphone un
+
+282
+00:10:02,700 --> 00:10:04,080
+peu moins mais il arrive toujours à
+
+283
+00:10:04,080 --> 00:10:05,640
+calculer pour donner un ordre d'exemple
+
+284
+00:10:05,640 --> 00:10:07,080
+dans un jeu vidéo vous pouvez mettre
+
+285
+00:10:07,080 --> 00:10:09,720
+facilement 100 000 à 200 000 triangles
+
+286
+00:10:09,720 --> 00:10:12,180
+sur Quest et vous pouvez mettre
+
+287
+00:10:12,180 --> 00:10:14,399
+facilement de 2 millions à 4 millions de
+
+288
+00:10:14,399 --> 00:10:16,019
+triangles selon l'outil que vous
+
+289
+00:10:16,019 --> 00:10:18,660
+utilisez Unity permet d'avoir ça mais et
+
+290
+00:10:18,660 --> 00:10:20,880
+le PC dépend beaucoup aussi mais par
+
+291
+00:10:20,880 --> 00:10:22,800
+exemple une réelle engine avec un autre
+
+292
+00:10:22,800 --> 00:10:24,660
+technique complètement taré pour les
+
+293
+00:10:24,660 --> 00:10:26,279
+objets vous pouvez avoir des millions et
+
+294
+00:10:26,279 --> 00:10:27,300
+des millions et des millions triangles
+
+295
+00:10:27,300 --> 00:10:29,100
+tant que ces objets sont mis d'une
+
+296
+00:10:29,100 --> 00:10:30,720
+certaine manière et sont gérés dans un
+
+297
+00:10:30,720 --> 00:10:32,640
+algos spécial mais ici en l'occurrence
+
+298
+00:10:32,640 --> 00:10:34,080
+dans Unity nous on va essayer d'éviter
+
+299
+00:10:34,080 --> 00:10:35,459
+d'avoir trop de triangles surtout qu'on
+
+300
+00:10:35,459 --> 00:10:37,260
+fait sur les Quest qui restent des
+
+301
+00:10:37,260 --> 00:10:39,300
+téléphones si vous dépassez les limites
+
+302
+00:10:39,300 --> 00:10:41,100
+c'est pas grave mais par contre ça a
+
+303
+00:10:41,100 --> 00:10:42,720
+consommé plus de ressources et donc plus
+
+304
+00:10:42,720 --> 00:10:44,880
+de batterie aussi donc
+
+305
+00:10:44,880 --> 00:10:48,620
+donc voilà ça c'est le wire
+
+306
+00:10:49,399 --> 00:10:51,420
+si vous voulez mettre de une texture
+
+307
+00:10:51,420 --> 00:10:54,720
+dessus par exemple une image ce que vous
+
+308
+00:10:54,720 --> 00:10:55,860
+pouvez faire c'est que vous allez sur
+
+309
+00:10:55,860 --> 00:10:57,540
+Google
+
+310
+00:10:57,540 --> 00:10:59,579
+voilà on va aller chercher une texture
+
+311
+00:10:59,579 --> 00:11:04,220
+par exemple Terra World Warcraft texture
+
+312
+00:11:08,959 --> 00:11:12,140
+si jamais
+
+313
+00:11:32,940 --> 00:11:36,360
+jeu vidéo
+
+314
+00:11:36,779 --> 00:11:38,480
+on va aller chercher dans les images
+
+315
+00:11:38,480 --> 00:11:41,000
+voilà donc ça c'est un vieux jeux vidéo
+
+316
+00:11:41,000 --> 00:11:44,839
+pour perdre la démonétisation
+
+317
+00:11:45,140 --> 00:11:47,360
+et alors voilà
+
+318
+00:11:47,360 --> 00:11:50,060
+ça ça c'est une texture
+
+319
+00:11:50,060 --> 00:11:53,100
+du vieux jeu vidéo Wolfenstein vous
+
+320
+00:11:53,100 --> 00:11:54,720
+pouvez voir qu'en fait chaque mur c'est
+
+321
+00:11:54,720 --> 00:11:56,700
+un petit carré ce qui veut dire qu'en
+
+322
+00:11:56,700 --> 00:11:58,560
+fait si je télécharge ça si je fais
+
+323
+00:11:58,560 --> 00:12:00,779
+enregistrer sous
+
+324
+00:12:00,779 --> 00:12:02,640
+et que je vais dans ton projet inutile
+
+325
+00:12:02,640 --> 00:12:06,140
+et sur D il était où il était dans
+
+326
+00:12:06,140 --> 00:12:09,440
+le 7
+
+327
+00:12:12,800 --> 00:12:16,380
+voilà myproject ici ça c'est ce qu'on
+
+328
+00:12:16,380 --> 00:12:18,360
+appelle le truc de iliti nous on est
+
+329
+00:12:18,360 --> 00:12:19,560
+dans le dossier A7 tout ce qu'on va
+
+330
+00:12:19,560 --> 00:12:22,560
+déposer donc on va aller dans à 7 on va
+
+331
+00:12:22,560 --> 00:12:23,459
+faire un petit dossier qu'on va appeler
+
+332
+00:12:23,459 --> 00:12:26,000
+2D
+
+333
+00:12:34,760 --> 00:12:37,440
+voilà on va retourner dans notre projet
+
+334
+00:12:37,440 --> 00:12:39,540
+et soudainement on a un dossier de D
+
+335
+00:12:39,540 --> 00:12:43,399
+avec Wolfenstein dessus
+
+336
+00:12:43,399 --> 00:12:46,740
+alors on peut d'ailleurs regarder ce que
+
+337
+00:12:46,740 --> 00:12:49,320
+ça donne voilà en fait qu'est-ce qui va
+
+338
+00:12:49,320 --> 00:12:51,060
+se passer il va vous créer un dossier
+
+339
+00:12:51,060 --> 00:12:53,880
+matériel parce que il va te créer un
+
+340
+00:12:53,880 --> 00:12:55,620
+nouveau matériel qui est déjà prêt avec
+
+341
+00:12:55,620 --> 00:12:58,019
+la texture alors comme tu peux voir la
+
+342
+00:12:58,019 --> 00:12:59,220
+texture elle a toujours de l'ombrage et
+
+343
+00:12:59,220 --> 00:13:01,200
+de la lumière alors pour un jeu
+
+344
+00:13:01,200 --> 00:13:02,760
+Wolfenstein avoir de la lumière sur les
+
+345
+00:13:02,760 --> 00:13:05,700
+textures pas terrible ok d'accord donc
+
+346
+00:13:05,700 --> 00:13:07,260
+on va plutôt lui demander de retirer
+
+347
+00:13:07,260 --> 00:13:09,120
+toute la lumière donc maintenant c'est
+
+348
+00:13:09,120 --> 00:13:10,399
+plus de la texture de
+
+349
+00:13:10,399 --> 00:13:12,720
+ce qui se passe c'est que on a une
+
+350
+00:13:12,720 --> 00:13:14,279
+texture ici on a de la couleur la
+
+351
+00:13:14,279 --> 00:13:15,540
+couleur on doit pas la changer mais si
+
+352
+00:13:15,540 --> 00:13:16,620
+vous voulez que soit un peu plus sombre
+
+353
+00:13:16,620 --> 00:13:18,480
+un peu plus ombrageux ou plus rouge vous
+
+354
+00:13:18,480 --> 00:13:19,920
+êtes comme ça vous pouvez changer ici ok
+
+355
+00:13:19,920 --> 00:13:21,300
+par exemple si vous voulez faire qu'un
+
+356
+00:13:21,300 --> 00:13:23,579
+mur fasse clignote avant de disparaître
+
+357
+00:13:23,579 --> 00:13:26,040
+vous pourriez faire
+
+358
+00:13:26,040 --> 00:13:29,279
+tac et puis pouf disparaître
+
+359
+00:13:29,279 --> 00:13:30,720
+vous pouvez jouer avec la couleur si
+
+360
+00:13:30,720 --> 00:13:31,800
+vous voulez mettre de la transparence
+
+361
+00:13:31,800 --> 00:13:35,279
+vous pouvez ici avec a sauf que ici vu
+
+362
+00:13:35,279 --> 00:13:36,779
+que le shader ne gère pas la
+
+363
+00:13:36,779 --> 00:13:39,079
+transparence
+
+364
+00:13:40,220 --> 00:13:43,320
+il pourrait ok par exemple ici j'ai une
+
+365
+00:13:43,320 --> 00:13:44,820
+transparence en ce qu'on appelle alpha
+
+366
+00:13:44,820 --> 00:13:46,560
+clipping c'est à dire qu'il va pas gérer
+
+367
+00:13:46,560 --> 00:13:47,760
+la transparence mais s'il peut voir
+
+368
+00:13:47,760 --> 00:13:48,660
+qu'il y a beaucoup transparent il va
+
+369
+00:13:48,660 --> 00:13:50,639
+retirer ok il y a pas de transition
+
+370
+00:13:50,639 --> 00:13:53,000
+c'est vraiment
+
+371
+00:13:53,660 --> 00:13:55,560
+pourtant par transparence pour ceux qui
+
+372
+00:13:55,560 --> 00:13:56,880
+savent pas ce que c'est la transparence
+
+373
+00:13:56,880 --> 00:14:00,180
+si je vais transparent ici et que je vis
+
+374
+00:14:00,180 --> 00:14:02,579
+avec ça comme ça voilà là on va pouvoir
+
+375
+00:14:02,579 --> 00:14:04,459
+voir à travers l'objet par exemple
+
+376
+00:14:04,459 --> 00:14:06,420
+on peut dire ça que c'est de l'opacité
+
+377
+00:14:06,420 --> 00:14:09,959
+c'est ça bonjour alors il faut faire
+
+378
+00:14:09,959 --> 00:14:11,040
+attention que la transparence
+
+379
+00:14:11,040 --> 00:14:12,720
+effectivement ça marche dans le jeu
+
+380
+00:14:12,720 --> 00:14:15,540
+vidéo sauf qu'en fait le jeu vidéo c'est
+
+381
+00:14:15,540 --> 00:14:17,519
+quoi c'est un dessin donc vous dessinez
+
+382
+00:14:17,519 --> 00:14:19,019
+une image et puis très vite vous
+
+383
+00:14:19,019 --> 00:14:20,700
+dessinez une autre très vite et 60 fois
+
+384
+00:14:20,700 --> 00:14:22,980
+par seconde vous allez dessiner et cette
+
+385
+00:14:22,980 --> 00:14:24,240
+image c'est ça que les gens vont voir et
+
+386
+00:14:24,240 --> 00:14:25,079
+c'est ça qui va donner l'impression
+
+387
+00:14:25,079 --> 00:14:27,720
+d'avoir une vidéo jeux vidéo
+
+388
+00:14:27,720 --> 00:14:29,519
+le seul truc c'est que si vous dessinez
+
+389
+00:14:29,519 --> 00:14:31,920
+une image avec de la transparence il
+
+390
+00:14:31,920 --> 00:14:33,360
+faut d'abord dessiner certains objets
+
+391
+00:14:33,360 --> 00:14:35,639
+ensuite en dessiner d'autres donc il y a
+
+392
+00:14:35,639 --> 00:14:36,959
+un ordre pour la transparence qui peut
+
+393
+00:14:36,959 --> 00:14:38,820
+créer les bugs mais il y a aussi la
+
+394
+00:14:38,820 --> 00:14:40,019
+notion de devoir dessiner deux fois du
+
+395
+00:14:40,019 --> 00:14:41,220
+coup on doit décider d'abord un dessin
+
+396
+00:14:41,220 --> 00:14:43,500
+puis redessiner sur le dessin et donc ça
+
+397
+00:14:43,500 --> 00:14:44,760
+veut dire que à calcul qui est
+
+398
+00:14:44,760 --> 00:14:47,160
+transparent va être calculé de 3 4 5 6
+
+399
+00:14:47,160 --> 00:14:48,420
+fois en fonction des transparence et des
+
+400
+00:14:48,420 --> 00:14:50,940
+chefs ce qui veut dire que vous dans la
+
+401
+00:14:50,940 --> 00:14:52,740
+VR pour le Quest vous avez pas trouvé
+
+402
+00:14:52,740 --> 00:14:53,940
+beaucoup de jeux avec de la transparence
+
+403
+00:14:53,940 --> 00:14:56,639
+parce que ça prend de la ressource vous
+
+404
+00:14:56,639 --> 00:14:58,860
+pouvez mais c'est des conseils alors
+
+405
+00:14:58,860 --> 00:15:01,760
+question ouais on a eu on a mis une
+
+406
+00:15:01,760 --> 00:15:04,279
+un matériel sur
+
+407
+00:15:04,279 --> 00:15:08,760
+cet objet ouais monsieur matériel il
+
+408
+00:15:08,760 --> 00:15:10,560
+représente plusieurs images ouais ça
+
+409
+00:15:10,560 --> 00:15:11,880
+veut dire que je pense qu'il est
+
+410
+00:15:11,880 --> 00:15:14,279
+possible de changer la taille la
+
+411
+00:15:14,279 --> 00:15:16,620
+répétition en fait tu me parlais de cube
+
+412
+00:15:16,620 --> 00:15:19,440
+de la vidéo précédente donc si jamais
+
+413
+00:15:19,440 --> 00:15:22,620
+j'avais voulu tiser un cube cube
+
+414
+00:15:22,620 --> 00:15:24,740
+UV
+
+415
+00:15:25,079 --> 00:15:26,940
+cube
+
+416
+00:15:26,940 --> 00:15:28,860
+voilà imaginez que vous voulez faire un
+
+417
+00:15:28,860 --> 00:15:31,100
+cube
+
+418
+00:15:31,380 --> 00:15:34,260
+en gros vous avez un cube et vous devez
+
+419
+00:15:34,260 --> 00:15:35,820
+le mettre sur une image de dés et donc
+
+420
+00:15:35,820 --> 00:15:36,600
+en fait ce que vous allez faire c'est
+
+421
+00:15:36,600 --> 00:15:37,560
+que vous allez faire un grand rectangle
+
+422
+00:15:37,560 --> 00:15:38,300
+comme ça
+
+423
+00:15:38,300 --> 00:15:40,440
+sur le grand vous allez mettre une
+
+424
+00:15:40,440 --> 00:15:42,660
+texture et cette texture là dans Blender
+
+425
+00:15:42,660 --> 00:15:44,519
+vous allez en fait essayer de faire que
+
+426
+00:15:44,519 --> 00:15:46,380
+ça correspond à cette phase là celle-là
+
+427
+00:15:46,380 --> 00:15:48,779
+à celle-là celle-là à celle-là celle-là
+
+428
+00:15:48,779 --> 00:15:50,820
+celle-là c'est là et ça donne ce qu'on
+
+429
+00:15:50,820 --> 00:15:52,740
+voit ici ok sachant que c'est un métier
+
+430
+00:15:52,740 --> 00:15:54,740
+de faire ça
+
+431
+00:15:54,740 --> 00:15:56,820
+on va pas l'expliquer mais ça ressemble
+
+432
+00:15:56,820 --> 00:15:59,399
+par exemple à ceci vous voyez
+
+433
+00:15:59,399 --> 00:16:00,779
+et donc on aura une texture qui
+
+434
+00:16:00,779 --> 00:16:02,579
+ressemble à ça ça c'est quand tu veux
+
+435
+00:16:02,579 --> 00:16:03,959
+une texture que tu aplatis sur un objet
+
+436
+00:16:03,959 --> 00:16:05,820
+sauf que quand tu joues avec certains
+
+437
+00:16:05,820 --> 00:16:06,959
+jeux des fois tu dis bah pourquoi
+
+438
+00:16:06,959 --> 00:16:09,779
+j'utiliserai 40 images alors que je
+
+439
+00:16:09,779 --> 00:16:11,040
+pourrais en prendre une et la déplacer
+
+440
+00:16:11,040 --> 00:16:12,839
+d'accord ce qui fait qu'il y a moins de
+
+441
+00:16:12,839 --> 00:16:15,060
+ressources dans le jeu à charger et donc
+
+442
+00:16:15,060 --> 00:16:16,740
+du coup ici la Wolfenstein vu que c'est
+
+443
+00:16:16,740 --> 00:16:18,480
+un jeu vieux jeu où on est presque pas
+
+444
+00:16:18,480 --> 00:16:20,160
+de ressources sur les appareils d'accord
+
+445
+00:16:20,160 --> 00:16:23,240
+on utilise ce qu'on appelle
+
+446
+00:16:23,720 --> 00:16:26,519
+c'est quoi c'est cette notion dont on a
+
+447
+00:16:26,519 --> 00:16:30,060
+plein d'images et en fait tu vas dans le
+
+448
+00:16:30,060 --> 00:16:33,540
+matérialiser ici tu vas changer les X
+
+449
+00:16:33,540 --> 00:16:36,300
+comme ceci pour voir plein de changer
+
+450
+00:16:36,300 --> 00:16:38,339
+les y et donc vous voyez ici je vais
+
+451
+00:16:38,339 --> 00:16:43,279
+changer voilà et on va changer le Y
+
+452
+00:16:44,480 --> 00:16:46,740
+ça change tout donc faut trouver le
+
+453
+00:16:46,740 --> 00:16:48,540
+juste milieu de la texture il faut
+
+454
+00:16:48,540 --> 00:16:50,100
+diviser mais basiquement on va pouvoir
+
+455
+00:16:50,100 --> 00:16:52,139
+aller chercher ici et donc si vous avez
+
+456
+00:16:52,139 --> 00:16:55,259
+besoin d'un bloc on va aller chercher ça
+
+457
+00:16:55,259 --> 00:16:56,880
+comme ça si vous avez besoin d'autres
+
+458
+00:16:56,880 --> 00:16:58,620
+choses que tu vas déplacer la texture
+
+459
+00:16:58,620 --> 00:17:01,279
+d'accord
+
+460
+00:17:01,440 --> 00:17:06,419
+on a un deux trois quatre cinq six
+
+461
+00:17:06,419 --> 00:17:13,559
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+462
+00:17:13,559 --> 00:17:15,619
+17 18
+
+463
+00:17:15,619 --> 00:17:18,240
+donc alors on va faire alors tu peux
+
+464
+00:17:18,240 --> 00:17:21,559
+faire des divisions dedans ça marche
+
+465
+00:17:25,459 --> 00:17:27,919
+ensuite tu vas de l'autre côté
+
+466
+00:17:27,919 --> 00:17:31,740
+et tu fais a divisé par 18
+
+467
+00:17:31,740 --> 00:17:33,540
+et ça nous donne ça mais en fait ce qui
+
+468
+00:17:33,540 --> 00:17:35,280
+se passe c'est que c'est bon c'est juste
+
+469
+00:17:35,280 --> 00:17:36,539
+que ce qui se passe c'est que maintenant
+
+470
+00:17:36,539 --> 00:17:37,980
+que tu l'as fait mais il se trouve tout
+
+471
+00:17:37,980 --> 00:17:39,660
+en bas où il y avait pas de texture donc
+
+472
+00:17:39,660 --> 00:17:41,840
+ici on va juste aller prendre ce numéro
+
+473
+00:17:41,840 --> 00:17:45,780
+et la mettre ici en X OK et si tu veux
+
+474
+00:17:45,780 --> 00:17:47,400
+te déplacer en y sur le truc tu vas
+
+475
+00:17:47,400 --> 00:17:48,600
+prendre ce numéro et tu vas mettre ça en
+
+476
+00:17:48,600 --> 00:17:50,460
+vrai et voilà comment on obtient un cube
+
+477
+00:17:50,460 --> 00:17:52,080
+de texture c'est ça voilà comment on
+
+478
+00:17:52,080 --> 00:17:53,400
+fait pour avoir une seule image qui
+
+479
+00:17:53,400 --> 00:17:55,140
+représente ce qu'on appelle un atlas ou
+
+480
+00:17:55,140 --> 00:17:56,700
+soit des sprites quand c'est des
+
+481
+00:17:56,700 --> 00:17:58,260
+animations et on Atlas quand c'est on
+
+482
+00:17:58,260 --> 00:17:59,220
+prend plein de trucs et on les met dans
+
+483
+00:17:59,220 --> 00:18:01,740
+un ok ça permet de gagner de la
+
+484
+00:18:01,740 --> 00:18:04,140
+ressource ça ressemble un peu quand on
+
+485
+00:18:04,140 --> 00:18:05,580
+essaie de récupérer un skin sur
+
+486
+00:18:05,580 --> 00:18:09,320
+Minecraft c'est ça c'est exactement ça
+
+487
+00:18:09,320 --> 00:18:11,000
+donc
+
+488
+00:18:11,000 --> 00:18:13,559
+c'est ça donc quand j'étais petit
+
+489
+00:18:13,559 --> 00:18:15,480
+j'allais récupérer
+
+490
+00:18:15,480 --> 00:18:17,460
+des skins pour mon perso sur Minecraft
+
+491
+00:18:17,460 --> 00:18:20,400
+et ça ressemble jamais à ceux qui s'en
+
+492
+00:18:20,400 --> 00:18:21,960
+servir dans le jeu c'est toujours des
+
+493
+00:18:21,960 --> 00:18:23,820
+trucs pas mis par dessus l'usine par des
+
+494
+00:18:23,820 --> 00:18:25,260
+solutions alors du coup maintenant vous
+
+495
+00:18:25,260 --> 00:18:26,400
+savez comment on met des images alors
+
+496
+00:18:26,400 --> 00:18:27,780
+admettons que vous voulez mettre l'image
+
+497
+00:18:27,780 --> 00:18:30,000
+de quelqu'un ce que vous pouvez faire
+
+498
+00:18:30,000 --> 00:18:33,480
+c'est qu'au lieu de créer un cube vous
+
+499
+00:18:33,480 --> 00:18:36,200
+allez créer ici ce qu'on appelle soit
+
+500
+00:18:36,200 --> 00:18:39,840
+plane soit un quad hoplane il a plein
+
+501
+00:18:39,840 --> 00:18:41,520
+plein de triangles un quad il a que deux
+
+502
+00:18:41,520 --> 00:18:43,860
+triangles on va prendre un quad ici
+
+503
+00:18:43,860 --> 00:18:45,660
+voilà
+
+504
+00:18:45,660 --> 00:18:48,120
+pour le calcul c'est plus facile comme
+
+505
+00:18:48,120 --> 00:18:50,400
+vous pouvez voir le quad il est il a
+
+506
+00:18:50,400 --> 00:18:52,020
+deux triangles et les triangles vont un
+
+507
+00:18:52,020 --> 00:18:54,419
+sens bon vous pouvez voir que là on voit
+
+508
+00:18:54,419 --> 00:18:55,860
+là on voit pas à travers c'est pour ça
+
+509
+00:18:55,860 --> 00:18:56,760
+que des fois dans le jeu vidéo vous
+
+510
+00:18:56,760 --> 00:18:57,980
+voyez à travers les murs
+
+511
+00:18:57,980 --> 00:18:59,880
+ou quand vous voyez les dentiers les
+
+512
+00:18:59,880 --> 00:19:00,780
+gens c'est parce que vous avez mis la
+
+513
+00:19:00,780 --> 00:19:03,960
+caméra dans le mauvais sens alors ici on
+
+514
+00:19:03,960 --> 00:19:07,200
+va aller chercher quelqu'un
+
+515
+00:19:07,200 --> 00:19:09,179
+ce qu'on reprend Ibrahim on prend
+
+516
+00:19:09,179 --> 00:19:11,360
+quelqu'un
+
+517
+00:19:11,840 --> 00:19:16,700
+voilà on va aller chercher
+
+518
+00:19:22,760 --> 00:19:26,059
+on prend laquelle on prend
+
+519
+00:19:26,059 --> 00:19:29,520
+alors on va cliquer sur celle là on va
+
+520
+00:19:29,520 --> 00:19:31,380
+copier l'adresse du lien ou la
+
+521
+00:19:31,380 --> 00:19:34,440
+télécharger on va essayer les deux
+
+522
+00:19:34,440 --> 00:19:36,799
+voilà
+
+523
+00:19:36,799 --> 00:19:39,360
+c'est pas grave tant mieux et alors en
+
+524
+00:19:39,360 --> 00:19:41,840
+fait ce qu'on va faire
+
+525
+00:19:43,880 --> 00:19:46,620
+on va aller sur le site qui permet de
+
+526
+00:19:46,620 --> 00:19:48,120
+retirer le background alors vous pouvez
+
+527
+00:19:48,120 --> 00:19:49,740
+le faire depuis Photoshop depuis crita
+
+528
+00:19:49,740 --> 00:19:51,780
+depuis plein logiciel mais quand vous
+
+529
+00:19:51,780 --> 00:19:53,039
+avez à faire et que vous voulez aller
+
+530
+00:19:53,039 --> 00:19:56,059
+vite vous pouvez faire ça
+
+531
+00:19:57,080 --> 00:19:59,520
+en fait opéra garde en mémoire le
+
+532
+00:19:59,520 --> 00:20:03,120
+dernier copier-coller images et voilà on
+
+533
+00:20:03,120 --> 00:20:04,500
+était chercher l'image on l'a mis dans
+
+534
+00:20:04,500 --> 00:20:06,660
+le background Néoval brim ovale pour de
+
+535
+00:20:06,660 --> 00:20:08,700
+la gelée il faut le payer donc on va pas
+
+536
+00:20:08,700 --> 00:20:10,140
+faire de l'Alger on va télécharger juste
+
+537
+00:20:10,140 --> 00:20:13,860
+la version light ok voilà et on va
+
+538
+00:20:13,860 --> 00:20:16,100
+l'appeler
+
+539
+00:20:19,020 --> 00:20:23,100
+voilà on va le déposer dans Unity dans
+
+540
+00:20:23,100 --> 00:20:25,080
+2D on va le mettre dans le matériel et
+
+541
+00:20:25,080 --> 00:20:27,539
+puis on va le descendre dans 2
+
+542
+00:20:27,539 --> 00:20:31,020
+voilà on a notre Ibrahim avec et sans
+
+543
+00:20:31,020 --> 00:20:32,760
+fond alors vous pouvez voir que c'est
+
+544
+00:20:32,760 --> 00:20:34,140
+noir parce qu'en fait on n'a pas dit que
+
+545
+00:20:34,140 --> 00:20:36,059
+l'image était transparente on va cliquer
+
+546
+00:20:36,059 --> 00:20:37,020
+sur ce petit bouton pour dire qu'elle
+
+547
+00:20:37,020 --> 00:20:40,620
+est transparente voilà maintenant ce qui
+
+548
+00:20:40,620 --> 00:20:43,440
+se passe c'est que notre truc ici on va
+
+549
+00:20:43,440 --> 00:20:44,520
+déposer
+
+550
+00:20:44,520 --> 00:20:46,980
+Ibrahim dessus et en fait Ibrahim est
+
+551
+00:20:46,980 --> 00:20:50,280
+dedans sauf que le problème c'est que ah
+
+552
+00:20:50,280 --> 00:20:53,039
+on n'a pas ratio qui est de assura on a
+
+553
+00:20:53,039 --> 00:20:55,080
+un ratio qui est de 2 sera d'accord donc
+
+554
+00:20:55,080 --> 00:20:56,720
+soit de vous le couper dans l'éditeur de
+
+555
+00:20:56,720 --> 00:21:00,539
+dans un éditeur Krita ou autre soit vous
+
+556
+00:21:00,539 --> 00:21:03,360
+devez jouer avec le matériel alors du
+
+557
+00:21:03,360 --> 00:21:05,900
+coup on a matérielle
+
+558
+00:21:05,900 --> 00:21:08,340
+on va aller dire que le matériel on veut
+
+559
+00:21:08,340 --> 00:21:09,900
+soit un truc pour qu'il gère la lumière
+
+560
+00:21:09,900 --> 00:21:11,820
+soit sur la lumière qu'on va les gérer
+
+561
+00:21:11,820 --> 00:21:13,140
+sans lumière
+
+562
+00:21:13,140 --> 00:21:14,820
+on va lui dire qu'il veut on veut de
+
+563
+00:21:14,820 --> 00:21:16,559
+l'alfa clipping alors le souvenir que
+
+564
+00:21:16,559 --> 00:21:17,100
+j'ai dit qu'il y avait de la
+
+565
+00:21:17,100 --> 00:21:18,840
+transparence et de l'alfa clipping la
+
+566
+00:21:18,840 --> 00:21:20,940
+transparence et on va dégrader le pixel
+
+567
+00:21:20,940 --> 00:21:23,160
+ici la fac epic on va retirer le pixel à
+
+568
+00:21:23,160 --> 00:21:25,039
+calculer on va mettre alpha clipping
+
+569
+00:21:25,039 --> 00:21:27,299
+voilà et alors en fait le fait qu'il
+
+570
+00:21:27,299 --> 00:21:28,679
+soit noir c'est parce qu'à mon avis je
+
+571
+00:21:28,679 --> 00:21:31,260
+l'ai enregistré en JPEG
+
+572
+00:21:31,260 --> 00:21:33,740
+non ça fait g donc si c'est pas ça
+
+573
+00:21:33,740 --> 00:21:36,120
+qu'est-ce qui reste à faire pour que ce
+
+574
+00:21:36,120 --> 00:21:38,960
+soit transparent en toi
+
+575
+00:21:42,980 --> 00:21:45,659
+on est dans le matériel ah il faut le
+
+576
+00:21:45,659 --> 00:21:48,200
+mettre en transparence
+
+577
+00:21:48,919 --> 00:21:50,760
+pour l'instant il y a une grosse tête
+
+578
+00:21:50,760 --> 00:21:53,580
+une longue tête parce qu'on veut alors
+
+579
+00:21:53,580 --> 00:21:55,200
+vu que l'image vous êtes en deux sous
+
+580
+00:21:55,200 --> 00:21:57,539
+rats on va simplement dire que le timing
+
+581
+00:21:57,539 --> 00:22:01,080
+est de 0,5 le problème c'est que 0,5 et
+
+582
+00:22:01,080 --> 00:22:04,380
+encore décalé donc on va faire moins 0,5
+
+583
+00:22:04,380 --> 00:22:07,580
+non moi
+
+584
+00:22:08,100 --> 00:22:10,260
+du coup on va jouer comme ça jusqu'à ce
+
+585
+00:22:10,260 --> 00:22:11,900
+qu'on est la bonne valeur
+
+586
+00:22:11,900 --> 00:22:13,260
+[Musique]
+
+587
+00:22:13,260 --> 00:22:16,100
+donc c'était 0,25 en fait
+
+588
+00:22:16,100 --> 00:22:19,020
+on a notre magnifique photo nibrahim
+
+589
+00:22:19,020 --> 00:22:22,980
+dans notre projet oh oui donc là c'est
+
+590
+00:22:22,980 --> 00:22:25,500
+comment on met une photo maintenant
+
+591
+00:22:25,500 --> 00:22:26,580
+admettons que vous voulez mettre une
+
+592
+00:22:26,580 --> 00:22:28,020
+vidéo
+
+593
+00:22:28,020 --> 00:22:30,179
+vous allez sur YouTube
+
+594
+00:22:30,179 --> 00:22:31,260
+voilà qu'est-ce qu'on pourrait mettre
+
+595
+00:22:31,260 --> 00:22:34,520
+comme vidéo vidéo courte
+
+596
+00:22:37,860 --> 00:22:40,340
+même
+
+597
+00:22:40,980 --> 00:22:43,700
+tu peux mettre
+
+598
+00:22:44,059 --> 00:22:46,280
+on est mercredi
+
+599
+00:22:46,280 --> 00:22:50,539
+non on est jeudi
+
+600
+00:22:52,799 --> 00:22:55,700
+j'ai pas d'imagination
+
+601
+00:23:02,400 --> 00:23:04,140
+on va chercher une vidéo comme celle-ci
+
+602
+00:23:04,140 --> 00:23:06,780
+voilà
+
+603
+00:23:06,780 --> 00:23:09,059
+on va copier le lien
+
+604
+00:23:09,059 --> 00:23:11,400
+alors évidemment faire ce que je suis en
+
+605
+00:23:11,400 --> 00:23:13,080
+train de faire c'est pas très légal ni
+
+606
+00:23:13,080 --> 00:23:15,179
+pour YouTube ni niveau des droits mais
+
+607
+00:23:15,179 --> 00:23:16,559
+c'est pour l'exercice pour la démo de
+
+608
+00:23:16,559 --> 00:23:17,580
+comment on fait pour télécharger une
+
+609
+00:23:17,580 --> 00:23:20,400
+vidéo dans Unity on va aller sur YouTube
+
+610
+00:23:20,400 --> 00:23:23,780
+to MP3
+
+611
+00:23:24,299 --> 00:23:26,220
+de toute façon on va toujours tomber sur
+
+612
+00:23:26,220 --> 00:23:29,299
+un site web qui fait en MP4
+
+613
+00:23:29,299 --> 00:23:32,640
+voilà on va dire MP4 ça va télécharger
+
+614
+00:23:32,640 --> 00:23:35,659
+notre vidéo
+
+615
+00:23:43,039 --> 00:23:45,419
+je me suis fait avoir j'étais concentré
+
+616
+00:23:45,419 --> 00:23:47,820
+sur l'exercice
+
+617
+00:23:47,820 --> 00:23:50,179
+voilà
+
+618
+00:23:51,360 --> 00:23:54,480
+on veut pas revoir la jolie dame
+
+619
+00:23:54,480 --> 00:23:55,679
+alors maintenant on a une petite vidéo
+
+620
+00:23:55,679 --> 00:23:59,039
+MP4 on va aller la copier dans le projet
+
+621
+00:23:59,039 --> 00:24:02,159
+voilà on va aller dans une ici alors il
+
+622
+00:24:02,159 --> 00:24:03,200
+veut pas faire
+
+623
+00:24:03,200 --> 00:24:04,940
+glisser directement
+
+624
+00:24:04,940 --> 00:24:07,080
+alors il y a un dossier normalement
+
+625
+00:24:07,080 --> 00:24:09,120
+spécial qu'on doit nommer genre stream
+
+626
+00:24:09,120 --> 00:24:10,380
+quelque chose mais je vous y a plus du
+
+627
+00:24:10,380 --> 00:24:13,200
+nom donc ici on va juste créer vidéo ce
+
+628
+00:24:13,200 --> 00:24:14,280
+qu'en fait le fait de mettre des vidéos
+
+629
+00:24:14,280 --> 00:24:15,720
+dans un projet c'est que ça alourdit
+
+630
+00:24:15,720 --> 00:24:17,760
+quand même pas mal le projet ici la
+
+631
+00:24:17,760 --> 00:24:19,140
+vidéo est vraiment petite et légère donc
+
+632
+00:24:19,140 --> 00:24:20,880
+ça va aller mais c'est vrai que vaut
+
+633
+00:24:20,880 --> 00:24:22,380
+mieux éviter quoi on la met juste pour
+
+634
+00:24:22,380 --> 00:24:24,299
+montrer comment ça généralement ce qu'on
+
+635
+00:24:24,299 --> 00:24:25,500
+va faire c'est plus on va charger la
+
+636
+00:24:25,500 --> 00:24:28,320
+vidéo à l'extérieur de Unity dans un
+
+637
+00:24:28,320 --> 00:24:29,520
+dossier et puis on va la recharger
+
+638
+00:24:29,520 --> 00:24:31,320
+depuis l'outil à l'endroit où elle est
+
+639
+00:24:31,320 --> 00:24:33,120
+tu vois pour éviter que la PéKa soit
+
+640
+00:24:33,120 --> 00:24:35,100
+lourde mais que le que il a été
+
+641
+00:24:35,100 --> 00:24:36,840
+téléchargé après maintenant si tu sais
+
+642
+00:24:36,840 --> 00:24:38,340
+que les clients on va pas avoir internet
+
+643
+00:24:38,340 --> 00:24:40,080
+c'est vrai que là vaut mieux le mettre
+
+644
+00:24:40,080 --> 00:24:41,340
+dans le projet quoi mais ça alourdit
+
+645
+00:24:41,340 --> 00:24:43,460
+trop ton projet ton guide ça dit vite
+
+646
+00:24:43,460 --> 00:24:45,360
+d'ailleurs geek n'accepte pas des
+
+647
+00:24:45,360 --> 00:24:46,860
+fichiers au-dessus de sa compte à 100 et
+
+648
+00:24:46,860 --> 00:24:49,919
+moi 25 c'est déjà beaucoup donc c'est
+
+649
+00:24:49,919 --> 00:24:52,020
+toujours un problème
+
+650
+00:24:52,020 --> 00:24:53,640
+alors c'est pour ça que ici on va pas
+
+651
+00:24:53,640 --> 00:24:54,900
+être ici on utilise spaghett on n'aura
+
+652
+00:24:54,900 --> 00:24:55,860
+pas le problème mais si on avait un
+
+653
+00:24:55,860 --> 00:24:57,360
+cours de guide j'aurais montré comment
+
+654
+00:24:57,360 --> 00:24:59,520
+pas mettre la vidéo dedans
+
+655
+00:24:59,520 --> 00:25:00,780
+alors comment on fait pour jouer une
+
+656
+00:25:00,780 --> 00:25:03,980
+vidéo on va créer un deuxième quad
+
+657
+00:25:03,980 --> 00:25:06,299
+je pourrais le dire je sais pas si c'est
+
+658
+00:25:06,299 --> 00:25:08,400
+ça mais pour ceux qui utilisent guide il
+
+659
+00:25:08,400 --> 00:25:12,659
+y a le gitanior ouais donc juste si vous
+
+660
+00:25:12,659 --> 00:25:15,299
+avez d'ignorer un dossier chercher juste
+
+661
+00:25:15,299 --> 00:25:16,740
+gitinor où ils vont vous expliquer
+
+662
+00:25:16,740 --> 00:25:18,360
+comment ça marche
+
+663
+00:25:18,360 --> 00:25:19,860
+alors ici on va mettre ce qu'on appelle
+
+664
+00:25:19,860 --> 00:25:22,440
+vidéo Player qui un truc que inutile a
+
+665
+00:25:22,440 --> 00:25:23,820
+fait pour nous qui n'existait pas dans
+
+666
+00:25:23,820 --> 00:25:25,559
+le temps mais qu'ils ont rajouté qui
+
+667
+00:25:25,559 --> 00:25:27,539
+permet soit de donner le clip de la
+
+668
+00:25:27,539 --> 00:25:29,419
+vidéo donc ici on grille ça comme ça
+
+669
+00:25:29,419 --> 00:25:32,400
+soit d'aller chercher un URL ça marche
+
+670
+00:25:32,400 --> 00:25:34,080
+pas ça marche pas si c'est une vidéo
+
+671
+00:25:34,080 --> 00:25:35,400
+YouTube évidemment pour aller chercher
+
+672
+00:25:35,400 --> 00:25:37,080
+l'URL d'une vidéo qui peut télécharger
+
+673
+00:25:37,080 --> 00:25:39,720
+streaming et vous pouvez chercher un URL
+
+674
+00:25:39,720 --> 00:25:42,179
+ou à URL ça va aussi dire chemin d'accès
+
+675
+00:25:42,179 --> 00:25:43,860
+sur votre PC donc si vous visez vers
+
+676
+00:25:43,860 --> 00:25:45,360
+votre PC ou vers l'endroit sur le Quest
+
+677
+00:25:45,360 --> 00:25:46,980
+ou la vidéo il va pouvoir les
+
+678
+00:25:46,980 --> 00:25:48,539
+télécharger depuis là c'est pour ça que
+
+679
+00:25:48,539 --> 00:25:49,380
+par exemple tu pourrais charger des
+
+680
+00:25:49,380 --> 00:25:51,600
+vidéos au fur et à mesure de ton
+
+681
+00:25:51,600 --> 00:25:53,580
+application
+
+682
+00:25:53,580 --> 00:25:56,400
+alors ici on va dire en vidéo on dit que
+
+683
+00:25:56,400 --> 00:25:58,200
+il va jouer tout seul on dit qu'il va
+
+684
+00:25:58,200 --> 00:25:59,400
+faire une loupe pour que soit marrant
+
+685
+00:25:59,400 --> 00:26:00,799
+d'accord
+
+686
+00:26:00,799 --> 00:26:03,120
+on peut choisir si on veut l'afficher
+
+687
+00:26:03,120 --> 00:26:05,159
+dans une caméra dans un rendu dans un
+
+688
+00:26:05,159 --> 00:26:07,260
+matériel ici on va dire vas-y écris à
+
+689
+00:26:07,260 --> 00:26:09,840
+celui de pour le moment dans le mien moi
+
+690
+00:26:09,840 --> 00:26:11,039
+j'ai utilisé rendu texture parce que
+
+691
+00:26:11,039 --> 00:26:12,360
+j'ai besoin de l'afficher sur l'écran
+
+692
+00:26:12,360 --> 00:26:14,640
+derrière toi et des choses comme ça donc
+
+693
+00:26:14,640 --> 00:26:16,200
+du coup j'ai plus le donner à une
+
+694
+00:26:16,200 --> 00:26:17,279
+texture qui elle va être appliquée
+
+695
+00:26:17,279 --> 00:26:18,960
+partout ok c'est un peu complexe
+
+696
+00:26:18,960 --> 00:26:20,880
+regardez juste un rendu texture si
+
+697
+00:26:20,880 --> 00:26:22,559
+jamais vous voulez vraiment explorer le
+
+698
+00:26:22,559 --> 00:26:24,659
+sujet
+
+699
+00:26:24,659 --> 00:26:26,880
+alors on va laisser override et alors
+
+700
+00:26:26,880 --> 00:26:28,620
+normalement
+
+701
+00:26:28,620 --> 00:26:30,539
+normalement normalement quand je vais
+
+702
+00:26:30,539 --> 00:26:32,900
+faire play
+
+703
+00:26:34,559 --> 00:26:37,279
+on va avoir
+
+704
+00:26:37,520 --> 00:26:40,740
+la vidéo qui se lance et vous n'avez pas
+
+705
+00:26:40,740 --> 00:26:44,340
+le son mais il y a en fait si il y a le
+
+706
+00:26:44,340 --> 00:26:46,679
+son ici en fait vous voyez il va gérer
+
+707
+00:26:46,679 --> 00:26:48,179
+le son et il vous demande est-ce que le
+
+708
+00:26:48,179 --> 00:26:49,380
+gérant direct ou est-ce que je gère
+
+709
+00:26:49,380 --> 00:26:51,179
+ailleurs qui a des propriétés pour un
+
+710
+00:26:51,179 --> 00:26:53,220
+peu streamer le son ailleurs ou gérer le
+
+711
+00:26:53,220 --> 00:26:54,900
+son ailleurs dans le projet mais c'est
+
+712
+00:26:54,900 --> 00:26:56,279
+juste ici on a pas mis le son sur le
+
+713
+00:26:56,279 --> 00:26:57,960
+truc et que séparer le raccorder à la
+
+714
+00:26:57,960 --> 00:26:59,580
+webcam mais basiquement vous avez le son
+
+715
+00:26:59,580 --> 00:27:00,779
+dedans
+
+716
+00:27:00,779 --> 00:27:02,580
+et voilà comment on met une vidéo une
+
+717
+00:27:02,580 --> 00:27:04,740
+vidéo c'est gourmand donc oui évidemment
+
+718
+00:27:04,740 --> 00:27:06,600
+ne mettez pas 36000 vidéos dans votre
+
+719
+00:27:06,600 --> 00:27:09,179
+projet mettez que une voire deux ou
+
+720
+00:27:09,179 --> 00:27:10,860
+trois maximum à la fois quoi parce que
+
+721
+00:27:10,860 --> 00:27:12,720
+déjà une c'est lourd quoi d'accord vous
+
+722
+00:27:12,720 --> 00:27:15,000
+êtes dans un téléphone quand même
+
+723
+00:27:15,000 --> 00:27:17,120
+donc voilà
+
+724
+00:27:17,120 --> 00:27:20,279
+mais c'est évident que 1 à la petite
+
+725
+00:27:20,279 --> 00:27:21,299
+vidéo elle est pas lisible parce qu'on
+
+726
+00:27:21,299 --> 00:27:23,159
+l'a pas mis en online donc là il y a pas
+
+727
+00:27:23,159 --> 00:27:24,659
+de lumière dans la scène comment on fait
+
+728
+00:27:24,659 --> 00:27:26,039
+pour mettre de la lumière on fait clic
+
+729
+00:27:26,039 --> 00:27:30,059
+droit ajouter et désolé là l'objet 3D
+
+730
+00:27:30,059 --> 00:27:31,640
+lumière
+
+731
+00:27:31,640 --> 00:27:33,240
+directionnel light c'est pour remettre
+
+732
+00:27:33,240 --> 00:27:34,860
+une ticket directionnelle il y en a déjà
+
+733
+00:27:34,860 --> 00:27:39,720
+une ok où on peut ajouter spotlight
+
+734
+00:27:39,720 --> 00:27:41,220
+Spotlight c'est plus quand vous voulez
+
+735
+00:27:41,220 --> 00:27:42,539
+une lumière mais là je vais le voir
+
+736
+00:27:42,539 --> 00:27:46,640
+qu'il y en a déjà une de PS4
+
+737
+00:27:50,059 --> 00:27:52,919
+ici et on peut voir que elle est
+
+738
+00:27:52,919 --> 00:27:54,840
+directionnelle elle est en temps réel et
+
+739
+00:27:54,840 --> 00:27:56,340
+alors l'intensité elle est de 2 alors
+
+740
+00:27:56,340 --> 00:27:58,440
+qu'est-ce que je veux dire par là je
+
+741
+00:27:58,440 --> 00:28:00,240
+vais vous montrer
+
+742
+00:28:00,240 --> 00:28:02,940
+ici vu que le quad d'ailleurs j'ai
+
+743
+00:28:02,940 --> 00:28:05,279
+rajouté un cube à votre avis qu'est-ce
+
+744
+00:28:05,279 --> 00:28:07,620
+qui va passer si j'arrête le métier
+
+745
+00:28:07,620 --> 00:28:10,400
+maintenant avec un cube dedans
+
+746
+00:28:10,400 --> 00:28:12,600
+donc là j'ai de rajouter un cube à votre
+
+747
+00:28:12,600 --> 00:28:13,620
+avis qu'est-ce qui va se passer quand je
+
+748
+00:28:13,620 --> 00:28:16,640
+vais arrêter le player
+
+749
+00:28:19,100 --> 00:28:21,659
+donc il va retenir que quand il était au
+
+750
+00:28:21,659 --> 00:28:23,880
+début il y avait rien donc voilà je
+
+751
+00:28:23,880 --> 00:28:27,320
+recule je vais mettre alors mon crapaud
+
+752
+00:28:27,320 --> 00:28:30,120
+il va générer une texture et cette
+
+753
+00:28:30,120 --> 00:28:31,980
+texture elle va être appliquée sur le
+
+754
+00:28:31,980 --> 00:28:34,440
+quad en fait ce qui se passe c'est que
+
+755
+00:28:34,440 --> 00:28:36,419
+si vous prenez le matériel qui a été
+
+756
+00:28:36,419 --> 00:28:39,480
+créé pour le crapaud c'est à dire ici il
+
+757
+00:28:39,480 --> 00:28:42,779
+va affecter celui-ci
+
+758
+00:28:42,779 --> 00:28:45,480
+qui est un matériel par défaut donc on
+
+759
+00:28:45,480 --> 00:28:47,039
+va recréer pour lui je vais pas vous
+
+760
+00:28:47,039 --> 00:28:49,760
+expliquer c'est trop compliqué
+
+761
+00:28:50,120 --> 00:28:51,480
+basiquement tout ce que je voulais
+
+762
+00:28:51,480 --> 00:28:52,620
+montrer ici c'est que vous avez aussi
+
+763
+00:28:52,620 --> 00:28:55,140
+une notion de lumière dans l'Insee c'est
+
+764
+00:28:55,140 --> 00:28:57,240
+à dire que là
+
+765
+00:28:57,240 --> 00:29:00,659
+voilà on a cette lumière là et si je la
+
+766
+00:29:00,659 --> 00:29:02,340
+tourne vous pouvez voir que l'ombrage va
+
+767
+00:29:02,340 --> 00:29:04,380
+changer parce que basiquement c'est
+
+768
+00:29:04,380 --> 00:29:05,880
+l'orientation la lumière par rapport à
+
+769
+00:29:05,880 --> 00:29:08,400
+la scène vous voyez donc là elle vit à
+
+770
+00:29:08,400 --> 00:29:11,340
+du bas là il y a du haut là il y a plus
+
+771
+00:29:11,340 --> 00:29:12,020
+de
+
+772
+00:29:12,020 --> 00:29:14,520
+tourner comme ça donc ça permet
+
+773
+00:29:14,520 --> 00:29:16,020
+d'orienter et vous voyez que les images
+
+774
+00:29:16,020 --> 00:29:18,120
+ici ont changé parce que la lumière est
+
+775
+00:29:18,120 --> 00:29:20,039
+calculée sur le triangle et c'est pour
+
+776
+00:29:20,039 --> 00:29:21,899
+ça que tantôt on avait mis unlight pour
+
+777
+00:29:21,899 --> 00:29:23,220
+dire on s'en fout la lumière on veut
+
+778
+00:29:23,220 --> 00:29:25,080
+juste la texture donc basiquement notre
+
+779
+00:29:25,080 --> 00:29:26,700
+crapaud si on la met sur un écran dans
+
+780
+00:29:26,700 --> 00:29:28,020
+la salle et qu'on veut qu'elle ait pas
+
+781
+00:29:28,020 --> 00:29:30,000
+de lumière qu'on veut qu'elle soit avec
+
+782
+00:29:30,000 --> 00:29:32,039
+tes parents la laisse comme ça si on
+
+783
+00:29:32,039 --> 00:29:33,419
+veut qu'elle soit on s'en fout ça doit
+
+784
+00:29:33,419 --> 00:29:34,380
+faire comme si elle les mettait
+
+785
+00:29:34,380 --> 00:29:36,299
+elle-même de la lumière à ce moment là
+
+786
+00:29:36,299 --> 00:29:38,039
+on va aller changer la texture qui a
+
+787
+00:29:38,039 --> 00:29:41,179
+affecté et la mettre en omelette
+
+788
+00:29:41,179 --> 00:29:43,620
+le problème c'est qu'ici vu qu'il écrase
+
+789
+00:29:43,620 --> 00:29:45,240
+le matériel et le matériel par défaut
+
+790
+00:29:45,240 --> 00:29:47,700
+c'est celui qui a unity a on va devoir
+
+791
+00:29:47,700 --> 00:29:50,220
+créer un matériel pour le crapaud
+
+792
+00:29:50,220 --> 00:29:52,919
+donc on va aller ici on va créer à
+
+793
+00:29:52,919 --> 00:29:55,020
+matériel
+
+794
+00:29:55,020 --> 00:29:57,840
+matériel
+
+795
+00:29:57,840 --> 00:30:00,260
+crapaud
+
+796
+00:30:13,279 --> 00:30:16,320
+effectivement je l'ai pas dit mais on va
+
+797
+00:30:16,320 --> 00:30:21,059
+voir alors ici notre vidéo player là
+
+798
+00:30:21,059 --> 00:30:22,320
+elle est en mode j'écrase qu'il y a
+
+799
+00:30:22,320 --> 00:30:24,120
+dessus maintenant on va dire non en fait
+
+800
+00:30:24,120 --> 00:30:25,380
+on veut pas que tu écrases ce qu'il y a
+
+801
+00:30:25,380 --> 00:30:28,559
+dessus on veut que tu écrases plutôt la
+
+802
+00:30:28,559 --> 00:30:31,020
+texture qu'on a alors ici vu qu'il va
+
+803
+00:30:31,020 --> 00:30:32,880
+écraser ce truc là et que là c'est celui
+
+804
+00:30:32,880 --> 00:30:34,980
+par défaut on va aller chercher celui du
+
+805
+00:30:34,980 --> 00:30:36,980
+crapauds on va le mettre là
+
+806
+00:30:36,980 --> 00:30:39,899
+et ici on va dire du coup on le veut
+
+807
+00:30:39,899 --> 00:30:42,720
+comme tantôt Universal render plan light
+
+808
+00:30:42,720 --> 00:30:44,419
+alors il y a pas encore de texture ici
+
+809
+00:30:44,419 --> 00:30:46,679
+oui parce qu'en fait le player va le
+
+810
+00:30:46,679 --> 00:30:50,399
+mettre dessus d'accord donc ici on est
+
+811
+00:30:50,399 --> 00:30:53,039
+bon pour une vidéo le la question sera
+
+812
+00:30:53,039 --> 00:30:54,539
+mic au lancement c'est ça alors
+
+813
+00:30:54,539 --> 00:30:57,059
+normalement ici vous voyez on voit pas
+
+814
+00:30:57,059 --> 00:30:58,559
+Ibrahim de l'autre côté c'est parce
+
+815
+00:30:58,559 --> 00:31:00,919
+qu'il y a
+
+816
+00:31:06,260 --> 00:31:08,399
+dans le matériau du crapaud on va dire
+
+817
+00:31:08,399 --> 00:31:11,240
+qu'on veut des deux côtés
+
+818
+00:31:14,659 --> 00:31:16,559
+à mettre de la vidéo de la transparence
+
+819
+00:31:16,559 --> 00:31:19,679
+et on clique ici si vous voulez faire un
+
+820
+00:31:19,679 --> 00:31:21,419
+fond vert sans devoir retirer le fond
+
+821
+00:31:21,419 --> 00:31:23,399
+vert il faut essayer de transformer la
+
+822
+00:31:23,399 --> 00:31:24,480
+vidéo pour que le verre soit vraiment
+
+823
+00:31:24,480 --> 00:31:26,820
+uni et là j'ai un chef d'or dans l'autre
+
+824
+00:31:26,820 --> 00:31:28,919
+projet qui permet de retirer le fond
+
+825
+00:31:28,919 --> 00:31:31,039
+vert
+
+826
+00:31:31,460 --> 00:31:34,260
+et donc maintenant si on fait play
+
+827
+00:31:34,260 --> 00:31:37,260
+théoriquement
+
+828
+00:31:37,440 --> 00:31:42,919
+on va avoir notre fameux jeu vidéo
+
+829
+00:31:45,799 --> 00:31:48,299
+comme pour l'autre elle est un peu
+
+830
+00:31:48,299 --> 00:31:50,279
+écrasée parce que on n'a pas changé le
+
+831
+00:31:50,279 --> 00:31:51,960
+clipping c'est à dire la façon dont la
+
+832
+00:31:51,960 --> 00:31:53,100
+texture se comporte par rapport à
+
+833
+00:31:53,100 --> 00:31:55,380
+l'objet l'objet en a et la vidéo le
+
+834
+00:31:55,380 --> 00:31:57,659
+départ mais voilà on a notre fameux
+
+835
+00:31:57,659 --> 00:32:00,679
+crapaud d'Orient ici
+
+836
+00:32:01,860 --> 00:32:03,539
+dernière étape du coup maintenant c'est
+
+837
+00:32:03,539 --> 00:32:06,120
+mettre des textures des objets on peut
+
+838
+00:32:06,120 --> 00:32:06,860
+mettre
+
+839
+00:32:06,860 --> 00:32:09,240
+avant de commencer sur la VR on va
+
+840
+00:32:09,240 --> 00:32:11,220
+dessiner un peu dans la pièce je vais te
+
+841
+00:32:11,220 --> 00:32:12,120
+montrer comment on fait pour apporter
+
+842
+00:32:12,120 --> 00:32:14,039
+depuis un site web
+
+843
+00:32:14,039 --> 00:32:17,539
+alors qu'est-ce que j'entends par là
+
+844
+00:32:18,299 --> 00:32:19,919
+vous avez des sites web de
+
+845
+00:32:19,919 --> 00:32:21,659
+téléchargement
+
+846
+00:32:21,659 --> 00:32:24,720
+vous avez la sex Store
+
+847
+00:32:24,720 --> 00:32:26,279
+qui est un peu trop compliqué pour cette
+
+848
+00:32:26,279 --> 00:32:27,480
+vidéo qui dit allons donc j'ai juste
+
+849
+00:32:27,480 --> 00:32:29,399
+vous montrer qu'il existe et basiquement
+
+850
+00:32:29,399 --> 00:32:30,600
+dans Unity quand vous avez un compte
+
+851
+00:32:30,600 --> 00:32:31,980
+Unity vous pouvez aller sur la 7 Store
+
+852
+00:32:31,980 --> 00:32:36,059
+et dire j'ai besoin de d'arbres
+
+853
+00:32:36,059 --> 00:32:38,240
+ici
+
+854
+00:32:41,960 --> 00:32:45,419
+officiel de limites en anglais et donc
+
+855
+00:32:45,419 --> 00:32:47,100
+ici vous voyez que si je dois d'arbre il
+
+856
+00:32:47,100 --> 00:32:49,140
+y a plein d'armes il y en a des très
+
+857
+00:32:49,140 --> 00:32:50,700
+beaux très lourds il y en a des très
+
+858
+00:32:50,700 --> 00:32:52,860
+petits alors lopolis il y en a qui sont
+
+859
+00:32:52,860 --> 00:32:54,480
+plus sur les risques il y en a qui sont
+
+860
+00:32:54,480 --> 00:32:55,620
+dans les gros paquets je lui ai payants
+
+861
+00:32:55,620 --> 00:32:57,600
+il y en a qui sont à 5 euros voilà c'est
+
+862
+00:32:57,600 --> 00:32:59,580
+il faut trouver son petit bonheur la
+
+863
+00:32:59,580 --> 00:33:01,380
+chance le télécharger et il faut trouver
+
+864
+00:33:01,380 --> 00:33:03,360
+une sorte de charte graphique pour ton
+
+865
+00:33:03,360 --> 00:33:05,279
+jeu c'est si tu télécharges des jeux des
+
+866
+00:33:05,279 --> 00:33:06,779
+arbres lopoly et des arbres alpolis
+
+867
+00:33:06,779 --> 00:33:07,980
+c'est pas la même chose donc voilà ils
+
+868
+00:33:07,980 --> 00:33:09,299
+ont pas la même vue quoi mais vous
+
+869
+00:33:09,299 --> 00:33:10,679
+pouvez aller là-bas vous dites de
+
+870
+00:33:10,679 --> 00:33:12,779
+télécharger et en fait il va ouvrir une
+
+871
+00:33:12,779 --> 00:33:14,519
+ici d'ailleurs vu que tu es connecté sur
+
+872
+00:33:14,519 --> 00:33:15,720
+le compte on va peut-être parce que tu
+
+873
+00:33:15,720 --> 00:33:17,340
+as créé un compte apparemment on va
+
+874
+00:33:17,340 --> 00:33:19,019
+prendre un truc gratuit là on va dire
+
+875
+00:33:19,019 --> 00:33:21,480
+qu'on les veut
+
+876
+00:33:21,480 --> 00:33:23,840
+voilà on dit qu'on accepte la condition
+
+877
+00:33:23,840 --> 00:33:26,279
+ici va nous dire c'est bon tu l'as dans
+
+878
+00:33:26,279 --> 00:33:27,899
+tes licences de trucs gratuits que tu as
+
+879
+00:33:27,899 --> 00:33:29,700
+ajouté sur ton compte donc on peut on
+
+880
+00:33:29,700 --> 00:33:31,919
+dit de l'ouvrir dans Unity il va ouvrir
+
+881
+00:33:31,919 --> 00:33:33,299
+ce qu'on appelle le package manager qui
+
+882
+00:33:33,299 --> 00:33:34,620
+permet de facilement gérer les assets
+
+883
+00:33:34,620 --> 00:33:37,080
+qu'on télécharge sur l'ordinateur donc
+
+884
+00:33:37,080 --> 00:33:40,019
+tu vois qu'ici il va chercher la 7 on
+
+885
+00:33:40,019 --> 00:33:42,000
+dit qu'on veut le télécharger donc
+
+886
+00:33:42,000 --> 00:33:43,440
+finalement ça va ça va pas être trop
+
+887
+00:33:43,440 --> 00:33:46,080
+compliqué on lit quand le télécharger on
+
+888
+00:33:46,080 --> 00:33:48,480
+l'apporte et alors ici il nous dit qu'il
+
+889
+00:33:48,480 --> 00:33:50,100
+y a ah oui il nous dit en fait vous êtes
+
+890
+00:33:50,100 --> 00:33:51,659
+toujours en plein mode donc vous pouvez
+
+891
+00:33:51,659 --> 00:33:53,399
+pas la porter arrêtez des temples évoque
+
+892
+00:33:53,399 --> 00:33:56,700
+la porte là il me dit ok tu es sûr de
+
+893
+00:33:56,700 --> 00:33:58,320
+vouloir les porter si tu apportes voilà
+
+894
+00:33:58,320 --> 00:33:59,460
+tout ce que je vais apporter ou je vais
+
+895
+00:33:59,460 --> 00:34:00,899
+le télé pas chargé effectivement tout
+
+896
+00:34:00,899 --> 00:34:03,240
+est nouveau pour toi quoi tu peux
+
+897
+00:34:03,240 --> 00:34:05,279
+décocher certains si tu aimes pas
+
+898
+00:34:05,279 --> 00:34:07,620
+on va dire oui
+
+899
+00:34:07,620 --> 00:34:09,300
+et là en fait il va nous télécharger ce
+
+900
+00:34:09,300 --> 00:34:10,918
+qu'on appelle un asset et dans les
+
+901
+00:34:10,918 --> 00:34:14,219
+assets on est on a cette notion de les
+
+902
+00:34:14,219 --> 00:34:15,239
+choses doivent être plus ou moins
+
+903
+00:34:15,239 --> 00:34:16,918
+rangées plus ou moins propres donc vous
+
+904
+00:34:16,918 --> 00:34:18,480
+voyez qu'on a un dossier propre à la 7
+
+905
+00:34:18,480 --> 00:34:19,918
+je vous invite à faire pareil pour votre
+
+906
+00:34:19,918 --> 00:34:22,260
+projet c'est de faire par exemple ici à
+
+907
+00:34:22,260 --> 00:34:24,080
+dossier
+
+908
+00:34:24,080 --> 00:34:27,980
+vous appelez mon beau projet
+
+909
+00:34:28,440 --> 00:34:30,540
+ok vous prenez tout ce qu'il y a dedans
+
+910
+00:34:30,540 --> 00:34:33,119
+sauve évidemment le truc que vous avez
+
+911
+00:34:33,119 --> 00:34:36,000
+apporté du web et vous le déposez dedans
+
+912
+00:34:36,000 --> 00:34:38,339
+comme ça quand quelqu'un apporte la
+
+913
+00:34:38,339 --> 00:34:40,080
+scène de culture d'autres il ne va pas
+
+914
+00:34:40,080 --> 00:34:41,580
+se mélanger avec les autres vous avez
+
+915
+00:34:41,580 --> 00:34:43,320
+votre propre dossier c'est quelque chose
+
+916
+00:34:43,320 --> 00:34:44,540
+qu'il faut vraiment faire
+
+917
+00:34:44,540 --> 00:34:47,280
+moi je suis pas discipliné mais c'est
+
+918
+00:34:47,280 --> 00:34:48,418
+aussi pour ça que mes projets ils
+
+919
+00:34:48,418 --> 00:34:50,280
+échouent c'est parce que si vous n'êtes
+
+920
+00:34:50,280 --> 00:34:51,359
+pas discipliné dans la programmation
+
+921
+00:34:51,359 --> 00:34:52,859
+dans le fait d'être propre dans vos
+
+922
+00:34:52,859 --> 00:34:54,000
+projets d'être propre dans les noms
+
+923
+00:34:54,000 --> 00:34:54,839
+d'être propre dans la faute
+
+924
+00:34:54,839 --> 00:34:55,800
+d'orthographe que vous laissez dans vos
+
+925
+00:34:55,800 --> 00:34:57,780
+projets ça vous revient à la figure un
+
+926
+00:34:57,780 --> 00:34:59,460
+peu plus tard parce qu'en fait c'est
+
+927
+00:34:59,460 --> 00:35:00,420
+très facile de faire un projet
+
+928
+00:35:00,420 --> 00:35:02,400
+rapidement mais le préfère un projet qui
+
+929
+00:35:02,400 --> 00:35:04,560
+tient à la longueur c'est un autre défi
+
+930
+00:35:04,560 --> 00:35:08,420
+mais ici c'est pas le sujet
+
+931
+00:35:50,220 --> 00:35:52,440
+on a le JR mais il est en mauve parce
+
+932
+00:35:52,440 --> 00:35:54,060
+qu'il comprend pas la il comprend pas le
+
+933
+00:35:54,060 --> 00:35:54,980
+matériel
+
+934
+00:35:54,980 --> 00:35:56,760
+donc en fait comment est-ce qu'on fait
+
+935
+00:35:56,760 --> 00:35:59,460
+pour changer on vient ici on regarde la
+
+936
+00:35:59,460 --> 00:36:00,599
+texture que le gars avait utilisé
+
+937
+00:36:00,599 --> 00:36:04,380
+d'accord on passe plus en standard mais
+
+938
+00:36:04,380 --> 00:36:05,960
+en Universal 22
+
+939
+00:36:05,960 --> 00:36:08,820
+Lite et alors si il a perdu la texture
+
+940
+00:36:08,820 --> 00:36:10,079
+ici on va aller lui remettre tu vois ici
+
+941
+00:36:10,079 --> 00:36:12,060
+il a perdu on va aller prendre la
+
+942
+00:36:12,060 --> 00:36:13,079
+texture on va essayer de lui remettre
+
+943
+00:36:13,079 --> 00:36:16,440
+comme on peut et tout on a pas joli arme
+
+944
+00:36:16,440 --> 00:36:20,880
+voilà c'est pas perdu perdu c'est juste
+
+945
+00:36:20,880 --> 00:36:22,859
+qu'il faut le rendre compatible avec le
+
+946
+00:36:22,859 --> 00:36:24,599
+nouveau système comparé à l'ancien
+
+947
+00:36:24,599 --> 00:36:27,200
+d'accord mais maintenant on a un joli
+
+948
+00:36:27,200 --> 00:36:29,460
+et ça c'est ce qu'on appelle un préfab
+
+949
+00:36:29,460 --> 00:36:30,540
+alors comment est-ce que je sais que
+
+950
+00:36:30,540 --> 00:36:31,380
+c'est la préface c'est parce que vous
+
+951
+00:36:31,380 --> 00:36:32,820
+voyez il y a le carré il est bleuté
+
+952
+00:36:32,820 --> 00:36:35,099
+comme ça en fait l'avantage d'après Fab
+
+953
+00:36:35,099 --> 00:36:37,260
+c'est que tu peux faire ceci admettons
+
+954
+00:36:37,260 --> 00:36:39,420
+tu fais ton arme tu fais un deuxième tu
+
+955
+00:36:39,420 --> 00:36:40,560
+fais un troisième tu fais un quatrième
+
+956
+00:36:40,560 --> 00:36:43,200
+et tu le déplace un peu
+
+957
+00:36:43,200 --> 00:36:44,760
+ici
+
+958
+00:36:44,760 --> 00:36:47,579
+voilà et à un moment donné tu dis ah
+
+959
+00:36:47,579 --> 00:36:48,900
+ ce serait quand même chouette
+
+960
+00:36:48,900 --> 00:36:51,119
+désolé pour le qui est un
+
+961
+00:36:51,119 --> 00:36:53,359
+écureuil dans l'arbre
+
+962
+00:36:53,359 --> 00:36:57,060
+ici hop une petite sphère qui représente
+
+963
+00:36:57,060 --> 00:37:01,380
+l'écureuil ici tu le rétréci
+
+964
+00:37:01,380 --> 00:37:03,300
+et tu dis ah c'est chouette l'écureuil
+
+965
+00:37:03,300 --> 00:37:04,380
+mais je sens bien que l'écureuil soit
+
+966
+00:37:04,380 --> 00:37:06,180
+dans tous les arts mais est-ce que tu
+
+967
+00:37:06,180 --> 00:37:07,619
+vas faire c'est que tu vas aller sous le
+
+968
+00:37:07,619 --> 00:37:09,060
+truc bleu ici un truc blanc qui
+
+969
+00:37:09,060 --> 00:37:11,700
+représente l'écureuil et tu vas aller
+
+970
+00:37:11,700 --> 00:37:13,680
+ici dans l'inspecteur ce qui permet de
+
+971
+00:37:13,680 --> 00:37:15,599
+voir les scripts les couleurs les tous
+
+972
+00:37:15,599 --> 00:37:17,460
+les trucs dans les secteur tu vas lui
+
+973
+00:37:17,460 --> 00:37:19,680
+dire j'aimerais bien écraser mon préfet
+
+974
+00:37:19,680 --> 00:37:21,300
+d'avant
+
+975
+00:37:21,300 --> 00:37:24,300
+et il y a un écureuil sur tous les arts
+
+976
+00:37:24,300 --> 00:37:26,880
+ok imagine toi tu fais une ville et que
+
+977
+00:37:26,880 --> 00:37:27,780
+tu as des lampadaires et que tu dois
+
+978
+00:37:27,780 --> 00:37:30,599
+changer 1000 lampadaire
+
+979
+00:37:30,599 --> 00:37:33,000
+ça va être chaud alors je vais pas vous
+
+980
+00:37:33,000 --> 00:37:34,560
+expliquer ça en détail parce que il vous
+
+981
+00:37:34,560 --> 00:37:36,180
+faudrait vraiment étudier un peu inutile
+
+982
+00:37:36,180 --> 00:37:37,440
+pour le comprendre mais il faut savoir
+
+983
+00:37:37,440 --> 00:37:38,700
+que vous pouvez faire des préfabes dans
+
+984
+00:37:38,700 --> 00:37:39,780
+des préfabes dans des préfab dans des
+
+985
+00:37:39,780 --> 00:37:41,400
+pré-fables vous pouvez faire une ville
+
+986
+00:37:41,400 --> 00:37:43,619
+qui est après Fab dans la ville vous
+
+987
+00:37:43,619 --> 00:37:44,820
+avez des lampadaires qui sont après
+
+988
+00:37:44,820 --> 00:37:46,680
+fables la lampe est elle-même après
+
+989
+00:37:46,680 --> 00:37:48,180
+fable ça veut dire si tu changes la
+
+990
+00:37:48,180 --> 00:37:49,320
+lampe ça change tous les lampadaires
+
+991
+00:37:49,320 --> 00:37:50,880
+sauf ceux qui ont fait un truc
+
+992
+00:37:50,880 --> 00:37:53,160
+spécialisé et si tu changes le
+
+993
+00:37:53,160 --> 00:37:54,599
+lampadaire bah ça a changé tous les
+
+994
+00:37:54,599 --> 00:37:55,859
+lampadaires donc c'est tu peux aller
+
+995
+00:37:55,859 --> 00:37:57,480
+choisir qui tu mets à jour dans ton
+
+996
+00:37:57,480 --> 00:37:59,820
+architecture de préférence ok c'est un
+
+997
+00:37:59,820 --> 00:38:01,260
+peu compliqué ceux qui sont perdus c'est
+
+998
+00:38:01,260 --> 00:38:02,700
+pas grave ça viendrait avec le temps et
+
+999
+00:38:02,700 --> 00:38:04,560
+avec les tutos et voilà comment on fait
+
+1000
+00:38:04,560 --> 00:38:06,540
+pour apporter un asset 3D quand il est
+
+1001
+00:38:06,540 --> 00:38:08,160
+tout fait sauf que quand vous apportez
+
+1002
+00:38:08,160 --> 00:38:09,960
+un assiette 3D
+
+1003
+00:38:09,960 --> 00:38:12,000
+depuis un autre site Web admettons que
+
+1004
+00:38:12,000 --> 00:38:14,400
+je vais sur sketchup
+
+1005
+00:38:14,400 --> 00:38:16,200
+qui a un autre site qui permet de donner
+
+1006
+00:38:16,200 --> 00:38:18,359
+des équipes de publier des essais 3D
+
+1007
+00:38:18,359 --> 00:38:20,520
+pour le jeu vidéo mais ici pas Unity
+
+1008
+00:38:20,520 --> 00:38:22,800
+juste de la 3D je vais son sketch Fab et
+
+1009
+00:38:22,800 --> 00:38:26,460
+je dis que je veux un écureuil il y en a
+
+1010
+00:38:26,460 --> 00:38:28,760
+un écureuil
+
+1011
+00:38:30,800 --> 00:38:34,579
+je sais plus comment on écrit ce que
+
+1012
+00:38:40,460 --> 00:38:42,420
+alors vous voyez qu'il y a plein de
+
+1013
+00:38:42,420 --> 00:38:43,520
+trucs sont payants
+
+1014
+00:38:43,520 --> 00:38:45,240
+ce que vous pouvez faire c'est vous
+
+1015
+00:38:45,240 --> 00:38:46,500
+mettez download parce que au moins là
+
+1016
+00:38:46,500 --> 00:38:47,339
+vous savez que vous pouvez le
+
+1017
+00:38:47,339 --> 00:38:49,740
+télécharger il reste il restera des
+
+1018
+00:38:49,740 --> 00:38:51,180
+trucs payants on va chercher un truc qui
+
+1019
+00:38:51,180 --> 00:38:53,520
+est gratuit donc on va ouvrir celui-là
+
+1020
+00:38:53,520 --> 00:38:55,619
+ouvrir celui-là on va essayer de trouver
+
+1021
+00:38:55,619 --> 00:38:57,480
+quelque chose de Doctor Who qui est
+
+1022
+00:38:57,480 --> 00:38:58,980
+gratuit
+
+1023
+00:38:58,980 --> 00:39:00,839
+voilà comment on peut savoir si le
+
+1024
+00:39:00,839 --> 00:39:02,880
+gratuit c'est pas le voir de l'extérieur
+
+1025
+00:39:02,880 --> 00:39:04,859
+moi je les ouvre et puis je vais voir et
+
+1026
+00:39:04,859 --> 00:39:06,540
+je regarde est-ce qu'il était payant tu
+
+1027
+00:39:06,540 --> 00:39:08,220
+vois là il y a pas payant alors quand tu
+
+1028
+00:39:08,220 --> 00:39:09,359
+le télécharges tu as aussi le nombre de
+
+1029
+00:39:09,359 --> 00:39:10,380
+triangles tu vois que je te disais que
+
+1030
+00:39:10,380 --> 00:39:11,760
+c'était important en attirant ici tu as
+
+1031
+00:39:11,760 --> 00:39:13,260
+8000 triangles pour pouvoir faire ceci
+
+1032
+00:39:13,260 --> 00:39:16,260
+d'accord ça prend déjà pas mal ça prend
+
+1033
+00:39:16,260 --> 00:39:18,619
+déjà pas mal
+
+1034
+00:39:18,619 --> 00:39:21,660
+ça dépend des trucs mais ouais ça monte
+
+1035
+00:39:21,660 --> 00:39:23,280
+alors le problème c'est qu'il faut créer
+
+1036
+00:39:23,280 --> 00:39:24,900
+un compte pour faire ça donc je sais pas
+
+1037
+00:39:24,900 --> 00:39:27,020
+si tu peux
+
+1038
+00:39:27,020 --> 00:39:29,160
+essayer de me connecter via mon compte
+
+1039
+00:39:29,160 --> 00:39:33,320
+google alors je fais un altable
+
+1040
+00:39:40,099 --> 00:39:41,880
+donc là il est en train de créer un
+
+1041
+00:39:41,880 --> 00:39:43,140
+compte SketchUp pour qu'on puisse aller
+
+1042
+00:39:43,140 --> 00:39:44,760
+télécharger un asset la scène est
+
+1043
+00:39:44,760 --> 00:39:45,720
+gratuit mais il faut quand même savoir
+
+1044
+00:39:45,720 --> 00:39:47,160
+que c'est vous qui le téléchargez pour
+
+1045
+00:39:47,160 --> 00:39:49,680
+le créateur
+
+1046
+00:39:49,680 --> 00:39:51,119
+il accepte les terres il a mis son
+
+1047
+00:39:51,119 --> 00:39:52,560
+adresse ici on lui demande il veut
+
+1048
+00:39:52,560 --> 00:39:56,420
+acheter du découvrir
+
+1049
+00:40:01,160 --> 00:40:04,500
+le profil ça va être de
+
+1050
+00:40:04,500 --> 00:40:09,680
+de on s'en fout développeurs développeur
+
+1051
+00:40:11,420 --> 00:40:13,619
+donc on va pouvoir télécharger il faut
+
+1052
+00:40:13,619 --> 00:40:15,180
+revenir sur l'ancien donc je sais pas
+
+1053
+00:40:15,180 --> 00:40:16,500
+regarde peut-être les autres alors du
+
+1054
+00:40:16,500 --> 00:40:17,180
+coup
+
+1055
+00:40:17,180 --> 00:40:20,540
+ils ont réussi
+
+1056
+00:40:23,420 --> 00:40:26,160
+à 21000 c'est beaucoup mieux on peut le
+
+1057
+00:40:26,160 --> 00:40:28,440
+mettre ouais vas-y télécharge-le c'est
+
+1058
+00:40:28,440 --> 00:40:30,500
+pas grave
+
+1059
+00:40:40,280 --> 00:40:43,200
+alors celui-là il a même un skybox un
+
+1060
+00:40:43,200 --> 00:40:44,640
+skybox c'est quoi c'est quand vous
+
+1061
+00:40:44,640 --> 00:40:46,020
+voulez voir le ciel si vous le mettez
+
+1062
+00:40:46,020 --> 00:40:47,460
+très loin dans le jeu vous allez avoir
+
+1063
+00:40:47,460 --> 00:40:48,720
+l'impression que c'est le ciel parce que
+
+1064
+00:40:48,720 --> 00:40:50,760
+ça bouge pas et donc en fait c'est juste
+
+1065
+00:40:50,760 --> 00:40:52,619
+une grosse sphère ou une boîte sur
+
+1066
+00:40:52,619 --> 00:40:54,119
+laquelle on met une texture vers
+
+1067
+00:40:54,119 --> 00:40:55,619
+l'intérieur et on se retrouve comme s'il
+
+1068
+00:40:55,619 --> 00:40:57,839
+y avait un ciel tu l'as téléchargé ou
+
+1069
+00:40:57,839 --> 00:40:59,660
+pas
+
+1070
+00:40:59,660 --> 00:41:02,160
+tout à l'heure il veut que je me
+
+1071
+00:41:02,160 --> 00:41:05,460
+connecte F5
+
+1072
+00:41:12,920 --> 00:41:14,760
+vous avez des objets que vous pouvez
+
+1073
+00:41:14,760 --> 00:41:17,460
+télécharger en OBG ou en FBX ici on n'a
+
+1074
+00:41:17,460 --> 00:41:19,680
+pas FBX et on a d'autres formats en fait
+
+1075
+00:41:19,680 --> 00:41:21,420
+tous les éditeurs 3D ils ont des formats
+
+1076
+00:41:21,420 --> 00:41:24,119
+différents et ici voir Unity on a FBX ou
+
+1077
+00:41:24,119 --> 00:41:26,060
+BG donc tu peux télécharger un objet
+
+1078
+00:41:26,060 --> 00:41:28,140
+sachant que les autres formats c'est
+
+1079
+00:41:28,140 --> 00:41:31,020
+juste sketch Fab ce SketchUp qui
+
+1080
+00:41:31,020 --> 00:41:32,579
+convertit en plein d'autres formats pour
+
+1081
+00:41:32,579 --> 00:41:33,599
+que vous puissent plus facilement le
+
+1082
+00:41:33,599 --> 00:41:35,220
+télécharger et du coup ce que je prends
+
+1083
+00:41:35,220 --> 00:41:37,079
+les deux et je publie directement tu vas
+
+1084
+00:41:37,079 --> 00:41:38,400
+devoir les extraire parce que là tu es
+
+1085
+00:41:38,400 --> 00:41:39,780
+dans WinRAR
+
+1086
+00:41:39,780 --> 00:41:41,460
+donc tu dois d'abord faire extraire le
+
+1087
+00:41:41,460 --> 00:41:43,800
+truc je peux pas le tu peux pas juste le
+
+1088
+00:41:43,800 --> 00:41:45,119
+glisser sur Youtube d'abord que tu
+
+1089
+00:41:45,119 --> 00:41:46,859
+l'extrait de ton winra et si je veux
+
+1090
+00:41:46,859 --> 00:41:48,660
+directement dans le dossier ouais tu
+
+1091
+00:41:48,660 --> 00:41:51,119
+peux alors c'est dans le je sais pas où
+
+1092
+00:41:51,119 --> 00:41:53,900
+tu l'as téléchargé donc
+
+1093
+00:41:55,339 --> 00:41:58,800
+dans le C non moi je parle de ton winra
+
+1094
+00:41:58,800 --> 00:42:01,140
+tu l'as exporté haut dans le
+
+1095
+00:42:01,140 --> 00:42:03,380
+téléchargement
+
+1096
+00:42:05,400 --> 00:42:06,839
+moi ce que je voulais faire c'est de
+
+1097
+00:42:06,839 --> 00:42:09,260
+laisser ça directement
+
+1098
+00:42:10,339 --> 00:42:13,040
+affiché tu vois
+
+1099
+00:42:13,040 --> 00:42:15,180
+maintenant ça tu peux copier ça dans
+
+1100
+00:42:15,180 --> 00:42:18,119
+Unity je le mets en fait tu vas aller
+
+1101
+00:42:18,119 --> 00:42:19,320
+dans Unity attends avant de faire ça
+
+1102
+00:42:19,320 --> 00:42:20,400
+avant de faire et un truc qui est très
+
+1103
+00:42:20,400 --> 00:42:23,040
+important et typiquement et pour la
+
+1104
+00:42:23,040 --> 00:42:24,839
+propreté aussi c'est que tu veux aller
+
+1105
+00:42:24,839 --> 00:42:27,020
+dans la 7 tu vas créer un dossier
+
+1106
+00:42:27,020 --> 00:42:29,760
+voilà le dossier tu l'as appelé par
+
+1107
+00:42:29,760 --> 00:42:33,020
+exemple from web
+
+1108
+00:42:35,300 --> 00:42:38,520
+normalement il faut pas d'espace mais
+
+1109
+00:42:38,520 --> 00:42:40,079
+si tu respectes l'incompréhension alpha
+
+1110
+00:42:40,079 --> 00:42:42,180
+numérique on veut juste pas avoir de
+
+1111
+00:42:42,180 --> 00:42:43,740
+problème ici et créer un truc qui
+
+1112
+00:42:43,740 --> 00:42:45,660
+s'appelle TARDIS pour pas mélanger tous
+
+1113
+00:42:45,660 --> 00:42:46,260
+les trucs
+
+1114
+00:42:46,260 --> 00:42:49,439
+[Musique]
+
+1115
+00:42:49,880 --> 00:42:52,740
+on va chaud inexplorer parce qu'on peut
+
+1116
+00:42:52,740 --> 00:42:54,900
+pas déposer des liens dans les métiers
+
+1117
+00:42:54,900 --> 00:42:56,940
+directement
+
+1118
+00:42:56,940 --> 00:43:00,000
+on va aller sur le truc du TARDIS on va
+
+1119
+00:43:00,000 --> 00:43:01,200
+prendre ce lien on va le faire glisser
+
+1120
+00:43:01,200 --> 00:43:03,480
+et on va le mettre ici vu que les liens
+
+1121
+00:43:03,480 --> 00:43:05,220
+ils sont trop longs on va les rappeler
+
+1122
+00:43:05,220 --> 00:43:08,579
+source comme ça vous n'oubliez pas de où
+
+1123
+00:43:08,579 --> 00:43:10,440
+vous êtes allé chercher la 7 parce que
+
+1124
+00:43:10,440 --> 00:43:12,060
+si vous publiez le jeu à jour il faut
+
+1125
+00:43:12,060 --> 00:43:13,859
+demander l'autorisation et il faut aussi
+
+1126
+00:43:13,859 --> 00:43:16,440
+demander le créditer en fonction de la
+
+1127
+00:43:16,440 --> 00:43:18,780
+licence donc ici on va mettre ça en
+
+1128
+00:43:18,780 --> 00:43:20,160
+disant là c'est du développement on
+
+1129
+00:43:20,160 --> 00:43:21,560
+s'amuse mais plus tard il faut retourner
+
+1130
+00:43:21,560 --> 00:43:25,680
+d'accord donc en tout cas éthiquement
+
+1131
+00:43:25,680 --> 00:43:27,180
+c'est c'est comme ça quand on devrait
+
+1132
+00:43:27,180 --> 00:43:28,619
+s'y prendre
+
+1133
+00:43:28,619 --> 00:43:32,700
+alors on va déposer ça ici voilà on va
+
+1134
+00:43:32,700 --> 00:43:34,920
+retourner dans Unity et on a notre
+
+1135
+00:43:34,920 --> 00:43:36,839
+projet d'accord alors comme tu peux voir
+
+1136
+00:43:36,839 --> 00:43:38,819
+ici on a un dossier source de ces
+
+1137
+00:43:38,819 --> 00:43:41,460
+textures source apparemment ça vas-y
+
+1138
+00:43:41,460 --> 00:43:44,960
+donc on va devoir aller les IP
+
+1139
+00:43:47,780 --> 00:43:50,819
+fermé oui
+
+1140
+00:43:50,819 --> 00:43:55,380
+on va revenir voilà on a un dossier dans
+
+1141
+00:43:55,380 --> 00:43:56,760
+ce dossier comme tu peux voir il a mis
+
+1142
+00:43:56,760 --> 00:43:58,260
+des images de présentation des trucs
+
+1143
+00:43:58,260 --> 00:43:59,700
+comme ça nous ce qu'on a besoin c'est de
+
+1144
+00:43:59,700 --> 00:44:01,560
+ce truc là parce qu'en fait ici il a
+
+1145
+00:44:01,560 --> 00:44:04,280
+fait un skybox avec
+
+1146
+00:44:04,319 --> 00:44:07,500
+voilà et alors si j'ai des zoome on peut
+
+1147
+00:44:07,500 --> 00:44:08,940
+voir que l'objet il est immense parce
+
+1148
+00:44:08,940 --> 00:44:10,319
+que ce qu'on peut alors comment est-ce
+
+1149
+00:44:10,319 --> 00:44:11,720
+que je sais qu'il est immense
+
+1150
+00:44:11,720 --> 00:44:14,180
+parce qu'on voyait
+
+1151
+00:44:14,180 --> 00:44:16,859
+je sais pas ça s'appelle le nucléping au
+
+1152
+00:44:16,859 --> 00:44:18,140
+jambon
+
+1153
+00:44:18,140 --> 00:44:20,880
+dézoomé des zoom et des omets et que si
+
+1154
+00:44:20,880 --> 00:44:22,440
+par exemple tu viens ici et que tu crées
+
+1155
+00:44:22,440 --> 00:44:24,780
+un objet cube il a une dimension de 1 1
+
+1156
+00:44:24,780 --> 00:44:27,660
+en fait la notion de a ça veut pas dire
+
+1157
+00:44:27,660 --> 00:44:29,280
+que c'est un mètre mais vu que beaucoup
+
+1158
+00:44:29,280 --> 00:44:31,740
+de codes vont utiliser a comme à mettre
+
+1159
+00:44:31,740 --> 00:44:32,760
+il y a beaucoup de choses qui vont
+
+1160
+00:44:32,760 --> 00:44:33,900
+bugger si tu fais trop grand ou trop
+
+1161
+00:44:33,900 --> 00:44:36,000
+petit donc ici moi je mets un cube pour
+
+1162
+00:44:36,000 --> 00:44:37,260
+savoir que c'est ce que c'est à mettre
+
+1163
+00:44:37,260 --> 00:44:40,140
+et alors soit tu l'édites ici en disant
+
+1164
+00:44:40,140 --> 00:44:41,579
+bah moi en fait il devait être beaucoup
+
+1165
+00:44:41,579 --> 00:44:45,000
+moins grand donc ceci et alors là il va
+
+1166
+00:44:45,000 --> 00:44:47,160
+te le rétrécir très petit soit ce que tu
+
+1167
+00:44:47,160 --> 00:44:48,900
+fais c'est que tu prends le Tardis qui
+
+1168
+00:44:48,900 --> 00:44:52,319
+est qu'on a déposé ici
+
+1169
+00:44:52,319 --> 00:44:54,660
+tu lui crées apparent parce que c'est
+
+1170
+00:44:54,660 --> 00:44:55,800
+toujours bien d'avoir parents qui
+
+1171
+00:44:55,800 --> 00:44:57,780
+englobe un objet 3D parce que si il
+
+1172
+00:44:57,780 --> 00:44:59,640
+change il va tout péter dedans tu vois
+
+1173
+00:44:59,640 --> 00:45:01,560
+donc c'est pas ses parents tu vas pas
+
+1174
+00:45:01,560 --> 00:45:03,680
+l'appeler
+
+1175
+00:45:03,720 --> 00:45:06,720
+tard
+
+1176
+00:45:10,140 --> 00:45:11,339
+pourquoi prefab c'est juste pour
+
+1177
+00:45:11,339 --> 00:45:13,380
+rappeler que ça va être l'objet qui va
+
+1178
+00:45:13,380 --> 00:45:17,540
+être à copier si tu veux je pense
+
+1179
+00:45:17,540 --> 00:45:20,460
+c'était pas dérangeant alors on va
+
+1180
+00:45:20,460 --> 00:45:22,079
+prendre ce pré-femme là et on va le
+
+1181
+00:45:22,079 --> 00:45:24,119
+mettre là bas comme ça en fait on a un
+
+1182
+00:45:24,119 --> 00:45:25,800
+objet qu'on peut dragon drop mais vu que
+
+1183
+00:45:25,800 --> 00:45:27,020
+c'est quand même plus pratique de savoir
+
+1184
+00:45:27,020 --> 00:45:29,280
+qu'il est là et qu'on a juste à le
+
+1185
+00:45:29,280 --> 00:45:31,260
+dragon drop on va le déposer plus dans
+
+1186
+00:45:31,260 --> 00:45:34,260
+la racine de TARDIS ici on le truc de
+
+1187
+00:45:34,260 --> 00:45:36,119
+départ on va créer un dossier qui
+
+1188
+00:45:36,119 --> 00:45:38,780
+s'appelle préfab
+
+1189
+00:45:40,319 --> 00:45:41,359
+voilà
+
+1190
+00:45:41,359 --> 00:45:43,619
+dedans on va les déposer notre objet
+
+1191
+00:45:43,619 --> 00:45:45,300
+comme ça le prochain qui vient ici où
+
+1192
+00:45:45,300 --> 00:45:46,200
+aller chercher l'objet à déposer
+
+1193
+00:45:46,200 --> 00:45:49,500
+d'accord maintenant notre préfab on peut
+
+1194
+00:45:49,500 --> 00:45:50,700
+aller l'éditer en cliquant sur le petit
+
+1195
+00:45:50,700 --> 00:45:54,720
+flèche là-bas d'accord alors soit on les
+
+1196
+00:45:54,720 --> 00:45:56,640
+dites là-bas directement le problème
+
+1197
+00:45:56,640 --> 00:45:57,660
+c'est qu'on va pas voir l'environnement
+
+1198
+00:45:57,660 --> 00:45:59,700
+autour de nous pour le calibrer tu vois
+
+1199
+00:45:59,700 --> 00:46:01,260
+donc ce qu'on va aller plutôt aller
+
+1200
+00:46:01,260 --> 00:46:04,380
+faire déjà c'est le mettre en 0,0
+
+1201
+00:46:04,380 --> 00:46:07,079
+comme ceci on va mettre le cube qu'on a
+
+1202
+00:46:07,079 --> 00:46:10,740
+créé tantôt pour calibrer en 0,0 aussi
+
+1203
+00:46:10,740 --> 00:46:12,420
+voilà
+
+1204
+00:46:12,420 --> 00:46:14,520
+on peut voir que ça correspond déjà plus
+
+1205
+00:46:14,520 --> 00:46:16,980
+ou moins à la valeur de ce que préfables
+
+1206
+00:46:16,980 --> 00:46:20,220
+devrait faire de ce que la boxe à ton
+
+1207
+00:46:20,220 --> 00:46:21,420
+avis elles font quoi 2 mètres 3 mètres
+
+1208
+00:46:21,420 --> 00:46:25,160
+comme ça le Tardis
+
+1209
+00:46:26,119 --> 00:46:28,380
+en hauteur on va mettre qui fait 2 m
+
+1210
+00:46:28,380 --> 00:46:31,980
+d'accord et ici on va le mettre à 0.5
+
+1211
+00:46:31,980 --> 00:46:34,640
+comme ça
+
+1212
+00:46:36,599 --> 00:46:39,180
+donc là il devrait faire ça le Tardis ok
+
+1213
+00:46:39,180 --> 00:46:41,160
+d'accord donc on va aller dans notre
+
+1214
+00:46:41,160 --> 00:46:43,859
+TARDIS on va vérifier que le poids est
+
+1215
+00:46:43,859 --> 00:46:46,099
+bien 0,0 ici il est bien 00
+
+1216
+00:46:46,099 --> 00:46:49,920
+on prend le Tardis l'objet tardif on va
+
+1217
+00:46:49,920 --> 00:46:53,480
+le déplacer comme ça ici on va aller ici
+
+1218
+00:46:53,480 --> 00:46:55,500
+ça ce que je fais c'est ce qu'on appelle
+
+1219
+00:46:55,500 --> 00:46:57,680
+le métier là c'est être attegrateur
+
+1220
+00:46:57,680 --> 00:46:59,880
+c'est à dire faire en sorte que les
+
+1221
+00:46:59,880 --> 00:47:01,579
+trucs que les artistes nous envoient
+
+1222
+00:47:01,579 --> 00:47:04,859
+soit prêt à être utilisé dans le jeu on
+
+1223
+00:47:04,859 --> 00:47:06,839
+intègre des assets 3D que les gens nous
+
+1224
+00:47:06,839 --> 00:47:08,880
+ont fait c'est un métier dans le jeu
+
+1225
+00:47:08,880 --> 00:47:11,000
+vidéo
+
+1226
+00:47:11,540 --> 00:47:13,619
+on prépare les trucs et on les prépare
+
+1227
+00:47:13,619 --> 00:47:15,359
+pour être sur le store par exemple voilà
+
+1228
+00:47:15,359 --> 00:47:19,280
+on va dire que ça c'est notre TARDIS
+
+1229
+00:47:20,540 --> 00:47:22,319
+alors maintenant on va aller appliquer
+
+1230
+00:47:22,319 --> 00:47:24,780
+pour qu'il écrase l'ancienne version OK
+
+1231
+00:47:24,780 --> 00:47:26,819
+et ça effectivement c'est ce que
+
+1232
+00:47:26,819 --> 00:47:28,619
+j'appelais une skybox tout autour tu
+
+1233
+00:47:28,619 --> 00:47:30,720
+peux voir c'est une grosse paire où on a
+
+1234
+00:47:30,720 --> 00:47:32,339
+inversé le truc on a appliqué une image
+
+1235
+00:47:32,339 --> 00:47:34,560
+ok si vous faites de la photo 360 dans
+
+1236
+00:47:34,560 --> 00:47:36,599
+votre projet venez me voir et c'est
+
+1237
+00:47:36,599 --> 00:47:38,220
+basiquement j'ai des cours ou des trucs
+
+1238
+00:47:38,220 --> 00:47:40,079
+que je peux vous passer qui parle un peu
+
+1239
+00:47:40,079 --> 00:47:41,940
+de ça comment on aplati une image une
+
+1240
+00:47:41,940 --> 00:47:43,740
+image dessus OK et lui il a fait pour
+
+1241
+00:47:43,740 --> 00:47:46,200
+pouvoir avoir un ciel
+
+1242
+00:47:46,200 --> 00:47:48,180
+voilà voilà donc là on a un objet 3D
+
+1243
+00:47:48,180 --> 00:47:49,619
+qu'on a apporté c'est cool alors
+
+1244
+00:47:49,619 --> 00:47:51,000
+maintenant le truc c'est qu'il y a un
+
+1245
+00:47:51,000 --> 00:47:52,380
+dernier point et puis alors après on va
+
+1246
+00:47:52,380 --> 00:47:53,880
+arrêter la vidéo sauf si tu as plus le
+
+1247
+00:47:53,880 --> 00:47:55,500
+temps
+
+1248
+00:47:55,500 --> 00:47:56,460
+ce qui te reste encore un peu de temps
+
+1249
+00:47:56,460 --> 00:48:00,140
+ou pas c'est pour le dessin 3D
+
+1250
+00:48:00,680 --> 00:48:02,579
+si vous avez encore le temps de regarder
+
+1251
+00:48:02,579 --> 00:48:04,500
+la vidéo avec nous alors restez donc là
+
+1252
+00:48:04,500 --> 00:48:06,119
+on vous a montré comment importer une
+
+1253
+00:48:06,119 --> 00:48:08,579
+image une vidéo un asset 3D de l'asset
+
+1254
+00:48:08,579 --> 00:48:10,680
+Store ou un asset du magasin maintenant
+
+1255
+00:48:10,680 --> 00:48:12,180
+ce qui nous apporte c'est de prendre la
+
+1256
+00:48:12,180 --> 00:48:14,280
+calibration de la pièce alors comment
+
+1257
+00:48:14,280 --> 00:48:16,079
+est-ce que je fais ça j'utilise un truc
+
+1258
+00:48:16,079 --> 00:48:18,960
+qui s'appelle open brush XR donc on va
+
+1259
+00:48:18,960 --> 00:48:21,140
+aller sur sidequest
+
+1260
+00:48:21,140 --> 00:48:23,040
+je crois que c'est sur ça avec quoi
+
+1261
+00:48:23,040 --> 00:48:25,020
+est-ce qu'on va le trouver mais
+
+1262
+00:48:25,020 --> 00:48:27,660
+on va brancher le casque et on va
+
+1263
+00:48:27,660 --> 00:48:28,740
+installer un outil qui permet de
+
+1264
+00:48:28,740 --> 00:48:31,560
+dessiner en VR
+
+1265
+00:48:31,560 --> 00:48:35,099
+donc je lance le ouais tu peux lancer le
+
+1266
+00:48:35,099 --> 00:48:37,140
+stream
+
+1267
+00:48:37,140 --> 00:48:40,220
+tu peux mettre le casque
+
+1268
+00:48:40,619 --> 00:48:42,859
+voilà
+
+1269
+00:48:43,500 --> 00:48:45,480
+alors ici nous ce qu'on va chercher sur
+
+1270
+00:48:45,480 --> 00:48:49,220
+side Quest c'est open
+
+1271
+00:48:56,720 --> 00:49:00,060
+on va aller télécharger a priori c'est
+
+1272
+00:49:00,060 --> 00:49:01,700
+une application oculus donc on va devoir
+
+1273
+00:49:01,700 --> 00:49:03,500
+dire ok
+
+1274
+00:49:03,500 --> 00:49:05,880
+sachant que moi je l'ai déjà ajouté sur
+
+1275
+00:49:05,880 --> 00:49:07,140
+le compte moling donc si vous êtes sur
+
+1276
+00:49:07,140 --> 00:49:09,420
+des cases de molengeek vous avez déjà
+
+1277
+00:49:09,420 --> 00:49:12,480
+l'application installée faites get comme
+
+1278
+00:49:12,480 --> 00:49:15,480
+ceci et vous allez la voir alors là en
+
+1279
+00:49:15,480 --> 00:49:16,520
+l'occurrence je crois que tu l'as déjà
+
+1280
+00:49:16,520 --> 00:49:19,079
+sur ton compte parce que là je suis sur
+
+1281
+00:49:19,079 --> 00:49:20,579
+ton compte et parce que celui de je vais
+
+1282
+00:49:20,579 --> 00:49:23,540
+aller voir ta vue donc tu peux aller
+
+1283
+00:49:23,540 --> 00:49:27,240
+cherche dans Open brush dans le menu vu
+
+1284
+00:49:27,240 --> 00:49:28,319
+que c'est une application officielle tu
+
+1285
+00:49:28,319 --> 00:49:30,980
+devrais peut-être la voir
+
+1286
+00:49:34,980 --> 00:49:38,400
+alors ici pour pouvoir faire la suite il
+
+1287
+00:49:38,400 --> 00:49:41,579
+va falloir débrancher le câble donc on
+
+1288
+00:49:41,579 --> 00:49:44,760
+va aller faire ça alors comment est-ce
+
+1289
+00:49:44,760 --> 00:49:46,339
+que je vais faire pour
+
+1290
+00:49:46,339 --> 00:49:48,599
+du coup il va falloir que je quitte à
+
+1291
+00:49:48,599 --> 00:49:50,099
+nouveau ouais mais je sais pas si on
+
+1292
+00:49:50,099 --> 00:49:51,000
+débranchant on va faire la connexion
+
+1293
+00:49:51,000 --> 00:49:53,940
+j'essaye voilà la connexion donc il vaut
+
+1294
+00:49:53,940 --> 00:49:55,980
+il faut le remettre en wifi
+
+1295
+00:49:55,980 --> 00:49:57,500
+mais le jeu ici
+
+1296
+00:49:57,500 --> 00:50:01,400
+on a perdu la vue
+
+1297
+00:50:05,160 --> 00:50:07,220
+alors
+
+1298
+00:50:07,220 --> 00:50:09,420
+on va aller ici on va dire qu'on veut
+
+1299
+00:50:09,420 --> 00:50:11,520
+que le casque par contre je l'ai
+
+1300
+00:50:11,520 --> 00:50:12,960
+toujours pas redécuté le cas si tu le
+
+1301
+00:50:12,960 --> 00:50:15,720
+vois ou il dit pas autoriser si j'ai eu
+
+1302
+00:50:15,720 --> 00:50:18,660
+un truc j'ai mis autorisé on va dire
+
+1303
+00:50:18,660 --> 00:50:20,700
+qu'on veut du wifi encore une fois il
+
+1304
+00:50:20,700 --> 00:50:21,900
+faut que vous ayez une bonne borne Wi-Fi
+
+1305
+00:50:21,900 --> 00:50:23,960
+bon truc wifi pour faire ce que je fais
+
+1306
+00:50:23,960 --> 00:50:27,680
+on va dire qu'on veut le débrancher ici
+
+1307
+00:50:27,680 --> 00:50:31,020
+pour que ce soit bon
+
+1308
+00:50:31,020 --> 00:50:34,380
+je peux enlever le câble voilà on va
+
+1309
+00:50:34,380 --> 00:50:36,540
+lancer le stream en croquant pour de
+
+1310
+00:50:36,540 --> 00:50:39,060
+voir que ça avec des yeux
+
+1311
+00:50:39,060 --> 00:50:41,819
+voilà alors là en fait maintenant ce que
+
+1312
+00:50:41,819 --> 00:50:42,900
+vous pouvez voir c'est un outil de
+
+1313
+00:50:42,900 --> 00:50:44,220
+dessin donc vous voyez là est-ce qu'il
+
+1314
+00:50:44,220 --> 00:50:45,920
+voit c'est un outil de dessin
+
+1315
+00:50:45,920 --> 00:50:48,540
+le petit dessin il va permettre de
+
+1316
+00:50:48,540 --> 00:50:49,440
+dessiner est-ce que tu veux que je fasse
+
+1317
+00:50:49,440 --> 00:50:50,839
+des mots du coup pour ça
+
+1318
+00:50:50,839 --> 00:50:53,839
+ouais
+
+1319
+00:50:54,800 --> 00:50:58,260
+dans les menus chercher le l'outil pour
+
+1320
+00:50:58,260 --> 00:51:01,640
+pouvoir voir en réalité augmentée
+
+1321
+00:51:03,319 --> 00:51:05,900
+l'essayer
+
+1322
+00:51:05,900 --> 00:51:09,300
+alors j'ai monté la caméra pour que on
+
+1323
+00:51:09,300 --> 00:51:10,800
+voit un peu plus
+
+1324
+00:51:10,800 --> 00:51:13,099
+donc
+
+1325
+00:51:15,480 --> 00:51:17,640
+est-ce qu'on voit toujours mon image ok
+
+1326
+00:51:17,640 --> 00:51:20,480
+parce que moi on voit
+
+1327
+00:51:20,540 --> 00:51:24,140
+ton corps mais pas ta tête
+
+1328
+00:51:25,920 --> 00:51:27,119
+la on va essayer de calibrer la fenêtre
+
+1329
+00:51:27,119 --> 00:51:28,619
+en fait
+
+1330
+00:51:28,619 --> 00:51:30,900
+admettons
+
+1331
+00:51:30,900 --> 00:51:33,660
+ok vous voyez la fenêtre ici admettons
+
+1332
+00:51:33,660 --> 00:51:34,619
+qu'on veut que ça se Vienne au tableau
+
+1333
+00:51:34,619 --> 00:51:37,680
+blanc d'accord on va prendre le casque
+
+1334
+00:51:37,680 --> 00:51:40,680
+comme ceci
+
+1335
+00:51:40,680 --> 00:51:43,260
+on va suivre le tuto qui en fait nous
+
+1336
+00:51:43,260 --> 00:51:45,240
+dit juste de pointer le laser tourner le
+
+1337
+00:51:45,240 --> 00:51:46,680
+menu donc ça c'est un menu qui permet de
+
+1338
+00:51:46,680 --> 00:51:48,480
+dessiner d'accord vous là vous
+
+1339
+00:51:48,480 --> 00:51:50,119
+choisissez la couleur rouge
+
+1340
+00:51:50,119 --> 00:51:52,800
+là vous choisissez si vous voulez que ce
+
+1341
+00:51:52,800 --> 00:51:54,960
+soit un peu du feu que ce soit un
+
+1342
+00:51:54,960 --> 00:51:57,059
+arc-en-ciel des choses comme ça donc
+
+1343
+00:51:57,059 --> 00:52:00,619
+c'est un outil de dessin OK
+
+1344
+00:52:00,619 --> 00:52:05,180
+on va aller dans les options ici
+
+1345
+00:52:05,180 --> 00:52:07,140
+environnement et on va dire qu'on veut
+
+1346
+00:52:07,140 --> 00:52:10,559
+le passe sous donc je répète on lance le
+
+1347
+00:52:10,559 --> 00:52:13,520
+Quest le jeu c'est à dire on vient ici
+
+1348
+00:52:13,520 --> 00:52:16,980
+environnement passe et maintenant je te
+
+1349
+00:52:16,980 --> 00:52:18,660
+vois donc du coup je te dessiner dans la
+
+1350
+00:52:18,660 --> 00:52:20,339
+veille du coup maintenant en fait ce qui
+
+1351
+00:52:20,339 --> 00:52:21,839
+se passe c'est que le point là-bas il
+
+1352
+00:52:21,839 --> 00:52:24,059
+est pas totalement au bout du truc donc
+
+1353
+00:52:24,059 --> 00:52:25,619
+c'est on va juste faire quelque chose
+
+1354
+00:52:25,619 --> 00:52:27,000
+qui n'est pas précis il y a d'autres
+
+1355
+00:52:27,000 --> 00:52:28,140
+logiciels où c'est beaucoup plus précis
+
+1356
+00:52:28,140 --> 00:52:29,940
+que celui-ci mais celui-là il est il est
+
+1357
+00:52:29,940 --> 00:52:31,380
+facile à télécharger il est bien donc
+
+1358
+00:52:31,380 --> 00:52:33,359
+voilà j'ai pris celui-là je prends ma
+
+1359
+00:52:33,359 --> 00:52:35,099
+manette
+
+1360
+00:52:35,099 --> 00:52:37,559
+je l'ai dit
+
+1361
+00:52:37,559 --> 00:52:40,319
+et je vais longer mon doigt en frottant
+
+1362
+00:52:40,319 --> 00:52:43,819
+la paroi alors qu'à la limite
+
+1363
+00:52:43,819 --> 00:52:48,839
+mais tu vois ici on va pouvoir dessiner
+
+1364
+00:52:48,839 --> 00:52:52,380
+comme ceci la paroi
+
+1365
+00:52:52,380 --> 00:52:53,640
+alors vous allez me dire il y a pas
+
+1366
+00:52:53,640 --> 00:52:54,900
+moyen de faire autre chose que je
+
+1367
+00:52:54,900 --> 00:52:56,339
+dessinais mais de prendre directement à
+
+1368
+00:52:56,339 --> 00:52:58,460
+la mesure
+
+1369
+00:52:58,559 --> 00:53:00,599
+alors oui
+
+1370
+00:53:00,599 --> 00:53:02,480
+on voit les ici vous voyez dessiner
+
+1371
+00:53:02,480 --> 00:53:05,579
+attention carton d’air j'ai décidé la
+
+1372
+00:53:05,579 --> 00:53:07,680
+zone de la vitre problème c'est que
+
+1373
+00:53:07,680 --> 00:53:09,300
+c'est la zone par rapport à quoi par
+
+1374
+00:53:09,300 --> 00:53:10,500
+rapport à un mur alors moi ce que je
+
+1375
+00:53:10,500 --> 00:53:11,579
+fais généralement c'est que je fais une
+
+1376
+00:53:11,579 --> 00:53:12,960
+croix pour un mieux pour dire ceci
+
+1377
+00:53:12,960 --> 00:53:16,200
+établir vous voyez et ici il faut un sol
+
+1378
+00:53:16,200 --> 00:53:18,420
+donc je mets une croix vous pouvez aussi
+
+1379
+00:53:18,420 --> 00:53:20,160
+si vous voulez être plus précis mettre
+
+1380
+00:53:20,160 --> 00:53:21,960
+le truc comme ça et faire une sorte de
+
+1381
+00:53:21,960 --> 00:53:23,339
+rond
+
+1382
+00:53:23,339 --> 00:53:25,800
+juste pour pouvoir avoir des zones des
+
+1383
+00:53:25,800 --> 00:53:27,980
+encres de calibration
+
+1384
+00:53:27,980 --> 00:53:30,240
+donc si vous voulez le mur on fait le
+
+1385
+00:53:30,240 --> 00:53:32,160
+mur
+
+1386
+00:53:32,160 --> 00:53:33,420
+si on veut par exemple ceci si c'était
+
+1387
+00:53:33,420 --> 00:53:37,040
+important le mieux est ici on ferait hop
+
+1388
+00:53:37,040 --> 00:53:40,460
+mais ici hop hop hop
+
+1389
+00:53:40,460 --> 00:53:42,480
+le but c'est de faire plein de petits
+
+1390
+00:53:42,480 --> 00:53:43,800
+pois de repère qu'on va pouvoir utiliser
+
+1391
+00:53:43,800 --> 00:53:45,859
+dans Unity après ok
+
+1392
+00:53:45,859 --> 00:53:48,839
+par exemple la porte ici c'est important
+
+1393
+00:53:48,839 --> 00:53:51,180
+pour le jeûne on va la calibrer sauf que
+
+1394
+00:53:51,180 --> 00:53:52,260
+si vous voulez vous pouvez mettre la
+
+1395
+00:53:52,260 --> 00:53:53,700
+latte
+
+1396
+00:53:53,700 --> 00:53:57,000
+et la latte elle permet de faire ceci
+
+1397
+00:53:57,000 --> 00:54:00,420
+vous voyez là
+
+1398
+00:54:00,839 --> 00:54:03,780
+on va mettre la cloche ici alors je vais
+
+1399
+00:54:03,780 --> 00:54:05,700
+sortir de la ville dans ma vie
+
+1400
+00:54:05,700 --> 00:54:07,200
+alors vous pouvez voir que si je chante
+
+1401
+00:54:07,200 --> 00:54:09,119
+de la limite il va me demander de
+
+1402
+00:54:09,119 --> 00:54:10,920
+recréer le dernier
+
+1403
+00:54:10,920 --> 00:54:12,240
+si je me rapproche il va peut-être
+
+1404
+00:54:12,240 --> 00:54:14,520
+essayer de le retrouver
+
+1405
+00:54:14,520 --> 00:54:16,200
+il va le retrouver mais voyez que j'ai
+
+1406
+00:54:16,200 --> 00:54:17,940
+perdu la notion alors j'ai plus le truc
+
+1407
+00:54:17,940 --> 00:54:19,040
+au même endroit
+
+1408
+00:54:19,040 --> 00:54:21,480
+on va s'arrêter là pour celui-là du coup
+
+1409
+00:54:21,480 --> 00:54:23,400
+est-ce qu'on a de toute façon on a le
+
+1410
+00:54:23,400 --> 00:54:24,960
+dessus la porte on a la clash on a la
+
+1411
+00:54:24,960 --> 00:54:25,980
+truffe on va pas mettre la porte on va
+
+1412
+00:54:25,980 --> 00:54:27,380
+juste mettre la fenêtre
+
+1413
+00:54:27,380 --> 00:54:30,359
+mais du coup là tu vois tu l'as fait la
+
+1414
+00:54:30,359 --> 00:54:32,180
+fenêtre
+
+1415
+00:54:32,180 --> 00:54:35,819
+alors comme tu peux voir en fait si vous
+
+1416
+00:54:35,819 --> 00:54:36,960
+changez la taille c'est plus la bonne
+
+1417
+00:54:36,960 --> 00:54:37,980
+taille donc il faut essayer de trouver
+
+1418
+00:54:37,980 --> 00:54:41,940
+la juste totale ok ok ici c'est vu que
+
+1419
+00:54:41,940 --> 00:54:42,960
+c'est un outil de dessin vous pouvez
+
+1420
+00:54:42,960 --> 00:54:44,760
+faire admettons que j'ai envie de
+
+1421
+00:54:44,760 --> 00:54:48,000
+dessiner voilà
+
+1422
+00:54:53,040 --> 00:54:55,030
+et c'est un humain éléphant
+
+1423
+00:54:55,030 --> 00:54:56,760
+[Musique]
+
+1424
+00:54:56,760 --> 00:54:59,180
+OK
+
+1425
+00:55:02,579 --> 00:55:04,319
+et voilà comment on fait du prototypage
+
+1426
+00:55:04,319 --> 00:55:07,020
+rapide magnifique éléphant pour mon jeu
+
+1427
+00:55:07,020 --> 00:55:09,140
+vidéo
+
+1428
+00:55:12,980 --> 00:55:15,240
+on peut changer basiquement c'est un
+
+1429
+00:55:15,240 --> 00:55:17,460
+petit dessin d'accord alors maintenant
+
+1430
+00:55:17,460 --> 00:55:21,000
+pour exporter on va dedans on enregistre
+
+1431
+00:55:21,000 --> 00:55:22,280
+on fait un magnifique
+
+1432
+00:55:22,280 --> 00:55:24,599
+dessin en éléphant avec la fenêtre
+
+1433
+00:55:24,599 --> 00:55:26,640
+derrière
+
+1434
+00:55:26,640 --> 00:55:27,920
+voilà
+
+1435
+00:55:27,920 --> 00:55:32,400
+on va retourner ici dans les setting on
+
+1436
+00:55:32,400 --> 00:55:34,920
+va vouloir dire qu'on veut elle oublie à
+
+1437
+00:55:34,920 --> 00:55:37,020
+chaque fois où c'est je crois que ça
+
+1438
+00:55:37,020 --> 00:55:37,700
+doit être dans
+
+1439
+00:55:37,700 --> 00:55:39,240
+[Musique]
+
+1440
+00:55:39,240 --> 00:55:40,020
+upload c'est pour mettre en ligne
+
+1441
+00:55:40,020 --> 00:55:41,160
+directement sur votre compte si vous
+
+1442
+00:55:41,160 --> 00:55:42,359
+avez un compte mais ici on n'a pas de
+
+1443
+00:55:42,359 --> 00:55:44,480
+compte
+
+1444
+00:55:47,640 --> 00:55:51,510
+[Musique]
+
+1445
+00:55:54,560 --> 00:55:57,480
+[Musique]
+
+1446
+00:55:57,480 --> 00:55:59,640
+ça c'est pas ça c'est plutôt cool mais
+
+1447
+00:55:59,640 --> 00:56:00,960
+non
+
+1448
+00:56:00,960 --> 00:56:01,920
+je crois qu'il peut peut-être aller
+
+1449
+00:56:01,920 --> 00:56:04,940
+chercher une option avancée
+
+1450
+00:56:09,619 --> 00:56:12,660
+ça c'est ça
+
+1451
+00:56:12,660 --> 00:56:19,280
+ici on a ça peu enregistrer que avant
+
+1452
+00:56:19,280 --> 00:56:22,380
+qu'on a avancé on a plus d'options et du
+
+1453
+00:56:22,380 --> 00:56:24,300
+coup on a aussi plus d'options ici on a
+
+1454
+00:56:24,300 --> 00:56:26,540
+la
+
+1455
+00:56:26,579 --> 00:56:28,500
+ici dans lave alors à toutes les super
+
+1456
+00:56:28,500 --> 00:56:30,000
+marrant c'est que vous pouvez prendre
+
+1457
+00:56:30,000 --> 00:56:32,359
+les objets
+
+1458
+00:56:32,520 --> 00:56:34,020
+ça c'est pour ajuster la taille du brush
+
+1459
+00:56:34,020 --> 00:56:36,960
+c'est le joystick mais vous pouvez
+
+1460
+00:56:36,960 --> 00:56:39,059
+prendre les objets normalement je sais
+
+1461
+00:56:39,059 --> 00:56:41,960
+pas pourquoi je peux pas le prendre ici
+
+1462
+00:56:42,180 --> 00:56:44,640
+voilà vous pouvez prendre les déplacer
+
+1463
+00:56:44,640 --> 00:56:46,200
+il peut même prendre celui-là le
+
+1464
+00:56:46,200 --> 00:56:48,000
+déplacer et mettre là et quand vous en
+
+1465
+00:56:48,000 --> 00:56:50,400
+avez marre avec le jeu de peinture
+
+1466
+00:56:50,400 --> 00:56:53,000
+vous pouvez faire ça
+
+1467
+00:56:53,640 --> 00:56:55,740
+ok on peut pas dire mais certains ils
+
+1468
+00:56:55,740 --> 00:56:56,819
+partent ils disparaissent quand tu fais
+
+1469
+00:56:56,819 --> 00:56:58,200
+ça
+
+1470
+00:56:58,200 --> 00:56:59,700
+bon nous ce qu'on veut c'est exporter
+
+1471
+00:56:59,700 --> 00:57:03,359
+donc on va aller ici export et là en
+
+1472
+00:57:03,359 --> 00:57:05,160
+fait vous voyez il va exporter le truc à
+
+1473
+00:57:05,160 --> 00:57:07,440
+la racine de Android sur le projet
+
+1474
+00:57:07,440 --> 00:57:09,540
+d'accord
+
+1475
+00:57:09,540 --> 00:57:10,859
+plus ou moins tous les outils de dessin
+
+1476
+00:57:10,859 --> 00:57:12,420
+ou un outil exporte il faut juste
+
+1477
+00:57:12,420 --> 00:57:14,819
+trouver où il va et exporter
+
+1478
+00:57:14,819 --> 00:57:16,500
+correctement donc maintenant qu'on a
+
+1479
+00:57:16,500 --> 00:57:19,740
+fait ça on va pouvoir enlever le casque
+
+1480
+00:57:19,740 --> 00:57:22,319
+sachant qu'il y a plein de petits et que
+
+1481
+00:57:22,319 --> 00:57:24,059
+c'est plus il y aura cours sur le dessin
+
+1482
+00:57:24,059 --> 00:57:26,160
+samedi où je ferai une vidéo en
+
+1483
+00:57:26,160 --> 00:57:27,720
+expliquant les outils de dessin que vous
+
+1484
+00:57:27,720 --> 00:57:29,339
+pouvez utiliser
+
+1485
+00:57:29,339 --> 00:57:30,960
+maintenant où est-ce qu'on peut le
+
+1486
+00:57:30,960 --> 00:57:32,940
+retrouver alors maintenant comment
+
+1487
+00:57:32,940 --> 00:57:35,420
+est-ce qu'on va le retrouver ok
+
+1488
+00:57:35,420 --> 00:57:38,700
+on va connecter notre Quest au PC avec
+
+1489
+00:57:38,700 --> 00:57:41,119
+le câble
+
+1490
+00:57:42,119 --> 00:57:44,480
+s'il te plaît
+
+1491
+00:57:45,780 --> 00:57:48,920
+alors normalement le volume sera le bon
+
+1492
+00:57:48,920 --> 00:57:52,200
+normalement la dimension sera bonne mais
+
+1493
+00:57:52,200 --> 00:57:53,880
+si jamais les dimensions ne sont plus
+
+1494
+00:57:53,880 --> 00:57:57,200
+bonnes qu'est-ce que vous devez faire
+
+1495
+00:58:07,440 --> 00:58:10,020
+chercher un truc qui est stable alors
+
+1496
+00:58:10,020 --> 00:58:13,619
+ici on sait que c'est
+
+1497
+00:58:15,599 --> 00:58:19,980
+17 10 117 cm donc c'est dans Android
+
+1498
+00:58:19,980 --> 00:58:22,200
+data c'est ça alors voilà maintenant que
+
+1499
+00:58:22,200 --> 00:58:23,940
+tu la connecter tu peux soit t'y aller
+
+1500
+00:58:23,940 --> 00:58:26,040
+par Windows soit y aller par
+
+1501
+00:58:26,040 --> 00:58:28,640
+oculus Quest par sidequest
+
+1502
+00:58:28,640 --> 00:58:32,900
+alors il faut aller dans Android
+
+1503
+00:58:32,900 --> 00:58:35,339
+peut-être pas ici tu vois qu'il y a un
+
+1504
+00:58:35,339 --> 00:58:36,839
+dossier qui s'appelle openbrush faut
+
+1505
+00:58:36,839 --> 00:58:39,000
+trouver faut aller sur google tu
+
+1506
+00:58:39,000 --> 00:58:41,160
+demandes openbrush il exporte où il va
+
+1507
+00:58:41,160 --> 00:58:43,740
+dire le dossier et ici c'est ça il a pas
+
+1508
+00:58:43,740 --> 00:58:44,880
+mis dedans on n'est pas mis dedans donc
+
+1509
+00:58:44,880 --> 00:58:46,940
+c'est untitle
+
+1510
+00:58:46,940 --> 00:58:50,280
+en entier 1 2 sur entier ouais ok il va
+
+1511
+00:58:50,280 --> 00:58:52,140
+voir pourquoi bah du coup juste je fais
+
+1512
+00:58:52,140 --> 00:58:54,299
+marche arrière alors on va faire open
+
+1513
+00:58:54,299 --> 00:58:56,240
+brush
+
+1514
+00:58:56,240 --> 00:58:59,640
+exporte et on va les copier untitle 0
+
+1515
+00:58:59,640 --> 00:59:02,280
+celui-là il faut l'extraire alors la
+
+1516
+00:59:02,280 --> 00:59:03,960
+question c'est pourquoi est-ce
+
+1517
+00:59:03,960 --> 00:59:06,720
+qu'il c'est pas grave reviens en arrière
+
+1518
+00:59:06,720 --> 00:59:09,780
+voilà et là tu vois tu as enregistré ok
+
+1519
+00:59:09,780 --> 00:59:12,000
+sélectionner la jambe droite et tu vas
+
+1520
+00:59:12,000 --> 00:59:13,079
+aller le mettre dans notre projet
+
+1521
+00:59:13,079 --> 00:59:15,200
+inutile
+
+1522
+00:59:20,460 --> 00:59:23,180
+ment
+
+1523
+00:59:24,680 --> 00:59:26,520
+on va créer un dossier qu'on va appeler
+
+1524
+00:59:26,520 --> 00:59:29,579
+openbrush pour que on perce pas les
+
+1525
+00:59:29,579 --> 00:59:32,180
+trucs d'origine
+
+1526
+00:59:42,740 --> 00:59:45,059
+finalement elle terminera dans le projet
+
+1527
+00:59:45,059 --> 00:59:48,440
+final ah oui
+
+1528
+00:59:49,160 --> 00:59:52,799
+alors voilà c'est exporter donc
+
+1529
+00:59:52,799 --> 00:59:54,119
+maintenant qu'on a exporter on va aller
+
+1530
+00:59:54,119 --> 00:59:55,440
+dans une ici pour voir un peu à quoi ça
+
+1531
+00:59:55,440 --> 00:59:57,960
+ressemble donc ici il est en train de
+
+1532
+00:59:57,960 --> 01:00:00,299
+charger il a reçu c'est ça donc on va
+
+1533
+01:00:00,299 --> 01:00:04,200
+pouvoir aller dans à 7
+
+1534
+01:00:04,200 --> 01:00:08,280
+et là c'est ça on a on a le truc ici et
+
+1535
+01:00:08,280 --> 01:00:11,000
+ça ressemble à deux choses on a a
+
+1536
+01:00:11,000 --> 01:00:14,880
+GLB et de une image pour en fait les
+
+1537
+01:00:14,880 --> 01:00:17,299
+différents pinceaux qu'on a utilisés ok
+
+1538
+01:00:17,299 --> 01:00:19,140
+le truc n'est que nous on s'en fout un
+
+1539
+01:00:19,140 --> 01:00:20,339
+peu du pinceau parce que c'est pas notre
+
+1540
+01:00:20,339 --> 01:00:22,020
+type dessin enfin on peut faire si vous
+
+1541
+01:00:22,020 --> 01:00:23,339
+voulez faire du dessin en VR à ce moment
+
+1542
+01:00:23,339 --> 01:00:24,599
+là il faudrait avoir quelque chose à
+
+1543
+01:00:24,599 --> 01:00:26,099
+faire du pinceau est-ce que je peux le
+
+1544
+01:00:26,099 --> 01:00:27,780
+glisser directement dedans alors non
+
+1545
+01:00:27,780 --> 01:00:28,920
+parce qu'en fait tu peux voir que le
+
+1546
+01:00:28,920 --> 01:00:32,220
+format c'est GLB OK et JLB Unity connais
+
+1547
+01:00:32,220 --> 01:00:33,900
+pas donc la raison pour laquelle je vous
+
+1548
+01:00:33,900 --> 01:00:35,520
+ai fait télécharger critable blender
+
+1549
+01:00:35,520 --> 01:00:37,020
+c'est parce qu'il y a des choses qu'on
+
+1550
+01:00:37,020 --> 01:00:38,940
+ne fait pas de limites donc ici
+
+1551
+01:00:38,940 --> 01:00:40,079
+basiquement comment est-ce qu'on va
+
+1552
+01:00:40,079 --> 01:00:41,400
+faire
+
+1553
+01:00:41,400 --> 01:00:44,760
+on va ouvrir ici et on voit GLB on va
+
+1554
+01:00:44,760 --> 01:00:46,799
+prendre ce lien
+
+1555
+01:00:46,799 --> 01:00:49,380
+on va aller dans Blender que vous avez
+
+1556
+01:00:49,380 --> 01:00:51,599
+installé dans la version a de la dans la
+
+1557
+01:00:51,599 --> 01:00:54,920
+partie 1 de cette vidéo de cette journée
+
+1558
+01:00:59,339 --> 01:01:00,599
+il faudra peut-être un peu de temps que
+
+1559
+01:01:00,599 --> 01:01:02,900
+ce soit
+
+1560
+01:01:04,559 --> 01:01:06,180
+alors une fois qu'on va avoir au bout
+
+1561
+01:01:06,180 --> 01:01:09,180
+d'un blender on va voilà on va virer
+
+1562
+01:01:09,180 --> 01:01:10,920
+tout ce qu'il y a dedans donc c'est à
+
+1563
+01:01:10,920 --> 01:01:14,359
+dire ça on va faire supprimer
+
+1564
+01:01:17,299 --> 01:01:20,339
+tout court pas besoin d'Unity c'est un
+
+1565
+01:01:20,339 --> 01:01:22,440
+truc qui fait de la 3D mais il est
+
+1566
+01:01:22,440 --> 01:01:24,420
+pratique quand tu fais de la 3D pour le
+
+1567
+01:01:24,420 --> 01:01:27,559
+jeu vidéo donc on va l'utiliser
+
+1568
+01:01:28,640 --> 01:01:30,540
+ça passe bien c'est mieux que le noir
+
+1569
+01:01:30,540 --> 01:01:32,280
+mais c'est il y a plein de logiciel qui
+
+1570
+01:01:32,280 --> 01:01:33,319
+sont noirs
+
+1571
+01:01:33,319 --> 01:01:36,180
+on va dire qu'on veut apporter ici dans
+
+1572
+01:01:36,180 --> 01:01:38,700
+fichier apporter et on va chercher le
+
+1573
+01:01:38,700 --> 01:01:40,319
+format que on a eu et le format
+
+1574
+01:01:40,319 --> 01:01:43,260
+apparemment c'était GLB tu le vois ou
+
+1575
+01:01:43,260 --> 01:01:44,180
+pas
+
+1576
+01:01:44,180 --> 01:01:47,099
+il y a celui-là peut-être
+
+1577
+01:01:47,099 --> 01:01:49,140
+voilà on va dire où est-ce qu'il est il
+
+1578
+01:01:49,140 --> 01:01:50,760
+est là-bas et oui il le voit donc
+
+1579
+01:01:50,760 --> 01:01:53,480
+apporter et
+
+1580
+01:01:53,480 --> 01:01:59,480
+hop voilà à quoi ressemble notre truc 3D
+
+1581
+01:01:59,880 --> 01:02:01,559
+on a notre magnifique éléphant un autre
+
+1582
+01:02:01,559 --> 01:02:03,059
+pièce qui est renversé pourquoi il
+
+1583
+01:02:03,059 --> 01:02:04,700
+renversé à ton avis
+
+1584
+01:02:04,700 --> 01:02:08,720
+parce que mon Guizmo est renversé
+
+1585
+01:02:09,680 --> 01:02:12,119
+différents par exemple tu vois dans une
+
+1586
+01:02:12,119 --> 01:02:15,420
+y c'était le Z et le Z c'était le y ok
+
+1587
+01:02:15,420 --> 01:02:17,400
+tu vois
+
+1588
+01:02:17,400 --> 01:02:19,079
+donc ici on du coup maintenant qu'on est
+
+1589
+01:02:19,079 --> 01:02:20,579
+content avec notre objet on va vouloir
+
+1590
+01:02:20,579 --> 01:02:22,440
+l'exporter donc on l'enregistre c'est
+
+1591
+01:02:22,440 --> 01:02:23,819
+pour ça que j'ai supprimé la caméra à la
+
+1592
+01:02:23,819 --> 01:02:25,140
+lumière parce qu'on en a pas besoin d'un
+
+1593
+01:02:25,140 --> 01:02:26,940
+outil donc je vais supprimer les trucs
+
+1594
+01:02:26,940 --> 01:02:29,280
+exporter alors Unity il accepte de
+
+1595
+01:02:29,280 --> 01:02:34,140
+l'objet ou de lève BX la différence faut
+
+1596
+01:02:34,140 --> 01:02:35,339
+aller voir les manuels c'est vraiment
+
+1597
+01:02:35,339 --> 01:02:37,020
+conditionnel est-ce que tu vas faire de
+
+1598
+01:02:37,020 --> 01:02:38,099
+l'animation est-ce que tu vas faire de
+
+1599
+01:02:38,099 --> 01:02:39,780
+l'objet 3D est-ce que c'est plus un
+
+1600
+01:02:39,780 --> 01:02:41,760
+objet ou est-ce que c'est plus de la à
+
+1601
+01:02:41,760 --> 01:02:44,520
+des corps ça va dépendre ici on va
+
+1602
+01:02:44,520 --> 01:02:46,740
+exporter par exemple en VX
+
+1603
+01:02:46,740 --> 01:02:48,480
+et on va enregistrer on va l'enregistrer
+
+1604
+01:02:48,480 --> 01:02:51,900
+juste à côté de l'autre voilà
+
+1605
+01:02:51,900 --> 01:02:55,319
+comme ça voilà on a le truc de source
+
+1606
+01:02:55,319 --> 01:02:56,880
+qu'on peut supprimer si tu veux
+
+1607
+01:02:56,880 --> 01:02:59,280
+supprimer ou l'autre qu'on appelait
+
+1608
+01:02:59,280 --> 01:03:02,700
+Sandro ici on l'appelait et les fans
+
+1609
+01:03:02,700 --> 01:03:06,140
+donc c'est un éléphant c'est
+
+1610
+01:03:09,240 --> 01:03:13,680
+window voilà on retourne dans Unity et
+
+1611
+01:03:13,680 --> 01:03:15,180
+là tu peux voir que maintenant on a un
+
+1612
+01:03:15,180 --> 01:03:17,400
+truc qui est qui semble être lisible ok
+
+1613
+01:03:17,400 --> 01:03:19,319
+on va le déposer dans notre projet
+
+1614
+01:03:19,319 --> 01:03:23,599
+génétique et il est visible
+
+1615
+01:03:24,059 --> 01:03:26,520
+alors le truc c'est que comme tu peux
+
+1616
+01:03:26,520 --> 01:03:28,859
+voir maintenant on a une magnifique
+
+1617
+01:03:28,859 --> 01:03:31,200
+fenêtre et un éléphant et ce qui fait le
+
+1618
+01:03:31,200 --> 01:03:32,839
+bon format à la fenêtre
+
+1619
+01:03:32,839 --> 01:03:35,819
+on va vérifier a priori oui ça a l'air
+
+1620
+01:03:35,819 --> 01:03:37,619
+d'être un bon format maintenant si vous
+
+1621
+01:03:37,619 --> 01:03:40,140
+n'êtes pas sûr vous prenez votre cuve
+
+1622
+01:03:40,140 --> 01:03:42,420
+ici on va le déplacer au niveau de la
+
+1623
+01:03:42,420 --> 01:03:44,299
+fenêtre voilà
+
+1624
+01:03:44,299 --> 01:03:48,119
+on va le
+
+1625
+01:03:48,119 --> 01:03:51,000
+scaler comme ceci
+
+1626
+01:03:51,000 --> 01:03:52,859
+alors le problème c'est que il vaut
+
+1627
+01:03:52,859 --> 01:03:55,079
+mieux pivoter la fenêtre enfin le cube
+
+1628
+01:03:55,079 --> 01:03:57,119
+et le mettre dans le
+
+1629
+01:03:57,119 --> 01:03:59,160
+et sa Windows histoire que poire bouger
+
+1630
+01:03:59,160 --> 01:04:00,380
+les deux
+
+1631
+01:04:00,380 --> 01:04:03,780
+on va prendre notre truc
+
+1632
+01:04:03,780 --> 01:04:05,460
+et ce que je conseille pour la fenêtre
+
+1633
+01:04:05,460 --> 01:04:07,740
+pour ce truc là c'est de prendre la
+
+1634
+01:04:07,740 --> 01:04:09,180
+partie qui est plate et de la faire
+
+1635
+01:04:09,180 --> 01:04:11,520
+correspondre au grillage de Unity pour
+
+1636
+01:04:11,520 --> 01:04:12,720
+que les outils soient plus facile à
+
+1637
+01:04:12,720 --> 01:04:16,020
+gérer qu'ici on va tourner ceci pour que
+
+1638
+01:04:16,020 --> 01:04:18,780
+ça corresponde le mieux possible à des
+
+1639
+01:04:18,780 --> 01:04:20,940
+grillage
+
+1640
+01:04:20,940 --> 01:04:23,240
+tu vois
+
+1641
+01:04:25,880 --> 01:04:27,780
+la grosse ligne qui est là-bas c'est
+
+1642
+01:04:27,780 --> 01:04:29,400
+parce qu'on a téléporté tu sais quand ça
+
+1643
+01:04:29,400 --> 01:04:32,400
+c'était porté ça ça fait une grosse mine
+
+1644
+01:04:32,400 --> 01:04:35,280
+quoi voilà
+
+1645
+01:04:35,280 --> 01:04:36,900
+donc voilà on a notre magnifique fenêtre
+
+1646
+01:04:36,900 --> 01:04:38,460
+donc si vous voyez que je me suis bourré
+
+1647
+01:04:38,460 --> 01:04:40,440
+j'ai mis sur la ligne ici c'est pas
+
+1648
+01:04:40,440 --> 01:04:43,819
+grave on va remettre le l'objet
+
+1649
+01:04:43,819 --> 01:04:46,319
+d'origine ici
+
+1650
+01:04:46,319 --> 01:04:48,660
+on va arrêter le on va l'empêcher de
+
+1651
+01:04:48,660 --> 01:04:53,420
+tourner voilà on va le déplacer ici
+
+1652
+01:04:55,799 --> 01:04:58,020
+comme ceci
+
+1653
+01:04:58,020 --> 01:05:00,900
+on va essayer de zoomer alors on peut
+
+1654
+01:05:00,900 --> 01:05:03,720
+voir qu'elle monte jusqu'ici la fenêtre
+
+1655
+01:05:03,720 --> 01:05:07,559
+que là là voilà
+
+1656
+01:05:07,559 --> 01:05:09,000
+est-ce que ici c'était bon j'en sais
+
+1657
+01:05:09,000 --> 01:05:11,520
+rien je vois pas le trait et ce qu'on
+
+1658
+01:05:11,520 --> 01:05:12,780
+l'a fait on a fait un trait ici ou
+
+1659
+01:05:12,780 --> 01:05:15,619
+normalement
+
+1660
+01:05:15,799 --> 01:05:17,640
+vous vous souvenez que j'ai dit que on
+
+1661
+01:05:17,640 --> 01:05:20,040
+voit un triangle dans ce seul côté ici
+
+1662
+01:05:20,040 --> 01:05:21,960
+et justement la seule côté donc pour
+
+1663
+01:05:21,960 --> 01:05:23,940
+mieux le voir moi ce que je fais c'est
+
+1664
+01:05:23,940 --> 01:05:25,819
+que je crée ici
+
+1665
+01:05:25,819 --> 01:05:29,339
+un matériel
+
+1666
+01:05:29,339 --> 01:05:31,160
+le matériel
+
+1667
+01:05:31,160 --> 01:05:33,380
+des bugs
+
+1668
+01:05:33,380 --> 01:05:36,299
+par exemple je vais le mettre ici en
+
+1669
+01:05:36,299 --> 01:05:38,040
+online
+
+1670
+01:05:38,040 --> 01:05:39,660
+je vais dire que je vais voir des deux
+
+1671
+01:05:39,660 --> 01:05:42,660
+côtés qui soit opaque qui soit bien vert
+
+1672
+01:05:42,660 --> 01:05:43,980
+pétant
+
+1673
+01:05:43,980 --> 01:05:46,020
+voilà et je vais le déposer sur notre
+
+1674
+01:05:46,020 --> 01:05:47,240
+assiette 3D
+
+1675
+01:05:47,240 --> 01:05:50,040
+ça on le voit de tous les côtés et on
+
+1676
+01:05:50,040 --> 01:05:53,579
+peut vraiment savoir où est-ce qu'il est
+
+1677
+01:05:53,579 --> 01:05:56,520
+voilà donc là moi on respecte les
+
+1678
+01:05:56,520 --> 01:05:58,640
+dimensions
+
+1679
+01:05:58,760 --> 01:06:01,079
+de la fenêtre
+
+1680
+01:06:01,079 --> 01:06:02,400
+si vous voulez vraiment une notion
+
+1681
+01:06:02,400 --> 01:06:04,079
+précise vous prendre une latte ou
+
+1682
+01:06:04,079 --> 01:06:05,579
+prendre un rayon pour essayer de trouver
+
+1683
+01:06:05,579 --> 01:06:07,079
+un moyen de calibrer de prendre la bonne
+
+1684
+01:06:07,079 --> 01:06:08,160
+dimension mais des fois pour certains
+
+1685
+01:06:08,160 --> 01:06:10,680
+objets c'est long et chiant
+
+1686
+01:06:10,680 --> 01:06:11,880
+et donc voilà on a notre fenêtre
+
+1687
+01:06:11,880 --> 01:06:14,520
+maintenant si on veut le sol en fait on
+
+1688
+01:06:14,520 --> 01:06:15,799
+a juste besoin de prendre le cube ici
+
+1689
+01:06:15,799 --> 01:06:19,200
+copier faire descendre ici au niveau de
+
+1690
+01:06:19,200 --> 01:06:23,940
+cette de ce truc ici comme ça voilà
+
+1691
+01:06:23,940 --> 01:06:27,180
+on descend ça là-bas on vient ici sur le
+
+1692
+01:06:27,180 --> 01:06:28,799
+côté
+
+1693
+01:06:28,799 --> 01:06:32,660
+on a grandi comme ceci
+
+1694
+01:06:33,000 --> 01:06:35,240
+hop
+
+1695
+01:06:39,720 --> 01:06:42,079
+comme ça
+
+1696
+01:06:42,180 --> 01:06:43,280
+voilà
+
+1697
+01:06:43,280 --> 01:06:45,539
+donc là basiquement c'est le solde
+
+1698
+01:06:45,539 --> 01:06:48,359
+devant la fenêtre avec l'éléphant et on
+
+1699
+01:06:48,359 --> 01:06:49,319
+se retrouve du coup avec la bonne
+
+1700
+01:06:49,319 --> 01:06:51,480
+dimension de notre on peut rajouter des
+
+1701
+01:06:51,480 --> 01:06:53,220
+murs et tout l'idée ici c'est que pour
+
+1702
+01:06:53,220 --> 01:06:54,299
+le hackathon si vous voulez faire un
+
+1703
+01:06:54,299 --> 01:06:55,799
+truc avec la pièce il faut faire la même
+
+1704
+01:06:55,799 --> 01:06:58,380
+chose mais pour toute la pièce et donc
+
+1705
+01:06:58,380 --> 01:06:59,640
+ici pour pouvoir plus facilement
+
+1706
+01:06:59,640 --> 01:07:00,900
+déboguer ce que je fais c'est que je
+
+1707
+01:07:00,900 --> 01:07:02,700
+fais normalement une qui est purement
+
+1708
+01:07:02,700 --> 01:07:06,539
+verte puis j'en fais une deuxième elle
+
+1709
+01:07:06,539 --> 01:07:10,440
+des bugs zone
+
+1710
+01:07:10,440 --> 01:07:13,039
+des bugs
+
+1711
+01:07:15,200 --> 01:07:17,099
+attends j'ai agrandir un peu pour que
+
+1712
+01:07:17,099 --> 01:07:18,799
+les gens puissent lire si vous le dire
+
+1713
+01:07:18,799 --> 01:07:22,280
+je vais mettre ici en transparent
+
+1714
+01:07:22,280 --> 01:07:24,599
+on va aller chercher ça on va les mettre
+
+1715
+01:07:24,599 --> 01:07:28,200
+ça comme ceci voilà encore et ça je vais
+
+1716
+01:07:28,200 --> 01:07:30,660
+aller le l'appliquer sur les zones où je
+
+1717
+01:07:30,660 --> 01:07:32,460
+fais les zones comme ça en fait j'ai des
+
+1718
+01:07:32,460 --> 01:07:33,960
+cuves où je vais pouvoir voir cube dans
+
+1719
+01:07:33,960 --> 01:07:35,940
+un cube par exemple ici vu qu'elle est
+
+1720
+01:07:35,940 --> 01:07:37,140
+transparente si je regarde on peut voir
+
+1721
+01:07:37,140 --> 01:07:39,000
+la différence entre le cube du sol et le
+
+1722
+01:07:39,000 --> 01:07:41,819
+cube de la fenêtre ok je vois et donc
+
+1723
+01:07:41,819 --> 01:07:43,079
+voilà basiquement c'est comme ça qu'on
+
+1724
+01:07:43,079 --> 01:07:44,460
+fait pour apporter des assiettes dans
+
+1725
+01:07:44,460 --> 01:07:46,200
+Unity prendre les mesures de du bâtiment
+
+1726
+01:07:46,200 --> 01:07:49,740
+et tout finalement on parle à part le
+
+1727
+01:07:49,740 --> 01:07:52,140
+côté on va dire imaginaire où il faut
+
+1728
+01:07:52,140 --> 01:07:54,180
+imaginer quelque chose et le créer c'est
+
+1729
+01:07:54,180 --> 01:07:56,480
+pas si compliqué que ça non rien
+
+1730
+01:07:56,480 --> 01:07:59,220
+et vu que il est connu mondialement et
+
+1731
+01:07:59,220 --> 01:08:01,140
+vraiment utilisé il y a énormément
+
+1732
+01:08:01,140 --> 01:08:02,940
+d'informations énormément de gens qui
+
+1733
+01:08:02,940 --> 01:08:03,900
+ont fait des guides énormément parce
+
+1734
+01:08:03,900 --> 01:08:05,039
+qu'ils vont faire français en anglais
+
+1735
+01:08:05,039 --> 01:08:06,720
+tant que vous n'allez pas dans les trucs
+
+1736
+01:08:06,720 --> 01:08:07,740
+spécialisés il y aura toujours bien
+
+1737
+01:08:07,740 --> 01:08:09,500
+quelqu'un qui explique en français
+
+1738
+01:08:09,500 --> 01:08:11,640
+et quand vous comprenez pas en français
+
+1739
+01:08:11,640 --> 01:08:12,960
+il faut essayer de comprendre le
+
+1740
+01:08:12,960 --> 01:08:14,880
+contexte regarder une vidéo en anglais
+
+1741
+01:08:14,880 --> 01:08:16,080
+on est à dire ce que vous voulez et vous
+
+1742
+01:08:16,080 --> 01:08:17,279
+regardez un peu ce qu'il fait et juste
+
+1743
+01:08:17,279 --> 01:08:18,479
+de ça vous essayez de comprendre ce qui
+
+1744
+01:08:18,479 --> 01:08:20,460
+se passe quoi OK
+
+1745
+01:08:20,460 --> 01:08:22,880
+et donc voilà voilà
+
+1746
+01:08:22,880 --> 01:08:25,380
+on va finir cette vidéo sur ceci parce
+
+1747
+01:08:25,380 --> 01:08:28,520
+qu'il se fait tard de notre côté
+
+1748
+01:08:28,520 --> 01:08:30,839
+demain je regarderai si j'aurai le temps
+
+1749
+01:08:30,839 --> 01:08:32,100
+de faire d'autres vidéos tout seul ou
+
+1750
+01:08:32,100 --> 01:08:34,140
+avec Mohamed s'il veut continuer
+
+1751
+01:08:34,140 --> 01:08:36,080
+l'aventure
+
+1752
+01:08:36,080 --> 01:08:37,920
+il nous reste en fait à pouvoir
+
+1753
+01:08:37,920 --> 01:08:40,020
+comprendre mon projet pour pouvoir
+
+1754
+01:08:40,020 --> 01:08:42,859
+placer l'objet par rapport au Guardian
+
+1755
+01:08:42,859 --> 01:08:45,179
+le truc c'est que pour ça on va voir
+
+1756
+01:08:45,179 --> 01:08:46,920
+d'abord demain si on a le temps elle
+
+1757
+01:08:46,920 --> 01:08:47,880
+commence déroule la journée parce que
+
+1758
+01:08:47,880 --> 01:08:49,020
+vous je crois que vous avez fini à midi
+
+1759
+01:08:49,020 --> 01:08:51,238
+et puis vous allez jusqu'à 5h je sais
+
+1760
+01:08:51,238 --> 01:08:53,640
+pas franchement j'ai aucune mais ça
+
+1761
+01:08:53,640 --> 01:08:55,859
+c'est des détails donc on verra après
+
+1762
+01:08:55,859 --> 01:08:58,380
+j'espère que vous avez aimé ces quatre
+
+1763
+01:08:58,380 --> 01:09:00,960
+parties de tutoriel sur comment on peut
+
+1764
+01:09:00,960 --> 01:09:02,520
+gérer le projet il y aura peut-être
+
+1765
+01:09:02,520 --> 01:09:04,979
+d'autres vidéos sur ce je vous souhaite
+
+1766
+01:09:04,979 --> 01:09:06,600
+une très bonne soirée de là où vous êtes
+
+1767
+01:09:06,600 --> 01:09:08,819
+un très bon moment et à la prochaine
+
+1768
+01:09:08,819 --> 01:09:12,080
+ciao ciao ciao
+

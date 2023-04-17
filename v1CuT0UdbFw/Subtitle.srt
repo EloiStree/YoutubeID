@@ -1,0 +1,2368 @@
+1
+00:00:00,380 --> 00:00:03,540
+salut à vous et bienvenue sur cette
+
+2
+00:00:03,540 --> 00:00:05,940
+vidéo qui fait suite à quatre autres
+
+3
+00:00:05,940 --> 00:00:07,620
+vidéos où on montre un peu comment Unity
+
+4
+00:00:07,620 --> 00:00:09,179
+fonctionne comment est-ce fonctionne
+
+5
+00:00:09,179 --> 00:00:10,620
+parce que c'est qu'est-ce que c'est des
+
+6
+00:00:10,620 --> 00:00:14,519
+installations et notre ami et très fan
+
+7
+00:00:14,519 --> 00:00:18,920
+de guide comme je le suis enfin ça passe
+
+8
+00:00:18,920 --> 00:00:21,260
+on l'utilise parce qu'il est intéressant
+
+9
+00:00:21,260 --> 00:00:23,779
+moi de mon côté tout ce que je fais
+
+10
+00:00:23,779 --> 00:00:25,859
+héberger ce guide parce que c'est
+
+11
+00:00:25,859 --> 00:00:27,180
+vraiment un outil extrêmement puissant
+
+12
+00:00:27,180 --> 00:00:28,560
+que soit pour le backup si vous avez
+
+13
+00:00:28,560 --> 00:00:30,480
+votre projet sur un site web et sur
+
+14
+00:00:30,480 --> 00:00:31,439
+votre ordinateur vous ne pouvez
+
+15
+00:00:31,439 --> 00:00:33,960
+littéralement jamais le perdre un petit
+
+16
+00:00:33,960 --> 00:00:35,460
+backup en plus sera disque dur là vous
+
+17
+00:00:35,460 --> 00:00:36,840
+êtes sûr de ne jamais perdre votre vie
+
+18
+00:00:36,840 --> 00:00:38,940
+ne jamais perdre votre code ça permet de
+
+19
+00:00:38,940 --> 00:00:40,320
+revenir dans le temps pour voir le code
+
+20
+00:00:40,320 --> 00:00:42,239
+quand vous étiez il y a un an ça permet
+
+21
+00:00:42,239 --> 00:00:43,800
+de partager de travailler en groupe
+
+22
+00:00:43,800 --> 00:00:45,899
+c'est un outil qui est on peut mettre
+
+23
+00:00:45,899 --> 00:00:48,480
+les sites en ligne par exemple toute ma
+
+24
+00:00:48,480 --> 00:00:50,219
+documentation administrative et dessus
+
+25
+00:00:50,219 --> 00:00:51,960
+et il y a pas moyen de les perdre du
+
+26
+00:00:51,960 --> 00:00:54,300
+coup donc ma vie est au guide et au
+
+27
+00:00:54,300 --> 00:00:55,199
+moins je suis sûr que jamais la perdre
+
+28
+00:00:55,199 --> 00:00:57,539
+alors que mes disques durs je les ai
+
+29
+00:00:57,539 --> 00:00:59,100
+fait tomber une fois et l'autre était
+
+30
+00:00:59,100 --> 00:01:01,199
+corrompu et j'ai perdu il m'a dit toute
+
+31
+00:01:01,199 --> 00:01:02,539
+ma vie avant 18 ans
+
+32
+00:01:02,539 --> 00:01:04,860
+donc voilà un peu pourquoi j'aime bien
+
+33
+00:01:04,860 --> 00:01:06,060
+geek vous allez me dire oui mais
+
+34
+00:01:06,060 --> 00:01:07,380
+pourquoi pas Dropbox vous pouvez
+
+35
+00:01:07,380 --> 00:01:09,420
+utiliser Dropbox et pas avec Unity parce
+
+36
+00:01:09,420 --> 00:01:10,320
+que ça risque de créer des problèmes
+
+37
+00:01:10,320 --> 00:01:12,380
+avec les fichiers et en plus de ça
+
+38
+00:01:12,380 --> 00:01:14,280
+Dropbox ça veut dire que vous faites
+
+39
+00:01:14,280 --> 00:01:16,680
+confiance à une personne tierce de ne
+
+40
+00:01:16,680 --> 00:01:17,820
+pas utiliser vos trucs et une personne
+
+41
+00:01:17,820 --> 00:01:20,220
+tierce de ne pas de devoir gérer vos
+
+42
+00:01:20,220 --> 00:01:22,500
+backup et vous devriez gérer vos bacs
+
+43
+00:01:22,500 --> 00:01:25,020
+donc on va utiliser
+
+44
+00:01:25,020 --> 00:01:26,939
+les marketeux
+
+45
+00:01:26,939 --> 00:01:28,439
+les gens qui n'aiment pas l'informatique
+
+46
+00:01:28,439 --> 00:01:31,140
+vous pouvez fuir ceci est pour les
+
+47
+00:01:31,140 --> 00:01:32,580
+codeurs et les gens qui veulent étudier
+
+48
+00:01:32,580 --> 00:01:34,380
+sachant que guide peut être utilisé pour
+
+49
+00:01:34,380 --> 00:01:35,939
+les noncodeurs c'est juste que c'est un
+
+50
+00:01:35,939 --> 00:01:37,979
+peu friand donc ce cours ci va être un
+
+51
+00:01:37,979 --> 00:01:39,420
+peu effray donc il faut utiliser des
+
+52
+00:01:39,420 --> 00:01:41,400
+lignes de commande c'est ça c'est pas
+
+53
+00:01:41,400 --> 00:01:43,320
+dur mais c'est juste que dans celui-ci
+
+54
+00:01:43,320 --> 00:01:45,299
+on vous demande de cacher les yeux alors
+
+55
+00:01:45,299 --> 00:01:47,040
+déjà il faut installer guide
+
+56
+00:01:47,040 --> 00:01:49,079
+effectivement donc il faut aller sur le
+
+57
+00:01:49,079 --> 00:01:51,540
+site officiel de Git donc c'est pas
+
+58
+00:01:51,540 --> 00:01:53,579
+GitHub mais c'est guide Bosch qui font
+
+59
+00:01:53,579 --> 00:01:55,439
+installer ouais d'ailleurs tu peux aller
+
+60
+00:01:55,439 --> 00:01:56,579
+directement sur le site de guide tout
+
+61
+00:01:56,579 --> 00:01:58,700
+court
+
+62
+00:02:02,540 --> 00:02:06,060
+la différence c'est quoi GitHub c'est un
+
+63
+00:02:06,060 --> 00:02:07,920
+hébergeur de GITS c'est un serveur sur
+
+64
+00:02:07,920 --> 00:02:08,940
+lequel vous pouvez les mettre votre
+
+65
+00:02:08,940 --> 00:02:10,139
+guide et travailler avec vos équipes
+
+66
+00:02:10,139 --> 00:02:11,400
+faire vos backup et des trucs comme ça
+
+67
+00:02:11,400 --> 00:02:13,260
+nous ce qu'on veut c'est installer le
+
+68
+00:02:13,260 --> 00:02:15,599
+logiciel ok du coup on va taper git
+
+69
+00:02:15,599 --> 00:02:17,459
+voilà tu peux faire télécharger dans
+
+70
+00:02:17,459 --> 00:02:19,739
+l'autre ça va arriver sur le site ICI ou
+
+71
+00:02:19,739 --> 00:02:23,099
+le gars qui gère ça à tout expliquer il
+
+72
+00:02:23,099 --> 00:02:24,480
+y a des documentations il y a des tutos
+
+73
+00:02:24,480 --> 00:02:26,879
+et tout on va télécharger la version
+
+74
+00:02:26,879 --> 00:02:30,060
+Windows on télécharge celle qui nous est
+
+75
+00:02:30,060 --> 00:02:32,520
+propre donc 32 ou 64 bits 64 bits dans
+
+76
+00:02:32,520 --> 00:02:34,379
+ton cas mais comme moi je l'ai déjà
+
+77
+00:02:34,379 --> 00:02:35,520
+téléchargé comme lui il a déjà
+
+78
+00:02:35,520 --> 00:02:37,379
+téléchargé il va pas le faire mais vas-y
+
+79
+00:02:37,379 --> 00:02:39,540
+comment vous devez télécharger ça et
+
+80
+00:02:39,540 --> 00:02:42,420
+après il faut juste faire next next next
+
+81
+00:02:42,420 --> 00:02:46,260
+next next next next next next sachant
+
+82
+00:02:46,260 --> 00:02:47,640
+que si vous êtes un peu plus expert vous
+
+83
+00:02:47,640 --> 00:02:49,200
+pouvez paramétrer les trucs mais vas-y
+
+84
+00:02:49,200 --> 00:02:50,519
+moi tout est prévu pour les débutants
+
+85
+00:02:50,519 --> 00:02:53,959
+donc faites Suivant jusqu'à la fin
+
+86
+00:02:54,080 --> 00:02:56,819
+j'ouvre mon terminal admettons que vous
+
+87
+00:02:56,819 --> 00:02:58,980
+avez que vous arrivez à installer GITS
+
+88
+00:02:58,980 --> 00:03:00,959
+vous avez un terminal et là on peut
+
+89
+00:03:00,959 --> 00:03:03,180
+mettre GITS et si tu mets guides
+
+90
+00:03:03,180 --> 00:03:04,200
+normalement on devrait voir quelle
+
+91
+00:03:04,200 --> 00:03:06,239
+version de Gith il a installé mais un
+
+92
+00:03:06,239 --> 00:03:08,940
+peu geek enter donc là ça veut dire que
+
+93
+00:03:08,940 --> 00:03:10,440
+lui il a réussi son installer sinon
+
+94
+00:03:10,440 --> 00:03:11,700
+qu'on vous a pas monté mais il a réussi
+
+95
+00:03:11,700 --> 00:03:14,700
+et donc si mes guides V il va aussi voir
+
+96
+00:03:14,700 --> 00:03:17,220
+la version de GITS
+
+97
+00:03:17,220 --> 00:03:20,159
+c'est super cool alors le truc c'est que
+
+98
+00:03:20,159 --> 00:03:20,940
+maintenant ce qu'on aimerait bien faire
+
+99
+00:03:20,940 --> 00:03:22,500
+nous c'est prendre le dernier projet
+
+100
+00:03:22,500 --> 00:03:24,540
+qu'on a fait ensemble pour montrer un
+
+101
+00:03:24,540 --> 00:03:26,819
+peu ce que c'était des assets et le met
+
+102
+00:03:26,819 --> 00:03:28,500
+à disposition des gens qui vont
+
+103
+00:03:28,500 --> 00:03:31,019
+participer au workshop pour ça il faut
+
+104
+00:03:31,019 --> 00:03:32,819
+qu'on héberge quelque part vous avez le
+
+105
+00:03:32,819 --> 00:03:34,379
+choix entre guide Lab qui a un serveur
+
+106
+00:03:34,379 --> 00:03:36,239
+privé avec des trucs un peu payant et
+
+107
+00:03:36,239 --> 00:03:37,440
+tout mais voilà c'est un autre
+
+108
+00:03:37,440 --> 00:03:39,239
+concurrent de Gith up GitHub qui est
+
+109
+00:03:39,239 --> 00:03:40,560
+très connu mais qui se permet de prendre
+
+110
+00:03:40,560 --> 00:03:42,739
+les projets avec couteau avec
+
+111
+00:03:42,739 --> 00:03:44,580
+autopilotes et de voler vos données pour
+
+112
+00:03:44,580 --> 00:03:48,780
+apprendre à Ilia comment on connaît donc
+
+113
+00:03:48,780 --> 00:03:51,360
+en gros il protège vos données et il est
+
+114
+00:03:51,360 --> 00:03:53,400
+rentré mais en même temps il les utilise
+
+115
+00:03:53,400 --> 00:03:55,620
+donc soit aller chez d'autres
+
+116
+00:03:55,620 --> 00:03:57,420
+concurrents soit élargir votre propre
+
+117
+00:03:57,420 --> 00:03:59,340
+serveur nous on va pas aller dans le
+
+118
+00:03:59,340 --> 00:04:01,379
+complexe on va laisser lia s'alimenter
+
+119
+00:04:01,379 --> 00:04:03,540
+le truc on va aller sur Get Up mais du
+
+120
+00:04:03,540 --> 00:04:05,099
+coup je vais aller sur le GitHub je vais
+
+121
+00:04:05,099 --> 00:04:07,500
+créer un nouveau projet c'est ça et si
+
+122
+00:04:07,500 --> 00:04:09,360
+je vais je vais l'appeler imaginons
+
+123
+00:04:09,360 --> 00:04:12,360
+workshop
+
+124
+00:04:15,360 --> 00:04:17,959
+par exemple juste
+
+125
+00:04:17,959 --> 00:04:20,160
+je peux le mettre en mode privé pour que
+
+126
+00:04:20,160 --> 00:04:21,959
+les gens ne le voient pas mais je vais
+
+127
+00:04:21,959 --> 00:04:23,400
+le laisser en public pour que tout le
+
+128
+00:04:23,400 --> 00:04:26,100
+monde puisse y accéder et je crée le
+
+129
+00:04:26,100 --> 00:04:27,960
+répertoire tu pouvais ajouter un redmi
+
+130
+00:04:27,960 --> 00:04:29,880
+en fait ce qui se passe ici c'est que si
+
+131
+00:04:29,880 --> 00:04:31,020
+vous laissez comme ça vous allez devoir
+
+132
+00:04:31,020 --> 00:04:32,460
+vous même créer un premier fichier le
+
+133
+00:04:32,460 --> 00:04:33,900
+coucher en ligne et faire toutes les
+
+134
+00:04:33,900 --> 00:04:35,040
+lignes de commande que ici on vous
+
+135
+00:04:35,040 --> 00:04:36,960
+demande de faire une autre méthode pour
+
+136
+00:04:36,960 --> 00:04:39,180
+les débutants c'est de cliquer sur redmi
+
+137
+00:04:39,180 --> 00:04:41,639
+donc de créer un rythmie ici inclus de
+
+138
+00:04:41,639 --> 00:04:43,560
+inclure un rythmique
+
+139
+00:04:43,560 --> 00:04:46,500
+de juste mettre un vrai texte donc ici
+
+140
+00:04:46,500 --> 00:04:48,380
+voilà comme ça
+
+141
+00:04:48,380 --> 00:04:51,000
+et de le coït
+
+142
+00:04:51,000 --> 00:04:52,919
+et donc ça va permettre de le faire
+
+143
+00:04:52,919 --> 00:04:54,479
+commit en ligne je pars du principe que
+
+144
+00:04:54,479 --> 00:04:56,880
+vous connaissez un minimum guide parce
+
+145
+00:04:56,880 --> 00:04:58,199
+que sinon je vais devoir répondre tout
+
+146
+00:04:58,199 --> 00:05:00,840
+de suite ok je prépare du principe que
+
+147
+00:05:00,840 --> 00:05:02,100
+vous connaissez minimum git et que vous
+
+148
+00:05:02,100 --> 00:05:04,560
+voulez l'utiliser dans Unity donc ici on
+
+149
+00:05:04,560 --> 00:05:06,300
+va aller cloner ce dossier là près du
+
+150
+00:05:06,300 --> 00:05:09,000
+projet que l'on va faire comment est-ce
+
+151
+00:05:09,000 --> 00:05:12,360
+qu'on aurait préféré garder les lignes
+
+152
+00:05:12,360 --> 00:05:13,979
+de commande les lignes de commande qui
+
+153
+00:05:13,979 --> 00:05:16,380
+te donnent ouais parce que je les copie
+
+154
+00:05:16,380 --> 00:05:18,180
+et je colle directement ici dans le
+
+155
+00:05:18,180 --> 00:05:19,800
+terminal pour envoyer directement mon
+
+156
+00:05:19,800 --> 00:05:22,940
+projet tu peux mais
+
+157
+00:05:22,940 --> 00:05:26,280
+trop tard mais du coup ici est-ce que
+
+158
+00:05:26,280 --> 00:05:27,539
+vous allez faire c'est que vous allez
+
+159
+00:05:27,539 --> 00:05:29,880
+aller là chercher HTML parce que vous
+
+160
+00:05:29,880 --> 00:05:31,340
+avez pas utilisé ces saches et d'autres
+
+161
+00:05:31,340 --> 00:05:34,800
+c'est des trucs de sécurité on va aller
+
+162
+00:05:34,800 --> 00:05:36,380
+dans le projet
+
+163
+00:05:36,380 --> 00:05:38,280
+ouais par contre j'ai envie de montrer
+
+164
+00:05:38,280 --> 00:05:39,360
+un truc qui est assez intéressant que
+
+165
+00:05:39,360 --> 00:05:40,860
+les gens connaissent pas c'est que tu
+
+166
+00:05:40,860 --> 00:05:42,740
+peux aller dans le dossier de
+
+167
+00:05:42,740 --> 00:05:45,360
+ton projet tu tapes dans le chemin
+
+168
+00:05:45,360 --> 00:05:50,600
+d'accès ici de windows tu écris CMD
+
+169
+00:06:43,380 --> 00:06:45,600
+donc ici on va faire les commandes peu
+
+170
+00:06:45,600 --> 00:06:47,039
+importe le terminal on va faire la
+
+171
+00:06:47,039 --> 00:06:48,300
+commande donc on va aller près du projet
+
+172
+00:06:48,300 --> 00:06:50,780
+guide clone
+
+173
+00:06:50,780 --> 00:06:55,680
+on va mettre le lien et qu'on avait on
+
+174
+00:06:55,680 --> 00:06:57,840
+va dire oui et là il va nous créer du
+
+175
+00:06:57,840 --> 00:07:00,360
+coup à dossier guide le truc c'est que
+
+176
+00:07:00,360 --> 00:07:02,539
+il est pas à la racine du projet
+
+177
+00:07:02,539 --> 00:07:05,340
+il a créé un dossier non il a créé un
+
+178
+00:07:05,340 --> 00:07:07,800
+dossier qui s'appelle hello Unity le
+
+179
+00:07:07,800 --> 00:07:08,880
+problème c'est que nous on veut que le
+
+180
+00:07:08,880 --> 00:07:11,220
+Unity soit tu vois à la racine mais si
+
+181
+00:07:11,220 --> 00:07:12,960
+tu déplaces Unity tu vas perdre des
+
+182
+00:07:12,960 --> 00:07:13,919
+liens dans une scie donc il va pouvoir
+
+183
+00:07:13,919 --> 00:07:15,539
+tout Rebuilder ce qu'on va faire c'est
+
+184
+00:07:15,539 --> 00:07:19,080
+qu'on va ouvrir ça on va afficher les
+
+185
+00:07:19,080 --> 00:07:20,940
+dossiers cachés donc comment est-ce
+
+186
+00:07:20,940 --> 00:07:24,080
+qu'on fait ça on va dans affichage
+
+187
+00:07:25,460 --> 00:07:28,380
+voilà et on va copier tout ça c'est à
+
+188
+00:07:28,380 --> 00:07:30,120
+dire faire contrôle a et on va le
+
+189
+00:07:30,120 --> 00:07:33,680
+descendre d'un cran dans My projet
+
+190
+00:07:33,840 --> 00:07:35,180
+voilà voilà
+
+191
+00:07:35,180 --> 00:07:39,319
+maintenant si on fait guide statut
+
+192
+00:07:39,900 --> 00:07:41,580
+statut ça veut dire voir les fichiers
+
+193
+00:07:41,580 --> 00:07:43,979
+qui vont être modifiés ou ajouter si on
+
+194
+00:07:43,979 --> 00:07:46,380
+fait les commandes on peut voir que il y
+
+195
+00:07:46,380 --> 00:07:47,220
+a plein de trucs qui n'ont pas été
+
+196
+00:07:47,220 --> 00:07:48,960
+encore ajouté au guide c'est à dire la
+
+197
+00:07:48,960 --> 00:07:51,120
+sauvegarde locale et qu'on va ajouter
+
+198
+00:07:51,120 --> 00:07:52,680
+mais dedans on voit qu'il y en a une qui
+
+199
+00:07:52,680 --> 00:07:54,479
+s'appelle librairie problème c'est que
+
+200
+00:07:54,479 --> 00:07:55,919
+librairie il y a des milliers des
+
+201
+00:07:55,919 --> 00:07:57,120
+milliers de tout petits fichiers avec
+
+202
+00:07:57,120 --> 00:07:58,800
+des noms bizarres qui sont des fichiers
+
+203
+00:07:58,800 --> 00:08:01,020
+temporaires il faut savoir l'ignorer
+
+204
+00:08:01,020 --> 00:08:03,599
+pour l'ignorer vous avez soit votre
+
+205
+00:08:03,599 --> 00:08:05,460
+guide habituel gitting Nord habituel
+
+206
+00:08:05,460 --> 00:08:07,080
+soit vous allez chercher sur le site web
+
+207
+00:08:07,080 --> 00:08:09,360
+githique Nord tu peux aller sur un site
+
+208
+00:08:09,360 --> 00:08:12,259
+web qui s'appelle githique Nord
+
+209
+00:08:26,539 --> 00:08:28,800
+que vous devez faire donc ici si on tape
+
+210
+00:08:28,800 --> 00:08:30,919
+une
+
+211
+00:08:31,640 --> 00:08:35,279
+fois et qu'on fait créer il va nous
+
+212
+00:08:35,279 --> 00:08:36,958
+créer tout ce que les gens ont
+
+213
+00:08:36,958 --> 00:08:39,839
+l'habitude d'ignorer donc je copie tout
+
+214
+00:08:39,839 --> 00:08:41,959
+ça
+
+215
+00:08:42,299 --> 00:08:45,060
+voilà on va aller créer un fichier
+
+216
+00:08:45,060 --> 00:08:49,279
+là-bas donc à la racine du projet
+
+217
+00:08:52,519 --> 00:08:55,019
+et alors en fait la partie qualité dans
+
+218
+00:08:55,019 --> 00:08:57,899
+c'est que c'est pas gitting Nord poids
+
+219
+00:08:57,899 --> 00:09:00,120
+quelque chose c'est rien point gitting
+
+220
+00:09:00,120 --> 00:09:01,980
+Nord parce qu'en fait gitting Nord c'est
+
+221
+00:09:01,980 --> 00:09:04,380
+le c'est l'extension du fichier et le
+
+222
+00:09:04,380 --> 00:09:08,240
+fichier n'a pas de nom donc c'est point
+
+223
+00:09:08,240 --> 00:09:10,140
+donc là vous allez voir que maintenant
+
+224
+00:09:10,140 --> 00:09:12,300
+on a un certain fichiers githique Nord
+
+225
+00:09:12,300 --> 00:09:14,459
+qui a été créé on va aller l'éditer
+
+226
+00:09:14,459 --> 00:09:17,760
+alors dites le dans le truc normal parce
+
+227
+00:09:17,760 --> 00:09:18,899
+que les gens connaissent pas ton
+
+228
+00:09:18,899 --> 00:09:21,480
+interface du coup directement tu peux
+
+229
+00:09:21,480 --> 00:09:25,320
+aller juste ouvrir vs code donc j'ouvre
+
+230
+00:09:25,320 --> 00:09:27,300
+vs code comme ça je peux éditer ici de
+
+231
+00:09:27,300 --> 00:09:28,700
+manière
+
+232
+00:09:28,700 --> 00:09:32,120
+graphique donc vous voyez
+
+233
+00:09:32,120 --> 00:09:34,680
+tout ça c'est sauvegarder je peux
+
+234
+00:09:34,680 --> 00:09:37,140
+quitter c'est ça et donc là maintenant
+
+235
+00:09:37,140 --> 00:09:39,120
+maintenant ce qui se passe c'est que si
+
+236
+00:09:39,120 --> 00:09:41,839
+vous faites guide statut
+
+237
+00:09:42,240 --> 00:09:45,240
+on va voir que maintenant le librairie a
+
+238
+00:09:45,240 --> 00:09:46,980
+été ignoré le log a été ignoré donc on
+
+239
+00:09:46,980 --> 00:09:48,360
+ne garde plus que ce qui est essentiel à
+
+240
+00:09:48,360 --> 00:09:50,700
+Unity ce qui est très pratique donc
+
+241
+00:09:50,700 --> 00:09:51,899
+maintenant on va pouvoir dire bah c'est
+
+242
+00:09:51,899 --> 00:09:53,640
+bon alors on va ajouter ça à la version
+
+243
+00:09:53,640 --> 00:09:55,620
+sauvegarder localement donc on va faire
+
+244
+00:09:55,620 --> 00:09:57,959
+un guide add point pour dire ajoute-moi
+
+245
+00:09:57,959 --> 00:10:00,120
+tout ce qui a été modifié dernièrement
+
+246
+00:10:00,120 --> 00:10:02,100
+depuis la dernière sauvegarde alors moi
+
+247
+00:10:02,100 --> 00:10:04,140
+j'aurais tendance à mettre une toile tu
+
+248
+00:10:04,140 --> 00:10:06,240
+peux mettre étoile ça des petites
+
+249
+00:10:06,240 --> 00:10:07,920
+nuances mais les expliquer ça va être
+
+250
+00:10:07,920 --> 00:10:09,320
+chiant
+
+251
+00:10:09,320 --> 00:10:11,279
+maintenant tu peux faire guide statut
+
+252
+00:10:11,279 --> 00:10:13,880
+pour montrer un peu à quoi ça ressemble
+
+253
+00:10:13,880 --> 00:10:15,779
+va nous montrer qu'en fait voilà tout ce
+
+254
+00:10:15,779 --> 00:10:16,800
+qui va être ajouté dans la version
+
+255
+00:10:16,800 --> 00:10:19,800
+suivante ok bah du coup c'est chouette
+
+256
+00:10:19,800 --> 00:10:21,540
+alors il a pas ajouté le githique Nord
+
+257
+00:10:21,540 --> 00:10:24,740
+je sais pas pourquoi parce que là
+
+258
+00:10:28,459 --> 00:10:30,860
+avec tirer
+
+259
+00:10:30,860 --> 00:10:32,779
+mi
+
+260
+00:10:32,779 --> 00:10:34,620
+pour dire il y a un message derrière
+
+261
+00:10:34,620 --> 00:10:36,779
+alors comics c'est une sauvegarde une
+
+262
+00:10:36,779 --> 00:10:38,459
+sauvegarde doit toujours essayer si vous
+
+263
+00:10:38,459 --> 00:10:40,680
+êtes propre d'avoir un contexte donc ici
+
+264
+00:10:40,680 --> 00:10:42,360
+basiquement par exemple mettre première
+
+265
+00:10:42,360 --> 00:10:43,339
+version
+
+266
+00:10:43,339 --> 00:10:45,959
+première version publiée ou autre comme
+
+267
+00:10:45,959 --> 00:10:48,779
+ça vous pouvez mettre j'ai ajouté un
+
+268
+00:10:48,779 --> 00:10:51,240
+arbre j'ai fait ceci j'ai fait cela le
+
+269
+00:10:51,240 --> 00:10:52,320
+but c'est de donner du contexte pour
+
+270
+00:10:52,320 --> 00:10:53,519
+qu'on voit un historique du projet
+
+271
+00:10:53,519 --> 00:10:55,500
+avancé donc là juste lui prendre la
+
+272
+00:10:55,500 --> 00:10:59,100
+version voilà on peut refaire un guide
+
+273
+00:10:59,100 --> 00:11:01,380
+statut et là on voit que le Nord a pas
+
+274
+00:11:01,380 --> 00:11:05,240
+été ajouté ça peut gitad
+
+275
+00:11:06,440 --> 00:11:08,940
+guide statut du coup attends tu as
+
+276
+00:11:08,940 --> 00:11:12,560
+oublié ses guides espace point
+
+277
+00:11:15,820 --> 00:11:17,100
+[Musique]
+
+278
+00:11:17,100 --> 00:11:19,680
+il a été ajouté dans celui-ci donc tu
+
+279
+00:11:19,680 --> 00:11:22,519
+peux refaire un guide comique
+
+280
+00:11:33,019 --> 00:11:34,680
+faites gaffe que si vous faites des
+
+281
+00:11:34,680 --> 00:11:35,880
+fautes d'orthographe dans celui-ci c'est
+
+282
+00:11:35,880 --> 00:11:37,860
+éternellement dans le projet guide si
+
+283
+00:11:37,860 --> 00:11:40,140
+jamais vous mettre Fox disproject dans
+
+284
+00:11:40,140 --> 00:11:42,540
+le guide c'est éternel il y a moyen le
+
+285
+00:11:42,540 --> 00:11:44,700
+modifier mais c'est très dur alors
+
+286
+00:11:44,700 --> 00:11:47,420
+maintenant
+
+287
+00:11:48,019 --> 00:11:50,459
+parce que le problème c'est que c'est
+
+288
+00:11:50,459 --> 00:11:52,500
+jamais à l'abri bon ici dans ce bloc
+
+289
+00:11:52,500 --> 00:11:54,300
+dans ce cas-ci on est tout seul ok mais
+
+290
+00:11:54,300 --> 00:11:55,680
+on n'est jamais à l'abri que quelqu'un a
+
+291
+00:11:55,680 --> 00:11:57,440
+été modifié sur le serveur quelque chose
+
+292
+00:11:57,440 --> 00:11:59,700
+par exemple si tu vas dans le redmi et
+
+293
+00:11:59,700 --> 00:12:01,680
+que tu modifies les ridmis bah tu es tu
+
+294
+00:12:01,680 --> 00:12:03,300
+te fais autoconcurrence donc d'abord
+
+295
+00:12:03,300 --> 00:12:05,880
+faut d'abord faire un guide pool ou un
+
+296
+00:12:05,880 --> 00:12:07,740
+guide pêche ça veut dire on va aller
+
+297
+00:12:07,740 --> 00:12:09,420
+vérifier qu'il y a pas quelque chose de
+
+298
+00:12:09,420 --> 00:12:10,700
+nouveau et puis on va le télécharger
+
+299
+00:12:10,700 --> 00:12:12,540
+Deadpool ça veut dire on s'en fout vas-y
+
+300
+00:12:12,540 --> 00:12:15,800
+télécharge moi tout comme ça
+
+301
+00:12:15,800 --> 00:12:18,420
+ça écrase et ça fait un conflit si
+
+302
+00:12:18,420 --> 00:12:20,339
+jamais quelque chose ici nous dit non
+
+303
+00:12:20,339 --> 00:12:21,660
+c'est bon tu es à jour il y a personne
+
+304
+00:12:21,660 --> 00:12:23,519
+qui a travaillé depuis ni toi ni
+
+305
+00:12:23,519 --> 00:12:24,839
+quelqu'un d'autre donc on va faire pour
+
+306
+00:12:24,839 --> 00:12:27,680
+faire une couche
+
+307
+00:12:27,779 --> 00:12:29,459
+voilà alors ici nous demande du coup de
+
+308
+00:12:29,459 --> 00:12:32,100
+nous connecter donc ici c'est la
+
+309
+00:12:32,100 --> 00:12:33,079
+première fois
+
+310
+00:12:33,079 --> 00:12:35,519
+donc du coup ici on va devoir aller dire
+
+311
+00:12:35,519 --> 00:12:37,019
+ouais ouais tu peux aller mettre dans le
+
+312
+00:12:37,019 --> 00:12:40,680
+navigateur c'est bien moi il va ouvrir
+
+313
+00:12:40,680 --> 00:12:42,540
+le navigateur le navigateur va regarder
+
+314
+00:12:42,540 --> 00:12:44,639
+sur votre git-up est-ce que c'est bien
+
+315
+00:12:44,639 --> 00:12:45,779
+vous
+
+316
+00:12:45,779 --> 00:12:48,060
+alors pour ça il va ouvrir Gith up
+
+317
+00:12:48,060 --> 00:12:51,320
+normalement gentiment
+
+318
+00:12:51,320 --> 00:12:53,760
+on va lui laisser un peu le temps on
+
+319
+00:12:53,760 --> 00:12:56,480
+sait jamais qu'il soit grand
+
+320
+00:12:58,260 --> 00:13:00,000
+on va faire la fenêtre vient de la
+
+321
+00:13:00,000 --> 00:13:02,180
+console
+
+322
+00:13:02,720 --> 00:13:05,959
+Racing objet
+
+323
+00:13:12,980 --> 00:13:17,540
+il faut pas mettre le lien d'acheter
+
+324
+00:13:18,440 --> 00:13:20,459
+voilà bah il a fait il a fait
+
+325
+00:13:20,459 --> 00:13:22,380
+l'identification c'est bon donc en fait
+
+326
+00:13:22,380 --> 00:13:23,519
+ce qu'il a fait c'est qu'il a ouvert le
+
+327
+00:13:23,519 --> 00:13:24,720
+navigateur il était voir que vous êtes
+
+328
+00:13:24,720 --> 00:13:27,120
+bien sur le guide de yak à cloné au
+
+329
+00:13:27,120 --> 00:13:29,220
+départ c'était bien lui et donc du coup
+
+330
+00:13:29,220 --> 00:13:30,660
+il a bien poussé le code en ligne
+
+331
+00:13:30,660 --> 00:13:32,399
+comment savoir que ça a marché il faut
+
+332
+00:13:32,399 --> 00:13:35,100
+juste revenir ici les fresh la page et
+
+333
+00:13:35,100 --> 00:13:37,800
+on voit les nouveautés qui ont été le
+
+334
+00:13:37,800 --> 00:13:41,820
+projet en ligne sur son projet enfin sur
+
+335
+00:13:41,820 --> 00:13:43,639
+son guide à lui alors comment est-ce que
+
+336
+00:13:43,639 --> 00:13:45,600
+on se posait la question oui mais
+
+337
+00:13:45,600 --> 00:13:46,380
+comment est-ce qu'on va faire pour que
+
+338
+00:13:46,380 --> 00:13:48,540
+moi j'ai eu le projet alors que c'est
+
+339
+00:13:48,540 --> 00:13:51,360
+sur son compte à lui ici que je peux
+
+340
+00:13:51,360 --> 00:13:54,720
+faire c'est collaborateur donc ici je
+
+341
+00:13:54,720 --> 00:13:57,360
+vais pouvoir aller ajouter quelqu'un qui
+
+342
+00:13:57,360 --> 00:13:59,100
+va venir pouvoir travailler avec moi
+
+343
+00:13:59,100 --> 00:14:00,959
+mais il va pouvoir aussi modifier alors
+
+344
+00:14:00,959 --> 00:14:03,000
+ça c'est la première méthode le problème
+
+345
+00:14:03,000 --> 00:14:04,380
+de cette méthode là c'est qu'elle risque
+
+346
+00:14:04,380 --> 00:14:05,940
+parce qu'en gros ça veut dire que je
+
+347
+00:14:05,940 --> 00:14:07,320
+peux supprimer son projet je peux
+
+348
+00:14:07,320 --> 00:14:09,120
+modifier des trucs ça va pas être très
+
+349
+00:14:09,120 --> 00:14:11,100
+pratique du coup vu qu'il a fait un
+
+350
+00:14:11,100 --> 00:14:13,320
+projet qui publie moi je vais pouvoir y
+
+351
+00:14:13,320 --> 00:14:15,300
+aller alors je vais vous montrer sur mon
+
+352
+00:14:15,300 --> 00:14:17,399
+écran je suis sur mon écran
+
+353
+00:14:17,399 --> 00:14:18,600
+je t'envoie juste le lien sur le score
+
+354
+00:14:18,600 --> 00:14:20,459
+ouais ben je peux aussi aller regarder
+
+355
+00:14:20,459 --> 00:14:23,579
+ce qui tu es sur Gith up ok donc so get
+
+356
+00:14:23,579 --> 00:14:24,660
+up tu t'appelles comment toi tu
+
+357
+00:14:24,660 --> 00:14:26,000
+t'appelles
+
+358
+00:14:26,000 --> 00:14:30,200
+najip donc on va aller
+
+359
+00:14:41,180 --> 00:14:44,279
+pour qu'il recherche des achats est-ce
+
+360
+00:14:44,279 --> 00:14:46,680
+que tu es dedans non je pense que c'est
+
+361
+00:14:46,680 --> 00:14:49,040
+le
+
+362
+00:14:55,320 --> 00:14:57,920
+je t'envoie ça si
+
+363
+00:14:57,920 --> 00:15:00,720
+ça compte attends on va essayer donc la
+
+364
+00:15:00,720 --> 00:15:03,199
+première lettre
+
+365
+00:15:06,980 --> 00:15:09,120
+ou sinon je peux directement copier ça
+
+366
+00:15:09,120 --> 00:15:12,300
+dans ton au-dessus sur guide ici je te
+
+367
+00:15:12,300 --> 00:15:14,339
+trouve pas je sais pas pourquoi mais ton
+
+368
+00:15:14,339 --> 00:15:16,579
+répertoire
+
+369
+00:15:20,120 --> 00:15:22,199
+donc en fait c'est les projets que lui
+
+370
+00:15:22,199 --> 00:15:24,000
+fait apparemment il en a fait 7 il en a
+
+371
+00:15:24,000 --> 00:15:25,800
+fait plein de trucs et ici on a le hello
+
+372
+00:15:25,800 --> 00:15:27,779
+Unity en fait ce qui se passe c'est que
+
+373
+00:15:27,779 --> 00:15:28,680
+vu qu'il m'a pas de donner
+
+374
+00:15:28,680 --> 00:15:30,600
+l'autorisation de modifier mais que moi
+
+375
+00:15:30,600 --> 00:15:31,680
+j'ai quand même envie d'avoir son projet
+
+376
+00:15:31,680 --> 00:15:33,420
+je vais faire ce qu'on appelle au guide
+
+377
+00:15:33,420 --> 00:15:36,600
+fork et le fork c'est ce truc là moi
+
+378
+00:15:36,600 --> 00:15:38,760
+j'ai cliqué sur ce bouton je veux dire
+
+379
+00:15:38,760 --> 00:15:40,320
+oui j'ai envie de copier ce projet sauf
+
+380
+00:15:40,320 --> 00:15:42,240
+que moi j'aime pas ton titre du coup je
+
+381
+00:15:42,240 --> 00:15:44,040
+vais le redonner et vu que moi j'ai une
+
+382
+00:15:44,040 --> 00:15:45,240
+convention de nommage pour mes projets
+
+383
+00:15:45,240 --> 00:15:47,399
+c'est de commencer avec la date pas
+
+384
+00:15:47,399 --> 00:15:48,600
+besoin de le faire c'est juste ma
+
+385
+00:15:48,600 --> 00:15:50,120
+confiance en moi c'est pas obligatoire
+
+386
+00:15:50,120 --> 00:15:53,040
+moi je mets toujours la date le mois et
+
+387
+00:15:53,040 --> 00:15:55,260
+le jour pour dire j'ai commencé la
+
+388
+00:15:55,260 --> 00:15:56,339
+création de ce projet à ce moment là
+
+389
+00:15:56,339 --> 00:15:58,320
+comme ça ça me donne un historique sur
+
+390
+00:15:58,320 --> 00:15:59,399
+mes disques durs et j'ai pas besoin de
+
+391
+00:15:59,399 --> 00:16:00,779
+trier et j'ai tous mes projets en mode
+
+392
+00:16:00,779 --> 00:16:02,100
+ok je l'ai commencé à telle date j'ai
+
+393
+00:16:02,100 --> 00:16:04,320
+commencé à telle date donc ici c'est pas
+
+394
+00:16:04,320 --> 00:16:06,560
+vraiment hello Unity c'est plus ça
+
+395
+00:16:06,560 --> 00:16:12,720
+how to import à 7 si
+
+396
+00:16:15,260 --> 00:16:17,600
+par exemple
+
+397
+00:16:17,600 --> 00:16:21,740
+des mots of you can
+
+398
+00:16:21,740 --> 00:16:25,800
+importe à 7
+
+399
+00:16:25,800 --> 00:16:29,940
+Rome il Unity external
+
+400
+00:16:36,779 --> 00:16:38,339
+je dis que c'est bon je vais faire une
+
+401
+00:16:38,339 --> 00:16:41,519
+copie et en fait ce qui va se passer je
+
+402
+00:16:41,519 --> 00:16:43,579
+vais recevoir un notification peut-être
+
+403
+00:16:43,579 --> 00:16:45,600
+ici ce qui va se passer c'est qu'il va
+
+404
+00:16:45,600 --> 00:16:47,639
+copier le guide il va me le mettre sur
+
+405
+00:16:47,639 --> 00:16:49,380
+le mien ce qui veut dire que si lui un
+
+406
+00:16:49,380 --> 00:16:51,480
+jour il supprime son fort si il lui
+
+407
+00:16:51,480 --> 00:16:53,100
+supprime son projet j'ai toujours mon
+
+408
+00:16:53,100 --> 00:16:55,199
+projet ok donc normalement tu ne peux
+
+409
+00:16:55,199 --> 00:16:57,959
+pas supprimer mon ma version donc faut
+
+410
+00:16:57,959 --> 00:16:58,740
+faire gaffe que quand vous faites de
+
+411
+00:16:58,740 --> 00:17:00,300
+l'Open Source dès le moment où quelqu'un
+
+412
+00:17:00,300 --> 00:17:01,940
+a fait du fort qu'il a votre code donc
+
+413
+00:17:01,940 --> 00:17:04,199
+c'est bon je le possède ton code
+
+414
+00:17:04,199 --> 00:17:06,119
+maintenant c'est toujours lui le
+
+415
+00:17:06,119 --> 00:17:07,559
+créateur niveau de la propriété
+
+416
+00:17:07,559 --> 00:17:09,660
+intellectuelle donc si jamais je veux
+
+417
+00:17:09,660 --> 00:17:10,740
+réellement l'utiliser je dois d'abord
+
+418
+00:17:10,740 --> 00:17:12,299
+lui demander son accord donc en gros
+
+419
+00:17:12,299 --> 00:17:13,740
+est-ce que je peux utiliser ton assiette
+
+420
+00:17:13,740 --> 00:17:15,839
+pour présenter aux élèves tu en fais ce
+
+421
+00:17:15,839 --> 00:17:17,400
+que tu veux et vu que c'est enregistré
+
+422
+00:17:17,400 --> 00:17:19,880
+c'est bon
+
+423
+00:17:20,280 --> 00:17:23,280
+alors juste ici des
+
+424
+00:17:23,280 --> 00:17:25,140
+amis alors ici c'est des alertes qui ont
+
+425
+00:17:25,140 --> 00:17:27,900
+pas avoir avec moi donc c'est des
+
+426
+00:17:27,900 --> 00:17:30,540
+alertes sécuritaires
+
+427
+00:17:30,540 --> 00:17:31,620
+peut-être des gens qui essaient de se
+
+428
+00:17:31,620 --> 00:17:33,419
+connecter je serais pas dire donc
+
+429
+00:17:33,419 --> 00:17:35,880
+maintenant qu'on a ça ben moi si moi je
+
+430
+00:17:35,880 --> 00:17:37,500
+veux la voir sur mon ordinateur je vais
+
+431
+00:17:37,500 --> 00:17:38,760
+faire pareil que ce que lui a fait
+
+432
+00:17:38,760 --> 00:17:40,679
+tantôt je vais aller copier ce truc là
+
+433
+00:17:40,679 --> 00:17:43,620
+et le mettre sur mon ordinateur ok donc
+
+434
+00:17:43,620 --> 00:17:46,440
+on va faire copier alors ouais le truc
+
+435
+00:17:46,440 --> 00:17:47,539
+c'est que
+
+436
+00:17:47,539 --> 00:17:51,120
+vous pouvez copier en html ou en SSH non
+
+437
+00:17:51,120 --> 00:17:52,260
+je vais pas vous expliquer ça c'est trop
+
+438
+00:17:52,260 --> 00:17:53,400
+compliqué pour la vidéo ça sert à rien
+
+439
+00:17:53,400 --> 00:17:54,480
+c'est pas le sujet je vais vous
+
+440
+00:17:54,480 --> 00:17:57,200
+l'expliquer ce que c'était les SSH mais
+
+441
+00:17:57,200 --> 00:18:00,240
+de manière de copier de manière
+
+442
+00:18:00,240 --> 00:18:02,280
+sécurisée de sécuriser avec un fichier
+
+443
+00:18:02,280 --> 00:18:04,140
+clé qui est sur votre ordinateur pour
+
+444
+00:18:04,140 --> 00:18:05,160
+être sûr que ce soit bien vous et
+
+445
+00:18:05,160 --> 00:18:06,240
+personne d'autre que personne puisse
+
+446
+00:18:06,240 --> 00:18:08,280
+voir ok quoi
+
+447
+00:18:08,280 --> 00:18:10,140
+mais on s'en fout on va les copier ça
+
+448
+00:18:10,140 --> 00:18:12,299
+sur ma machine
+
+449
+00:18:12,299 --> 00:18:14,460
+alors moi je me suis mis dans Windows 7
+
+450
+00:18:14,460 --> 00:18:16,260
+on a un truc qui normalement s'appelle
+
+451
+00:18:16,260 --> 00:18:18,480
+molengeek
+
+452
+00:18:18,480 --> 00:18:20,340
+je crois
+
+453
+00:18:20,340 --> 00:18:21,320
+voilà
+
+454
+00:18:21,320 --> 00:18:25,760
+nos quetsches on va aller ici CMD
+
+455
+00:18:25,760 --> 00:18:29,240
+guide clone en clone le projet ici
+
+456
+00:18:29,240 --> 00:18:33,419
+voilà j'ai donc son projet qui est ici
+
+457
+00:18:33,419 --> 00:18:36,000
+qui est le vôtre alors
+
+458
+00:18:36,000 --> 00:18:37,740
+ça c'est le projet d'hier c'est pas
+
+459
+00:18:37,740 --> 00:18:39,960
+celui-là voilà c'est celui-là et on va
+
+460
+00:18:39,960 --> 00:18:42,900
+aller leur ouvrir avec Unity donc on va
+
+461
+00:18:42,900 --> 00:18:45,539
+inutile open
+
+462
+00:18:45,539 --> 00:18:49,919
+ceci on lui dit l'ouvrir il nous dit oui
+
+463
+00:18:49,919 --> 00:18:51,660
+mais mec t'as pas la même version que
+
+464
+00:18:51,660 --> 00:18:53,700
+lui en fait ce qui se passe c'est que
+
+465
+00:18:53,700 --> 00:18:54,600
+moi j'ai toujours pas installé la
+
+466
+00:18:54,600 --> 00:18:56,100
+nouvelle version que lui a qui est la
+
+467
+00:18:56,100 --> 00:18:58,200
+21F si on travaille ensemble sur le même
+
+468
+00:18:58,200 --> 00:18:59,760
+projet pour longtemps je réinstaller la
+
+469
+00:18:59,760 --> 00:19:01,559
+même version que lui donc ici je peux
+
+470
+00:19:01,559 --> 00:19:03,240
+soit faire un stade soit dire ben non
+
+471
+00:19:03,240 --> 00:19:04,380
+mais en fait on va l'ouvrir avec un
+
+472
+00:19:04,380 --> 00:19:06,240
+autre par exemple ici moi je vais le
+
+473
+00:19:06,240 --> 00:19:08,480
+forcer
+
+474
+00:19:11,419 --> 00:19:13,740
+avant on avait l'option donc je suis en
+
+475
+00:19:13,740 --> 00:19:15,539
+train de la chercher
+
+476
+00:19:15,539 --> 00:19:19,160
+missing version tête à table
+
+477
+00:19:20,720 --> 00:19:22,860
+théoriquement il y a moyen d'ouvrir avec
+
+478
+00:19:22,860 --> 00:19:25,020
+une autre version je dirais peut-être
+
+479
+00:19:25,020 --> 00:19:26,700
+parce que j'ai la version la dernière
+
+480
+00:19:26,700 --> 00:19:29,100
+version tu peux pas le faire avec
+
+481
+00:19:29,100 --> 00:19:31,080
+l'ancien
+
+482
+00:19:31,080 --> 00:19:34,580
+vu qu'il va te manquer la version
+
+483
+00:19:36,500 --> 00:19:38,940
+avec un autre éditeur plus bas niveau
+
+484
+00:19:38,940 --> 00:19:40,860
+plus haut niveau mais je sais pas
+
+485
+00:19:40,860 --> 00:19:41,760
+pourquoi ils ont fait une modification
+
+486
+00:19:41,760 --> 00:19:43,400
+qui m'empêche de faire ça
+
+487
+00:19:43,400 --> 00:19:45,780
+donc en gros si je veux travailler avec
+
+488
+00:19:45,780 --> 00:19:47,940
+lui il va falloir que j'installe la
+
+489
+00:19:47,940 --> 00:19:50,340
+version 2023 ou que je débloque une
+
+490
+00:19:50,340 --> 00:19:51,840
+ancienne version du Inke pour aller
+
+491
+00:19:51,840 --> 00:19:54,840
+ouvrir avec Yeti donc pour l'instant
+
+492
+00:19:54,840 --> 00:19:56,820
+j'ai juste installer pour que comme ça
+
+493
+00:19:56,820 --> 00:19:58,460
+au moins tantôt j'ai une version à jour
+
+494
+00:19:58,460 --> 00:20:00,419
+alors vous pouvez voir que ça va
+
+495
+00:20:00,419 --> 00:20:01,799
+reprendre de la place sur mon pc parce
+
+496
+00:20:01,799 --> 00:20:03,600
+que basiquement je vais réinstaller des
+
+497
+00:20:03,600 --> 00:20:07,039
+trucs qui vont peut-être être doublons
+
+498
+00:21:06,299 --> 00:21:07,740
+directement
+
+499
+00:21:07,740 --> 00:21:10,820
+alors il faut savoir attends remote
+
+500
+00:21:10,820 --> 00:21:15,780
+aussi donc là il va envoyer je sais pas
+
+501
+00:21:15,780 --> 00:21:16,919
+si ça va marcher tout de suite ou pas
+
+502
+00:21:16,919 --> 00:21:18,840
+parce que le projet sur le pour lequel
+
+503
+00:21:18,840 --> 00:21:22,220
+j'envoie il a déjà été envoyé une fois
+
+504
+00:21:22,700 --> 00:21:25,919
+finalement et donc voilà il y a mille et
+
+505
+00:21:25,919 --> 00:21:27,360
+une manière de faire des choses et on en
+
+506
+00:21:27,360 --> 00:21:28,620
+apprend tous les jours si j'arrive
+
+507
+00:21:28,620 --> 00:21:30,600
+fraîche la page ici bah j'ai tout ce qui
+
+508
+00:21:30,600 --> 00:21:32,880
+est tout ce qui a été envoyé qui est là
+
+509
+00:21:32,880 --> 00:21:34,260
+le petit détail pour ceux qui
+
+510
+00:21:34,260 --> 00:21:35,580
+connaissent pas vous êtes dans le train
+
+511
+00:21:35,580 --> 00:21:36,900
+vous voulez travailler et vous voulez
+
+512
+00:21:36,900 --> 00:21:39,179
+utiliser git sachez que ici dans les
+
+513
+00:21:39,179 --> 00:21:40,320
+premières lignes qui vous a montré donc
+
+514
+00:21:40,320 --> 00:21:43,919
+si tu les remontes ici on a dit init qui
+
+515
+00:21:43,919 --> 00:21:46,080
+veut dire créer le projet guide sur
+
+516
+00:21:46,080 --> 00:21:47,880
+Windows donc ça permet d'initier un
+
+517
+00:21:47,880 --> 00:21:49,620
+projet guide puis on a du guide ad
+
+518
+00:21:49,620 --> 00:21:50,640
+commit et tout c'est pour faire des
+
+519
+00:21:50,640 --> 00:21:52,140
+sauvegardes donc en fait dès le moment
+
+520
+00:21:52,140 --> 00:21:53,880
+vous avez fait gitanit sur votre projet
+
+521
+00:21:53,880 --> 00:21:55,260
+sur votre ordinateur ça veut dire c'est
+
+522
+00:21:55,260 --> 00:21:56,640
+bon tu peux commencer à travailler vite
+
+523
+00:21:56,640 --> 00:21:58,200
+donc vous êtes dans le train vous
+
+524
+00:21:58,200 --> 00:21:59,460
+travaillez pendant trois ou quatre
+
+525
+00:21:59,460 --> 00:22:00,299
+heures vous pouvez faire trois quatre
+
+526
+00:22:00,299 --> 00:22:01,740
+comites sauvegarder au fur et à mesure
+
+527
+00:22:01,740 --> 00:22:03,059
+pour revenir en arrière faire des
+
+528
+00:22:03,059 --> 00:22:05,100
+embranchements et tout et leur remote
+
+529
+00:22:05,100 --> 00:22:07,200
+ici on a mis directement après mais vous
+
+530
+00:22:07,200 --> 00:22:08,900
+pouvez le faire
+
+531
+00:22:08,900 --> 00:22:11,520
+on peut le faire plus tard en fait donc
+
+532
+00:22:11,520 --> 00:22:12,900
+une fois que vous êtes sorti du train
+
+533
+00:22:12,900 --> 00:22:14,580
+vous arrivez au cowork vous pouvez
+
+534
+00:22:14,580 --> 00:22:16,320
+commencer à mettre tout ça en ligne sur
+
+535
+00:22:16,320 --> 00:22:18,120
+GitHub donc vous n'êtes pas obligé de
+
+536
+00:22:18,120 --> 00:22:19,799
+directement être sur le serveur vous
+
+537
+00:22:19,799 --> 00:22:21,720
+pouvez le faire ici même pas obligé de
+
+538
+00:22:21,720 --> 00:22:24,380
+pêche non plus directement
+
+539
+00:22:24,980 --> 00:22:27,059
+pour ceux qui par exemple ils ont la
+
+540
+00:22:27,059 --> 00:22:28,640
+flemme de taper des commandes et tout
+
+541
+00:22:28,640 --> 00:22:31,140
+dans mon cas par exemple j'ai créé un
+
+542
+00:22:31,140 --> 00:22:34,020
+script qui permet juste d'écrire un mot
+
+543
+00:22:34,020 --> 00:22:36,299
+et qui réussit me propose un message à
+
+544
+00:22:36,299 --> 00:22:38,240
+mettre donc je vais dire moi message
+
+545
+00:22:38,240 --> 00:22:40,159
+c'est pas grave
+
+546
+00:22:40,159 --> 00:22:43,620
+mais là ici il le fait de lui-même il
+
+547
+00:22:43,620 --> 00:22:45,539
+envoie donc si j'arrive fraîche la page
+
+548
+00:22:45,539 --> 00:22:48,299
+ici il y a mon message qui c'est ça
+
+549
+00:22:48,299 --> 00:22:50,220
+alors ils viennent me dire c'est pas
+
+550
+00:22:50,220 --> 00:22:53,539
+grave je le modifierai après
+
+551
+00:22:53,539 --> 00:22:56,760
+alors ah le projet en fait ce que
+
+552
+00:22:56,760 --> 00:22:58,380
+j'allais dire c'est en fait moi je m'en
+
+553
+00:22:58,380 --> 00:22:59,940
+fous un peu parce que j'ai fort son
+
+554
+00:22:59,940 --> 00:23:01,440
+projet donc en fait maintenant il peut
+
+555
+00:23:01,440 --> 00:23:04,340
+faire de la mer sur son projet
+
+556
+00:23:05,179 --> 00:23:06,960
+mais c'est pas grave c'est pour
+
+557
+00:23:06,960 --> 00:23:07,679
+l'exemple
+
+558
+00:23:07,679 --> 00:23:08,760
+admettons que lui il continue à faire du
+
+559
+00:23:08,760 --> 00:23:09,720
+code
+
+560
+00:23:09,720 --> 00:23:12,480
+tu continues à faire de ton projet en
+
+561
+00:23:12,480 --> 00:23:14,220
+fait moi vu que j'ai forqué on s'en fout
+
+562
+00:23:14,220 --> 00:23:15,720
+j'ai un projet qui est complètement
+
+563
+00:23:15,720 --> 00:23:18,000
+différent mais lié à son projet c'est à
+
+564
+00:23:18,000 --> 00:23:19,200
+dire que si un jour je me dis j'ai envie
+
+565
+00:23:19,200 --> 00:23:20,159
+de me mettre à jour sur lui je peux
+
+566
+00:23:20,159 --> 00:23:22,559
+aller le tirer prendre les codes qui lui
+
+567
+00:23:22,559 --> 00:23:24,480
+a fait et si moi mon côté j'ai fait un
+
+568
+00:23:24,480 --> 00:23:26,100
+truc qui était propre et je me dis ah
+
+569
+00:23:26,100 --> 00:23:26,940
+j'ai bien envie de lui envoyer le truc
+
+570
+00:23:26,940 --> 00:23:28,440
+qui était propre je peux lui faire un
+
+571
+00:23:28,440 --> 00:23:29,760
+pull requestre c'est-à-dire lui dire je
+
+572
+00:23:29,760 --> 00:23:31,260
+t'envoie quelque chose et lui pourra
+
+573
+00:23:31,260 --> 00:23:32,880
+accepter ou refuser de le mettre dans le
+
+574
+00:23:32,880 --> 00:23:35,640
+projet principal s'il l'accepte tous les
+
+575
+00:23:35,640 --> 00:23:37,260
+mecs qui ont
+
+576
+00:23:37,260 --> 00:23:38,640
+hérité de ce projet qui ont Forté ce
+
+577
+00:23:38,640 --> 00:23:40,440
+projet vont recevoir une notification en
+
+578
+00:23:40,440 --> 00:23:41,460
+mode et il y a quelque chose de nouveau
+
+579
+00:23:41,460 --> 00:23:43,440
+tu veux te mettre à jour ce qui veut
+
+580
+00:23:43,440 --> 00:23:45,299
+dire qu'en fait si on travaille je sais
+
+581
+00:23:45,299 --> 00:23:47,400
+pas moi 50 derrière toi bah 50 personnes
+
+582
+00:23:47,400 --> 00:23:49,200
+que je te proposer du code et toi tu
+
+583
+00:23:49,200 --> 00:23:51,360
+peux accepter et de faire répercuter au
+
+584
+00:23:51,360 --> 00:23:53,880
+50 qui veulent et se mettre à jour c'est
+
+585
+00:23:53,880 --> 00:23:54,960
+vraiment ça qui est beau dans une ici
+
+586
+00:23:54,960 --> 00:23:58,260
+dans guide pardon et donc ouais un très
+
+587
+00:23:58,260 --> 00:24:00,419
+beau et très belle outil
+
+588
+00:24:00,419 --> 00:24:02,640
+sur ce les gars on va aller dormir on
+
+589
+00:24:02,640 --> 00:24:04,679
+vous souhaite un bon une bonne fin de
+
+590
+00:24:04,679 --> 00:24:06,419
+soirée pour si vous êtes aussi en fin de
+
+591
+00:24:06,419 --> 00:24:09,200
+soirée et à bon moment
+
+592
+00:24:09,200 --> 00:24:12,260
+avec vous
+

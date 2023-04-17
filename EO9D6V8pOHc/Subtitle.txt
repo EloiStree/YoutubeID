@@ -1,0 +1,3662 @@
+salut à tous et bienvenue dans cette
+
+vidéo 3 avec Mohamed ici on a exploré
+
+comment installer Unity comment
+
+installer tous les software Open Source
+
+qu'on pouvait utiliser pour travailler
+
+dans Unity on a explosé un peu ce que
+
+c'était ça Quest les différents stores
+
+les choses comme ça on a exploré un peu
+
+comment lancer une apk sur le projet et
+
+la dernière vidéo si vous l'avez regardé
+
+on essayait d'installer le projet par
+
+défaut pour ce workshop le projet c'est
+
+un Ibrahim Beach ou pitchez à Ibrahim le
+
+fondateur de Molenbeek ici on va se
+
+concentrer du coup directement à Unity
+
+je vous invite à télécharger le zip sur
+
+le site qui se trouve ici donc sur
+
+GitHub vous avez et le Noko Jam vous
+
+téléchargez le code ici à partir du zip
+
+vous pouvez télécharger ici la dernière
+
+démo si vous voulez tester la démo avant
+
+et vous allez pouvoir du coup l'ouvrir
+
+Unity ouvrir une ici prend beaucoup de
+
+temps vous allez voir ça prend bonnement
+
+en quoi 5 minutes 10 minutes quelque
+
+chose comme ça pour la première fois
+
+pour la première fois mais cette fois
+
+suivante ça s'ouvrira plus vite donc là
+
+alors dans la précédente vidéo avant
+
+qu'on la coupe nous étions confrontés à
+
+une erreur ce qui se passe c'est que
+
+l'outil d'oculus bug quand aucun oculus
+
+n'est détecté avec oculus link ou que
+
+aucun oculiste n'est branché avec le
+
+câble on ne peut rien y faire à part
+
+espérer qu'il le corrige au plus vite
+
+pour le moment on va voir ce bug pour
+
+vous pouvoir le vous le montrer on va
+
+exécuter Unity voilà donc on fait play
+
+c'est-à-dire qu'on veut voir la scène
+
+qu'on veut voir la démo il va lancer la
+
+démo et bam crash bloqué
+
+ça va planter Unity ça le redémarrer sa
+
+plante pas c'est à vous de le redémarrer
+
+et il va vous mettre un message erreur
+
+donc vous avez pas 36000 solutions la
+
+première solution c'est d'avoir Quest
+
+qui est branché à votre PC mais vous
+
+venez peut-être pas à pc assez puissant
+
+pour la VR sûrement pas d'ailleurs
+
+du coup la deuxième solution nous on va
+
+explorer la première maintenant la
+
+deuxième solution c'est de ne pas
+
+utiliser la VR comme projet mais de
+
+créer un autre projet non VR de
+
+travailler dedans d'exporter dans la VR
+
+quand vous voulez faire des tests VR et
+
+de pousser avec une apk sur le Quest
+
+pour les tester sur le Quest ça prend
+
+plus de temps c'est plus conséquent et
+
+si vous n'avez pas de PC c'est vrai que
+
+ça va être un peu chaud il y a d'autres
+
+alternatives comme l'utiliser advr ou
+
+steam VR ou des trucs comme ça mais
+
+encore une fois votre PC doit avoir un
+
+peu de puissance et la complexité
+
+devient trop grande pour un nochot
+
+j'aime donc ici on va essayer de
+
+résoudre problématique par problématique
+
+oculus link alors pour lancer oculus le
+
+sling vous devez avoir installé oculus
+
+setup
+
+ici on l'a déjà installé donc on va le
+
+lancer
+
+votre cache doit être branché et on va
+
+lancer le casque ici pour lui dire que
+
+on veut passer alors ici il y a pas
+
+besoin de configurer parce qu'on avait
+
+déjà configuré précédemment donc il faut
+
+juste relancer le casque
+
+sachant que je vais lancer mon corps que
+
+tu fais ça sidequest histoire qu'on
+
+puisse voir ce qui se passe
+
+ça aide quest
+
+dessus on va aller cropper l'image
+
+c'est ici
+
+[Musique]
+
+il accepte pas que je l'ai je la mets
+
+ailleurs
+
+donc activer
+
+donc en fait ce qui va se passer c'est
+
+je voulais vous le montrer mais c'est
+
+pas grave c'est déjà dans la vidéo
+
+précédente
+
+donc allez d'avoir des vidéos
+
+précédentes mais basiquement ici on va
+
+aller dans la reculus Quest et on va
+
+aller dire qu'on accepte
+
+oculus questning une fois qu'il va faire
+
+ça il va tomber dans un espace blanc
+
+tout blanc de couleur c'est parce qu'on
+
+n'est pas assez je suis dans le sens
+
+blanc je vais cropper parce que là j'ai
+
+pas encore lancé
+
+voilà voilà vous voyez que il est lancé
+
+il est dans un espace blanc qu'il a
+
+réussi à lancer ça c'est en allant dans
+
+le menu et dans le menu vous allez sur
+
+oculus questnik maintenant tu peux dire
+
+OK
+
+et donc tant qu'il est ici ça veut dire
+
+que le Quest se comporte comme un
+
+appareil pour le PC et donc du coup il
+
+faut pas sortir de ça il peut enlever le
+
+cas si il veut mais il faut surtout pas
+
+sortir de ça donc ici je vais aller dans
+
+Unity
+
+et je vais lancer tu peux le garder
+
+comme ça tu vas voir directement je vais
+
+lancer le casque
+
+de trop parce qu'il est branché avec le
+
+câble sur le PC vous pouvez le faire en
+
+wifi mais pour ça il faut que vous ayez
+
+une bonne wifi ou à l'émetteur wifi
+
+quelque part dans la pièce
+
+et donc voilà ici son pc assez puissant
+
+pour supporter le fait de lancer le jeu
+
+mais vous pouvez voir que ça rame
+
+énormément donc ça va lui un peu
+
+la maladie de la VR donc c'est à dire la
+
+gerbe si il joue trop comme ça mais
+
+basiquement ici peut tester il peut voir
+
+que ça marche
+
+en fait ce qui se passe c'est que c'est
+
+un outil qui permet de pitcher à Ibrahim
+
+c'est à dire que vous déposez des images
+
+dans un dossier à côté du projet et ces
+
+images vont charger vous pouvez parler
+
+par-dessus le but c'est de s'entraîner à
+
+pitcher
+
+alors maintenant je crois que c'est tu
+
+bouges le tableau et que tu le ramènes
+
+mais le problème c'est qu'il est un peu
+
+loin bouge-toi de la table fait tourner
+
+la table pour voir si le code ici est
+
+bien fonctionné tu peux utiliser les
+
+manettes
+
+il faut le faire avec non c'est pas
+
+cliquer il faut toucher avec le gros
+
+cube de la manette
+
+je sais pas si ça sera assez proche
+
+ligne rouge dans le jeu c'est ce que le
+
+Guardian c'est à dire que normalement le
+
+Guardian c'est plein de petits pois et
+
+une longue ligne avant on pouvait y
+
+avoir accès mais là j'ai pas réussi à
+
+avoir accès donc je crois qu'ils ont
+
+retiré la fonction et on a juste un gros
+
+carré et ce gros carré c'est l'espace où
+
+il peut jouer tu peux le tourner comme
+
+ça de manière bizarre
+
+comme ça on est sûr qu'on voit si tu le
+
+tournes VLC horizon sur le pour qu'il
+
+soit mal foutu voilà alors en fait ce
+
+qui se passe ici c'est que
+
+dans le projet il vient de bouger la
+
+table on pouvait voir qu'elle est plus
+
+totalement droite
+
+et on va voir si elle recharge
+
+correctement je l'arrête attention je
+
+m'arrête je vais relancer le projet
+
+voilà
+
+et là normalement quand ça va relancer
+
+on peut voir que la table
+
+elle a pas bougé dans le sens elle est
+
+toujours elle est retournée l'endroit où
+
+elle devait être c'est ça donc elle est
+
+retournée à l'endroit où elle devait
+
+être pour pas que du coup je suis pas
+
+dans ce monde alors ce qui se passe
+
+c'est que pour comprendre toutes ces
+
+trucs vous pouvez voir que ici donc là
+
+tu peux enlever le casque t'inquiète
+
+comme ça tu peux voir aussi
+
+en fait c'est ce qui se passe c'est que
+
+ici tout ça c'est ce qu'on appelle des
+
+game objet c'est à dire des objets qui
+
+ont un sens dans Unity et qui permettent
+
+de voir des objets de voir d'avoir des
+
+collisions de mettre des scripts
+
+c'est game object ils appartiennent à
+
+une hiérarchie la hiérarchie
+
+c'est basiquement ce qu'il y a dans
+
+votre scène dans votre level
+
+et en fait tous ces objets il faut bien
+
+qu'ils appellent des fichiers que ce
+
+soit des images des objets 3D et donc
+
+vous avez quelque chose qu'on appelle
+
+ici un projet projet qui a des dossiers
+
+avec plein d'images plein de fichiers 3D
+
+par exemple ici si j'ouvre celui-ci
+
+je suis pas habitué à ton clavier on
+
+peut aller dans 3D objects par exemple
+
+voilà et là on va pouvoir voir que j'ai
+
+des objets qui viennent du web donc si
+
+on va voir par exemple il y a laptop
+
+voilà et si tu vas ouvrir le dossier
+
+laptop donc tu cliques dessus
+
+on peut voir qu'il y a la source parce
+
+qu'il faut toujours bien sourcer quand
+
+vous prenez de du web
+
+et il y a
+
+plein de petites choses que
+
+j'expliquerai dans une autre vidéo mais
+
+vas-y moi ce qu'il faut comprendre c'est
+
+que vous pouvez apporter des assets 3D
+
+des textures des choses comme ça les
+
+mettre dans le projet tout développeur
+
+aimerait bien pouvoir voir ce qui se
+
+passe et débugger donc il y a en fait
+
+une fenêtre qui s'appelle console ici
+
+et en fait ça permet d'afficher les
+
+messages tout se passe bien cette
+
+texture et la charge est tout c'est très
+
+pratique et si vous voulez pouvoir la
+
+voir un peu différemment vous pouvez la
+
+glisser comme ceci ici voilà comme ça on
+
+a le dos très pratique
+
+il reste trois fenêtres à voir alors
+
+celle-ci celle que vous voyez ici c'est
+
+ce qu'on appelle le rendu donc le Game
+
+qui permet de voir ce que l'utilisateur
+
+final va
+
+alors que ici on a une fenêtre qui
+
+s'appelle sin qui est en fait vous quand
+
+vous éditez que vous déplacez les objets
+
+vous voulez voir des lignes qui
+
+déboguent vous voulez voir des petits
+
+curseurs qui bougent c'est exactement ça
+
+donc vous pouvez prendre les objets les
+
+bouger les déplacer tourner agrandir et
+
+tout encore une fois ce sera le sujet
+
+d'une autre vidéo et si vous voulez
+
+regarder comment moi j'ai fait cette
+
+scène là évidemment je le montre dans la
+
+vidéo où je ne parle pas
+
+alors il reste une fenêtre ici
+
+intéressante qui s'appelle inspecteur
+
+inspecteur c'est quoi quand vous cliquez
+
+sur un objet donc ici sur le côté ces
+
+objets là ils ont une utilité par
+
+exemple si je prends la table ici
+
+attendez on va sélectionner ça
+
+voilà on va aller sélectionner la table
+
+si je sélectionne la table c'est quoi
+
+une table bah c'est un objet dans le jeu
+
+donc il est présent ici ce qu'on appelle
+
+un Game object le Game object il a non
+
+donc ici cette table des stops
+
+il a transforme alors à transforme c'est
+
+quoi c'est une position dans l'espace
+
+une rotation et à l'agrandissement donc
+
+c'est à dire que vous avez une taille
+
+ici donc par exemple si je change la
+
+taille vous allez voir que hop elle
+
+grossit elle devient un peu plus haute
+
+si jamais à 5 elle devient très haute
+
+mais ça va étirer donc ça va vite
+
+devenir moche
+
+on a une rotation ici qui permet de
+
+bouger l'objet
+
+comme ceci
+
+180 voilà par exemple ici je les tourne
+
+à l'envers
+
+et on a une position qui est sa position
+
+dans l'espace
+
+ouais ça en fait c'est un script c'est
+
+au bout de code que Unity nous a donné
+
+pour pouvoir positionner un objet dans
+
+l'objet 3D il y a plein de scripts par
+
+exemple il y a un script qui permet de
+
+voir l'objet de lui donner de la couleur
+
+de paramétrer le volume les lumières les
+
+couleurs et ça c'est ce qu'on va appeler
+
+ici le mechrone d'horreur donc qu'est-ce
+
+qu'il fait il prend un objet 3D qu'on a
+
+apporté qui est la table en gris c'est
+
+rien d'autre que plein de petits
+
+triangles mineurs derrière l'autre c'est
+
+ça ça donne comme une la pression d'une
+
+table et grâce ici au rendu on va
+
+pouvoir afficher des lumières dessus des
+
+ombrages et tout c'est ça qui va gérer
+
+ça mais le problème c'est comment en
+
+fait pour lui donner de la couleur mais
+
+en fait on va déposer ce qu'on appelle
+
+un matériel et un matériel s'il y a
+
+d'autres que on dit cet objet on va y
+
+mettre une texture c'est à dire une
+
+image la texture elle va se déplier
+
+comme ça sur le l'objet 3D elle aura
+
+telle couleur telle lumière telle
+
+luminosité telle tel effet et ça
+
+ressemble à
+
+vous pouvez voir qu'on a ici un reflet
+
+qui sera plutôt métallique on aura un
+
+œuf lait à reflex opaque c'est à dire
+
+qu'on peut pas traverser dedans si vous
+
+voulez le rendre transparent vous pouvez
+
+sur transparent
+
+on veut qu'il soit soit des deux côtés
+
+c'est à dire est-ce qu'on voit à travers
+
+les triangles d'un côté et pas de
+
+l'autre ça veut dire qu'on n'est pas
+
+obligé de calculer le rendu des deux
+
+côtés du triangle mais ici si vous
+
+mettez from ça veut dire oui de face
+
+sinon vous pouvez mettre boss et ça veut
+
+dire que quel que soit l'orientation du
+
+triangle on verra une texture dessus
+
+ici on va pouvoir déposer des textures
+
+de dés donc comme vous pouvez voir ça
+
+ressemble à ceci
+
+ça c'est ce qu'on appelle un musée map
+
+dépliage on va prendre une image de D on
+
+va dessiner dessus et on va l'appliquer
+
+sur l'objet 3D pour dessiner sur l'objet
+
+3D ça c'est le métier d'un artiste
+
+en fait ce qui se passe c'est que un
+
+artiste va prendre l'objet 3D il va il
+
+va découper tous les petits triangles et
+
+dire ce triangle là si je dessine ici
+
+dans le Tessa ça va dessiner sur ce
+
+triangle et ça c'est un métier en appart
+
+entière donc c'est extrêmement dur pour
+
+moi de vous l'expliquer juste en deux
+
+minutes sur une vidéo mais ça s'appelle
+
+du dépliage de l'uvmap
+
+c'est pas comme le cube quand on l'ouvre
+
+ça donne une espèce de si par exemple si
+
+vous prenez un bon exemple donc si vous
+
+prenez un cube c'est un objet 3D Alors
+
+comment on dessine sur le cube on va
+
+couper les faces du cube on va le
+
+déplier et là on aura une espèce de
+
+croix comme la croix de Jésus et en fait
+
+cette croix de Jésus on va pouvoir
+
+dessiner sur chacune des phases sur une
+
+image de dés et on va l'appliquer sur
+
+l'objet 3D sauf que si vous faites ça
+
+vous perdez plein d'espace dans le gros
+
+carré de la texture ce qui fait que vous
+
+perdez de la place sur l'ordinateur et
+
+donc pour pas perdre cet espace là on va
+
+prendre tous les cubes et les réallonger
+
+pour que on puisse ne pas perdre de
+
+l'espace mais l'idée c'est ça c'est de
+
+déplier le cube de dessiner dessus
+
+maintenant ici c'est des objets plus
+
+complexes que cuve donc il faut dessiner
+
+de manière bizarre comme vous avez pu
+
+voir avec la table donc on va déposer
+
+cette image là ici et lui il va savoir
+
+comment on le déplie sur l'objet 3D
+
+on peut gérer la couleur donc par
+
+exemple ici si on veut à bord qu'il soit
+
+plus vert si on change ici top il va
+
+être plus vert
+
+donc c'est à ça que ça sert à matériel
+
+alors je pourrais vous expliquer ce que
+
+ça shader mais je vais vous perdre donc
+
+je vais pas aller plus loin mais à
+
+shader c'est maintenant qu'on sait ce
+
+qu'on veut comment demander réellement
+
+l'ordinateur à votre carte graphique de
+
+dessiner tout ça mais ça je vais pas y
+
+aller parce que c'est un truc de
+
+d'informaticien de geek je vous
+
+l'expliquerai que si un jour je donne
+
+cours sur le sujet alors juste une
+
+question ouais
+
+ma sœur
+
+si tu veux tourner tu peux utiliser le
+
+pivot ici
+
+tu peux cliquer dessus quand vous avez
+
+pas de souris vous pouvez utiliser ça
+
+pour bouger sachant que si tu cliques
+
+sur le sang tu vas gagner la perspective
+
+ou perd la perspective alors c'est quoi
+
+la perspective c'est justement ça que tu
+
+vas pouvoir voir ici vous voyez la table
+
+et si vous voyez la table du dessus
+
+voilà comme ceci vous pouvez voir que la
+
+table on voit qu'elle est un peu qu'elle
+
+part vers les bords ce qu'on appelle la
+
+perspective par contre quand vous posez
+
+pas sur la perspective vous voyez à
+
+plaque comme un jeu 2D ça c'est
+
+orthogonique
+
+orthogonal enfin
+
+vous avez ça qui vous permet de mieux
+
+calibrer en octogoning mais de mieux
+
+comprendre en perspective donc vous
+
+passez de l'un à l'autre comment je fais
+
+pour revenir
+
+en perspective tu recliques sur le
+
+centre
+
+alors ici le jeu le truc un peu lent
+
+c'est parce qu'il a pas arrêté le mode
+
+plaît alors il sert quoi le mode plaît
+
+clique pas dessus tout de suite le petit
+
+bouton que vous voyez ici en bleu donc
+
+tu peux mettre en curseur dessus voilà
+
+ce petit bouton là c'est le mode play ça
+
+veut dire on joue donc on modifie tout
+
+en fait tout ce qu'on veut mais quand on
+
+arrête il faut que ça récupère la place
+
+de quand on était en train de travailler
+
+et on vous allez voir que ici quand il
+
+va arrêter le mode play la table elle va
+
+revenir à sa place
+
+donc c'est à dire qu'il y a des données
+
+qui peuvent être reconstruites par Unity
+
+il y a des exceptions mais c'est très
+
+pratique pour pouvoir tester son jeu
+
+vite fait et puis relancer puis retester
+
+puis relancer et donc voilà maintenant
+
+qu'on sait un peu ce que c'est inutile
+
+les interfaces et tout on verra plus
+
+profondément ça dans une autre vidéo ce
+
+qu'on veut voir c'est comment on fait
+
+pour Builder sur la réalité virtuelle
+
+alors ici vous avez vu comment on joue
+
+dans Unity sur la réalité virtuelle mais
+
+alors comment on fait pour le mettre sur
+
+le casque alors ce qui se passe c'est
+
+que vous avez ici un truc qui s'appelle
+
+file quand vous cliquez sur file
+
+je crois pas que l'ity puisse être en
+
+français donc tout est en anglais
+
+alors ce qui se passe c'est que vu qu'on
+
+change de plateforme bah elle est
+
+texture elles sont plus dans le le bon
+
+format il faut les redessiner il faut
+
+les recalculer et vous pouvez voir que
+
+le chargement qu'on avait eu dans la
+
+vidéo précédente qui est un peu long et
+
+on va leur avoir il sera peut-être un
+
+peu moins long mais on va quand même
+
+avoir rechargement ready toutes les
+
+métadonnées sur les sur les textures sur
+
+les objets 3D et surtout ce qui va
+
+permettre de faire un programme Android
+
+alors ici
+
+pour le casque vert ouais pas pour le
+
+téléphone ouais mais en fait ce qui se
+
+passe c'est que ton
+
+casque VR ton oculus Quest ici c'est une
+
+bonne question alors là du coup je vais
+
+passer sur le webcam
+
+voilà ceci n'est rien d'autre que de
+
+réalité virtuelle dedans vous avez un
+
+téléphone qui se trouve ici OK et dans
+
+ce téléphone on est une ligne à greffer
+
+des caméras infrarouges pour savoir où
+
+elles sont plein de composants
+
+électroniques pour gérer la performance
+
+le rendu des caméras gérer la luminosité
+
+les composants et les choses comme ça le
+
+volume sauf que dans le temps on avait
+
+ce qu'on appelait un cardboard alors
+
+regarde
+
+tout de suite
+
+est-ce que je l'ai pris avec moi
+
+je trouve pas une image sur le site
+
+l'image de ce à quoi ça ressemble
+
+[Musique]
+
+mais je le vois pas donc tant pis tu
+
+l'as mis dans le dans le cou
+
+non mais Pierre carbone avec moi mais je
+
+l'ai pas pris donc je n'ai pas pris le
+
+cardboard donc je vais vous montrer à
+
+quoi ça ressemble
+
+voilà donc pendant que c'est en train de
+
+charger je vais vous montrer ça en
+
+allant sur les slides ça me permettra de
+
+vous montrer les slides bah du coup
+
+alors ici ce que j'avais fait
+
+précédemment que je n'ai pas mis en
+
+vidéo c'est à slide où j'explique un peu
+
+ce que c'est la réalité virtuelle
+
+ce que c'est le Quest c'est des choses
+
+comme ça et pour vous montrer ici donc
+
+ça c'est le lien du cours avec le QR
+
+code
+
+la réalité virtuelle c'est rien d'autre
+
+que basiquement on met notre tête devant
+
+un écran et ça permet de voir quelque
+
+chose on le fait depuis bien bien
+
+longtemps ça ressemble un peu comme ça
+
+assez vieux trucs je sais pas si vous
+
+souvenez du web du view master qui
+
+permettait de voir deux images une à
+
+côté de l'autre et on voyait de la
+
+profondeur dans l'image vas-y moi c'est
+
+l'ancêtre des cinémas 3D que vous avez
+
+pour le moment sauf que quand vous
+
+mettez des lentilles dessus et ça donne
+
+le Virtual Boy qui permet en fait de
+
+voir des images vraiment comme si on y
+
+était dedans sauf que le Virtual Boy il
+
+était beaucoup trop tôt pour 100 ans
+
+beaucoup de gens ont fait de la
+
+recherche et basiquement un téléphone un
+
+truc
+
+Quest ici c'est rien d'autre qu'un
+
+téléphone et un téléphone pour pouvoir
+
+faire de la VR il a besoin de savoir
+
+comment il orienté dans l'espace pour ça
+
+il va utiliser un gyroscope qui permet
+
+de savoir l'orientation par rapport au
+
+monde et un accéléromètre qui permet
+
+d'avoir des données beaucoup plus
+
+précises et beaucoup plus rapide sur le
+
+à quel point il bouge quelle orientation
+
+il a ça ressemble à ça les petits
+
+composants si vous voulez en faire
+
+vous-même avec un Arduino
+
+ça c'est ce qu'on appelle au carboard
+
+c'était une blague de Google ou en fait
+
+ils ont fait vous voyez tous vos cas
+
+super cher qui coûte 200 euros à faire
+
+et où on met un téléphone mais en fait
+
+moi pour 15 euros je vous produis un
+
+truc en carton qui marche très bien et
+
+vous pouvez voir que c'est rien d'autre
+
+que une lentille un truc dépliable une
+
+petite élastique est à la vous pouvez
+
+faire de la mer en fait vous venez
+
+mettre votre téléphone ici devant comme
+
+ceci et vous pouvez faire de la VR vous
+
+n'êtes pas obligé d'acheter ça parce que
+
+c'est quand même plus confortable
+
+d'avoir quelque chose qui est dédié
+
+parce que la raison aussi pour laquelle
+
+on aime bien ce genre de truc c'est que
+
+quand vous prenez votre téléphone il y a
+
+des services pour le téléphone qui
+
+tourne qui vérifie qu'il y a pas d'appel
+
+qui vérifie que vous avez des mails qui
+
+vérifient que la sécurité est bonne donc
+
+il y a plein de choses qu'on appelle les
+
+services qui vont tourner dessus et qui
+
+ont consommé la batterie et en plus de
+
+ça le téléphone il va chauffer et si il
+
+chauffe trop fort ça ralentit les
+
+composants ça les abîme et donc ici on a
+
+une coque qui va refroidir
+
+par réduction le
+
+Quest ici
+
+vous voyez que c'est plein de petits
+
+détails plein de petits trucs qui font
+
+que c'est quand même mieux d'avoir
+
+quelque chose de dédié et pas juste un
+
+téléphone qu'on vient mettre dans une
+
+coque c'est pour ça qu'on a changé de
+
+stratégie au fur et à mesure des années
+
+oh je dis oh je dis tous les gens qui
+
+font de la recherche au fur et à mesure
+
+des années dans la VR c'est à dire tous
+
+les différents on ne sait pas par où on
+
+va donc là on regarde la chose du
+
+présent en se disant mais c'est con bah
+
+oui logique mais nous quand on était
+
+dans le passé on était en mode bon on va
+
+les verrous et on va faire quoi
+
+et donc voilà voilà par exemple ça c'est
+
+le parcours qu'on a eu où on est passé
+
+d'un concept qui est devenu une réalité
+
+deuxième qui xsarter pour le rendre un
+
+peu plus vrai là on avait le tracking du
+
+tête on a essayé de le d'utiliser un
+
+téléphone parce qu'on s'est dit bon bah
+
+finalement c'est on a déjà des
+
+téléphones ils ont déjà un bon écran
+
+mais c'est pas assez bien pas assez
+
+précis pas c'est bon ça consomme trop du
+
+coup on est retourné sur un stand de
+
+l'Aude c'est-à-dire un truc qui est tout
+
+seul et on est tout doucement les vers
+
+le Quest et maintenant on est arrivé ici
+
+on a un téléphone sachant que la
+
+prochaine étape c'est soit vous partez
+
+sur du PC c'est à dire des gros PC une
+
+grosse tour un bon gros câble et un bon
+
+gros casque qui fait que vous voyez de
+
+beaux angles de beaux écrans mais c'est
+
+très lourd sur la tête et voilà c'est
+
+une immersion qui est complètement
+
+différente ça va être plus basé sur le
+
+réalisme
+
+on va pouvoir porter pendant longtemps
+
+quoi vous pouvez pas le porter pendant
+
+longtemps et en plus de ça ça coûte
+
+extrêmement cher parce que du coup
+
+qu'est-ce comme ça coûte 1000 à 2000
+
+euros et le PC coûte 1000 à 3000 euros
+
+quoi donc c'est pas abordable
+
+pour les gens qui ont jamais testé la VR
+
+je vous conseille vraiment de le tester
+
+le plus vite possible pour pouvoir voir
+
+ce que c'est parce que c'est très dur de
+
+parler la VR avec quelqu'un qui n'en a
+
+jamais testé faut bien se dire que c'est
+
+pas de la 2D avec la profondeur c'est
+
+vraiment vous êtes dans le monde de
+
+réalité virtuelle vous voyez le monde
+
+comme si vous y étiez c'est même des
+
+fois perturbant parce qu'on s'y perd
+
+il y a des trucs en VR alors pour
+
+l'instant c'est toujours en train
+
+d'installer c'est pour ça que je meuble
+
+c'est toujours en train de passer à
+
+Android on y est presque on y est
+
+presque
+
+alors la VR c'est ça c'est quand vous
+
+êtes carrément isolé de Lyon et vous ne
+
+voyez rien d'autre que le monde par
+
+exemple avec le jeu beats
+
+la r C'est quand vous voyez de la
+
+réalité de la réalité augmentée
+
+c'est-à-dire que vous voyez derrière le
+
+monde vous pouvez être des objets mais
+
+vous ne pouvez pas vraiment interagir
+
+avec le monde sur le lien si on peut le
+
+faire mais pas sur le Quest on n'a pas
+
+vraiment encore le scan de la pièce les
+
+murs le sol accessible au développeur ça
+
+va venir dans le suivant
+
+alors que la réalité mixte c'est la même
+
+c'est celle de lololens et du lynx que
+
+j'attends qui est le casque suivant
+
+c'est une réalité ou en fait on va
+
+afficher par dessus la vraie vie avec de
+
+la couleur ce qu'on n'a pas encore sur
+
+ce casque
+
+afficher sur la vraie vie avec de la
+
+couleur des objets qui se font dans
+
+l'espace sachant que on veut interagir
+
+avec la table on va interagir avec les
+
+moments interagir avec l'environnement
+
+que nous entoure donc ça c'est ce qui
+
+nous attend et donc par exemple ici
+
+c'est le Lens qui existe depuis des
+
+années c'est excellent c'est très
+
+puissant mais il faut 3000 à 5000 euros
+
+pour en avoir je n'ai pas 3000 à 5000
+
+euros je pense pas que vous en avez et
+
+on approche tout doucement la fin du
+
+truc on va pouvoir repasser sur Unity
+
+mais voilà à quoi ça ressemble mais 3D
+
+de quand vous avez un casque dédié à la
+
+réalité augmentée vous pouvez utiliser
+
+les meubles et tout alors le chargement
+
+est terminé je repasse sur ton écran
+
+voilà
+
+maintenant où on en était on était en
+
+train d'essayer de publier sur le Quest
+
+en tout cas publier localement pas sur
+
+le store
+
+alors on est passé maintenant en version
+
+Android c'est à dire que le projet va se
+
+comporter comme si c'était pour Android
+
+ici il va falloir pouvoir détecter le
+
+casque alors ici si tu cliques sur
+
+défaut alors tout on va pouvoir voir ok
+
+pour le moment on a deux cases de
+
+connecter on en a un qui est connecté à
+
+Wi-Fi et hockey
+
+ici voilà alors vous vu que vous aurez
+
+pas peut-être pas mis le WiFi vous
+
+n'aurez que un seul et donc du coup il
+
+va pas poser problème il va juste dire
+
+ok c'est bon c'est celui-là que sur
+
+lequel je buildais alors normalement ça
+
+ça devrait être disponible mais ça
+
+dépend donc je vais essayer de trouver
+
+pourquoi je réfléchis deux secondes
+
+ok il dit que il est en train de faire
+
+des calculs et apporter des trucs donc
+
+on va aïe il est toujours en train de
+
+compiler ici vous voyez qu'il est
+
+toujours en train de travailler et c'est
+
+pour ça qu'il n'a pas encore fini de son
+
+taf
+
+mais ça va bientôt être fini quoi là
+
+voilà il a l'air d'avoir fini donc on va
+
+revenir dans le
+
+alors la différence entre ce qu'on vient
+
+de faire ici c'est à dire reconstruire
+
+tous les images et compiler c'est que
+
+reconstruire toutes les images ça va
+
+être plus préparer le projet alors que
+
+compiler c'est plus le code de initi qui
+
+se régénère en fait s'écharpe n'est pas
+
+un langage interprété c'est à dire
+
+langage qui au fur et à mesure s'exécute
+
+ça langage que l'on compile c'est-à-dire
+
+qu'on va le transformer pour la machine
+
+et on va l'exécuter donc du coup il a
+
+besoin d'être régulièrement rebuildé ça
+
+prend son petit temps j'ai l'impression
+
+que non ça c'est des messages
+
+en gros les messages erreur c'est pas
+
+qu'il faut les ignorer mais c'est vrai
+
+que on se retrouve vite avec des
+
+messages erreur qui flottent qui sont
+
+partout dans le la console c'est pour ça
+
+qu'ici vous cliquez là bas pour dire
+
+j'ignore les messages erreur ou j'ignore
+
+les erreurs pour pouvoir être focus que
+
+sur un ou sur l'autre OK
+
+mais ce que ça veut dire est-ce qu'il
+
+serait pas comme par exemple pour les
+
+programmes moi quand je programme par
+
+exemple j'ai créé un script s'il y a une
+
+erreur le programme il veut pas se
+
+lancera pas ok jaune ça veut dire il y a
+
+un truc qui est pas très terrible à
+
+laisser là-bas il faudrait peut-être le
+
+changer OK et blanc ça veut dire c'est à
+
+l'autre c'est toi qui crie des
+
+informations pour savoir autant donc
+
+rouge il te laissera pas aller plus loin
+
+mais tant que c'est jaune ça marchera
+
+c'est juste un warning du il y a quelque
+
+chose qui n'est pas terrible dans ton
+
+projet tu peux le corriger mais quand
+
+t'as pas le temps de le corriger ou
+
+quand tu vois qu'il y a pas vraiment
+
+moyen de corriger tu peux essayer soit
+
+de créer des trucs pour l'ignorer soit
+
+de laisser là et de dire
+
+je corrigerai
+
+c'est pas très cool quand tu le publie
+
+sur le store de laisser ça mais ici on
+
+n'est pas sur le store donc alors
+
+on va retourner sur le fil setting ici
+
+en maintenant vous pouvez voir qu'on est
+
+toujours bien sur le Quest qu'on visait
+
+on est toujours bien sur le build au
+
+build and run alors la différence entre
+
+Bulle les Bull and run Bulls ça va
+
+prendre votre projet ça va le mettre en
+
+apk que vous puissiez le passer à
+
+quelqu'un build and run ça va faire ça
+
+et puis ça va regarder la cible que vous
+
+avez et c'est le mettre directement
+
+dessus donc on part sur du bullition du
+
+Builder run alors il va dire ok où
+
+est-ce qu'on le stocke alors une
+
+convention une convention c'est une
+
+manière que des développeurs ont de se
+
+dire on fait tous la même chose c'est de
+
+créer un dossier qui s'appelle build
+
+build pour stocker tous les build
+
+l'avantage aussi c'est que dans git on
+
+peut ignorer des dossiers quand vous
+
+travaillez sur des objets collaboratifs
+
+et on va dire ce dossier là avec tous
+
+les exécutables il n'y a pas besoin de
+
+les mettre en ligne c'est beaucoup trop
+
+volumineux on va les ignorer on va les
+
+laisser là et ça c'est pas facile à
+
+expliquer que quelqu'un qui connaît pas
+
+donc ici dans le Buil tu vas pouvoir
+
+déposer ton apk faut que tu lui donnes
+
+un nom à toi de voir ce que tu mets
+
+c'était pressé tu mets n'importe quoi
+
+c'était pas pressé moi généralement je
+
+mets une date et comme ça ça me permet
+
+de savoir si je veux tester une vieille
+
+version à quoi ça ressemble en termes de
+
+juste mettre une version
+
+comme ça non on va mettre la date c'est
+
+pas grave mais c'est juste que je suis
+
+vraiment nul dans les dans les choix des
+
+noms
+
+alors quand on est informaticien on sait
+
+que si tu mets des espaces dans les noms
+
+ça se crée souvent des bugs si tu mets
+
+non tu as pas mis d'espace mais quand tu
+
+mets des slashs des plus ça crée des
+
+bugs si tu mets des accents aigus et des
+
+trucs comme ça ça peut créer des bugs si
+
+tu mets du Nikon ou des étoiles ça peut
+
+créer des bugs donc on va faire ce qu'on
+
+appelle le l'alpha numérique c'est à
+
+dire que vous ne mettez que du A à Z
+
+avec des minuscules et des majuscules
+
+vous pouvez mettre des chiffres de 0 à 9
+
+et alors il y a une petite exception qui
+
+est ce que je viens de voir ici c'est à
+
+dire que généralement en tant que
+
+développeur on va mettre un underscore
+
+c'est à dire une barre en dessous
+
+d'accord dans le dans le texte mais on
+
+va pas mettre des moins parce qu'en fait
+
+les moins dans certains programmes ça
+
+peut créer des problèmes d'accord donc
+
+la seule exception à l'Alfa numérique
+
+c'est l'Ender score ok alors pour que
+
+pour les gens qui connaissent pas vu que
+
+ça prend le temps de charger
+
+note pas de
+
+voilà écrire ça ça va écrire ça va ça
+
+c'est toléré mais ça risque de créer des
+
+bugs et ça c'est ce que on peut mettre
+
+donc si c'est hors des chiffres hors des
+
+lettres et hors de ça c'est à éviter
+
+d'accord
+
+alors vous pouvez le faire c'est juste
+
+un conseil
+
+il avance alors il avance il avance donc
+
+là ce qu'on est en train de faire du
+
+coup c'est de prendre le projet que je
+
+vous ai passé on a vérifié qui tournait
+
+sur l'éditeur donc on est en train de
+
+faire une version on va pouvoir tester
+
+sur le quest
+
+ce qui veut dire que ici quand ça va
+
+marcher ça veut dire que si il va dans
+
+l'éditeur qui rajoute non plus une table
+
+mais une armoire et que il fait ça ben
+
+on va voir une armoire dans le dans le
+
+jeu de ce côté là ok bon elle sera pas
+
+positionnée à l'espace et on pourra pas
+
+les bouger mais il y aura une
+
+histoire de dire qu'on va pouvoir
+
+modifier le projet c'est ça alors je
+
+pourrais donner un autre cours sur
+
+comment on fait pour bien calibrer
+
+oculus comment on fait pour mettre les
+
+scripts et des trucs comme ça maintenant
+
+est-ce que j'aurai le temps de préparer
+
+ça avant les événement pas certain donc
+
+je vais vous demander d'aller regarder
+
+des vidéos sur Google il faut savoir que
+
+ici
+
+dans le cours que je vous ai donné ici
+
+vous pouvez voir que je vous ai donné
+
+ici une liste de youtubeurs à aller
+
+regarder il faut savoir que le monde du
+
+jeu vidéo est extrêmement anglophone
+
+donc il y a très peu de vidéos
+
+françaises
+
+Arnaud je pars donne des cours de
+
+français des cours de initi en français
+
+mais c'est des cours assez avancés sur
+
+des sujets assez avancés donc je suis
+
+pas sûr que vous allez trouver votre
+
+bonheur mais abonnez-vous à ce gars-là
+
+il est génial
+
+code Monkey c'est en anglais mais c'est
+
+plein de tutos débutants pour comment on
+
+voulait apprendre Unity c'est génial je
+
+vous conseille vraiment d'y aller
+
+bracelet vous avez jamais refaire des
+
+recherches sur la VR ou sur Unity sans
+
+tomber sur lui c'est vraiment un
+
+ambassadeur d'Unity il est vraiment
+
+excellent mais déjà un petit peu niveau
+
+médium expert
+
+mais par contre nous ce qui nous
+
+intéresse c'est ce gars là deal merde ce
+
+gars là c'est le mec qui va faire de la
+
+réalité virtuelle donc XR donc avant il
+
+y avait la VR on est isolé la R qui est
+
+les téléphones la MR qui est en fait le
+
+fait d'avoir de la réalité augmentée
+
+avec des objets et la XR c'est une
+
+manière de dire bon les gars on arrête
+
+on va faire un truc standardisé que tout
+
+le monde peut utiliser et on va mettre
+
+tout ça dans un dans un seul et vous
+
+pouvez voir que lui il fait que des
+
+cours sur la XR et c'est énorme par
+
+exemple moi quand j'ai dû apprendre à
+
+utiliser les mains en réalité virtuelle
+
+avec la vue en noir et blanc c'est sur
+
+lui que j'ai étudié le sujet j'ai pas
+
+été lire dans le manuel directement j'ai
+
+d'abord été étudié chez lui donc je vous
+
+conseille vivement de vous abonner à ce
+
+gars là et d'aller voir un peu ce qu'il
+
+fait parce que c'est
+
+incontournable vous avez de toute façon
+
+tous les souris
+
+pour 3 minutes il y en a encore pour 3
+
+minutes non c'est ça fait trois minutes
+
+qu'il retrait de compil en fait ce qui
+
+se passe c'est que le projet la première
+
+fois que vous le compilez il va prendre
+
+du temps donc je vais retourner sur ton
+
+écran pour montrer vous voyez que là on
+
+est à 3 minutes 50 de compilation ça
+
+prend du temps et ce qui se passe c'est
+
+que si vous le faites en s'écharp pure
+
+il va toujours prendre beaucoup de temps
+
+si vous le faites en il tous ces PP un
+
+truc que je vous avais demandé
+
+d'installer au tout début de Unity qu'on
+
+essaye Unity ça permet en fait de
+
+diminuer drastiquement ce temps là et de
+
+d'avoir des optimisations sur des codes
+
+de Unity
+
+donc c'est à dire que la si le projet
+
+avait envoyé le tout CPP je crois que je
+
+l'ai mis à tous ces PP la prochaine fois
+
+qu'on va builer ça va prendre 30
+
+secondes un truc comme ça et pas à 5
+
+minutes quoi
+
+ça va toujours prendre du temps et vu
+
+que vous avez téléchargé le projet pour
+
+vous c'est la première fois
+
+et donc voilà voilà que dire d'autre bah
+
+basiquement oui si vous voulez chercher
+
+de la VR vous pouvez voir que si on tape
+
+vers
+
+oculus ici
+
+on va tomber sur plein de vidéos vous
+
+êtes développeur donc vous allez taper
+
+développeur
+
+voilà ici on a encore d'autres vidéos
+
+donc vous voyez que la communauté elle
+
+est énorme littéralement des tutos à
+
+longueur de braves sur tous les sujets
+
+ici vous avez peut-être mettre biguineur
+
+pour dire débutant si vous voulez de
+
+l'anglais et si vous voulez pas du
+
+français
+
+étant donné que le Quest est
+
+mondialement utilisé il y a énormément
+
+de vidéos sur le sujet soyez pris un
+
+autre cas ça aurait été un peu moins le
+
+cas
+
+débutant
+
+voilà on a ici toujours en anglais
+
+apparemment donc le Quest et l'oculus
+
+non en fait ce qui se passe c'est que
+
+l'oculus Rif c'est le projet de Palmer
+
+Lucky qui a lancé l'initiative et ce
+
+oculus était plus basé sur les PC et la
+
+connexion
+
+filaire on va dire alors que le Quest
+
+c'est une aventure une évolution du
+
+Quest de l'oculus pardon qui était faite
+
+par facebook à l'époque et meta
+
+maintenant et donc maintenant en fait ce
+
+casque là c'est vraiment propriété de
+
+méta et c'est l'évolution de tout ce qui
+
+va être sachant que tu peux toujours
+
+l'utiliser en câblé mais c'est un
+
+téléphone et là actuellement ce qui a
+
+d'autres fournisseurs de casques verts
+
+que meta et il y a d'autres fournisseurs
+
+de casques VR on va parler de ça pendant
+
+que c'est en train de charger parce
+
+qu'on est toujours en train de Builder
+
+ça prend du temps en fait généralement
+
+vous savez pourquoi on appelle Java
+
+en fait à l'époque quand les
+
+développeurs Java codés le fait de
+
+compiler l'application donc de faire ce
+
+qu'on fait prenez tellement de temps
+
+qu'on allait prendre à café et en fait
+
+la notion Java qui veut dire café donc
+
+le nom de Java c'est parce qu'on va
+
+chercher un café le temps de sa compile
+
+en fait ok donc du coup je vous invite à
+
+aller chercher au café à quand c'est ce
+
+qu'il y a ça ou d'aller faire un autre
+
+taf d'aller faire travailler son otage
+
+de préparer un autre assiette quand vous
+
+travaillez c'est trouver quelque chose
+
+pour vous occuper parce que vous pouvez
+
+rien faire pendant que ça fait ça
+
+alors ici tu me demandais pour les
+
+concurrents il faut savoir que il y a
+
+pas vraiment de concurrent à oculus
+
+Quest à part le picot donc ici vous
+
+pouvez voir ça c'est le Quest il est à
+
+450 euros on a le Pico qui est la
+
+version chinoise
+
+concurrente du Quest qui a 420 euros ok
+
+si vous allez sur le PC il y a des trucs
+
+à 1000 euros comme le vive pro qui est
+
+vraiment une valeur sûre d'accord mais
+
+il faut appeler c'est une bonne carte
+
+graphique vous avez le Quest pro qui
+
+était à 1800 qui est maintenant à 1000
+
+1200 je crois parce qu'ils ont diminué
+
+le prix mais ça reste un Quest 2 avec
+
+des améliorations des fonctionnalités
+
+mais ça reste un Quest 2 c'est pas ça
+
+vaut pas moi je trouve ça pas que ça
+
+vaut le prix la question c'est ce que
+
+les fonctionnalités des quatre sont les
+
+mêmes je veux dire entre celui-là et
+
+celui-là niveau du hardware c'est
+
+presque les mêmes la seule différence
+
+c'est que tu as soit tu vends ton âme la
+
+marque soit tu vends ton âme au chinois
+
+mais basiquement ça revient au même et
+
+du coup les deux ils utilisent aussi
+
+ils utilisent tous les deux Unity c'est
+
+tous les deux Android donc c'est
+
+toujours des téléphones dans une coque
+
+ce qui est très pratique tant qu'il
+
+reste sur Android moi je suis content et
+
+le Quest link celui que tu as testé
+
+c'est rien d'autre que transformer ton
+
+appareil en une conversion pour ton
+
+ordinateur ok donc ça marchera toujours
+
+mais ça reste un téléphone Android donc
+
+en fait par exemple l'avantage aura au
+
+filaire c'est que c'est un écran donc
+
+c'est un flux qui a presque pas de
+
+latence alors que si tu vas faire du
+
+link c'est à dire par câble par wifi tu
+
+vas avoir toujours une latence soit pour
+
+la conversion de l'image dans le câble
+
+soit pour la conversion de l'image dans
+
+le Wi-Fi et d'un retour et un aller quoi
+
+l'envoyer de le recevoir donc tu auras
+
+toujours un peu de latence un peu de
+
+trucs où c'est tout moche dans ton image
+
+un peu de problèmes tu vois ok je
+
+comprends donc si vraiment ton but c'est
+
+de faire de la VR réel très belle et en
+
+live avec un bon PC à ce moment là vaut
+
+mieux acheter un filet ici si votre but
+
+c'est de faire un truc que vous pouvez
+
+prendre le mettre sur le casque d'un
+
+enfant et jouer dans une n'importe
+
+quelle pièce Le Quest est vraiment
+
+énorme chacun ses avantages
+
+chacun a ses défauts sachant que si vous
+
+faites du filaire il y a ça et ça ça
+
+coûte 2000 euros je crois c'est un des
+
+meilleurs casques pour le moment sur le
+
+marché il est traqué par le vive donc il
+
+faut acheter en plus le le trackers du
+
+vif ça se met sur un PC et en fait les
+
+écrans qui sont dedans sont ultra petits
+
+ils sont extrêmement petits donc le
+
+casque est léger il se porte bien sur le
+
+casque et en fait ils vont littéralement
+
+vous demander de scanner votre tête avec
+
+un iPhone pour aller venir mettre le
+
+mousse ici et pour que ça tienne
+
+vraiment bien sur votre tête donc voilà
+
+si vous voulez vraiment aller dans
+
+l'extrême et faire du jeu vidéo sur PC
+
+et il y a vraiment des cas très cher
+
+mais qui sont vraiment très puissants et
+
+qui sont déjà en avance sur les écrans
+
+c'est ça
+
+ici c'est plus ou moins pour montrer ici
+
+qu'en fait la VR on a ce genre de
+
+fioritures dans l'écran on voit des
+
+lignes si vous concentrez bien même dans
+
+le Quest si tu te concentres bien tu
+
+vois les lignes alors je sais pas si je
+
+le veux sur mes lunettes
+
+mais normalement je pense que alors le
+
+truc c'est que maintenant on se commence
+
+tous moi à se reprocher à se rapprocher
+
+de ça avec les écrans qui vont arriver
+
+ces années-ci et ces écrans-ci qui sont
+
+déjà prêts sur le marché mais pas au
+
+courant assez testé pas encore mis dans
+
+les nouveaux casques on se rapproche de
+
+ce que l'oeil peut voir c'est à dire on
+
+ira jamais au même niveau de l'oeil mais
+
+c'est quand même une belle moyenne qu'on
+
+arrive proche
+
+et donc par exemple moi j'attends ce
+
+casque cycle et le lynx parce que ça ça
+
+build toujours ça fait 10 minutes le
+
+lynx lui c'est comme vous pouvez voir il
+
+y a des caméras devant ce qui vous
+
+permet d'aller chercher du RGB donc de
+
+la couleur ça vous permet de scanner
+
+l'environnement vu qu'on peut les
+
+chercher l'image et l'appliquer sur des
+
+librairies de réalité augmentée tu vois
+
+très pratique il y a une énorme batterie
+
+derrière pour bien tenir il tient mieux
+
+du coup vu qu'il va vers l'arrière donc
+
+voilà c'est plein de petit ajout qui
+
+sont très sympathiques et ici vous
+
+pouvez voir qu'il a une lentille qui est
+
+complément différente qui était
+
+propriétaire mais ils l'ont revendu je
+
+crois la licence de la lentille qui va
+
+aller chercher l'écran un tout petit
+
+écran plutôt de l'avoir un grand écran
+
+ce qui fait que c'est pour ça que c'est
+
+plus plat on a petit écran qu'on va
+
+aller chercher plutôt que d'aller
+
+chercher sur le grand écran ok je
+
+comprends et c'est ça l'évolution de la
+
+VR c'est qu'on ça va être un peu plus
+
+aplati il y a toujours besoin de place
+
+pour les hardware mais ça va être un peu
+
+plus aplati on va aller chercher les
+
+tout petits micro LED
+
+OK
+
+ça c'est la version PlayStation 5 si
+
+jamais vous voulez mais il faut avoir
+
+une playstation 5 donc si vous avez la
+
+Playstation 5 ça vous coûte je sais pas
+
+moi 400 euros si vous avez pas la
+
+Playstation 5 ça vous coûte 1000 euros
+
+de faire de la VR sur la Playstation
+
+mais la Playstation ne défaut c'est que
+
+c'est Sony et que Sony a marché qui est
+
+beaucoup plus fermé donc du coup si vous
+
+voulez montrer ça à vos potes ça va être
+
+beaucoup plus dur par exemple je sais
+
+même pas si on peut être en mode
+
+développeur sur ce casque je sais pas si
+
+c'est le cas justement j'aurais aucune
+
+idée je me suis jamais intéressé au
+
+sujet parce que pas assez Open Source à
+
+mon à mon goût
+
+ça c'est la comparaison entre lololens
+
+et le Quest pro donc le Quest que vous
+
+pouvez acheter version enchères en fait
+
+il faut bien comprendre que ici on a on
+
+a
+
+un écran de vol les yeux alors que le
+
+hololens on a des vitres devant les yeux
+
+l'avantage de la vitre c'est que tu peux
+
+voir le monde réel et les gens peut voir
+
+tes yeux et tu peux mettre par dessus le
+
+monde réel le désavantage c'est que tu
+
+peux pas couper du monde réel voilà mais
+
+question c'est ce que quand tu regardes
+
+à travers ces lunettes est-ce que c'est
+
+la qualité elle est bien c'est juste
+
+alors ça c'est comme si tu avais tu mets
+
+tes doigts comme ça
+
+ouais et en fait là tu vas voir des
+
+images genre ouais on va dire plus comme
+
+ça par rapport à moi et donc là tu
+
+verras les images mais tu auras pas le
+
+bas tu auras pas le dessus le côté il y
+
+aura juste une image par dessus et en
+
+fait vu que c'est sur une image
+
+en plastique enfin en vert et que c'est
+
+de vendre tes yeux ça veut aussi dire
+
+que si l'objet est trop proche tu auras
+
+des problèmes visuels elle est le
+
+toucher la cigarette s'il est trop loin
+
+ben en fait la 3D se ressent vraiment
+
+donc c'est vraiment une situation où tu
+
+vas devoir essayer d'avoir que le joueur
+
+joue entre les 80 cm à 3 mètres et là le
+
+c'est parfait mais c'est à long sujet ça
+
+court que je peux donner sur le sujet
+
+ici on va pas trop s'attarder dessus
+
+l'utilisation enfin la meilleure
+
+utilisation que l'équipe peut avoir sur
+
+le domaine du travail mais ça va plus
+
+être dans le domaine de enregistrer
+
+technicien qui veut avoir de l'aide pour
+
+pouvoir réparer un appareil et on va
+
+pouvoir aller regarder ce qu'il voit à
+
+travers les caméras ici tu vois on va
+
+pouvoir en fait afficher ça sur l'écran
+
+de quelqu'un d'autre la personne va
+
+pouvoir déboguer d'ailleurs on m'a fait
+
+une démo dans Team Microsoft m'a fait
+
+une démo dans Team ou basiquement on
+
+voit sur team leur software à eux pour
+
+le chat que le Le Lann c'est streamé
+
+dessus et en fait vu que c'est une
+
+propriété à Microsoft des deux côtés
+
+quand tu dessines sur le truc de team tu
+
+vois en 3D le truc qui se dessine sur le
+
+mec 3D du gars dans la vraie vie
+
+d'accord c'est un autre niveau
+
+c'est moi j'adore ça c'est super
+
+impressionnant et tout mais c'est un
+
+autre niveau de programmation entre
+
+savoir synchroniser de service avoir du
+
+réseau savoir avoir une multijoueur
+
+stream et l'image et tout un truc mais
+
+ça c'est pour ça que Microsoft ne se
+
+positionne pas comme
+
+quelqu'un qui vend produit à utiliser
+
+maintenant il se positionne comme
+
+quelqu'un qui innove et qui font plus de
+
+la publicité en mode on a méga gros
+
+casque on fait des trucs de Blue qu'on
+
+fait vraiment on est on est à l'avance
+
+tu vois et c'est ce qu'ils sont ils sont
+
+largement à l'avance sur le système
+
+d'ailleurs on essaie juste de le
+
+ressembler en gros avec le Quest tu vois
+
+c'est juste que bah oui mais il faut
+
+avoir ça avec 1000 euros et avoir des
+
+gens qui savent gérer le casque et des
+
+gens qui savent développer pour ça quoi
+
+donc
+
+c'est pas non plus ça content ce qu'on
+
+veut que ce soit abordable par les gens
+
+c'est le la fuite du Quest 3 donc
+
+basiquement ça veut pas dire que ça ça
+
+va être le Quest 3 mais vers descendre
+
+on va tout doucement vers tomber sur
+
+Quest 3 j'ai plus de Nick c'est ça nous
+
+on a presque bientôt fini le build il
+
+approche de la fin donc on va pouvoir
+
+voir le résultat
+
+donc je vais passer à son écran je
+
+regarde juste il y a quelque chose
+
+d'important pendant qu'ils bulle
+
+toujours pour montrer il est pour le
+
+moment toi tu es où
+
+je vois plus ton stream d'ailleurs
+
+peut-être parce que je l'ai pu regarder
+
+depuis longtemps
+
+je dirais peut-être parce que je suis en
+
+train de stream mon écran
+
+et qu'il a préféré le couper là à cause
+
+de ça regardez donc voilà pour le moment
+
+on en est là donc vous voyez 14 minutes
+
+vraiment le temps de faire un gros café
+
+là on aurait presque plus pu aller
+
+cuisiner quelque chose
+
+on arrive vers la fin
+
+en attendant que ça tourne
+
+alors
+
+si vous faites ceci ça veut dire tourner
+
+d'accord tournez l'objet si vous faites
+
+les deux en même temps ça veut dire
+
+déplacer tu vois et donc avec ces trois
+
+données tourner déplacer et agrandir
+
+basiquement dans les outils de dessin
+
+vous allez pouvoir prendre des objets et
+
+les faire tourner dans tous les sens les
+
+agrandir tourner la caméra allez
+
+dessiner au bon endroit et des trucs
+
+comme ça c'est extrêmement pratique et
+
+assez impressionnant parlant pour
+
+reproduire la scène de Iron Man par
+
+exemple quand il est en train de
+
+travailler par exemple alors évidemment
+
+on peut moins bien le faire avec les
+
+mains en fait c'est toujours le dilemme
+
+du on veut la précision de la manette et
+
+des boutons et en même temps on veut
+
+avoir les mains si oculus avait permis
+
+d'avoir les deux ça aurait été très
+
+sympa parce qu'on aurait pu utiliser la
+
+précision la manette et les mains mais
+
+dans le code de base ils n'ont pas fait
+
+et par la suite ils n'ont jamais changé
+
+donc on attend c'est un jour et ça
+
+buildé mon dieu
+
+mon Dieu alors en plus de ça ça buildé
+
+avec une jolie erreur alors on va aller
+
+voir ce que ça donne
+
+ici si on va on peut aller voir on va
+
+ignorer les messages ici ignorer cela
+
+voilà et il nous dit quoi il nous dit
+
+impossible d'installer la PK sur le
+
+device et vous devez être sûr d'avoir
+
+installé Android la bonne version
+
+d'Android
+
+allez voir dans ce truc pour savoir si
+
+ok donc on a eu un problème alors
+
+normalement on ne reprendra pas que 15
+
+minutes à Rebuilder mais il faut les
+
+changer un petit peu des trucs
+
+alors normalement vous auriez pas dû
+
+avoir ce message d'erreur mais je vais
+
+aller vérifier quelque chose
+
+alors ici on va aller dans autre setting
+
+on va l'agrandir on va descendre
+
+alors ici normalement on doit être ici
+
+en version 6 en lait on est bien on y
+
+est tous cet été oui ici je vais
+
+maintenant j'ai pas changé parce que de
+
+toute façon je vais changer plus tard ça
+
+c'est le long de l'application là il dit
+
+de l'application ok mais c'était surtout
+
+ici que je pensais qu'il y aurait
+
+peut-être eu une erreur en fait ce qui
+
+se passe c'est que il Unity installer
+
+pour vous java et android et ça se
+
+trouve il a eu un bug là dedans et il a
+
+pas installé la bonne version soit ça
+
+pourrait être quoi d'autre comme
+
+problématique mais la version qui est
+
+sélectionnée ici c'est la version qui
+
+est installé sur mon pc et c'est la
+
+version qui est recommandée donc ça en
+
+fait c'est toi qui dit mon jeu il peut
+
+pas tourner en de ça de ceci ok donc
+
+admettons si je mets là moi mon
+
+téléphone il peut plus tourner si je le
+
+mets là j'ai d'autres téléphones qui
+
+veulent plus tourner et je crois que ici
+
+la VR elle doit être quelque part par là
+
+tu vois niveau de la version Android qui
+
+est utilisable donc ici je le mets en 6
+
+en disant c'est bon si c'est chouette tu
+
+vois
+
+et en fait l'autre c'est plus pour
+
+vraiment avoir une target de ce que tu
+
+veux comme comme version
+
+alors qu'est-ce qu'on va faire pour
+
+essayer de résoudre ce problème on va
+
+peut-être déconnecter le wifi du quest
+
+on sait jamais que c'est le fait qu'il y
+
+en ait deux qui est proposé un problème
+
+ou un truc comme ça donc on va faire
+
+reset je sais pas comment on fait pour
+
+le déconnecter
+
+parce que quand tu le redémarres il
+
+coupe carrément le serveur ADB donc on
+
+aura plus le
+
+pouvoir en attendant que tu redémarre je
+
+vais essayer de rebuler une fois le
+
+l'appareil je suis tu peux oui tu
+
+laisses en français 5 secondes sur le
+
+côté donc si tu laisses entre 5 secondes
+
+on va attendre un bruit
+
+c'est bon voilà le tout doux ça veut
+
+dire qu'il est en train de s'éteindre
+
+donc tu vas pouvoir pousser sur le
+
+bouton et redémarrer là vous allez
+
+essayer à faire tout ce qu'il fallait
+
+tout est fini ok cool chouette parce
+
+qu'on a une équipe ici qui travaille
+
+pour le moment à préparer des casques
+
+pour le hackathon et ouais vous avez
+
+fait du taf de fou
+
+youpiou piou piou et voilà à quoi ça
+
+ressemble une trentaine de casques très
+
+pour
+
+un événement de réalité virtuelle
+
+j'ai les gars
+
+alors
+
+tu la redémarré
+
+alors on va essayer de Clean alors quand
+
+vous rebuildez l'application Unity c'est
+
+bien de le clean comme ça vous savez que
+
+c'est un nouveau message d'erreur et pas
+
+l'ancien
+
+message on a vu
+
+le deuxième message qu'est-ce qu'il
+
+donnait non mais je suis en train
+
+d'essayer de rebuler en disant on sait
+
+jamais que ça passe
+
+victoire des marais maintenant il y en a
+
+plus qu'un seul tu vois donc
+
+à mon avis c'est pas ça l'erreur c'est
+
+autre chose mais on va essayer de
+
+trouver l'erreur autorisation
+
+et du coup
+
+donc j'ai laissé la limite truc activer
+
+le costeling j'active j'active
+
+c'est en train de plier de faire l'appel
+
+à mais il va pas pour refaire vu qu'on a
+
+déjà commencé
+
+une minute et on est déjà plus ou moins
+
+la fin du build
+
+on va attendre pour voir combien de
+
+temps ça prend vraiment voilà là il a
+
+fini le Builder il est en train de créer
+
+la PéKa ici et il a eu le même message
+
+d'erreur donc c'est qu'on aura alors là
+
+ça va être un peu chiant du coup parce
+
+que pour pouvoir régler cette
+
+problématique
+
+c'est technique est-ce que ce serait pas
+
+la version
+
+en fait je vois l'erreur que c'est c'est
+
+juste que je sais pas comment la
+
+corriger rapidement c'est plus ça le
+
+problème
+
+toujours installer la version sur le pc
+
+je me rappelle
+
+directement chercher la bonne version
+
+enfin là je dirais la dernière version
+
+c'est mieux
+
+préférence ici
+
+ça c'est quand tu veux choisir l'éditeur
+
+mais ça n'aura pas besoin mais c'est
+
+external toi non ça c'est l'éditeur ça
+
+c'est si tu veux choisir lequel visuel
+
+studio tu veux prendre comme préférence
+
+et nous ce qu'on veut c'est pas ça c'est
+
+regarder les liens externes
+
+parce qu'en fait si je te montre comment
+
+on fait pour corriger ce bug là avec
+
+Android en fait ça veut dire qu'on va
+
+devoir réinstaller Android visuel studio
+
+qu'on va devoir rouvrir comment c'est
+
+remettre tout à jour ça vous dit vite
+
+prendre beaucoup beaucoup de temps c'est
+
+pour ça que j'essaie de voir s'il y a
+
+pas une autre alternative
+
+mais pas juste avec le navigateur
+
+chercher la dernière version de SDK et
+
+installer directement non ça s'installe
+
+pas comme ça c'est pas aussi simple que
+
+ça enfin pas que je sache
+
+[Musique]
+
+il est toujours on est toujours l'autre
+
+si je builde sans lui demander de Run il
+
+va Builder le truc et normalement il
+
+devrait pas confronté avec le téléphone
+
+et avoir une problème de version mais
+
+normalement ça va pas aider parce que le
+
+laisse des cas c'est un truc que tu
+
+installes sur ton pc pour pouvoir faire
+
+que tu comprennes Android et que tu
+
+puisses Builder et c'est ce que tu dis
+
+il faut le télécharger mais pour ça si
+
+tu veux corriger ça il faut soit de
+
+savoir comment le faire soit aller sur
+
+internet
+
+aller sur Android studio
+
+studio ici parce que dans le temps c'est
+
+ce que tu devais faire tu as toi-même
+
+aller installer Android studio pas
+
+celui-là Google qui me propose toujours
+
+de la pub
+
+tu vas sur Android studio tu télécharges
+
+studios et à partir d'Android studio tu
+
+peux les configurer des préférences
+
+d'Android dans les SDK les installer et
+
+tout et en fait si tu fais ça il y a
+
+Olivier à télécharger
+
+et installer avant de pouvoir changer ce
+
+que tu viens de me dire
+
+sauf que
+
+inutile justement c'est pour ça qu'il a
+
+créé le hub c'est pour que il y ait des
+
+trucs de prêt à installer donc il y a
+
+peut-être une option que je connais pas
+
+qui permet d'aller faire ça mais ici vu
+
+qu'on l'a déjà fait ça là
+
+alors pour les gens qui pourraient se
+
+poser la question de qu'est-ce qu'on a
+
+en train de faire ici je vous présente
+
+le métier doit développeur le métier
+
+doit développeur
+
+Unity et du reste c'est passer son temps
+
+à avoir des bugs des problèmes
+
+techniques aller sur Google chercher
+
+comment les résoudre les résoudre ça
+
+prend une demi-journée pour rien et à la
+
+fin vous avez peut-être réussi à les
+
+résoudre sachant que deux mois plus tard
+
+vous allez avoir le bug mais avec
+
+différentes conditions différents
+
+problèmes différents trucs sans savoir
+
+comment le résoudre faut pas avoir peur
+
+de ça donc ici j'ai l'air un peu paniqué
+
+parce qu'il y a des temps qui viennent
+
+faut pas avoir peur de ça c'est
+
+basiquement notre métier de faire ce que
+
+ce que faire c'est pour ça qu'il faut
+
+savoir faire des bonnes recherches
+
+Google
+
+moi mon CV c'est ce que je mets à Google
+
+Google des recherches Google
+
+bon on va faire des recherches Google
+
+alors
+
+tu vois mais pour ça il faut installer
+
+Android studio
+
+dans mes souvenirs
+
+alors tu peux le télécharger c'est juste
+
+qu'il fait à gigami tu peux le faire au
+
+moins comme ça on sera en aura une
+
+solution de pour les réseaux mais pour
+
+cette vidéo là ça va être un peu chaud
+
+parce qu'il a une idée finalement le
+
+truc là j'ai fait build à part sans
+
+bulle Ed
+
+alors il a l'air d'avoir Builder attends
+
+[Musique]
+
+normalement il aurait du Builder et
+
+pousser sur votre appareil mais il n'y
+
+est pas arrivé ce qui veut dire que
+
+peut-être qu'en changeant la version on
+
+peut aller buter sur l'appareil ce que
+
+je vais faire c'est que je vais rebuler
+
+en poussant sur l'appareil en changeant
+
+la version et pendant ce temps là on va
+
+les déposer je vais vous rappeler
+
+comment dépose un apk sur sidequest un
+
+peu comme on a fait au début de cette
+
+vidéo donc admettons ici vous pouvez
+
+voir qu'on a bulle des alors ça veut
+
+dire quoi Builder ça veut dire que dans
+
+la racine du projet comment on peut
+
+savoir la racine du projet soit vous
+
+savez où il est soit vous faites clic
+
+droit ici explorer
+
+et là vous allez avoir votre projet vu
+
+qu'on avait créé un dossier build que tu
+
+n'as pas mis ici ah non ça c'est le tu
+
+vois oui alors oui
+
+je l'ai mis dans le
+
+ah tu l'as mis dans le début
+
+du projet sauf si pour essayer d'éviter
+
+de perdre tout dans tous les sens voilà
+
+cette version là si on veut l'installer
+
+sur le Quest que celle qu'on vient de
+
+faire ici d'ailleurs j'ai juste envie de
+
+faire un truc
+
+comme ça ça prouve l'idée
+
+admettons que je veux ajouter une
+
+armoire
+
+je crée un cube 3D
+
+ici voilà le cube 3D ici vous pouvez
+
+voir qu'il a un volume de 1 sur 1 sur 1
+
+je vais le prendre alors comment est-ce
+
+qu'on fait pour le prendre on prend ça
+
+pour dire de le dépasser on clique on le
+
+met en note en orthogonique pour savoir
+
+le placer correctement voilà
+
+hop je change de vue désolé si je suis
+
+silence parce qu'on a pas de souris
+
+voilà je vais mettre à côté de la table
+
+et on va aller buller ce projet là
+
+c'est et j'ai pas mis
+
+voilà
+
+et ça va builer ici du coup dans cette
+
+version ci qu'est-ce qu'on devrait voir
+
+on devrait voir le truc de tantôt avec
+
+Ibrahim la chaise et cube à côté de toi
+
+quand tu démarres d'accord sauf que ce
+
+cube ne sera pas calibré dans le sens où
+
+tu pourras pas le déplacer vu qu'on a
+
+pas fait tout pour le déplacer et si
+
+vraiment tu déplaces les objets ce
+
+serait toujours par rapport à ton poids
+
+de départ il serait là
+
+et donc ouais non t'inquiète ça c'est
+
+parce que c'est des erreurs du truc
+
+précédent
+
+mais tu peux pas une fois que tu as
+
+lancé tu peux plus toucher à une ici ici
+
+quand tu fais bulle donc on va attendre
+
+donc pour rappel quand tu veux déposer
+
+une apk tu ouvres saïquest tu déposes la
+
+PK dessus et tu as le truc le buildano
+
+c'est pour éviter de faire ça justement
+
+mais ici on a un problème donc on n'a
+
+pas résolu on peut pas aller plus loin
+
+de ce côté là
+
+on peut pas
+
+dire que il va construire le
+
+lancer sur le copier directement sur la
+
+plateforme et le lancer mais si on le
+
+Buil on peut le mettre sur la plateforme
+
+manuellement ouais c'est ce qu'on va
+
+faire ici en fait vu qu'ici on a un
+
+problème à build et run et pas à build
+
+on a build et le run c'est nous qui
+
+allons le faire ici donc on va aller sur
+
+ça et Quest ici
+
+on va prendre la PK et on va le dragon
+
+drop et là il va installer la PK et donc
+
+du coup tu vas pouvoir aller mettre le
+
+casque et alors tu vas pouvoir le lancer
+
+alors si je voulais le lancer depuis ici
+
+je pourrais aller ici dans les trucs
+
+chercher
+
+notre jeu et le lancer directement mais
+
+je vais te laisser les lancer
+
+alors ici on va cropper
+
+tu vois le résultat
+
+[Musique]
+
+et tu vois le long chemin là le long
+
+texte qui est mis en gris
+
+lorsque tu vois
+
+c'est long texte là c'est l'ID du de
+
+l'application ok mais vu qu'on n'a pas
+
+changé elle est très longue tu peux
+
+lancer ça et là normalement on va voir
+
+Ibrahim mais on va voir au gros cube
+
+dans la scène
+
+ça prend du temps à charger
+
+et alors le cube il est normalement à ta
+
+droite
+
+il est là-bas
+
+non regarde un peu plus attends reviens
+
+vers le truc pour pas le pour le câble
+
+et regarde vers moi
+
+non c'est à ta gauche
+
+sur le sol
+
+il y est
+
+il a pas eu de message d'erreur
+
+en plus il est gros donc il y a pas
+
+moyen de manquer c'est à dire que
+
+j'aurais raté ah j'ai confondu l'écran
+
+avec le cube
+
+l'écran en IRL qui est là-bas regarde un
+
+peu sur toi ou sur le sol alors
+
+je me lève j'ai fait attention
+
+je vais aller voir à étang coup de nota
+
+en fait tantôt qu'on a il a réussi à
+
+Builder donc ouais il a builder mais
+
+il a pas réussi
+
+à installer
+
+tu crois que ça c'est le nôtre
+
+d'Ibrahim il a mis un Stal ok est-ce
+
+qu'il y a la date genre
+
+le dernier version oui ben c'est celle
+
+qu'on a installé mais ici il me dit
+
+qu'il y a un problème à l'installation
+
+espérons que tout le monde n'aura pas ce
+
+bug ça bug là
+
+je vais faire un dernier essai désolé la
+
+vidéo est un peu longue je vais faire un
+
+dernier essai et si ça marche pas je
+
+vous inviterai à essayer vous-même
+
+rechercher sur Google et j'essaierai de
+
+faire une vidéo qui explique juste
+
+comment j'ai résolu ça
+
+alors ça s'arrête de filmer notre
+
+aventure sur la recherche de comment
+
+débloquer
+
+on va aller dans Play après Fab on va
+
+descendre on va aller demander sur
+
+Google c'est quoi la version minimum
+
+pour le Quest 2
+
+minimum
+
+attends je vais sur mon écran
+
+minimum version
+
+Android
+
+alors évidemment vous pouvez regarder
+
+des vidéos de gars qui le font ils vous
+
+diront tout sur le chemin tous les
+
+options activés les trucs comme ça ici
+
+mais que la version minimum c'est à
+
+l'universion numéro 23 on est sur la
+
+version qu'on vient
+
+tu peux retourner dans les métiers
+
+vérifier la version
+
+23 donc ça c'est la minimum
+
+c'est tout ce qu'on peut faire d'autre
+
+c'est d'augmenter la version et voir ce
+
+que ça donne mais laquelle
+
+parce que tout autre solution c'est à
+
+dire d'installer Android studio et de
+
+vérifier plein de données donc
+
+essaie un peu on va essayer la 8
+
+on va bullden run et si ça marche pas ce
+
+sera la fin de cette vidéo et si ça
+
+marche ça sera la fin de cette vidéo
+
+je quitte c'est tout oui
+
+tu le mets à l'endroit où tu as dit mets
+
+un peu enlève un peu les tirer juste on
+
+sait jamais que ce soit justement ça qui
+
+crée des problèmes ça m'étonnerait c'est
+
+exactement pour ça que j'ai essayé
+
+annule d'accord et en fait un truc que
+
+je vais les changer pour être sûr que ce
+
+soit pas ça qui fasse péter ça sera pas
+
+ça qui fera pété une fois que je suis
+
+paumé je sais plus où il faut cliquer
+
+donc du coup j'essaye changer un peu
+
+tout jusqu'à ce que ça marche et
+
+comprendre ce qui arrive ici on va
+
+renommer ça tu vas mettre be pour
+
+Belgique
+
+pour l'entreprise point et ici tu vas
+
+mettre
+
+Ibrahim Beach ou pitch
+
+et on va voir ce que ça donne et ce sera
+
+de toute façon la fin de la vidéo que ça
+
+marche ou non parce qu'elle est trop
+
+longue mais l'idée ici que vous devez
+
+retenir c'est pas nécessairement merde
+
+ça a pas marché l'idée c'est on va
+
+trouver comment ça marche que ce soit
+
+vous pour la catonc moi c'est ça aussi
+
+ça le métier de développeur et c'est la
+
+manière dont vous devez faire c'est
+
+juste prendre le projet copier changer
+
+un peu de trois trucs mettre fair-play
+
+si vous avez un Quest sur le PC et si
+
+vous n'avez pas de quoi sur le PC
+
+Builder c'est juste que mon je vous ai
+
+montré vous allez dedans vous changer
+
+notre paramètres vous faites Builder et
+
+puis vous le déposez sur l'appareil ou
+
+vous faites build and run si votre
+
+appareil est connecté et vous l'avez qui
+
+est disponible
+
+alors
+
+il est bientôt fini
+
+pendant ce temps il y a juste dehors ça
+
+c'est les précédents warning qui n'a pas
+
+nettoyé OK
+
+faut savoir que des fois il y a des bugs
+
+qui sont plus propres PC d'une personne
+
+par exemple s'il a installé deux trois
+
+logiciels avec Android avant et qu'il y
+
+a un truc qui est pas le même ou si moi
+
+j'ai installé des trucs avant aussi des
+
+fois c'est juste des le PC qui est pas
+
+qui est déjà non vierge et qui du coup
+
+il y a des bugs quoi maintenant ici on
+
+va voir
+
+et ça a l'air d'avoir fonctionné donc on
+
+a juste changé la version on a mis au
+
+lieu d'avoir une vieille version on a
+
+mis un peu plus récente ça pourrait être
+
+dû au fait que oculus et ont une dette
+
+sur son logiciel a besoin que la version
+
+soit un peu plus grande ou bien que
+
+Unity est installé une autre version au
+
+moment où on a installé
+
+je vais lancer saïquest pour qu'on voit
+
+ce que tu vois alors
+
+paramètres hello le code
+
+jay-xr permettre pardon d'accéder aux
+
+photos et obtenu multimédia de son
+
+travail donc je dis autorisé
+
+et là on a ici qui se lance
+
+et on a
+
+la salle attention au câble il est censé
+
+à droite ou à gauche
+
+finalement on a un cube bon Dieu on est
+
+ok
+
+alors voilà basiquement ce que vous
+
+devez retenir ici c'est que maintenant
+
+vous avez un projet que j'ai fait pour
+
+vous qui est pré-construit
+
+l'idée c'est de comprendre comment ce
+
+projet fonctionne alors je ferai
+
+peut-être une vidéo ce soir ou pendant
+
+ce week-end pour vous expliquer plus en
+
+détail oui je crois pas que tu étais sur
+
+mon écran si tu suis juste sur l'écran
+
+comme ça
+
+j'ai oublié de mettre alors tu peux
+
+rentrer le cube
+
+il est là-bas on a juste changé le nom
+
+du fichier donc
+
+on a changé le nom de fichier au lieu de
+
+mettre des tirets on a mis des
+
+underscore et on a changé surtout la
+
+version au lieu d'être en 6 Marshall on
+
+était en 8 Oreo ou en tout cas on peut
+
+le montrer
+
+donc c'est dans
+
+j'ai pas filmé à ce moment là pas du
+
+tout j'espère que on est venu ici et on
+
+a changé en 8 donc de base on était en 6
+
+mars un pays level 23
+
+on est monté jusqu'à API Level 26 le 8
+
+oreo
+
+et puis voilà c'est ça et ici on a juste
+
+changé aussi on a changé le nom parce
+
+que le package si jamais on n'a pas
+
+filmé tantôt on a changé le nom ici
+
+parce que ce qui se passe c'est que ça
+
+c'est ce qui identifie l'application et
+
+normalement la convention veut qu'on
+
+mette le pays pour l'entreprise pour le
+
+nom de l'application alpha numérique et
+
+là dans la version précédente il était
+
+super long il y avait plein de fois
+
+partout il y avait des tirets donc du
+
+coup j'ai renommé ça c'est peut-être pas
+
+ça on sait pas lequel des trucs à
+
+planter ici après chaque changement il y
+
+a pas besoin d'appliquer sur un bouton
+
+pour ça il faut juste quitter ça
+
+sauvegarde automatiquement et on a fait
+
+un build and run qui a marché et ça a
+
+marché on a le truc donc voilà
+
+basiquement ce que vous devez faire ici
+
+pour le week-end c'est vous prenez ce
+
+projet là vous le copiez ce qui vous
+
+permet de pas tout configurer alors
+
+peut-être qu'avoir le signal vidéo
+
+ça vaut la peine que je vous montre ce
+
+que je veux dire pas de configurer tout
+
+en fait quand vous faites de la VR il
+
+faut installer oculus donc
+
+non en fait je vais faire ça dans la
+
+vidéo suivante on va on va couper ici et
+
+la vidéo suivante je vais vous montrer
+
+ce que vous auriez dû plus ou moins à
+
+faire non
+
+non c'est trop long il y a des vidéos il
+
+y a plein de vidéos qui expliquent
+
+comment le faire il y a ma vidéo de base
+
+qui est de 2 heures où je monte comment
+
+on fait pour fêter tout ça donc je vais
+
+pas tout réexpliquer on va partir
+
+directement sur le dessin avant
+
+prochaine vidéo on va ouvrir un projet
+
+non VR Unity on va dessiner un objet 3D
+
+qui représente la pièce ici on va les
+
+porter dans une fille et on va mettre
+
+une texture une petite vidéo vite fait
+
+donc c'est une vidéo où on va un peu
+
+explorer ce que c'est Unity plutôt que
+
+la VR pour comme ça les gens qui ne
+
+travailleront pas dans le projet inutile
+
+VR pourront quand même travailler dans
+
+Unity sans que ça crache toutes les deux
+
+secondes
+
+du rose week-end ok ça va passer un bon
+
+moment on se voit dans la vidéo suivante
+
+plus plus
+

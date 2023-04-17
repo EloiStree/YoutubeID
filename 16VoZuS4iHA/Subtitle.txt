@@ -1,0 +1,4172 @@
+salut à tous et bienvenue dans ce module
+
+où ce que l'on va faire c'est apprendre
+
+à installer les applications qui vous
+
+faudra pour le akathon il vous faudra
+
+bien évidemment utiliser Unity qui est
+
+un outil pour créer du jeu vidéo il vous
+
+faudra blender pour pouvoir éditer la 3D
+
+quand vous avez besoin de réditer un
+
+objet c'est pas nécessairement pour
+
+étudier la 3D savoir comment le faire
+
+mais pouvoir replacer des pivots pour
+
+exporter apporter transformer un format
+
+ça peut être important si vous faites de
+
+la 2D il y a crita que vous pouvez
+
+installer qui est gratuit donc tous deux
+
+sont gratuits et vraiment utiliser dans
+
+le milieu du jeu vidéo
+
+si vous voulez faire de la réalité
+
+virtuelle avec le PC vous pouvez
+
+installer oculus setup sachant que il
+
+vous faut le télécharger et installer
+
+c'est pour ça que ça vaut la peine de le
+
+faire dans cette première étape mais je
+
+ne l'expliquerai pas dans cette première
+
+étape
+
+il vous faudra télécharger sidequest qui
+
+permet en fait de communiquer avec
+
+l'appareil en tant que développeur et de
+
+travailler avec l'appareil et si vous
+
+voulez éditer du son vous pouvez
+
+télécharger audiacity
+
+une dernière chose à télécharger ce sera
+
+l'USB driver qui est en fait quelque
+
+chose qui permet à votre ordinateur de
+
+comprendre le Quest et de communiquer
+
+avec lui donc nous allons faire ça dans
+
+cette première étape première étape
+
+installer et créer un compte je vais
+
+passer à l'écran
+
+de Mohamed qui est ici voilà et on va
+
+suivre ce qu'il fait donc voilà donc
+
+Mohamed tu peux télécharger unity
+
+voilà ici
+
+inutile lui demande quel est le tu peux
+
+aller t'inquiète tu peux y aller et je
+
+le commandes au dessus donc ici Unity
+
+lui a demandé combien il gagnait par an
+
+parce qu'en fait Unity est gratuit
+
+jusqu'à 100000 dollars par an donc si
+
+jamais vous gagnez plus il faut aller
+
+voir les conditions de licence et là il
+
+va falloir payer en attendant vous
+
+pouvez utiliser une petite en vous
+
+voulez ici ce qui fait c'est qui
+
+télécharge unityub qui est une toute
+
+petite application que vous ne voyez pas
+
+parce que c'est derrière mon visage mais
+
+une toute petite application qui va
+
+pouvoir installer la version Unity dans
+
+le temps il fallait tout installer
+
+manuellement mais maintenant en fait on
+
+peut simplement lui demander de tout
+
+faire on accepte les conditions on va
+
+suivant comme dans toutes les
+
+applications qui suivent en suivant
+
+à un moment donné il faudrait qu'il crée
+
+un compte Unity pour pouvoir accéder à
+
+la sextor pour pouvoir de temps en temps
+
+faire deux trois trucs spécial dans
+
+Unity donc il faudrait qu'il raconte
+
+pendant que l'unitys s'installe ici vu
+
+qu'une équipe prend du temps on va
+
+d'abord lancer l'installation du unity
+
+voilà voilà
+
+en attendant que ça s'installe tu peux
+
+déjà télécharger si tu veux blender
+
+donc c'est celui-là tu peux y aller
+
+sachant que Blender c'est un éditeur 3D
+
+qui est extrêmement connu dans le milieu
+
+il est gratuit il est fait par la
+
+communauté et il est vraiment ça
+
+ressemble à une navette spatiale quand
+
+vous entrez mais une fois que vous
+
+l'avez c'est vraiment très pratique
+
+vraiment très utile donc installez-le ça
+
+prend pas beaucoup de place sur votre PC
+
+sera toujours disponible ça vous la
+
+peine
+
+faut savoir que ici encore une fois vous
+
+êtes stallez pas inutile vous installez
+
+Unity hub Unity up c'est une application
+
+qui va permettre de gérer les
+
+installations d'inities pour éviter que
+
+vous ayez manuellement apprendre comment
+
+on installe Java comment on installe
+
+Android comment on installe visuel
+
+studio comment installer Unity ici c'est
+
+un truc qui va tout faire pour vous
+
+ce qu'on me sorte launcher au final
+
+c'est une sorte de launcher mais en plus
+
+de ça qui va aller chercher les parties
+
+techniques de Windows et installer
+
+correctement si vous êtes sur Mac je ne
+
+sais pas vous aider parce que j'ai
+
+jamais utilisé une édition Mac mais
+
+voilà les étapes sont les sens
+
+similaires donc
+
+là il va falloir demander à YouTube et à
+
+Google comment on fait si vous êtes
+
+bloqué mais les étapes sont les mêmes
+
+donc essayez de faire les mêmes étapes
+
+alors est-ce que c'est télécharger tu
+
+peux déjà lancer l'installation de
+
+Blender du coup
+
+toi est-ce que tu vas faire de la photo
+
+de dés et tu as des logiciels pour la
+
+donner non non
+
+ça c'est un outil qui est l'alternative
+
+à Photoshop qui est meilleur que Gims
+
+qui est proche de Photoshop mais pas
+
+totalement chelou Photoshop ça reste de
+
+l'Open Source il sera jamais aussi
+
+puissant Photoshop mais voilà c'est une
+
+très belle alternative que les
+
+dessinateurs utilisaient énormément pour
+
+dessiner nous on va l'utiliser pour
+
+pouvoir recadrer l'image faire de la
+
+découpe retirer à fond changer de
+
+couleur des choses comme ça
+
+donc pas besoin d'aller dans les gros
+
+détails mais ça a logiciel gratuit très
+
+très utile qui vaut la peine d'avoir sur
+
+la machine donc oui tu peux continuer
+
+qui s'est lancé tu peux continuer à
+
+installer voilà
+
+sauf si tu as des trucs où tu dis non
+
+sur mon pc je veux pas et ça va
+
+installer blender
+
+en attendant inutile il est toujours en
+
+train de s'installer est-ce qu'il
+
+t'aurait pas demandé une autorisation
+
+comme ça
+
+non ça c'est juste qu'il est en train de
+
+faire quelque chose je suppose peut-être
+
+parce qu'il a l'air débloqué un endroit
+
+où il devrait pas nécessairement être
+
+bloqué bloqué je crois non
+
+tu peux lancer l'initium
+
+donc fermé ça va lancer une tilleul il
+
+va vous demander l'autorisation pour
+
+Blender ici
+
+on peut lancer crita ici c'est routinier
+
+basiquement tout ce que vous avez à
+
+faire c'est d'aller sur le site web
+
+prendre toutes les applications que je
+
+vous propose qui sont toutes des
+
+applications Open Source à part oculus
+
+setup et Unity et vous les installez
+
+toutes quoi
+
+alors il vous demande de créer un compte
+
+ici il va créer un compte sauf que je
+
+vais devoir switcher donc ici vous devez
+
+rentrer votre adresse email le password
+
+of fallen et des trucs je vais switcher
+
+pour pas qu'on voit évidemment cette
+
+partie là vas-y tu peux
+
+donc vous rentrez au adresse email votre
+
+mot de passe nom prénom sachant que ça
+
+va permettre d'accéder à la cstore par
+
+exemple quand vous allez télécharger un
+
+asset sur internet
+
+il va retenir que vous l'avez téléchargé
+
+donc si vous revenez dans deux ans et
+
+que vous souvenez plus de la 7 bah il
+
+sera sous votre compte c'est aussi ce
+
+qui va gérer les licences donc c'est à
+
+dire que quand vous téléchargez quelque
+
+chose de inutile même si c'est gratuit
+
+c'est quand même une licence gratuite et
+
+donc du coup vous avez cette licence qui
+
+est liée à votre compte ce qui veut dire
+
+que si le gars le me rend payant plus
+
+tard vous l'avez toujours gratuit et
+
+c'est le principe de la licence ici
+
+alors je peux me tromper sur ces
+
+derniers trucs ou peut-être qu'il va
+
+passer au payant si il passe en payant
+
+mais dans mes souvenirs c'est possible
+
+que vous le garder gratuit
+
+alors est-ce que tu as rentré les
+
+données
+
+alors évidemment il doit les confirmer
+
+par email donc il va il va aller juste
+
+confirmer par email aussi
+
+je reviens dessus ouais c'est pas grave
+
+reviens dessus juste pour qu'on puisse
+
+voir donc il y a parce que tu es
+
+ici tu m'as fait descendre en bas je te
+
+fais descendre
+
+donc voilà à quoi ressemble
+
+une confirmation d'e-mails donc faut
+
+juste cliquer sur le lien ici et c'est
+
+bon alors hop voilà tu peux passer à la
+
+suite ce sont ici normalement il y a pas
+
+de mot de passe non le mot de passe il
+
+pouvait pas le voir c'était en papier
+
+donc ici encore une fois il faut rentrer
+
+son adresse et son mot de passe si vous
+
+voulez accéder au site web
+
+je cache la fenêtre en attendant
+
+[Musique]
+
+on a là sachant qu'il va devoir répéter
+
+ça dans l'application il y a fait une
+
+fois sur le site web Une fois sur
+
+l'application et là vous aurez les deux
+
+connectés voilà alors je vais pas vous
+
+montrer la fenêtre parce qu'il y a des
+
+informations importantes mais
+
+basiquement maintenant il est connecté
+
+au compte et on voit tout de toutes ces
+
+infos et tout donc là tu peux fermer la
+
+fenêtre parce que on y reviendra pas
+
+en français ok ça
+
+quand je lance l'application elle sera
+
+en français
+
+je reviens sur ton écran
+
+voilà donc j'ai crita qui me propose de
+
+anglais on va pas aller chercher du
+
+chinois
+
+le Next ou du japonais j'accepte
+
+sur ton ordinateur te dit non je veux
+
+pas ça mais c'est des applications punch
+
+ça ils essaient pas de nous installer
+
+des pubs ou des trucs quoi et là ici il
+
+faut juste que je me connecte voir se
+
+connecter alors je crois que c'est une
+
+connexion par site web donc voilà il a
+
+juste besoin d'autoriser le navigateur
+
+de discuter avec l'application et voilà
+
+il faut que vous connaissiez vous
+
+connecter sur le site web valider
+
+voilà alors ici elle va te proposer
+
+d'installer une version d'inity alors ce
+
+qui se passe c'est que si je reviens à
+
+mon cours nous on va utiliser cette
+
+version là sauf qu'en fait ce qui se
+
+passe c'est que vous pouvez voir il y a
+
+2021 ça veut dire l'année de production
+
+une année en retard 3 c'est à dire que
+
+c'est une troisième version majeure du
+
+du logiciel qui a été changé ici 19 F1
+
+c'est juste une version qui dit on est à
+
+la 19e mini version qui est William un
+
+peu de coach qui a changé mais pas de
+
+dramatiquement sachant que ici on peut
+
+voir que lui ce qui lui propose c'est 21
+
+F1 alors le problème c'est que ça va
+
+être compliqué de vous faire installer
+
+des vieilles versions et en même temps
+
+c'est pas la même que celle que j'ai
+
+proposé sur le site donc je vais voir
+
+soit changer le site soit de changer ici
+
+sur son truc donc tu vas pouvoir faire
+
+annuler skipper ou donne
+
+j'accepte c'est là il c'est juste que tu
+
+dis que tu acceptes d'utiliser Unity et
+
+que etc etc alors tu vas aller dans
+
+installation attends merde c'est là 2
+
+secondes parce que du coup j'ai plus le
+
+voilà on a juste dit accepter Unity on
+
+est passé à la suite ok on n'a pas
+
+installé on a rien installé ici tu vas
+
+aller dans installer l'éditeur qui était
+
+en dessous de ma petite tête donc je
+
+vais voir si je peux pas bouger ma tête
+
+un peu plus bas pour le moment
+
+vous allez voir que ici il est mis
+
+plusieurs versions d'installation alors
+
+que vous pouvez voir on est dans la
+
+situation où effectivement c'est pas la
+
+même version
+
+on va installer celle-ci et je vais
+
+changer sur wiki le Lady de du projet
+
+qu'on va utiliser pourquoi c'est une
+
+mauvaise idée généralement c'est parce
+
+que il y a quand il y a des sauts de
+
+fichiers qui sont sauvegardés de temps
+
+en temps il y a la version Unity qui
+
+sera installée dans ce fichier ce qui
+
+veut dire que si vous travaillez à
+
+plusieurs avec GITS et que vous
+
+travaillez avec des fichiers qui vont
+
+être dans une version d'un côté et dans
+
+une version de l'autre vous aurez des
+
+conflits donc ça peut créer des bugs
+
+d'ailleurs ça peut créer les bugs donc
+
+normalement on évite on essaye de tout
+
+savoir la même version quand vous
+
+commencez à projet vous essayez de me
+
+voir la même version ici on commence à
+
+la Caton donc on va faire la même
+
+version on va les mettre celle-là juste
+
+aller sur le changer sur le site web
+
+pour que tu installes
+
+ouais tu vas prendre le 21 F1 et je
+
+mettrai ça sur le site alors ici vous
+
+demande qu'est-ce que vous voulez qu'on
+
+installe pour vous donc on a besoin de
+
+Microsoft Visual Studio qui va être
+
+permettre d'éditer en s'échappe
+
+on va avoir besoin de open JDK qui est
+
+basiquement un truc qui permet
+
+d'installer Java de version en version
+
+Open Java parce qu'on va faire de
+
+l'Android et qu'endroid fonctionne en
+
+Java donc les de vos téléphones
+
+fonctionnant Java donc je peux prendre
+
+celle-là peut prendre les deux comme
+
+vous pouvez voir il va vous proposer les
+
+deux si vous voulez une autre plateforme
+
+que ça vous pouvez la sélectionner que
+
+soit Linux max ou des trucs comme ça
+
+mais je ne vous expliquerai pas pendant
+
+ce qu'on ce workshop comment les
+
+utiliser ici c'est Android Windows VR
+
+WebGL ça peut être intéressant de
+
+l'installer si vous avez l'occasion ça
+
+reste j'ai gagné à télécharger mais ça
+
+permet d'exporter au objet on le fera
+
+pas pendant ce truc mais si vous voulez
+
+l'explorer vous pouvez
+
+Windows support l tous CPP celui-là tu
+
+dois l'installer
+
+en fait c'est quoi c'est
+
+Unity utilise du s'échappe précédemment
+
+pour pouvoir convertir dans un certain
+
+langage et ici utiliser il tous CPP va
+
+permettre de pas à chaque fois rebuler
+
+en s'échappe il va essayer de faire
+
+langage intermédiaire qui va permettre
+
+de aller chercher du plus et aussi de
+
+Builder beaucoup plus rapidement donc
+
+pas de Rebuilder tout à chaque fois bon
+
+c'est en gros résumé c'est abrévi mais
+
+c'est ça l'idée alors est-ce qu'il y a
+
+autre chose qu'on doit installer a
+
+priori
+
+si vous utilisez ma couille évidemment
+
+vous devez si vous voulez Builder une
+
+application pour tester parce que pas
+
+nécessairement obligatoire parce que ici
+
+on va pas faire une application pour Mac
+
+on va faire pour Android mais si vous
+
+voulez Builder pour votre Mac oui il
+
+faudrait installer ça si dans ton cas si
+
+tu ne le fais pas je prends
+
+documentation alors vous pouvez
+
+installer la doc mais de toute façon
+
+elle est en ligne et c'est très rare
+
+quand je vais la chercher vraiment hors
+
+ligne donc moi personnellement je reste
+
+à pas mais si vous pouvez si vous voulez
+
+vous pouvez juste continuer alors est-ce
+
+qu'il y avait rien d'autre remonte un
+
+peu juste pour être sûr
+
+ouais c'est bon tu peux dire d'installer
+
+voilà est-ce que vous acceptez oui
+
+j'accepte installer
+
+ici basiquement ça va lancer
+
+l'installation tu peux ouvrir la fenêtre
+
+ici là voilà en fait vous pouvez voir
+
+qu'il y a énormément installé et à
+
+télécharger donc cette manœuvre va
+
+prendre vraiment beaucoup de temps donc
+
+c'est pendant que ça fait ça installer
+
+les autres applications donc ici on
+
+avait installé blender donc on va les
+
+regarder on va les passer à ça
+
+est-ce que
+
+alors je sais pas pourquoi
+
+ça par contre c'est bizarre
+
+blender tu peux je crois qu'il est
+
+installé parce qu'on le voit donc si tu
+
+le lance et que ça tourne c'est cool
+
+alors un autre logiciel qui prend de la
+
+place et qu'il faut télécharger c'est
+
+oculus setup
+
+oculus c'est top ça permet en fait de
+
+faire de la VR sur le PC et c'est ton pc
+
+il a quoi comme carte graphique GTX 1050
+
+donc ça passera en gros si vous êtes à
+
+980 ça devient opolimite mais si vous
+
+êtes dans les dernières ou que vous avez
+
+un peu de bol ça peut passer
+
+oculus c'est top
+
+sachant que le lien de toute façon sur
+
+le wiki donc installation
+
+voilà tu acceptes ici tu vas pouvoir
+
+faire je télécharge oui la version du
+
+Rift
+
+on va l'enregistrer
+
+donc ça c'est pour ceux qui savent que
+
+leur PC peut faire tourner la VR si vous
+
+savez que votre PC sert pas ne peut pas
+
+faire tous les navets ça vaut pas
+
+nécessairement la peine d'installer
+
+oculus et tout alors blender voilà à
+
+quoi ça ressemble une petite navette
+
+spatiale avec plein de boutons dans tous
+
+les sens mais quand vous l'utilisez
+
+c'est extrêmement puissant le sujet ici
+
+de cette micro vidéo n'est pas de
+
+montrer blender donc on va le fermer
+
+mais voilà quoi ressemble donc tu peux
+
+fermer blender
+
+en fonction de votre besoin
+
+alors du coup tu vas pouvoir faire mes
+
+blender ok voilà
+
+oculus nous donc tu veux va pouvoir
+
+faire démarrer
+
+accepter
+
+installer ici tu vas pouvoir installer
+
+et là il va installer 15 g de trucs
+
+alors on a une petite ambulance qui
+
+passe à mon avis vous devez l'entendre
+
+donc on va attendre que l'ambulance
+
+passe
+
+ok alors il faut savoir que pour le A4
+
+ans tous les casques sont déjà mis en
+
+mode développeur et déjà connecté à
+
+molengeek qui est donc du coup vous ne
+
+pouvez pas vraiment utiliser sur le truc
+
+sur PC parce que vous allez devoir vous
+
+connecter à votre propre compte
+
+si vous voulez vraiment faire de l'UVR
+
+sur votre PC vous savez que votre PC
+
+c'est le faire tourner installez-le et
+
+venez me trouver et je vous connecterai
+
+sur le compte de mon geek pour pouvoir
+
+utiliser la VR sur votre PC maintenant
+
+je le ferai pas pour le tous les
+
+participants donc je vais essayer de
+
+voir si on peut installer sur sur qui on
+
+peut l'installer chez qui ça vaut la
+
+peine de l'installer mais si vous pensez
+
+avoir un bon PC et que ça peut tourner
+
+vous pouvez l'installer alors dans les
+
+autres applications installées donc on
+
+avait blender que vous avez pu voir qui
+
+est en 3D il y a crita que tu as lancé
+
+tu peux lancer pour qu'il voit à quoi ça
+
+ressemble
+
+et après on va aller télécharger
+
+Audacity et
+
+un petit peu déjà les télécharger
+
+Audacity donc Audacity c'est quoi c'est
+
+un logiciel encore une fois open source
+
+c'est pour ça que je vous propose ces
+
+logiciel là qui permet de faire de
+
+l'édition audio de de par exemple de
+
+augmenter le gain de diminuer le gain de
+
+faire des coupes d'aplatir une courbe
+
+c'est très con très simple et ça permet
+
+de pouvoir éditer de l'audio alors vous
+
+allez me dire oui dans le jeu vidéo on
+
+fait vraiment l'audio alors oui mais
+
+vous avez pas en faire vous de l'audio
+
+parce que c'est un métier très compliqué
+
+mais dans le jeu vidéo vous allez avoir
+
+des situations où votre musique elle
+
+commence avec trois secondes de blanc et
+
+dans le jeu vidéo vous avez pas envie
+
+d'attendre 3 secondes que la musique
+
+commence et donc vous allez dans
+
+Audacity vous allez pouvoir couper le ce
+
+petit bout ou redimuler les sons pour
+
+que les voix dans votre jeu et la même
+
+intensité et que ça fasse pas bonjour je
+
+m'appelle tatata et je suis une petite
+
+fée et qu'on va rien entendre parce
+
+qu'ils ont tous des voix différentes
+
+c'est à ça que ça sert donc je prends
+
+l'installeur donc du coup ici tu vas
+
+pouvoir
+
+ouais tu l'as déjà en train déjà en
+
+train de le télécharger ici j'ai pris
+
+celui qui a
+
+642 ici tu as mis 64 donc c'est bon
+
+c'est que ton PC supporte 64 je suppose
+
+tu peux aller sur le site web pour
+
+regarder un peu ce qui ce qui reste à
+
+installer
+
+sur le guide
+
+j'en sais rien
+
+au revoir
+
+il y a pas d'espace dans le lien mais tu
+
+dois faire pour rechercher
+
+sur mon pseudo
+
+voilà
+
+qui n'est pas vraiment pseudo
+
+et répertoire répertoire en fait c'est
+
+des projets sur le site web et dans les
+
+projets on va les chercher
+
+nos codes gmxr
+
+voilà donc ici vous pouvez voir qu'on a
+
+installé blender on a lancé une ici on a
+
+installé
+
+sidequest alors est-ce qu'il y a autre
+
+chose il y a sidequest audacity est en
+
+train de le faire et il y a le USB
+
+driver on va peut-être installer l'USB
+
+driver et puis sidequest donc tu peux
+
+cliquer sur Quest à des driver c'est le
+
+deuxième le premier Google USB driver
+
+c'est parce que si vous faites de
+
+l'Android avec votre téléphone des fois
+
+votre téléphone n'est pas détecté et ce
+
+le premier ici Google USB driver permet
+
+de le détecter plus facilement
+
+donc Quest Drive vous allez tomber sur
+
+le site de oculus Quest
+
+le téléchargement de audacity est
+
+terminée je peux lancer l'installation
+
+alors là que ça commence un peu long
+
+parce que j'ai beaucoup de trucs qui
+
+sont en même temps
+
+on va télécharger donc je peux pousser
+
+sur le bouton bleu qui va dire
+
+télécharger
+
+on va accepter télécharger
+
+voilà ça devrait voir comment c'est on
+
+se devrait commencer
+
+alors ça voilà ça c'est à quoi ressemble
+
+Krita donc vous pouvez voir qu'il y a
+
+comme Photoshop petit menu avec des
+
+trucs pour déplacer des trucs pour
+
+agrandir et tout il y a plein d'autres
+
+tutoriaux sur le web Kita est en open
+
+source la communauté est super
+
+sympathique et très et très productive
+
+n'hésitez pas à aller acheter un coup
+
+d'oeil ça vaut la peine c'est gratuit ça
+
+fait le taf c'est quand vous avez pas
+
+Photoshop illustré toi c'est très très
+
+bien
+
+en français on continue
+
+j'accepte je continue ouais
+
+démarrer les préférences initialiser
+
+ouais tu peux continuer
+
+encore une fois le but c'est pas de
+
+montrer comment on dessine fonctionne
+
+mais voilà à quoi ça ressemble par
+
+exemple tu peux enregistrer ta voix je
+
+crois et c'est un peu d'enregistrer ta
+
+voix avec le bouton rouge
+
+ça a l'air de détecter mais pas très
+
+fort
+
+et arrête
+
+donc c'est le stop stop
+
+l'audio vous pouvez voir la courbe et
+
+ici s'il veut il va pouvoir découper
+
+l'endroit où j'ai dit des Sablons et
+
+arrête on peut voir ici que si il y va
+
+il a une sorte de zone plate là il peut
+
+aller jusqu'au bout vas-y jusqu'au bout
+
+jusqu'au bout et tu pousses sur 10
+
+litres supprimer
+
+et là on vient de couper ce que j'ai dit
+
+vous pouvez retirer les blancs mettre
+
+des volumes et tout agrandir le son il y
+
+a pas basiquement travailler sur le son
+
+alors ici maintenant on va s'occuper de
+
+cette Quest donc on a téléchargé
+
+normalement le
+
+USB driver pour le Quest est-ce que j'ai
+
+besoin de le
+
+de
+
+l'extraire alors oui tu vas devoir
+
+l'extraire donc tu peux utiliser soit
+
+Windows zip soit Windows rare si vous
+
+avez Windows rare
+
+je le mets dans
+
+un endroit où tu peux le supprimer après
+
+parce que c'est ici c'est une extrait et
+
+puis tu peux le supprimer derrière c'est
+
+pas un truc qui faut garder c'est un
+
+truc qui va se Lasten
+
+tu peux l'ouvrir alors là c'est un truc
+
+particulier vous allez voir tu peux
+
+l'ouvrir en fait c'est l'installation de
+
+driver c'est pas comme un exe où tu fais
+
+c'est bon exécute toi il va falloir que
+
+tu ailles sur Android Windows
+
+USB qui a le troisième ici Android
+
+Windows USB non celui-ci au dessus
+
+voilà tu fais clic droit dessus
+
+et là tu vas pouvoir faire installer
+
+voilà et là en fait il va installer le
+
+driver pour le quest
+
+on va dire oui
+
+voilà opération réussie donc là ça va
+
+permettre à l'ordinateur de comprendre
+
+ce que c'est à quoi est-ce qu'on va le
+
+brancher plus tard
+
+du coup le dossier j'aurai plus besoin
+
+si tu peux le supprimer maintenant
+
+ce qu'on va aller faire c'est assez
+
+sidequest pendant que oculus se
+
+télécharge toujours
+
+un magasin alternatif à oculus donc
+
+oculus vend femme méta du coup
+
+maintenant vend des jeux sur son magasin
+
+mais les jeux que vous achetez sur le
+
+magasin sont filtrés c'est à dire que
+
+ils doivent être commercialement viable
+
+sans faute sans faute d'orthographe avec
+
+une présentation validée par l'équipe
+
+tester par les gens de méta mis dans un
+
+calendrier donc en fait vous pouvez voir
+
+que le nombre d'applications qui sont
+
+sur le store ne sont que des
+
+applications filtrées parmi des milliers
+
+qui existent
+
+vous avez l'oculus Lab qui lui est un
+
+truc avec un peu moins drastique mais du
+
+coup pas sur le Store vous allez le
+
+valider depuis le prix votre navigateur
+
+web et vous avez sidequest qui en fait
+
+il y a un truc pour les développeurs ce
+
+qui se passe c'est que Android vous
+
+pouvez prendre une application à la
+
+mettre sur votre téléphone avec un câble
+
+USB si vous êtes développeur ici tous
+
+les cas ce que vous allez recevoir ils
+
+sont développeurs par défaut
+
+ce qui veut dire qu'en fait vous pouvez
+
+aller sur le magasin de cycquest choisir
+
+une application et la side Lauder qu'on
+
+dit donc c'est prendre l'application et
+
+la mettre sur le Quest et aller dans un
+
+menu pour les développeurs et jouer au
+
+jeu et donc du coup voilà ce magasin là
+
+c'est un magasin spécialisé dans les
+
+applications que les développeurs des
+
+pauses pour aller les side
+
+voilà quoi ça ressemble le site web on
+
+va aller le télécharger alors j'oublie
+
+toujours quel bouton c'est pour
+
+télécharger donc tu vas pouvoir aller
+
+moi j'ai dans Google je fais
+
+sidequest et puis je fais download tu
+
+peux faire sidequest espace download
+
+pour ça j'arrive directement sur la page
+
+voilà tu peux
+
+c'est top c'est top
+
+alors est-ce que c'est parce que
+
+internet devient tout doucement long
+
+avec mon petit téléchargement je ne sais
+
+pas alors ici ce qui se passe c'est que
+
+vous avez deux applications différentes
+
+vous avez easyas tout à l'heure et
+
+advance easy installeur est un peu plus
+
+simple mais le mieux c'est d'avoir
+
+Advance pour pouvoir faire tout ce qu'on
+
+veut faire avec le Quest on va
+
+télécharger advance faut savoir que on a
+
+regardé l'autre jour vous pouvez aussi
+
+installer side Quest sur votre téléphone
+
+s'il a port USB C votre téléphone il
+
+peut techniquement installer des
+
+applications sur le Quest sachant que le
+
+Quest est homologué qui XR et que le
+
+téléphone sera sur un autre compte je ne
+
+sais pas si ça fonctionnera donc nous ce
+
+qu'on a fait c'est que pour cet
+
+événement si on vous a installé toute
+
+une liste d'applications que vous pouvez
+
+déjà tester sur le Quest que vous n'avez
+
+pas besoin de télécharger si vraiment
+
+vous avez besoin essayez et si vous n'y
+
+avez pas venez me voir et on essaiera de
+
+trouver une solution
+
+alors on peut essayer de voulant parce
+
+que j'avais plus de batterie
+
+effectivement ça risque de poser à peu
+
+près
+
+[Musique]
+
+s'il te plaît
+
+voilà ok au moins ça ira mieux on aura
+
+un peu plus de performance plus
+
+alors ça s'installe toujours ça
+
+télécharge l'ours taequest
+
+ici le téléchargement
+
+oculus ben on va être patient on
+
+accélère cette vidéo à cet endroit-ci on
+
+peut couper à partir de là si on fait du
+
+montage ce que je ne ferais pas dans un
+
+premier temps salut
+
+alors est-ce qu'on peut attends je vais
+
+repasser au site web en attendant que ça
+
+télécharge
+
+donc voilà donc pour résumer où on en
+
+est on a ici Unity qu'on va installer
+
+donc vous décrit un compte sur Unity
+
+Unity vous pouvez rester les blender
+
+pour faire la 3D installer crita pour
+
+faire de la 2D installer oculus si vous
+
+voulez faire du de utiliser le Quest
+
+pour voir des jeux sur le PC high astibr
+
+que tu peux installer aussi
+
+alors j'ai pas mis une image dessus mais
+
+ici effectivement vous avez steam vert
+
+donc tu peux aller télécharger steam VR
+
+pour que le reste se télécharge
+
+alors qu'est-ce que ce type d'air vous
+
+avez plein de jeux sur Steam tu as steam
+
+sur ton pc toi ok tu as plein de jeux
+
+sur Steam qui sont en réalité virtuelle
+
+sauf que pour faire de la réalité
+
+virtuelle il faut une sorte d'ajout à
+
+Steam qui permet de faire de la VR qui
+
+s'appelle steam vert c'est une
+
+application qui doit télécharger leur
+
+steam donc vous devez télécharger steam
+
+créer un compte Steam et ensuite
+
+installer steam VR
+
+quand vous avez fait ça vous pouvez en
+
+fait jouer à des jeux de VR sur votre PC
+
+sans nécessairement avoir oculus setup
+
+sachant que oculus c'est top c'est la
+
+version pour oculus et steam VR c'est
+
+pour Windows enfin pour Steam
+
+pour steam VR avec les PC pour PC je
+
+sais pas s'il est sur Mac d'ailleurs
+
+mais steam VR a tapé comme des malades
+
+et ils ont fait un truc qui est vraiment
+
+génial qui permet de prendre le jeu en
+
+réalité virtuelle et de le streamer sur
+
+n'importe quel casque tant qu'il est un
+
+peu compatible avec deux trois outils
+
+sachant que pour pouvoir faire ça
+
+vous avez il est en train d'installer ce
+
+de son côté le truc c'est pour ça que je
+
+vous montre pas mon écran sans l'écran
+
+mais c'est surtout parce que ici steam
+
+d'ailleurs vous allez pouvoir le
+
+télécharger et il y a deux autres outils
+
+qui existent alors vu que stream VR
+
+steam vert permet de streamer OPC si
+
+vous utilisez alt VR c'est un outil qui
+
+permet ici
+
+de streamer via le Wi-Fi cette donnée
+
+dans votre casque il est Open Source je
+
+crois
+
+ouais il est Open Source il est gratuit
+
+il est puissant mais il est un peu geek
+
+dans le sens où il faut savoir pousser
+
+sur des boutons il faut savoir que
+
+lancer des adresses enfin c'est un peu
+
+chaud maintenant si pour chez vous vous
+
+voulez faire de la VR
+
+pas dans le hackathon il y a virtual
+
+desktops qui fait aussi qui va chercher
+
+le truc de Steam VR et qui l'envoie vers
+
+le Quest et celui-là est très bien il
+
+est fonctionnel il est optimisé il se
+
+lit à votre compte oculus donc vous
+
+pouvez utiliser deux puisses
+
+up et vu qu'il est lié à votre compte
+
+oculus il y a même pas besoin de setup
+
+le l'IP il va juste comprendre tout seul
+
+ok le PC il est là allumé moi je suis là
+
+en tant que Quest je fais le lien entre
+
+les deux et je vois je ne ferai pas de
+
+tuto dessus parce que c'est pour
+
+franchement mais basiquement c'est de là
+
+si vous êtes intéressé permet de voir en
+
+temps réel ce que vous voyez sur votre
+
+PC dans le casque alors je ferme la
+
+parenthèse par rapport alors je reviens
+
+sur l'écran
+
+voilà alors steam VR ici son poste de
+
+télécharger donc je lance
+
+alors ici c'est tombé sur le report
+
+point de Steam de Steam VR je crois bien
+
+alors soit tu vas sur le lien et va te
+
+retourner dans Steam soit ce que tu peux
+
+faire c'est directement les sources
+
+Steam et aller chercher le l'application
+
+steam day en fait sur le Market ok
+
+j'installe juste l'application
+
+je viens ici et j'ouvre cet hiver sur
+
+une nouvelle page
+
+qui est ici
+
+tu vas faire install steam ici
+
+du coup on va aller directement dans ton
+
+style donc si tu peux lancer steam ça te
+
+dérange pas
+
+voilà
+
+la raison pour laquelle on le fait sur
+
+son PC c'est que si jamais moi je le
+
+fais sur mon pc il y a beaucoup d'étapes
+
+que vous ne verrez pas genre des
+
+autorisations des trucs j'oublierai
+
+d'installer et c'est pour ça que ouais
+
+m'aide m'aide à faire cette vidéo donc
+
+merci à lui
+
+on veut se parler d'installer sans que
+
+j'ai des problèmes sur mon pc lui il va
+
+venir tout près tout ready pour le
+
+Hackett
+
+donc on va l'attendre on va repasser à
+
+cycquest en attendant
+
+je peux le lancer ouais tu peux le
+
+lancer
+
+ça j'ai plus besoin de la page je peux
+
+fermer ça comme ça c'est ça alors ici
+
+cette couette c'est en train de se
+
+charger il faut savoir que ça équestre
+
+c'est un navigateur web c'est une
+
+application en navigateur web c'est pour
+
+ça qu'il prend son temps à charger la
+
+page comme si c'était une page web et
+
+alors ici on peut voir d'ailleurs si tu
+
+cliques sur le petit truc là-bas je
+
+crois que tu vas pouvoir voir ouais
+
+vas-y alors ça c'est les ados ok je sais
+
+bien qu'il y a un bouton quelque part
+
+qui permet de voir le code comme le code
+
+de la page web
+
+c'était juste pour dire alors ici je
+
+suppose qu'il est en train de
+
+télécharger des mises à jour comme ça
+
+alors vu qu'on télécharge plein de
+
+choses à la fois ça nous prend du temps
+
+sachant qu'on n'est pas câblé ici du
+
+coup Satan ça prend le temps du wifi
+
+lui il est presque fini
+
+cool
+
+donc là il fait son dernier sa dernière
+
+ligne droite ça va
+
+Steve aussi on a juste à attendre
+
+oculus a fini de télécharger maintenant
+
+il va installer
+
+quoi ça ressemble à ça donc vous voyez
+
+c'est un magasin il y a plein de jeux
+
+plein d'applications des commentaires
+
+des choses comme ça si vous êtes
+
+développeur et que vous voulez publier
+
+votre jeu c'est là qu'il faut aller en
+
+premier après après si vous voulez
+
+publier plus plus professionnellement
+
+faut les verriculus mais là c'est une
+
+langue démarche
+
+alors admettons que tu aies envie
+
+d'installer quelque chose moi je propose
+
+qu'il installe mrtk qui fonctionne
+
+extrêmement bien
+
+Mr comme mixte reality Mr TK comme
+
+Toolkit
+
+vous pouvez voir qu'il y a plein de
+
+mrtks parce qu'il y a différentes
+
+versions on va aller chercher une qui se
+
+joue en solo on va prendre les deux vous
+
+l'avez
+
+on va prendre sample à pays ok donc
+
+celui qui est un peu plus bas
+
+parce que le V2 je le connais pas bien
+
+ok c'est tout ça c'est à cause de
+
+t'inquiète
+
+le 4e
+
+je prends celui-là parce que je le
+
+connais sachant qu'il y en a d'autres
+
+qu'on aurait pu installer alors tu vas
+
+pouvoir tu aimerais bien pouvoir pousser
+
+sur le bouton Download app pour
+
+télécharger sauf que là il va te
+
+demander premièrement de te connecter
+
+alors il faut qu'il crée un compte pour
+
+pouvoir accéder à sidequest ici il y a
+
+pas nécessairement besoin que le compte
+
+soit celui de moling donc j'ai dû
+
+laisser créer le compte donc tu peux
+
+aller créer un compte donc ici c'était
+
+je ne sais pas j'ai jamais essayé donc
+
+moi je m'en suis créé à directement sur
+
+son truc comme ça c'était fait
+
+quand on a tous mes informations donc
+
+maintenant vous savez comment contacter
+
+Mohamed
+
+quitte à avoir ton adresse email tu
+
+travailles dans la tu travailles dans
+
+quel domaine du coup moi
+
+actuellement je suis en coding 28 donc
+
+je fais plus du réacte mais je suis
+
+aussi faire un peu de Java ok donc
+
+développement web
+
+donc si vous voulez le contacter pour
+
+faire des sites Web vous avez son
+
+adresse email
+
+je vais ici
+
+que je renvoie
+
+là il va te demander sur ton truc
+
+essayer de nouveau
+
+enfin oui c'est moi
+
+j'ai répondu depuis mon téléphone le
+
+truc bleu je crois que tu vas cliquer
+
+ok
+
+voilà donc maintenant il devrait avoir
+
+choisi un truc
+
+ouais par exemple on est en Belgique
+
+apparemment
+
+en français ou je ne sais pas on va voir
+
+et là je ne sais pas non plus
+
+tu veux que je cache où ça te dérange
+
+peut-être cacher ça va alors voilà c'est
+
+caché parce que ça va permettre de
+
+comme ça vous aurez pas son rêve
+
+et aussi ça évite que on vous Acquier
+
+son compte avec des données personnelles
+
+vous pouvez voir que je ne suis pas fort
+
+sur la sécurité ne me fait pas confiance
+
+à mon avis c'est parce que tu vas mettre
+
+Belgique avec Belgium
+
+ça me paraît bizarre qu'il te demande ça
+
+comme ça quoi
+
+alors clique sur la liste longue
+
+peut-être que en fait justement il veut
+
+pas
+
+c'est quoi ça
+
+sinon tu peux essayer
+
+sinon tu peux créer ton compte depuis le
+
+navigateur web et pas depuis
+
+l'application
+
+il est possible que
+
+ce soit à cause de ça
+
+quand tu aurais déjà créé un compte
+
+c'est que non
+
+non c'est la première fois que je suis
+
+dessus donc j'ai jamais créé deux points
+
+donc j'ai changé de manière de connexion
+
+j'ai mis connexion enfin essayer de dire
+
+le compte direct
+
+je remets mon pseudo
+
+et là ici voilà enfin donc là en fait
+
+tantôt quand il est passé il n'avait pas
+
+d'anglais pour pouvoir choisir le pays
+
+maintenant il est là donc il va les
+
+choisir donc si vous essayez de vous
+
+connecter via le Gmail il accepte pas
+
+donc voilà
+
+et le mot de passe
+
+[Musique]
+
+email que tu aurais pas reçu un mot de
+
+passe du coup c'est peut-être parce que
+
+tu avais validé juste avant
+
+[Musique]
+
+je sais pas
+
+donc ça c'est bon
+
+on va y arriver
+
+98
+
+ok quand j'écrivais la
+
+pas de mot de passe au truc comme ça
+
+ok donc voilà il a créé un compte donc
+
+je reviens sur son écran je peux
+
+dire un truc avant peut-être vérifier là
+
+j'ai créé mon compte sur le site et donc
+
+là je devrais juste il est connecté
+
+alors ce qui se passe c'est que on a un
+
+Quest alors je vais vous montrer
+
+attends 2 secondes
+
+tu peux attends faire quoi attends
+
+attends la suite donc pour ceux qui
+
+n'auraient jamais vu à Quest ceci est un
+
+appareil Quest vous pouvez voir qu'il a
+
+quatre petites caméras ici donc je ferai
+
+une autre vidéo sur le sujet mais je
+
+fais un raccourci la quête caméra qui
+
+permet de traquer il a le bouton ici qui
+
+permet d'allumer le bouton ici qui
+
+permet de gérer le volume un microphone
+
+là bas et de l'audio ici ce qu'on va
+
+faire c'est que on va le connecter sur
+
+ce petit embout ici qui enduisent
+
+l'essai sur le PC qui est en USB C
+
+sachant que plus si vous gardez un usb-c
+
+vous aurez un meilleur débit donc une
+
+meilleure image si vous voulez streamer
+
+et ça se parle plus vite les
+
+applications vous pouvez utiliser l'USB
+
+3 à usbc il n'y a pas de problème mais
+
+le stream en pâtira si vous voulez voir
+
+ce qui se passe dedans
+
+alors ici tu peux connecter l'appareil
+
+et l'allumer
+
+donc ici je laisse enfoncer quelques
+
+secondes pour la lunette
+
+je le mets sur la tête et ici on
+
+aimerait bien pouvoir vous montrer ce
+
+qui se passe dans le casque sauf que
+
+pour pouvoir vous montrer ce qui se
+
+passe dans le casque il faut pouvoir
+
+voir en wifi et ça je peux pas le faire
+
+ici donc on va juste se contenter
+
+d'accepter de trop menu et d'aller à la
+
+suite alors c'est toujours très de
+
+s'allumer tu peux le brancher
+
+alors
+
+[Musique]
+
+voilà
+
+c'est bon alors il a des lunettes les
+
+lunettes vous devez les retirer parce
+
+que si vous les Cassez ce serait con ça
+
+coûte cher si jamais vous avez la
+
+possibilité de mettre le dentiste ça
+
+peut être intéressant si vous voulez
+
+garder les lunettes vous mettez le
+
+casque en face et vous tirez la sangle
+
+pour éviter de casser les pattes en
+
+faisant ceci avec votre casque sachant
+
+que vous voyez ici ça pousse un peu là
+
+et c'est surtout sur les pattes que ça
+
+va casser d'accord si vous voulez quand
+
+même prendre le risque de le faire à ce
+
+moment-là n'hésitez pas à le faire ça
+
+peut ça peut être ça peut fonctionner
+
+donc je suis en train de cliquer pour
+
+autoriser la connexion via le câble
+
+alors ici il y a un menu qui est apparu
+
+sur son truc qui demande voulez-vous
+
+autoriser cet appareil à communiquer
+
+avec le PC il a poussé sur oui parce
+
+qu'on vient de voir que c'est passé en
+
+vert sur le jeu donc maintenant il va
+
+avoir d'autres menus qui permettent de
+
+voir par exemple le Guardian alors je me
+
+permets de toucher ton PC confirmer
+
+admettons que vous voulez voir ce qui se
+
+passe dans le casque vous ne pouvez pas
+
+streamer depuis un PC parce qu'il faut
+
+le compte mologique donc vous pouvez
+
+streamer que depuis sidequest alors vous
+
+allez ici dans cycquest vous cliquez
+
+regarde peut-être comme ça tu vois aussi
+
+toi vous avez une option ici qui permet
+
+de connecter au wi-fi qu'on va pas
+
+activer cette fois-ci et vous avez ici
+
+une option qui permet de streamer ce
+
+qu'on voit en wifi au vocabulaire on va
+
+cliquer ici
+
+ici on va cliquer sur ce bouton qui veut
+
+dire Quest kropper en fait ça veut dire
+
+que vous voyez deux images mais nous on
+
+veut voir que un seul œil donc on va
+
+croquer pour un seul œil
+
+et on va dire streamer sauf que pour
+
+pouvoir le stream il faut qu'il mette le
+
+cas sur sa tête on va attendre qu'il
+
+remette le casque
+
+voilà alors vous voyez ça c'est ce qui
+
+voit actuellement donc on voit du noir
+
+et blanc c'est les fameuses caméras
+
+infrarouges que je vous ai montré juste
+
+avant voilà salut il y a un petit
+
+décalage dans le ce que vous voyez mais
+
+c'est pas grave alors on lui demande
+
+est-ce que vous voulez confirmer un
+
+Guardian aguardian c'est un espace de
+
+jeu vas-y donc vous allez pouvoir dire
+
+oui voilà alors ici demande est-ce qu'on
+
+fait stationner c'est à dire vous êtes
+
+assis et vous voulez pas bouger et vous
+
+avez la flemme de configurer la zone où
+
+est-ce que vous voulez dessiner mais un
+
+peu stationnaire pour voir à quoi ça
+
+ressemble voilà il y a un cercle bleu
+
+qui va se créer ou tu peux dire
+
+confirmer
+
+et là il va rentrer dans le jeu d'une
+
+manière stationnaire c'est à dire il
+
+pourra pas sortir de cette zone là s'il
+
+le fait ça va devenir noir et blanc il y
+
+a un câble donc il va pas le faire
+
+maintenant je vais vous montrer tant
+
+qu'on y est comment définir Guardian là
+
+c'est le petit menu qui est en train de
+
+voir à gauche on peut voir qu'à l'heure
+
+donc ça c'est les applications qui sont
+
+installées sur le jeu qu'il y a de
+
+cliquer alors il y a l'heure avec une
+
+petite batterie Wi-Fi tu peux cliquer
+
+dessus
+
+alors ici on peut voir qu'il est
+
+connecté sur le wifi de molengeek alors
+
+on va le connecter sur mon wifi à moi
+
+donc tu peux aller sur wifi
+
+voilà pendant le hackathon si vous voyez
+
+celui-ci là vous pouvez vous y connecter
+
+le mot de passe ce sera 1 2 3 4 5 6 6
+
+donc le wifi le mot de passe donc là je
+
+ne vois pas donc à mon avis il y a une
+
+protection antipiratage parce que je ne
+
+vois pas ce que tu vois 2 3 4 5 6 6 donc
+
+juste cliquer sur le nom du wi-fi j'ai
+
+mis le mot de passe je fais c'est
+
+connecté voilà
+
+connexion Wi-Fi qu'est-ce qui est perdu
+
+veillez accéder paramètres pour régler
+
+le problème et là je suis connecté c'est
+
+bon en fait juste le stage comme j'ai
+
+perdu la connexion
+
+ça permettra de streamer un peu plus
+
+rapidement parce que ici moi j'ai acheté
+
+une borne Wi-Fi dédiée pour la VR ou le
+
+Wi-Fi est bon il est bonne qualité je
+
+peux connecter plein de cases dessus
+
+alors maintenant on va définir le
+
+Guardian comme on avait dit à la base
+
+donc on va faire oui vas-y roomskel room
+
+Sky se dire la pièce je confirme
+
+alors ici il va dire voulez-vous définir
+
+le roomsky oui
+
+maintenant tu vois il te demande de
+
+calibrer le sol alors pour calibrer le
+
+sol il faut que tu prennes ta manette et
+
+que tu la déposes sur le sol attention
+
+au câble il garde le casse sur la tête
+
+c'est-à-dire que tu la prends sur le sol
+
+est-ce que ça a bougé avec ou pas ok
+
+donc en fait le sol est descendu nous on
+
+l'a pas vu beaucoup mais lui il le voit
+
+3D et ça descendu tu peux tu peux
+
+revenir voilà ici tu vas dire j'accepte
+
+voilà et en fait maintenant il va
+
+demander de dessiner donc là sur le sol
+
+tu vas voir essayer de dessiner un peu
+
+voilà tu vas en fait dessiner l'endroit
+
+où tu veux jouer attention au câble
+
+c'est pour ça
+
+de développer et que j'ai pas le temps
+
+je prends juste ma main et je paye dans
+
+tous les sens
+
+si vous avez pas de câble et que vous
+
+êtes en train de définir la zone faites
+
+une plus grande zone que ça parce que le
+
+but c'est de faire de voir les murs
+
+quand vous allez prendre des murs ici si
+
+vous dépassez la zone ça va vous
+
+remettre en réalité augmentée
+
+un petit bruit de dessin alors tu vas
+
+pouvoir confirmer et voilà comment
+
+définir les enfants
+
+alors maintenant ce qui va se passer
+
+c'est que on sait définir le Guardian on
+
+s'est lancé le Quest on s'est communiqué
+
+avec on sait voir l'image on va essayer
+
+d'installer une application du coup donc
+
+soit de vous installer une application
+
+depuis le store donc ça c'est le store
+
+officiel de
+
+métal c'est tu peux descendre un peu ce
+
+qu'on voit pas bien nous c'est le petit
+
+la petite icône bleu et la petite eau de
+
+cône orange la bleue dans laquelle il
+
+est c'est des applications qui sont
+
+installées ou dans son compte la orange
+
+celle avec la petite maison sur le menu
+
+tu peux aller dans le menu
+
+là voilà ça c'est le magasin vous pouvez
+
+aller dessus
+
+à télécharger pendant cet événement si
+
+vous m'écoutez
+
+ne téléchargez pas de jeu sauf si
+
+vraiment ça vaut la peine de le
+
+télécharger parce que vous allez tuer le
+
+wifi de l'événement donc ne le faites
+
+pas vous installer des applications par
+
+défaut utilisez ces applications par
+
+défaut
+
+mais si vous vouliez les télécharger
+
+c'est là qu'on les télécharge sachant
+
+que de toute façon deux tiers des
+
+applications sur ce store là sont
+
+payants alors admettons que tu veux
+
+lancer une application qu'on t'a appris
+
+à installer
+
+tu peux aller ici dans le petit menu en
+
+bas attends vas-y plus lentement parce
+
+que les gens ils vont reconnaîtreont pas
+
+donc tu peux revenir en arrière on
+
+clique sur la maison orange comme ça on
+
+a un autre menu vous voyez le petit menu
+
+en bas à droite regarde le en même temps
+
+ce que nous on voit pas grand chose
+
+voilà le petit menu en bas à droite avec
+
+les petites
+
+icônes il y a 9 petits carrés tu peux
+
+cliquer dessus
+
+là il y a un entonnoir tout au dessus à
+
+droite
+
+OK dans cet entonnoir il y a un petit
+
+menu ce menu vous allez l'ouvrir celui à
+
+droite où il est mis tout et là vous
+
+allez pouvoir voir ce qui est installé
+
+ce qui a été mis à jour ce qui est non
+
+installé et des sources inconnues on va
+
+aller voir les sources inconnus les
+
+sources inconnues et c'est des
+
+applications qui ne sont pas validées
+
+par le store mais qu'on a installé sur
+
+le casque de manière side Lauder et donc
+
+vous pouvez voir qu'on a Virtual Boy on
+
+a surface on a plein de choses
+
+d'ailleurs virtuellement il y en a pas
+
+installé des rhums donc si vous lancez
+
+Virtual Boy et que vous voyez rien c'est
+
+normal il faut mettre les Roms
+
+et on a plein d'autres on a mrtk par
+
+exemple il y a non
+
+TK c'est l'application qu'on voulait
+
+installer précédemment avec Cypress
+
+alors il est déjà installé mais si vous
+
+voulez l'installer on va vous montrer
+
+comment on fait avant de le lancer tu
+
+peux retirer le casque de seconde
+
+alors si vous voulez installer une
+
+application vous allez sur sidequest
+
+vous vérifiez que le point vert tout au
+
+dessus de l'écran est là pour dire que
+
+le casque via connecté pas besoin de
+
+l'avoir sur la tête mais il faut que le
+
+Power soit là-bas
+
+tu vas sur sidequest tu peux aller donc
+
+sur le store alors le store c'est quoi
+
+c'est la petite planète entre les deux
+
+flèches on va aller sur home
+
+voilà et ici vous pouvez voir que il y a
+
+plein de jeux à télécharger allez
+
+télécharger alors on va essayer mrtica
+
+mais vu qu'il est déjà installé on va
+
+peut-être installer autre chose donc
+
+regarde sur le Store et prend une
+
+application qui t'intéresse
+
+alors on va descendre
+
+sans alors on va peut-être aller
+
+chercher dans les jeux ici
+
+on va aller chercher dans
+
+ouais vas-y on va prendre celle-là
+
+donc j'ai pas besoin de bouger autoriser
+
+ok alors qu'est-ce qui s'est passé
+
+quand tu télécharges une application sur
+
+cycquest avant il y avait que le side
+
+laudding mais maintenant qui est le
+
+magasin l'oculus Lab et l'oculus store
+
+ce qui se passe c'est que quand le jeu
+
+n'est que sur oculus il va vous
+
+rediriger vers le site Web vous pouvez
+
+le télécharger si il clique sur
+
+télécharger ici il va demander de se
+
+connecter au compte pour pouvoir savoir
+
+chez qui il doit le télécharger vu qu'il
+
+n'a pas le compte Google ça ne marchera
+
+pas ok parce que le seul moyen de
+
+télécharger sur les cases blunting c'est
+
+d'être connecté sur le compte de mon
+
+équipe si vous avez besoin d'un jeu et
+
+que c'est important pour vous le tester
+
+durant l'événement vous venez me voir
+
+vous venez voir quelqu'un d'autorité par
+
+rapport à ce sujet et vous lui demandez
+
+de se connecter sur le compte et de
+
+télécharger ce jeu là et là vous le
+
+verrez apparaître dans le magasin du de
+
+votre appareil et vous pourrez aller
+
+cliquer pour le télécharger ça sur
+
+l'appareil ici du coup on va pas le
+
+faire parce que tu n'as pas les droits
+
+sur ton pc donc tu on va pas télécharger
+
+cela donc tu peux revenir en arrière
+
+donc je retourne sur le web et on va
+
+aller installer mrtk du coup on va
+
+essayer la version 2 pour voir ce que ça
+
+fait
+
+version 2 en ligne parce qu'en fait il y
+
+a une version multijoueur mais que j'ai
+
+jamais testé si tu veux tu peux
+
+l'installer on sait jamais
+
+ici la version 2
+
+théoriquement les multijoueurs si vous
+
+arrivez à y jouer ça peut être très
+
+marrant à tester pendant la Deuxième
+
+donc tu fais télécharger alors vous
+
+voyez qu'il est mis download appside
+
+blood ça veut dire qu'on va le side
+
+Lauder et vous pouvez voir que installe
+
+s'est lancé tout seul ça se met dans un
+
+ça se télécharge vous pouvez voir ici
+
+qu'il y a un petit truc tout au dessus
+
+qui dit pour le moment voilà où j'en
+
+suis j'ai téléchargé sauf que vu qu'il a
+
+cliqué deux fois c'est le télécharge une
+
+deuxième fois c'est pas grave vu la
+
+taille c'est pas trop grave on va
+
+laisser tourner
+
+pour ceux qui se posent la question en
+
+approche tout doucement la fin de cette
+
+première vidéo sachant qu'on a installé
+
+pas mal l'application qu'on a vu ce que
+
+c'était le Quest et que les choses
+
+commencent à être installées on va tout
+
+doucement aller vers la fin et puis on
+
+va aller manger à bout et revenir pour
+
+la suivante
+
+alors ici mrtkl lancé donc il a mis que
+
+ça a été installé donc maintenant si il
+
+retourne sur le casque
+
+alors je vais te remettre sur la fenêtre
+
+de
+
+stream voilà
+
+maintenant vous allez pouvoir voir que
+
+il faut quitter la fenêtre pour le
+
+réactualiser
+
+tu vois on peut voir que maintenant mrtk
+
+online 2 est apparu dans les
+
+applications qui ont été side load et
+
+c'est comme ça qu'en fait pour rester
+
+une application
+
+tu peux la lancer pour voir pas à quoi
+
+ça ressemble
+
+à outils qui permet de faire du de la
+
+réalité virtuelle une boîte à outils ça
+
+veut dire des trucs qui sont prêts pour
+
+vous vous avez plus qu'à déposer dans
+
+une tique comprendre comment ça marche
+
+et les utiliser c'est une boîte à outils
+
+qui était fait à la base pour le laine
+
+donc vous pitchez comme ça pour cliquer
+
+sur des objets avec vos deux petits
+
+doigts alors évidemment
+
+de l'audio donc tu peux dire oui parce
+
+que ça multijoueur il fonctionnera pas
+
+sur l'audio et voilà à quoi ressemble
+
+mrtk alors là il a les joystick en main
+
+ce qui veut dire qu'il voit une main
+
+parce que le jeu est fait pour les mains
+
+si vous voulez les mains il faut
+
+vérifier que vous avez bien activer les
+
+mains dans l'oculus quest ce que je t'ai
+
+pas montré
+
+et déposer les manettes alors est-ce que
+
+tu peux déposer la manette
+
+vas-y alors oui ceci je vais faire une
+
+petite pause sur le view ceci est un une
+
+dragonne comment est-ce qu'on la met on
+
+prend le truc ici on tire on met sa main
+
+alors ici c'est la gauche donc on met sa
+
+main dans la dragonne on tire ici et du
+
+coup on peut le faire ce qu'on veut ça
+
+tombera pas d'accord
+
+on prend la manette dans sa main on a
+
+grabé tirer on a deux boutons ici pour
+
+jouer à joystick et un menu qui ne faut
+
+pas toucher sauf si on veut sortir de
+
+l'application ou interagir avec oculus
+
+donc celui-là on touche pas celui qui
+
+est tout au bout ici donc bouton JOUER
+
+joystick tiré gravé la manette ça ça
+
+permettraquer la manette donc ne pas
+
+cacher avec sa main et si vous voulez
+
+changer de batterie vous tirez ici comme
+
+ceci et il y a une batterie à retirer et
+
+mettre une nouvelle on vient on remet
+
+comme ceci
+
+dans notre cas ici vu qu'on veut jouer à
+
+un jeu sans les mains on va repasser la
+
+version sans les mains je dépose la
+
+manette je reviens sur son écran
+
+alors normalement maintenant vu que j'ai
+
+testé les manettes à plates comme ceci
+
+on attend un peu bouge tes mains
+
+maintenant
+
+il a ses mains qui sont traquées par les
+
+caméras c'est complètement pété c'est
+
+juste trop génial je pensais qu'il
+
+fallait que je fasse quelque chose non
+
+en fait il faut aller dans un menu il
+
+activé mais on va aller voir ça juste
+
+après
+
+sur le bouton avec ton doigt OK et en
+
+fait le but d'une d'un jeu de démo ça ne
+
+sert pas à jouer ça sert juste à
+
+comprendre ok ça ça marche comme ça dans
+
+la VR ça c'est chouette d'aller dans
+
+Unity regarder le code et le mettre dans
+
+son propre application alors tu peux
+
+voir que tu as des trucs tu peux prendre
+
+pitcher bouger et vu qu'il a pas le
+
+câble vu qu'il a le câble et qui est pas
+
+encore wifi on va éviter de faire ça
+
+juste peut-être la tasse voilà en fait
+
+vous prenez avec les deux doigts comme
+
+ça et si tu prends avec tes deux mains
+
+je crois que tu peux l'agrandir aussi
+
+alors on va passer à la suite parce que
+
+ici le but c'est que la vidéo soit pas
+
+trop loin qu'on installe des trucs à la
+
+base cette vidéo c'est les installations
+
+donc on va continuer de les
+
+installations et on fera une démo tantôt
+
+tu peux mettre le casque on va montrer
+
+si jamais les mains sont pas activées
+
+parce que le casque était mal c'est top
+
+à part nos équipes ou parce que vous
+
+vous ne savez pas comment on le fait
+
+vous avez jamais joué vous n'êtes pas
+
+ici à Molenbeek tu peux soit avec les
+
+manettes poussées sur les boutons menus
+
+donc je vais passer les manettes et
+
+alors le bouton MENU pour ceux qui ne
+
+savent pas c'est ce petit bouton qui est
+
+ici là vous laissez enfoncer quelques
+
+secondes alors je peux te passer la
+
+manette donc c'est celui-ci voilà tu
+
+laisses enfoncer deux secondes voilà ça
+
+c'est pour reset l'endroit où on veut
+
+jouer et si tu cliques une seule fois
+
+voilà il va demander est-ce que vous
+
+voulez continuer ou quitter ici on va
+
+quitter
+
+on va aller dans le menu d'oculus donc
+
+tu vois le wifi avec la batterie tu peux
+
+cliquer dessus et dedans tu as
+
+paramètres tout de suite à droite
+
+alors dans Paramètres tu as
+
+suivi de mouvement ou quelque chose
+
+comme ça suivi de mouvement en bas à
+
+gauche
+
+je suis désolé
+
+et dedans on voit qu'il a suivi des
+
+mains il est en bleu donc c'est bon le
+
+suivi des mains est activé
+
+ça et quand vous l'activez vous avez un
+
+mini tuto qui va se lancer en disant
+
+voici vos mains vous pouvez bouger et
+
+tout une fois que vous avez fini le tuto
+
+vous pouvez utiliser les modes et
+
+normalement les cases devraient arriver
+
+préconfiguré pour ceux qui sont dans
+
+l'événement je te redonne ça voilà voilà
+
+alors on en est où au niveau des
+
+installations maintenant qu'on arrive à
+
+faire tout ça on a c'est Quest on a ça
+
+on a USB on a le temps alors on estime
+
+vert qui reste donc déjà où est-ce qu'il
+
+en est United déjà
+
+est-ce qu'il a installé ou est-ce qu'il
+
+va commencer l'installation
+
+je crois qu'il commence l'installation
+
+alors on a joué on a fait plein de
+
+choses mais il y a eu un message de
+
+demandais d'installer Visual Studio
+
+alors Visual Studio prend son temps à
+
+s'installer donc ça va être encore un
+
+truc un peu long il est non il est là où
+
+il est pas là alors ici il faut que tu
+
+aies développement de Netflix tu peux
+
+l'activer normalement il est celui-là
+
+attends je peux alors vous aurez besoin
+
+de d'autres nets parce que d'autres net
+
+c'est une librairie qui permet de faire
+
+du séchage donc dans tous les cas ça
+
+vaut la peine de l'avoir ici on fait pas
+
+du ici donc on va pas mettre du python
+
+si vous voulez mettre du python c'est là
+
+qu'il fallait le mettre on va descendre
+
+le petit menu
+
+voilà
+
+Windows Universal plateforme c'est si
+
+vous voulez faire du développement pour
+
+Windows
+
+alors ici il faut vraiment faire
+
+attention que Unity soit bien active
+
+on ne fait pas du C++ Unity c'est du
+
+sécharpe développement expansion
+
+a priori c'est tout ça me paraît bizarre
+
+ce qui me semblait qu'il y avait un
+
+autre mais à priori c'est bon donc
+
+DotNet Unity ça il y a peut-être elle
+
+tous ses ppm et on a vu
+
+comme j'ai déjà à mon avis il est déjà
+
+installé donc on va dire installer et là
+
+il va lancer l'installation alors ce qui
+
+est possible c'est qu'il était installé
+
+il y a 2022 avec l'installer s'est
+
+déclenchée et que on va voir ici tu en
+
+as deux tu en as un qui est en train de
+
+se modifier
+
+on va laisser se faire et on ira on ira
+
+après
+
+le Visual Studio on va aller retourner
+
+dans Steam là tu peux chercher du coup
+
+après steam VR alors la question
+
+voilà donc c'est celui-là dans Steam VR
+
+tu as attends
+
+dans mes souvenirs il faut peut-être
+
+qu'il faut aller dans le magasin
+
+on va aller plutôt sur google tu vas
+
+taper télécharger steam VR et on va les
+
+vérifier maintenant que tu es connecté
+
+si il va bien vouloir
+
+télécharger normalement c'est depuis le
+
+store mais apparemment non
+
+voilà
+
+alors c'est ce truc là qu'il faut aller
+
+chercher jouer au jeu oui
+
+tendance
+
+qu'il a demandé d'installer ça demande à
+
+Steam est-ce que tu voulais installer ça
+
+tu peux dire oui c'est giga 50 c'est 6
+
+Go 56 faut savoir que il vous faut de la
+
+place sur votre PC parce que
+
+oculus setup si vous voulez faire de
+
+l'oculus prend 15 Go un truc comme ça
+
+steam prend 6 Go les jeux prennent très
+
+vite à ou 2 Go mais ici en l'occurrence
+
+on va pas installer le jeu sur le tien
+
+sauf si tu as vraiment envie
+
+Unity prend la place donc ouais il faut
+
+faire de la place sur son PC
+
+oculus c'est top a fini lui de son côté
+
+on va aller voir de du côté d'oculus
+
+c'est top
+
+ok alors ici nous demande est-ce que
+
+vous voulez vous connecter à un compte
+
+méta sachant que
+
+si je vous donne l'accès à molengeek
+
+vous aurez accès à tous les trucs de
+
+molink ici je ne sais pas si je lui
+
+donne accès à mon geek ou si je lui
+
+donne accès à lui-même on va faire accès
+
+à toi-même alors le truc c'est que tu as
+
+pas encore de compte alors pourquoi
+
+est-ce qu'il propose ça en fait Facebook
+
+à la base pour utiliser les quests on
+
+devait utiliser obligatoirement en
+
+compte Facebook mais les gens n'aiment
+
+pas Facebook donc Facebook a dit après
+
+les mois de où on a gueulé a dit écoutez
+
+on va vous créer un autre système qui
+
+peut permettre de vous connecter avec
+
+votre adresse email sur meta donc vous
+
+pouvez toujours pas vous connecter avec
+
+votre adresse email mais vous pouvez
+
+utiliser celui de Meta et si vous dites
+
+que vous arrivez à trouver une
+
+alternative sachez que de toute façon le
+
+compte développeur sera du métal donc si
+
+vous voulez développer sur le Quest il
+
+vous faudra qu'on remette donc ici on va
+
+créer un compte métal configurer un
+
+compte avec la connexion avec une
+
+adresse email connectée avec un compte
+
+tu as cliqué sur le bouton gris
+
+alors j'ai deux trucs qui installent en
+
+même temps
+
+autoriser j'ai des applications VR de
+
+journée pas tu en as pas vu que tu crées
+
+un compte tu peux créer ton adresse
+
+email ça ils avaient vu
+
+je m'apprête à te voir cacher ta fenêtre
+
+je vais cacher en mettant la webcam
+
+attends présent je cache quand même ici
+
+donc on lui demande son nom de famille
+
+et son prénom
+
+son sa date de naissance
+
+alors après sa date de naissance on va
+
+lui demander
+
+donc là on est sur authentification
+
+métape.com qui était ouverte par le
+
+logiciel de oculus setup il crée un mot
+
+de passe alors on lui demande de
+
+vérifier que c'est bien les infos qui
+
+vont enregistrer s'il veut créer un
+
+compte d'accepter les conditions
+
+il a accepté les conditions
+
+de la publicité par mail alors on lui
+
+envoie un message à son adresse email
+
+pour vérifier que c'est une vraie
+
+adresse email
+
+Facebook
+
+prend le numéro
+
+il retourne sur le site de Meta email
+
+numéro dans le champ
+
+voilà
+
+alors là je peux revenir sur toi
+
+il autorise les cookies il a mis tous
+
+les trucs il a validé le numéro de
+
+confirmation et le voilà dans meta avec
+
+une magnifique vidéo d'introduction mais
+
+on va passer
+
+là tu dois mettre ton nom et ton nom
+
+d'utilisateur que tu veux qu'il soit
+
+remis dans le métal vert parce que en
+
+l'occurrence attention je vais frapper
+
+des gens le métaverse un mot de
+
+vocabulaire qui existait déjà bien avant
+
+Facebook mais que Facebook a méga
+
+amplifié du coup en fait pour la
+
+majorité des gens le métaphe ça veut
+
+dire la VR pas du tout la métaverse
+
+c'est pas du tout la verre mais en
+
+l'occurrence ici ce que Mark Zucker dit
+
+avec le métaverse c'est le fait d'avoir
+
+un réseau social où en fait on peut voir
+
+des objets en 3D aller voir communiquer
+
+vocalement avec des gens on peut se
+
+balader on peut lancer des petits jeux
+
+des trucs comme ça c'est ce que mais ce
+
+que Marc essaie de faire et de vendre
+
+nous quand on parle de métal c'est ça
+
+ici nous on veut pas faire du métaverse
+
+dans ce hackathon on veut apprendre à
+
+faire des applications de réalité
+
+virtuelle sur les cases de réalité
+
+virtuelle donc on fait de la réalité
+
+virtuelle de la réalité augmentée ou de
+
+la réalité mixte la différence je lui
+
+expliquerai dans une vidéo mais
+
+basiquement VR c'est on est isolé arc on
+
+voit le monde Mr mix reality et on voit
+
+le monde et on interagit avec
+
+alors ici
+
+solo oui
+
+on va cacher hide actif c'est toi qui
+
+vois ça si tu veux te cacher ou pas par
+
+rapport à aux autres qui sont dans le
+
+truc pour l'instant on va rester comme
+
+ça
+
+on accepte le truc
+
+alors continuez oui
+
+ouvrir
+
+voilà donc là il a créé son adresse et
+
+on retourne vers l'application où il va
+
+pouvoir valider qu'il est voilà alors tu
+
+peux prendre random truc
+
+ça c'est une bête icône pour que vous
+
+appréciez sur vous connaissez ce que
+
+c'est
+
+apprendre à dinosaure confirmer
+
+alors est-ce que tu veux être
+
+développeur
+
+alors la prochaine vidéo on va passer
+
+son compte en mode développeur vous
+
+n'êtes pas obligé de le faire pour le
+
+hackathon parce que basiquement sur la
+
+Caton on les couettes sont déjà en mode
+
+développeurs avec moling mais juste pour
+
+le fun de savoir comment on fait on va
+
+le passer en mode développeur dans la
+
+prochaine vidéo
+
+quand tu veux télécharger
+
+des actions du coup je vais aller cacher
+
+2 secondes donc ici on demande à pin ce
+
+pin il va servir à cacher à donner à
+
+droite de
+
+dans le Quest c'est à dire que quand
+
+vous acceptez d'acheter un truc on veut
+
+pas que vous ayez sur Paypal que vous
+
+acceptez et que vous passez votre temps
+
+dingue allez faire ça donc du coup ici
+
+vous dites ok c'est bon je valide si
+
+jamais ces quatre numéros reviennent tu
+
+acceptes le droit du mail ce que je dois
+
+configurer le Costic alors le questling
+
+on le configura pas maintenant mais on
+
+confira dans une autre vidéo tantôt si
+
+on a le temps
+
+ok voilà on se retrouve ici dans le
+
+logiciel d'oculus qui en fait c'est
+
+oculus et métal la différence c'est la
+
+même chose c'est oculus a été racheté
+
+par meta donc maintenant il possède
+
+totalement
+
+métape cette totalement oculus donc
+
+Facebook tout peut-être totalement
+
+oculus vous voyez c'est un peu compliqué
+
+mais non
+
+ça le problème c'est que il y a plein de
+
+cartes graphiques qui sont pas
+
+compatibles avec la VR mais il y a une
+
+différence entre ne pas être compatible
+
+et pas du tout arriver à le faire
+
+tourner ici pas compatible c'est à dire
+
+que il déconseille et que ça a peut-être
+
+pas marché mais si ça se trouve on va
+
+lancer ça a marché on va faire on fera
+
+un test
+
+alors ce qui est important de faire par
+
+rapport ici c'est juste de comprendre
+
+que c'est un magasin qu'on peut
+
+installer on peut aller chercher des
+
+trucs on peut voir les Quest qui sont
+
+connectés des trucs comme ça
+
+et puis en gros voilà
+
+Unity visuel on va d'abord se focus sur
+
+le fait de finir Unity et visual
+
+lui il est fini ok donc tu peux le faire
+
+mais celui-ci
+
+voilà alors normalement il y a besoin
+
+d'un compte mais je crois qu'on peut
+
+passer donc me rappeler ultérieurement
+
+sombre pour économiser de l'énergie
+
+et aussi parce que c'est plus stylé
+
+parce que on en est où on en est à
+
+ouais il a fini donc il a fini
+
+d'installer l'estime donc maintenant
+
+théoriquement il pourra jouer à des jeux
+
+VR sur son PC
+
+alors ici c'était quoi ça alors on était
+
+en train d'installer c'est pour le Link
+
+mais on le montrera après le locus c'est
+
+juste pour montrer qu'il y a un magasin
+
+que vous pouvez afficher les
+
+applications 2019 ouais alors c'est pas
+
+grave celui-là tu peux le faire mais
+
+c'était juste qu'il a ouvert studio on
+
+va retourner sur Unity hub c'est le
+
+petit la petite icône grise voilà alors
+
+la limity up qu'est-ce qui nous dit il
+
+nous dit qu'on a créé un projet initi
+
+alors qu'on a installé pardon Unity
+
+cette version là donc installé la même
+
+je vous rappelle vous pouvez ramasser
+
+les plats sur votre ordinateur ici moi
+
+quand je fais des projets je me retrouve
+
+souvent avec une dizaine de versions sur
+
+l'ordinateur parce qu'on a les autres on
+
+a les vieilles versions d'Unity les plus
+
+récentes où on fait des tests celles
+
+qu'on utilise vraiment pour le projet
+
+donc si vous avez de la place au disque
+
+dur vous pourrez installer plein ici on
+
+va créer un projet vif jusqu'au ça vous
+
+voyez comment on crée un projet vide
+
+et la version Unity sera déjà comme ça
+
+sera déjà vu donc tu vas pouvoir aller
+
+dans le projet créer un nouveau projet
+
+voilà alors ici il va vous demander quel
+
+type de projet vous voulez faire ok
+
+alors normalement dedans il devrait y
+
+avoir u RP je le vois pas tu as pas peur
+
+ah non c'est parce qu'il a ouvert
+
+learning pour que tu puisses la forme
+
+faut aller dans tous les pattern donc
+
+projet nouveau
+
+ok voilà dedans il a tous les patins
+
+dedans vous voyez qu'il y a deux dés 3D
+
+URP en fait
+
+URP ça veut dire Universal run Dering
+
+Papeline l'ancien modèle n'était pas en
+
+URP donc si vous voyez 2D ou 3D cliquez
+
+pas dessus allez dans 2D ou 3D URP et en
+
+fait URPS ça va permettre de faire que
+
+ça tourne sur toutes les plateformes de
+
+manière efficace c'est cool c'est le
+
+nouveau système basiquement
+
+parce que je prends le son alors on va
+
+prendre le 3D sans le simple parce que
+
+ça peut aller un peu lourd alors ici ce
+
+qui se passe c'est que c'est pas plein
+
+de versions Unity c'est la même version
+
+Unity sauf que là ce que vous allez
+
+télécharger c'est des outils des boîtes
+
+à outils qui seront prêts à installer
+
+dans votre Unity c'est pour commencer
+
+directement en mode c'est bon je peux
+
+bosser vous pouvez en créer pour
+
+vous-même mais ici on va l'utiliser ceux
+
+de Unity nous propose
+
+alors là il lui a créé projet à la
+
+racine de user quelque part normalement
+
+essaie de trouver un endroit où vous
+
+déposez tous vos projets Unity pour que
+
+ce soit pas le footoir et alors
+
+attention que Windows n'a que 255
+
+caractères de longueur donc plus l'eau
+
+plus vous allez loin dans le chemin
+
+d'accès c'est à dire l'endroit où vous
+
+déposez l'espèce de texte ici qui peut
+
+qui met en surbrillance plus vous
+
+risquez d'avoir les 255 caractères alors
+
+pourquoi est-ce que je vous dis ça c'est
+
+parce que moi en tant que développeur je
+
+suis un gros j'adore avoir des longs
+
+noms de classe très long pour pouvoir
+
+savoir ce qu'elle fait et donc du coup
+
+quand vous allez avoir utilisé mes
+
+outils vous allez déjà avoir perdre son
+
+caractère
+
+parce que le nom du projet plus le nom
+
+de la variable plus on perd vite
+
+donc ce que je veux dire c'est essayer
+
+de le rapprocher le plus bas de le plus
+
+proche de ces ou de des du bas de la
+
+racine si vous voyez ce que je veux dire
+
+si vous voyez pas poser la question à
+
+Google ou venez me voir un peu de temps
+
+alors oui effectivement installer une
+
+ici prend son temps parce que ici ce qui
+
+se passe le projet Unity parce qu'en
+
+fait ce qui se passe c'est que il crée
+
+les dossiers il crée les fichiers
+
+temporaires il va télécharger les boîtes
+
+à outils qu'il a besoin sur internet si
+
+c'est pas déjà le cas il va les
+
+réinstaller mettre tout correctement
+
+donc là il est en train de créer tout ce
+
+qu'il faut
+
+à l'endroit où on lui a demandé
+
+de toute façon pour les projets je les
+
+mettrai dans le bus
+
+tu peux lancer mais je suis pas sûr
+
+qu'il peut lancera on va voir parce que
+
+le vu que tu as pas encore
+
+on va voir c'est intéressant de regarder
+
+donc là ce qu'on va essayer de faire
+
+c'est de lancer steam VR pour voir s'il
+
+y a besoin absolument de configurer
+
+l'oculus Quest ou s'il y a pas besoin en
+
+fait ici il va pas marcher pour une
+
+simple raison c'est que tu ne l'as pas
+
+encore connecté avec
+
+oculus link ok en fait vu que votre
+
+casque c'est au téléphone Android il
+
+faut utiliser les outils qui simulent le
+
+fait de pouvoir la voir comme un casque
+
+normal quand vous utilisez oculus setup
+
+il peut simuler c'est ce qu'on appelle
+
+l'oculus link c'est ce que on propose ce
+
+qui nous proposait ici au début l'autre
+
+solution c'est d'utiliser une
+
+application sur votre téléphone qui
+
+s'appelle aldr ou Virtual Desktop qui va
+
+envoyer les données à une application
+
+sur votre PC et qui lui va simuler le
+
+fait d'avoir un casque c'est un peu
+
+compliqué c'est pour ça que je ferai une
+
+vidéo dédiée à ça un autre jour
+
+mais voilà alors est-ce qu'on essaye le
+
+plus link en attendant que ça s'installe
+
+ok on va faire ça alors tu peux aller
+
+sur appareil ici tu vas cliquer dessus
+
+et alors là il est revenu qui apparaît
+
+tu vas pouvoir aller chercher configurer
+
+l'appareil voilà et il va demander par
+
+wifi ou par câble vous pouvez faire par
+
+wifi mais vu que le bâtiment dans lequel
+
+on est n'est pas terrible niveau du wifi
+
+si vous n'avez pas votre propre routeur
+
+il faudra le faire au niveau du câble
+
+donc encore une fois ça ne marche que si
+
+vous avez un ordinateur qui se fait
+
+faire tourner la VR ici en l'occurrence
+
+alors question imaginons que j'utilise
+
+mon téléphone comme moteur je fais un je
+
+crée un réseau sur le téléphone je le
+
+partage et ce qui sera assez puissant
+
+pour pouvoir le faire ça va dépendre des
+
+composants qui est dans ton téléphone
+
+mais peut-être donc vous pouvez essayer
+
+votre téléphone si vous voulez mais
+
+votre téléphone va avoir la batterie qui
+
+se vide donc il faut ça peut peut-être
+
+marcher donc je suis en câble alors
+
+continuez
+
+vérifier votre connexion par câble ah tu
+
+l'as bien branché oui tu peux le mettre
+
+sur ta tête comme ça on est sûr que il y
+
+a pas de problème avec ça donc là il
+
+vient de tester le câble pour savoir si
+
+le câble est bon ou pas mais celui
+
+d'oculus de base donc il est bon mais
+
+pas le meilleur du monde mais il est bon
+
+je vais cliquer sur Fermer voilà alors
+
+est-ce que toi tu vois quelque chose
+
+pour l'instant non non
+
+je vais retourner dans la vue de Side
+
+Quest parce que là du coup on va devoir
+
+aller voir voilà ce qui va se passer
+
+c'est que tu vas prendre des manettes et
+
+il va falloir que tu ailles attends non
+
+t'inquiète pas les manettes sera plus
+
+rapide c'est celle là tes manettes ou
+
+non elles sont derrière
+
+[Musique]
+
+alors
+
+maintenant que tu es là tu vas pouvoir
+
+aller cliquer dans le petit menu sur
+
+c'est le wifi et la batterie
+
+c'est l'autre minceur
+
+t'inquiète je vais pas la protection si
+
+ça te prend ça prend du temps sur la
+
+vidéo
+
+sur la petite batterie et le wifi ok
+
+dedans il y a oculus link
+
+questing
+
+et ici vous demande est-ce que vous
+
+voulez par câble ou par wifi si vous
+
+avez décidé de faire par WIFI vous
+
+changez sur le wifi si vous le faites
+
+par cas vous faites par câble attends
+
+parce que nous on a perdu la vue
+
+autorisé le dépannage USB il me demande
+
+une autorisation alors du coup nous on
+
+voit plus que tu fais donc
+
+là il va devoir autoriser
+
+oculus Link pour pouvoir voir ce qui se
+
+passe et alors là normalement tu devrais
+
+voir une sorte de grand écran blanc
+
+ça
+
+tu vois une zone blanche autour de toi
+
+ou pas tu es toujours dans l'application
+
+du Quest ou est-ce que tu es dans un
+
+autre monde maintenant je suis toujours
+
+dans le là où j'étais de base j'ai pas
+
+bougé ok donc tu as pas réussi à faire
+
+le Link attends je peux regarder à quoi
+
+ok lancer
+
+après on peut mettre on peut mettre le
+
+cycos en fait il s'est fermé c'est pour
+
+ça que faut aller dans le truc noir là
+
+puis il faut tourner ici
+
+là et tu fais cropper
+
+et puis se démarrer
+
+alors peut-être qu'on verra peut-être
+
+qu'on aura pas donc là j'ai lancé
+
+j'ai dit oui et en fait là ce qui se
+
+passe c'est que quand tu dis oui il
+
+lance oculus voilà donc en fait voilà
+
+quoi ressemble
+
+oculus leak donc là en fait ce qui se
+
+passe c'est que mon casque en ayant
+
+cliqué sur oculiste Link et en ayant
+
+validé et on est en configuré le PC on
+
+se retrouve la situation vous voyez ce
+
+que le PC rend donc ici en gros c'est le
+
+PC qui met l'image sur le casque et donc
+
+vous pouvez voir que ça c'est un magasin
+
+de PC alors vu que c'est le PC vous
+
+pouvez voir que sa carte graphique a un
+
+peu du mal et donc du coup ça rame la VR
+
+est rendue on la voit mais ça ne ça
+
+bouge un peu alors c'est pas du haut ici
+
+à mon avis ici c'est plus dû à sa carte
+
+graphique maintenant
+
+si la meilleure là ou l'autre évidemment
+
+ça peut racheter alors pourquoi est-ce
+
+que je vous montre le Link c'est parce
+
+que ceux qui vont développer en Unity
+
+vous aurez un truc qui va être un peu
+
+chiant
+
+quand vous lancez Unity et que il n'y a
+
+pas de quoi se connecter sur le PC dans
+
+le temps ça allait mais dans les
+
+dernières versions ça fait planter unity
+
+ce qui veut dire que les quand vous
+
+allez développer une application saut
+
+Unity vous allez devoir le développer
+
+sans la VR ce projet non VR et quand
+
+vous voulez faire vraiment de la VR et
+
+vous avez un PC et vous savez le
+
+connecter à ce moment-là vous pouvez le
+
+faire sur le projet vert alors
+
+l'alternative à ça c'est de ne pas
+
+abuser avec l'appareil connecté au PC
+
+c'est de pousser l'application sur le
+
+téléphone avec Android ce que on va
+
+faire dans les vidéos suivantes cet
+
+après-midi OK et donc vous voilà voilà
+
+vous avez vu ce que c'était l'oculus
+
+Link vous savez comment le connecter il
+
+y a steam VR qui reste alors
+
+steam VR comment est-ce qu'on peut faire
+
+pour montrer ça du coup je leur lance
+
+ouais mais je crois que d'abord tu vas
+
+quitter l'oculus link mais c'est pas
+
+grave attends il faut que tu restes
+
+dedans parce que ouais non il faut que
+
+tu restes dedans donc là on est dans
+
+l'oculing oculus ligne tourne sur le
+
+casque
+
+tu peux relancer la vidéo
+
+donc là on est dans l'oculus Link vous
+
+pouvez voir c'était tout blanc
+
+maintenant quand il va vouloir
+
+lancer steam maintenant vous voyez qu'on
+
+voit le casque et on voit les manettes
+
+de reculer steam ce qui veut dire qu'il
+
+reconnaît bien le casque alors ce qui va
+
+se passer c'est que maintenant quand je
+
+vais mettre ma tête vous allez voir il
+
+va essayer de changer l'application le
+
+truc sur son coup sur sa connerie oui
+
+mais c'est parce que je sais pas
+
+accepter ici je sais pas pourquoi il y a
+
+un bug avec
+
+sur sa connu c'est juste pour dire que
+
+il y a une application
+
+en fait il faut que j'autorise mais il
+
+me laisse pas autoriser tu vois
+
+je vais ah je sais ce qui se passe
+
+quitter l'application
+
+qui est inconnue de oculus et top sauf
+
+que du coup il faut aller lui autoriser
+
+le fait de voir steam donc tu peux aller
+
+reculer setup voilà tu vas aller dans
+
+Paramètres tout en bas alors désolé on
+
+va voir des asso à toi il faut que tu
+
+ailles dans général
+
+et ici il faut que tu acceptes les
+
+paramètres ici sur ce autorise autre
+
+chose que vous pouvez faire tant que tu
+
+es ici en fait la VR tourne avec Open XR
+
+open XR c'est quelque chose qui essaie
+
+de standardiser la VR et on peut voir
+
+que ici là il est en oculus de base
+
+natif si vous cliquez ici ça va essayer
+
+d'activer openingsair comme système par
+
+défaut pour le Quest c'est à dire que
+
+quand vous allez enseigner une
+
+application il va d'abord essayer ici
+
+d'utiliser oculus
+
+alors le reste il y a pas besoin de
+
+modifier c'est juste plein de détails
+
+plein de trucs pour l'instant tu peux
+
+sortir de là maintenant que tu as fait
+
+ça je crois que en lançant steam VR il
+
+va ça a fonctionné je me retente
+
+j'ai lancé
+
+voilà maintenant qu'on a laissé sur sa
+
+connu on peut lancer d'autres
+
+applications et on va se retrouver à
+
+pouvoir lancer steam VR qui est une
+
+application VR en fait un steam vert
+
+de la puissance de ton PC
+
+en plus du fait d'être au bord de la
+
+zone il y a un bug ici qui fait que il
+
+plante
+
+alors on verra si on a le temps
+
+voilà ici on est voyez ce que je vois ou
+
+pas ouais ok ici on est dans le menu de
+
+configuration de Steam VR donc le blanc
+
+c'est quand vous êtes dans oculus setup
+
+le noir comme ça c'est quand vous êtes
+
+dans Steam VR et donc ici l'ordinateur
+
+ici n'est pas descendant dédié pour la
+
+VR donc il prend son temps mais
+
+basiquement vous allez avoir des
+
+applications vous allez pouvoir lancer
+
+des jeux avoir une maison des trucs
+
+comme ça basiquement faire de la VR mais
+
+vous pouvez voir que même avec la
+
+cariatique qu'il a mais oui ça n'est pas
+
+toujours facile de faire tourner toutes
+
+ces applications elles sont très
+
+gourmandes et donc ici ça va pas être
+
+idéal
+
+pas de problème et donc voilà
+
+on estime VR on a les applications on a
+
+su installer on a se lancer l'oculus
+
+link
+
+il nous reste à comprendre Unity et des
+
+trucs comme ça on va peut-être juste
+
+vérifier d'avoir une scène Unity ouverte
+
+et puis on va fermer la vidéo alors
+
+voilà donc à quoi ressemble Unity ça
+
+ressemble à ça donc vous pouvez voir
+
+qu'il y a des menus
+
+ça je le garde vous avez des menus vous
+
+avez des fenêtres qui s'ouvrent dans
+
+tous les sens et c'est le sujet d'une
+
+autre vidéo où je vous expliquerai les
+
+bases de Unity comment importer des
+
+assets et les mettre dedans
+
+et donc voilà on vous souhaite un bon
+
+moment à la prochaine vidéo
+

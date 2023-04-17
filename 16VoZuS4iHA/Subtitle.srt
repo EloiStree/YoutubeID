@@ -1,0 +1,8344 @@
+1
+00:00:00,960 --> 00:00:02,700
+salut à tous et bienvenue dans ce module
+
+2
+00:00:02,700 --> 00:00:04,980
+où ce que l'on va faire c'est apprendre
+
+3
+00:00:04,980 --> 00:00:06,240
+à installer les applications qui vous
+
+4
+00:00:06,240 --> 00:00:08,099
+faudra pour le akathon il vous faudra
+
+5
+00:00:08,099 --> 00:00:10,500
+bien évidemment utiliser Unity qui est
+
+6
+00:00:10,500 --> 00:00:13,080
+un outil pour créer du jeu vidéo il vous
+
+7
+00:00:13,080 --> 00:00:15,420
+faudra blender pour pouvoir éditer la 3D
+
+8
+00:00:15,420 --> 00:00:17,760
+quand vous avez besoin de réditer un
+
+9
+00:00:17,760 --> 00:00:18,720
+objet c'est pas nécessairement pour
+
+10
+00:00:18,720 --> 00:00:20,160
+étudier la 3D savoir comment le faire
+
+11
+00:00:20,160 --> 00:00:22,580
+mais pouvoir replacer des pivots pour
+
+12
+00:00:22,580 --> 00:00:25,199
+exporter apporter transformer un format
+
+13
+00:00:25,199 --> 00:00:27,720
+ça peut être important si vous faites de
+
+14
+00:00:27,720 --> 00:00:29,039
+la 2D il y a crita que vous pouvez
+
+15
+00:00:29,039 --> 00:00:31,080
+installer qui est gratuit donc tous deux
+
+16
+00:00:31,080 --> 00:00:33,000
+sont gratuits et vraiment utiliser dans
+
+17
+00:00:33,000 --> 00:00:35,160
+le milieu du jeu vidéo
+
+18
+00:00:35,160 --> 00:00:36,660
+si vous voulez faire de la réalité
+
+19
+00:00:36,660 --> 00:00:39,059
+virtuelle avec le PC vous pouvez
+
+20
+00:00:39,059 --> 00:00:41,160
+installer oculus setup sachant que il
+
+21
+00:00:41,160 --> 00:00:42,360
+vous faut le télécharger et installer
+
+22
+00:00:42,360 --> 00:00:43,680
+c'est pour ça que ça vaut la peine de le
+
+23
+00:00:43,680 --> 00:00:44,820
+faire dans cette première étape mais je
+
+24
+00:00:44,820 --> 00:00:45,840
+ne l'expliquerai pas dans cette première
+
+25
+00:00:45,840 --> 00:00:47,280
+étape
+
+26
+00:00:47,280 --> 00:00:49,559
+il vous faudra télécharger sidequest qui
+
+27
+00:00:49,559 --> 00:00:51,120
+permet en fait de communiquer avec
+
+28
+00:00:51,120 --> 00:00:53,039
+l'appareil en tant que développeur et de
+
+29
+00:00:53,039 --> 00:00:55,260
+travailler avec l'appareil et si vous
+
+30
+00:00:55,260 --> 00:00:56,760
+voulez éditer du son vous pouvez
+
+31
+00:00:56,760 --> 00:00:58,980
+télécharger audiacity
+
+32
+00:00:58,980 --> 00:01:00,780
+une dernière chose à télécharger ce sera
+
+33
+00:01:00,780 --> 00:01:03,420
+l'USB driver qui est en fait quelque
+
+34
+00:01:03,420 --> 00:01:05,580
+chose qui permet à votre ordinateur de
+
+35
+00:01:05,580 --> 00:01:06,840
+comprendre le Quest et de communiquer
+
+36
+00:01:06,840 --> 00:01:09,000
+avec lui donc nous allons faire ça dans
+
+37
+00:01:09,000 --> 00:01:10,700
+cette première étape première étape
+
+38
+00:01:10,700 --> 00:01:13,920
+installer et créer un compte je vais
+
+39
+00:01:13,920 --> 00:01:15,920
+passer à l'écran
+
+40
+00:01:15,920 --> 00:01:20,040
+de Mohamed qui est ici voilà et on va
+
+41
+00:01:20,040 --> 00:01:22,740
+suivre ce qu'il fait donc voilà donc
+
+42
+00:01:22,740 --> 00:01:26,880
+Mohamed tu peux télécharger unity
+
+43
+00:01:26,880 --> 00:01:29,040
+voilà ici
+
+44
+00:01:29,040 --> 00:01:30,960
+inutile lui demande quel est le tu peux
+
+45
+00:01:30,960 --> 00:01:33,540
+aller t'inquiète tu peux y aller et je
+
+46
+00:01:33,540 --> 00:01:35,759
+le commandes au dessus donc ici Unity
+
+47
+00:01:35,759 --> 00:01:38,460
+lui a demandé combien il gagnait par an
+
+48
+00:01:38,460 --> 00:01:40,140
+parce qu'en fait Unity est gratuit
+
+49
+00:01:40,140 --> 00:01:43,680
+jusqu'à 100000 dollars par an donc si
+
+50
+00:01:43,680 --> 00:01:44,700
+jamais vous gagnez plus il faut aller
+
+51
+00:01:44,700 --> 00:01:46,680
+voir les conditions de licence et là il
+
+52
+00:01:46,680 --> 00:01:48,659
+va falloir payer en attendant vous
+
+53
+00:01:48,659 --> 00:01:49,860
+pouvez utiliser une petite en vous
+
+54
+00:01:49,860 --> 00:01:52,020
+voulez ici ce qui fait c'est qui
+
+55
+00:01:52,020 --> 00:01:54,000
+télécharge unityub qui est une toute
+
+56
+00:01:54,000 --> 00:01:55,740
+petite application que vous ne voyez pas
+
+57
+00:01:55,740 --> 00:01:57,659
+parce que c'est derrière mon visage mais
+
+58
+00:01:57,659 --> 00:02:00,420
+une toute petite application qui va
+
+59
+00:02:00,420 --> 00:02:02,640
+pouvoir installer la version Unity dans
+
+60
+00:02:02,640 --> 00:02:03,780
+le temps il fallait tout installer
+
+61
+00:02:03,780 --> 00:02:06,000
+manuellement mais maintenant en fait on
+
+62
+00:02:06,000 --> 00:02:07,200
+peut simplement lui demander de tout
+
+63
+00:02:07,200 --> 00:02:09,479
+faire on accepte les conditions on va
+
+64
+00:02:09,479 --> 00:02:10,500
+suivant comme dans toutes les
+
+65
+00:02:10,500 --> 00:02:13,739
+applications qui suivent en suivant
+
+66
+00:02:13,739 --> 00:02:15,180
+à un moment donné il faudrait qu'il crée
+
+67
+00:02:15,180 --> 00:02:17,459
+un compte Unity pour pouvoir accéder à
+
+68
+00:02:17,459 --> 00:02:19,440
+la sextor pour pouvoir de temps en temps
+
+69
+00:02:19,440 --> 00:02:20,760
+faire deux trois trucs spécial dans
+
+70
+00:02:20,760 --> 00:02:22,620
+Unity donc il faudrait qu'il raconte
+
+71
+00:02:22,620 --> 00:02:24,780
+pendant que l'unitys s'installe ici vu
+
+72
+00:02:24,780 --> 00:02:25,920
+qu'une équipe prend du temps on va
+
+73
+00:02:25,920 --> 00:02:29,660
+d'abord lancer l'installation du unity
+
+74
+00:02:30,000 --> 00:02:32,780
+voilà voilà
+
+75
+00:02:33,180 --> 00:02:35,160
+en attendant que ça s'installe tu peux
+
+76
+00:02:35,160 --> 00:02:39,020
+déjà télécharger si tu veux blender
+
+77
+00:02:48,360 --> 00:02:52,400
+donc c'est celui-là tu peux y aller
+
+78
+00:02:52,739 --> 00:02:54,420
+sachant que Blender c'est un éditeur 3D
+
+79
+00:02:54,420 --> 00:02:55,620
+qui est extrêmement connu dans le milieu
+
+80
+00:02:55,620 --> 00:02:57,900
+il est gratuit il est fait par la
+
+81
+00:02:57,900 --> 00:03:00,300
+communauté et il est vraiment ça
+
+82
+00:03:00,300 --> 00:03:01,440
+ressemble à une navette spatiale quand
+
+83
+00:03:01,440 --> 00:03:03,360
+vous entrez mais une fois que vous
+
+84
+00:03:03,360 --> 00:03:04,800
+l'avez c'est vraiment très pratique
+
+85
+00:03:04,800 --> 00:03:07,440
+vraiment très utile donc installez-le ça
+
+86
+00:03:07,440 --> 00:03:08,340
+prend pas beaucoup de place sur votre PC
+
+87
+00:03:08,340 --> 00:03:10,379
+sera toujours disponible ça vous la
+
+88
+00:03:10,379 --> 00:03:12,440
+peine
+
+89
+00:03:14,959 --> 00:03:16,980
+faut savoir que ici encore une fois vous
+
+90
+00:03:16,980 --> 00:03:18,360
+êtes stallez pas inutile vous installez
+
+91
+00:03:18,360 --> 00:03:20,280
+Unity hub Unity up c'est une application
+
+92
+00:03:20,280 --> 00:03:21,540
+qui va permettre de gérer les
+
+93
+00:03:21,540 --> 00:03:23,580
+installations d'inities pour éviter que
+
+94
+00:03:23,580 --> 00:03:25,440
+vous ayez manuellement apprendre comment
+
+95
+00:03:25,440 --> 00:03:26,640
+on installe Java comment on installe
+
+96
+00:03:26,640 --> 00:03:27,900
+Android comment on installe visuel
+
+97
+00:03:27,900 --> 00:03:30,239
+studio comment installer Unity ici c'est
+
+98
+00:03:30,239 --> 00:03:32,220
+un truc qui va tout faire pour vous
+
+99
+00:03:32,220 --> 00:03:33,900
+ce qu'on me sorte launcher au final
+
+100
+00:03:33,900 --> 00:03:35,940
+c'est une sorte de launcher mais en plus
+
+101
+00:03:35,940 --> 00:03:37,319
+de ça qui va aller chercher les parties
+
+102
+00:03:37,319 --> 00:03:38,640
+techniques de Windows et installer
+
+103
+00:03:38,640 --> 00:03:40,440
+correctement si vous êtes sur Mac je ne
+
+104
+00:03:40,440 --> 00:03:41,819
+sais pas vous aider parce que j'ai
+
+105
+00:03:41,819 --> 00:03:43,440
+jamais utilisé une édition Mac mais
+
+106
+00:03:43,440 --> 00:03:45,000
+voilà les étapes sont les sens
+
+107
+00:03:45,000 --> 00:03:46,879
+similaires donc
+
+108
+00:03:46,879 --> 00:03:49,200
+là il va falloir demander à YouTube et à
+
+109
+00:03:49,200 --> 00:03:50,580
+Google comment on fait si vous êtes
+
+110
+00:03:50,580 --> 00:03:51,720
+bloqué mais les étapes sont les mêmes
+
+111
+00:03:51,720 --> 00:03:54,560
+donc essayez de faire les mêmes étapes
+
+112
+00:03:54,560 --> 00:03:58,080
+alors est-ce que c'est télécharger tu
+
+113
+00:03:58,080 --> 00:03:59,220
+peux déjà lancer l'installation de
+
+114
+00:03:59,220 --> 00:04:01,680
+Blender du coup
+
+115
+00:04:01,680 --> 00:04:03,480
+toi est-ce que tu vas faire de la photo
+
+116
+00:04:03,480 --> 00:04:04,680
+de dés et tu as des logiciels pour la
+
+117
+00:04:04,680 --> 00:04:08,420
+donner non non
+
+118
+00:04:14,900 --> 00:04:18,060
+ça c'est un outil qui est l'alternative
+
+119
+00:04:18,060 --> 00:04:20,279
+à Photoshop qui est meilleur que Gims
+
+120
+00:04:20,279 --> 00:04:22,800
+qui est proche de Photoshop mais pas
+
+121
+00:04:22,800 --> 00:04:24,180
+totalement chelou Photoshop ça reste de
+
+122
+00:04:24,180 --> 00:04:25,259
+l'Open Source il sera jamais aussi
+
+123
+00:04:25,259 --> 00:04:28,860
+puissant Photoshop mais voilà c'est une
+
+124
+00:04:28,860 --> 00:04:29,880
+très belle alternative que les
+
+125
+00:04:29,880 --> 00:04:31,620
+dessinateurs utilisaient énormément pour
+
+126
+00:04:31,620 --> 00:04:33,479
+dessiner nous on va l'utiliser pour
+
+127
+00:04:33,479 --> 00:04:35,040
+pouvoir recadrer l'image faire de la
+
+128
+00:04:35,040 --> 00:04:36,540
+découpe retirer à fond changer de
+
+129
+00:04:36,540 --> 00:04:37,820
+couleur des choses comme ça
+
+130
+00:04:37,820 --> 00:04:40,139
+donc pas besoin d'aller dans les gros
+
+131
+00:04:40,139 --> 00:04:42,300
+détails mais ça a logiciel gratuit très
+
+132
+00:04:42,300 --> 00:04:43,800
+très utile qui vaut la peine d'avoir sur
+
+133
+00:04:43,800 --> 00:04:45,680
+la machine donc oui tu peux continuer
+
+134
+00:04:45,680 --> 00:04:48,000
+qui s'est lancé tu peux continuer à
+
+135
+00:04:48,000 --> 00:04:51,120
+installer voilà
+
+136
+00:04:54,080 --> 00:04:56,340
+sauf si tu as des trucs où tu dis non
+
+137
+00:04:56,340 --> 00:04:59,160
+sur mon pc je veux pas et ça va
+
+138
+00:04:59,160 --> 00:05:01,259
+installer blender
+
+139
+00:05:01,259 --> 00:05:02,699
+en attendant inutile il est toujours en
+
+140
+00:05:02,699 --> 00:05:03,840
+train de s'installer est-ce qu'il
+
+141
+00:05:03,840 --> 00:05:04,860
+t'aurait pas demandé une autorisation
+
+142
+00:05:04,860 --> 00:05:07,639
+comme ça
+
+143
+00:05:07,940 --> 00:05:09,840
+non ça c'est juste qu'il est en train de
+
+144
+00:05:09,840 --> 00:05:12,120
+faire quelque chose je suppose peut-être
+
+145
+00:05:12,120 --> 00:05:13,800
+parce qu'il a l'air débloqué un endroit
+
+146
+00:05:13,800 --> 00:05:15,060
+où il devrait pas nécessairement être
+
+147
+00:05:15,060 --> 00:05:18,259
+bloqué bloqué je crois non
+
+148
+00:05:34,100 --> 00:05:37,940
+tu peux lancer l'initium
+
+149
+00:05:37,940 --> 00:05:41,100
+donc fermé ça va lancer une tilleul il
+
+150
+00:05:41,100 --> 00:05:42,720
+va vous demander l'autorisation pour
+
+151
+00:05:42,720 --> 00:05:45,199
+Blender ici
+
+152
+00:05:48,740 --> 00:05:52,259
+on peut lancer crita ici c'est routinier
+
+153
+00:05:52,259 --> 00:05:53,580
+basiquement tout ce que vous avez à
+
+154
+00:05:53,580 --> 00:05:54,780
+faire c'est d'aller sur le site web
+
+155
+00:05:54,780 --> 00:05:56,340
+prendre toutes les applications que je
+
+156
+00:05:56,340 --> 00:05:57,240
+vous propose qui sont toutes des
+
+157
+00:05:57,240 --> 00:05:59,160
+applications Open Source à part oculus
+
+158
+00:05:59,160 --> 00:06:01,680
+setup et Unity et vous les installez
+
+159
+00:06:01,680 --> 00:06:03,440
+toutes quoi
+
+160
+00:06:03,440 --> 00:06:05,639
+alors il vous demande de créer un compte
+
+161
+00:06:05,639 --> 00:06:07,020
+ici il va créer un compte sauf que je
+
+162
+00:06:07,020 --> 00:06:08,880
+vais devoir switcher donc ici vous devez
+
+163
+00:06:08,880 --> 00:06:10,560
+rentrer votre adresse email le password
+
+164
+00:06:10,560 --> 00:06:12,300
+of fallen et des trucs je vais switcher
+
+165
+00:06:12,300 --> 00:06:14,280
+pour pas qu'on voit évidemment cette
+
+166
+00:06:14,280 --> 00:06:18,020
+partie là vas-y tu peux
+
+167
+00:06:19,440 --> 00:06:21,500
+donc vous rentrez au adresse email votre
+
+168
+00:06:21,500 --> 00:06:25,020
+mot de passe nom prénom sachant que ça
+
+169
+00:06:25,020 --> 00:06:26,580
+va permettre d'accéder à la cstore par
+
+170
+00:06:26,580 --> 00:06:28,139
+exemple quand vous allez télécharger un
+
+171
+00:06:28,139 --> 00:06:29,780
+asset sur internet
+
+172
+00:06:29,780 --> 00:06:31,919
+il va retenir que vous l'avez téléchargé
+
+173
+00:06:31,919 --> 00:06:33,180
+donc si vous revenez dans deux ans et
+
+174
+00:06:33,180 --> 00:06:34,620
+que vous souvenez plus de la 7 bah il
+
+175
+00:06:34,620 --> 00:06:36,300
+sera sous votre compte c'est aussi ce
+
+176
+00:06:36,300 --> 00:06:37,740
+qui va gérer les licences donc c'est à
+
+177
+00:06:37,740 --> 00:06:40,020
+dire que quand vous téléchargez quelque
+
+178
+00:06:40,020 --> 00:06:42,300
+chose de inutile même si c'est gratuit
+
+179
+00:06:42,300 --> 00:06:44,819
+c'est quand même une licence gratuite et
+
+180
+00:06:44,819 --> 00:06:46,380
+donc du coup vous avez cette licence qui
+
+181
+00:06:46,380 --> 00:06:47,460
+est liée à votre compte ce qui veut dire
+
+182
+00:06:47,460 --> 00:06:48,840
+que si le gars le me rend payant plus
+
+183
+00:06:48,840 --> 00:06:50,720
+tard vous l'avez toujours gratuit et
+
+184
+00:06:50,720 --> 00:06:55,340
+c'est le principe de la licence ici
+
+185
+00:06:55,919 --> 00:06:57,120
+alors je peux me tromper sur ces
+
+186
+00:06:57,120 --> 00:06:58,440
+derniers trucs ou peut-être qu'il va
+
+187
+00:06:58,440 --> 00:07:00,000
+passer au payant si il passe en payant
+
+188
+00:07:00,000 --> 00:07:02,580
+mais dans mes souvenirs c'est possible
+
+189
+00:07:02,580 --> 00:07:05,419
+que vous le garder gratuit
+
+190
+00:07:05,819 --> 00:07:07,500
+alors est-ce que tu as rentré les
+
+191
+00:07:07,500 --> 00:07:09,560
+données
+
+192
+00:07:09,560 --> 00:07:12,300
+alors évidemment il doit les confirmer
+
+193
+00:07:12,300 --> 00:07:15,300
+par email donc il va il va aller juste
+
+194
+00:07:15,300 --> 00:07:18,960
+confirmer par email aussi
+
+195
+00:07:25,699 --> 00:07:27,539
+je reviens dessus ouais c'est pas grave
+
+196
+00:07:27,539 --> 00:07:28,620
+reviens dessus juste pour qu'on puisse
+
+197
+00:07:28,620 --> 00:07:32,120
+voir donc il y a parce que tu es
+
+198
+00:07:32,120 --> 00:07:35,639
+ici tu m'as fait descendre en bas je te
+
+199
+00:07:35,639 --> 00:07:38,000
+fais descendre
+
+200
+00:07:38,099 --> 00:07:41,300
+donc voilà à quoi ressemble
+
+201
+00:07:43,639 --> 00:07:46,259
+une confirmation d'e-mails donc faut
+
+202
+00:07:46,259 --> 00:07:48,599
+juste cliquer sur le lien ici et c'est
+
+203
+00:07:48,599 --> 00:07:53,160
+bon alors hop voilà tu peux passer à la
+
+204
+00:07:53,160 --> 00:07:54,360
+suite ce sont ici normalement il y a pas
+
+205
+00:07:54,360 --> 00:07:57,060
+de mot de passe non le mot de passe il
+
+206
+00:07:57,060 --> 00:07:58,259
+pouvait pas le voir c'était en papier
+
+207
+00:07:58,259 --> 00:08:00,419
+donc ici encore une fois il faut rentrer
+
+208
+00:08:00,419 --> 00:08:01,979
+son adresse et son mot de passe si vous
+
+209
+00:08:01,979 --> 00:08:03,960
+voulez accéder au site web
+
+210
+00:08:03,960 --> 00:08:07,160
+je cache la fenêtre en attendant
+
+211
+00:08:07,360 --> 00:08:10,549
+[Musique]
+
+212
+00:08:11,880 --> 00:08:14,400
+on a là sachant qu'il va devoir répéter
+
+213
+00:08:14,400 --> 00:08:16,380
+ça dans l'application il y a fait une
+
+214
+00:08:16,380 --> 00:08:17,400
+fois sur le site web Une fois sur
+
+215
+00:08:17,400 --> 00:08:19,740
+l'application et là vous aurez les deux
+
+216
+00:08:19,740 --> 00:08:21,780
+connectés voilà alors je vais pas vous
+
+217
+00:08:21,780 --> 00:08:22,860
+montrer la fenêtre parce qu'il y a des
+
+218
+00:08:22,860 --> 00:08:24,180
+informations importantes mais
+
+219
+00:08:24,180 --> 00:08:25,139
+basiquement maintenant il est connecté
+
+220
+00:08:25,139 --> 00:08:26,699
+au compte et on voit tout de toutes ces
+
+221
+00:08:26,699 --> 00:08:29,039
+infos et tout donc là tu peux fermer la
+
+222
+00:08:29,039 --> 00:08:32,180
+fenêtre parce que on y reviendra pas
+
+223
+00:08:32,458 --> 00:08:36,019
+en français ok ça
+
+224
+00:08:36,299 --> 00:08:37,979
+quand je lance l'application elle sera
+
+225
+00:08:37,979 --> 00:08:40,159
+en français
+
+226
+00:08:44,420 --> 00:08:47,820
+je reviens sur ton écran
+
+227
+00:08:47,820 --> 00:08:53,060
+voilà donc j'ai crita qui me propose de
+
+228
+00:08:53,060 --> 00:08:55,200
+anglais on va pas aller chercher du
+
+229
+00:08:55,200 --> 00:08:56,820
+chinois
+
+230
+00:08:56,820 --> 00:09:01,580
+le Next ou du japonais j'accepte
+
+231
+00:09:06,200 --> 00:09:08,940
+sur ton ordinateur te dit non je veux
+
+232
+00:09:08,940 --> 00:09:11,160
+pas ça mais c'est des applications punch
+
+233
+00:09:11,160 --> 00:09:12,120
+ça ils essaient pas de nous installer
+
+234
+00:09:12,120 --> 00:09:14,940
+des pubs ou des trucs quoi et là ici il
+
+235
+00:09:14,940 --> 00:09:16,560
+faut juste que je me connecte voir se
+
+236
+00:09:16,560 --> 00:09:17,940
+connecter alors je crois que c'est une
+
+237
+00:09:17,940 --> 00:09:19,380
+connexion par site web donc voilà il a
+
+238
+00:09:19,380 --> 00:09:21,779
+juste besoin d'autoriser le navigateur
+
+239
+00:09:21,779 --> 00:09:24,660
+de discuter avec l'application et voilà
+
+240
+00:09:24,660 --> 00:09:26,459
+il faut que vous connaissiez vous
+
+241
+00:09:26,459 --> 00:09:30,060
+connecter sur le site web valider
+
+242
+00:09:30,120 --> 00:09:32,339
+voilà alors ici elle va te proposer
+
+243
+00:09:32,339 --> 00:09:35,459
+d'installer une version d'inity alors ce
+
+244
+00:09:35,459 --> 00:09:38,339
+qui se passe c'est que si je reviens à
+
+245
+00:09:38,339 --> 00:09:40,980
+mon cours nous on va utiliser cette
+
+246
+00:09:40,980 --> 00:09:42,420
+version là sauf qu'en fait ce qui se
+
+247
+00:09:42,420 --> 00:09:44,459
+passe c'est que vous pouvez voir il y a
+
+248
+00:09:44,459 --> 00:09:46,380
+2021 ça veut dire l'année de production
+
+249
+00:09:46,380 --> 00:09:49,200
+une année en retard 3 c'est à dire que
+
+250
+00:09:49,200 --> 00:09:51,360
+c'est une troisième version majeure du
+
+251
+00:09:51,360 --> 00:09:55,740
+du logiciel qui a été changé ici 19 F1
+
+252
+00:09:55,740 --> 00:09:57,120
+c'est juste une version qui dit on est à
+
+253
+00:09:57,120 --> 00:10:00,000
+la 19e mini version qui est William un
+
+254
+00:10:00,000 --> 00:10:01,260
+peu de coach qui a changé mais pas de
+
+255
+00:10:01,260 --> 00:10:03,240
+dramatiquement sachant que ici on peut
+
+256
+00:10:03,240 --> 00:10:04,800
+voir que lui ce qui lui propose c'est 21
+
+257
+00:10:04,800 --> 00:10:08,339
+F1 alors le problème c'est que ça va
+
+258
+00:10:08,339 --> 00:10:09,420
+être compliqué de vous faire installer
+
+259
+00:10:09,420 --> 00:10:11,700
+des vieilles versions et en même temps
+
+260
+00:10:11,700 --> 00:10:13,320
+c'est pas la même que celle que j'ai
+
+261
+00:10:13,320 --> 00:10:14,519
+proposé sur le site donc je vais voir
+
+262
+00:10:14,519 --> 00:10:16,220
+soit changer le site soit de changer ici
+
+263
+00:10:16,220 --> 00:10:18,540
+sur son truc donc tu vas pouvoir faire
+
+264
+00:10:18,540 --> 00:10:22,399
+annuler skipper ou donne
+
+265
+00:10:22,459 --> 00:10:25,620
+j'accepte c'est là il c'est juste que tu
+
+266
+00:10:25,620 --> 00:10:27,180
+dis que tu acceptes d'utiliser Unity et
+
+267
+00:10:27,180 --> 00:10:30,420
+que etc etc alors tu vas aller dans
+
+268
+00:10:30,420 --> 00:10:33,180
+installation attends merde c'est là 2
+
+269
+00:10:33,180 --> 00:10:34,920
+secondes parce que du coup j'ai plus le
+
+270
+00:10:34,920 --> 00:10:37,740
+voilà on a juste dit accepter Unity on
+
+271
+00:10:37,740 --> 00:10:39,300
+est passé à la suite ok on n'a pas
+
+272
+00:10:39,300 --> 00:10:41,459
+installé on a rien installé ici tu vas
+
+273
+00:10:41,459 --> 00:10:44,040
+aller dans installer l'éditeur qui était
+
+274
+00:10:44,040 --> 00:10:45,420
+en dessous de ma petite tête donc je
+
+275
+00:10:45,420 --> 00:10:46,860
+vais voir si je peux pas bouger ma tête
+
+276
+00:10:46,860 --> 00:10:49,700
+un peu plus bas pour le moment
+
+277
+00:10:57,860 --> 00:11:00,420
+vous allez voir que ici il est mis
+
+278
+00:11:00,420 --> 00:11:02,279
+plusieurs versions d'installation alors
+
+279
+00:11:02,279 --> 00:11:04,019
+que vous pouvez voir on est dans la
+
+280
+00:11:04,019 --> 00:11:05,700
+situation où effectivement c'est pas la
+
+281
+00:11:05,700 --> 00:11:07,200
+même version
+
+282
+00:11:07,200 --> 00:11:09,360
+on va installer celle-ci et je vais
+
+283
+00:11:09,360 --> 00:11:12,540
+changer sur wiki le Lady de du projet
+
+284
+00:11:12,540 --> 00:11:14,040
+qu'on va utiliser pourquoi c'est une
+
+285
+00:11:14,040 --> 00:11:15,720
+mauvaise idée généralement c'est parce
+
+286
+00:11:15,720 --> 00:11:17,399
+que il y a quand il y a des sauts de
+
+287
+00:11:17,399 --> 00:11:18,540
+fichiers qui sont sauvegardés de temps
+
+288
+00:11:18,540 --> 00:11:20,880
+en temps il y a la version Unity qui
+
+289
+00:11:20,880 --> 00:11:23,040
+sera installée dans ce fichier ce qui
+
+290
+00:11:23,040 --> 00:11:24,060
+veut dire que si vous travaillez à
+
+291
+00:11:24,060 --> 00:11:25,980
+plusieurs avec GITS et que vous
+
+292
+00:11:25,980 --> 00:11:27,660
+travaillez avec des fichiers qui vont
+
+293
+00:11:27,660 --> 00:11:30,360
+être dans une version d'un côté et dans
+
+294
+00:11:30,360 --> 00:11:31,440
+une version de l'autre vous aurez des
+
+295
+00:11:31,440 --> 00:11:33,060
+conflits donc ça peut créer des bugs
+
+296
+00:11:33,060 --> 00:11:35,760
+d'ailleurs ça peut créer les bugs donc
+
+297
+00:11:35,760 --> 00:11:37,500
+normalement on évite on essaye de tout
+
+298
+00:11:37,500 --> 00:11:39,060
+savoir la même version quand vous
+
+299
+00:11:39,060 --> 00:11:40,320
+commencez à projet vous essayez de me
+
+300
+00:11:40,320 --> 00:11:42,120
+voir la même version ici on commence à
+
+301
+00:11:42,120 --> 00:11:43,980
+la Caton donc on va faire la même
+
+302
+00:11:43,980 --> 00:11:46,019
+version on va les mettre celle-là juste
+
+303
+00:11:46,019 --> 00:11:47,100
+aller sur le changer sur le site web
+
+304
+00:11:47,100 --> 00:11:48,800
+pour que tu installes
+
+305
+00:11:48,800 --> 00:11:51,480
+ouais tu vas prendre le 21 F1 et je
+
+306
+00:11:51,480 --> 00:11:53,160
+mettrai ça sur le site alors ici vous
+
+307
+00:11:53,160 --> 00:11:53,880
+demande qu'est-ce que vous voulez qu'on
+
+308
+00:11:53,880 --> 00:11:56,060
+installe pour vous donc on a besoin de
+
+309
+00:11:56,060 --> 00:11:57,959
+Microsoft Visual Studio qui va être
+
+310
+00:11:57,959 --> 00:11:59,820
+permettre d'éditer en s'échappe
+
+311
+00:11:59,820 --> 00:12:02,940
+on va avoir besoin de open JDK qui est
+
+312
+00:12:02,940 --> 00:12:03,779
+basiquement un truc qui permet
+
+313
+00:12:03,779 --> 00:12:05,700
+d'installer Java de version en version
+
+314
+00:12:05,700 --> 00:12:07,560
+Open Java parce qu'on va faire de
+
+315
+00:12:07,560 --> 00:12:09,000
+l'Android et qu'endroid fonctionne en
+
+316
+00:12:09,000 --> 00:12:09,839
+Java donc les de vos téléphones
+
+317
+00:12:09,839 --> 00:12:11,339
+fonctionnant Java donc je peux prendre
+
+318
+00:12:11,339 --> 00:12:13,260
+celle-là peut prendre les deux comme
+
+319
+00:12:13,260 --> 00:12:14,940
+vous pouvez voir il va vous proposer les
+
+320
+00:12:14,940 --> 00:12:16,740
+deux si vous voulez une autre plateforme
+
+321
+00:12:16,740 --> 00:12:18,420
+que ça vous pouvez la sélectionner que
+
+322
+00:12:18,420 --> 00:12:19,620
+soit Linux max ou des trucs comme ça
+
+323
+00:12:19,620 --> 00:12:20,760
+mais je ne vous expliquerai pas pendant
+
+324
+00:12:20,760 --> 00:12:22,200
+ce qu'on ce workshop comment les
+
+325
+00:12:22,200 --> 00:12:25,220
+utiliser ici c'est Android Windows VR
+
+326
+00:12:25,220 --> 00:12:27,300
+WebGL ça peut être intéressant de
+
+327
+00:12:27,300 --> 00:12:29,760
+l'installer si vous avez l'occasion ça
+
+328
+00:12:29,760 --> 00:12:31,680
+reste j'ai gagné à télécharger mais ça
+
+329
+00:12:31,680 --> 00:12:33,480
+permet d'exporter au objet on le fera
+
+330
+00:12:33,480 --> 00:12:34,920
+pas pendant ce truc mais si vous voulez
+
+331
+00:12:34,920 --> 00:12:36,380
+l'explorer vous pouvez
+
+332
+00:12:36,380 --> 00:12:39,660
+Windows support l tous CPP celui-là tu
+
+333
+00:12:39,660 --> 00:12:42,139
+dois l'installer
+
+334
+00:12:42,139 --> 00:12:44,600
+en fait c'est quoi c'est
+
+335
+00:12:44,600 --> 00:12:47,279
+Unity utilise du s'échappe précédemment
+
+336
+00:12:47,279 --> 00:12:49,019
+pour pouvoir convertir dans un certain
+
+337
+00:12:49,019 --> 00:12:52,440
+langage et ici utiliser il tous CPP va
+
+338
+00:12:52,440 --> 00:12:54,420
+permettre de pas à chaque fois rebuler
+
+339
+00:12:54,420 --> 00:12:56,420
+en s'échappe il va essayer de faire
+
+340
+00:12:56,420 --> 00:12:58,500
+langage intermédiaire qui va permettre
+
+341
+00:12:58,500 --> 00:13:01,440
+de aller chercher du plus et aussi de
+
+342
+00:13:01,440 --> 00:13:02,639
+Builder beaucoup plus rapidement donc
+
+343
+00:13:02,639 --> 00:13:04,740
+pas de Rebuilder tout à chaque fois bon
+
+344
+00:13:04,740 --> 00:13:07,260
+c'est en gros résumé c'est abrévi mais
+
+345
+00:13:07,260 --> 00:13:09,120
+c'est ça l'idée alors est-ce qu'il y a
+
+346
+00:13:09,120 --> 00:13:10,380
+autre chose qu'on doit installer a
+
+347
+00:13:10,380 --> 00:13:12,019
+priori
+
+348
+00:13:12,019 --> 00:13:14,100
+si vous utilisez ma couille évidemment
+
+349
+00:13:14,100 --> 00:13:16,139
+vous devez si vous voulez Builder une
+
+350
+00:13:16,139 --> 00:13:18,300
+application pour tester parce que pas
+
+351
+00:13:18,300 --> 00:13:19,920
+nécessairement obligatoire parce que ici
+
+352
+00:13:19,920 --> 00:13:21,300
+on va pas faire une application pour Mac
+
+353
+00:13:21,300 --> 00:13:23,160
+on va faire pour Android mais si vous
+
+354
+00:13:23,160 --> 00:13:24,540
+voulez Builder pour votre Mac oui il
+
+355
+00:13:24,540 --> 00:13:27,060
+faudrait installer ça si dans ton cas si
+
+356
+00:13:27,060 --> 00:13:28,019
+tu ne le fais pas je prends
+
+357
+00:13:28,019 --> 00:13:29,339
+documentation alors vous pouvez
+
+358
+00:13:29,339 --> 00:13:30,899
+installer la doc mais de toute façon
+
+359
+00:13:30,899 --> 00:13:33,180
+elle est en ligne et c'est très rare
+
+360
+00:13:33,180 --> 00:13:34,500
+quand je vais la chercher vraiment hors
+
+361
+00:13:34,500 --> 00:13:36,060
+ligne donc moi personnellement je reste
+
+362
+00:13:36,060 --> 00:13:37,260
+à pas mais si vous pouvez si vous voulez
+
+363
+00:13:37,260 --> 00:13:39,720
+vous pouvez juste continuer alors est-ce
+
+364
+00:13:39,720 --> 00:13:40,680
+qu'il y avait rien d'autre remonte un
+
+365
+00:13:40,680 --> 00:13:42,380
+peu juste pour être sûr
+
+366
+00:13:42,380 --> 00:13:46,380
+ouais c'est bon tu peux dire d'installer
+
+367
+00:13:46,380 --> 00:13:50,120
+voilà est-ce que vous acceptez oui
+
+368
+00:13:51,000 --> 00:13:54,860
+j'accepte installer
+
+369
+00:13:54,860 --> 00:13:56,940
+ici basiquement ça va lancer
+
+370
+00:13:56,940 --> 00:13:58,320
+l'installation tu peux ouvrir la fenêtre
+
+371
+00:13:58,320 --> 00:14:02,040
+ici là voilà en fait vous pouvez voir
+
+372
+00:14:02,040 --> 00:14:04,019
+qu'il y a énormément installé et à
+
+373
+00:14:04,019 --> 00:14:06,240
+télécharger donc cette manœuvre va
+
+374
+00:14:06,240 --> 00:14:07,740
+prendre vraiment beaucoup de temps donc
+
+375
+00:14:07,740 --> 00:14:09,899
+c'est pendant que ça fait ça installer
+
+376
+00:14:09,899 --> 00:14:12,240
+les autres applications donc ici on
+
+377
+00:14:12,240 --> 00:14:13,740
+avait installé blender donc on va les
+
+378
+00:14:13,740 --> 00:14:17,839
+regarder on va les passer à ça
+
+379
+00:14:18,079 --> 00:14:19,880
+est-ce que
+
+380
+00:14:19,880 --> 00:14:23,660
+alors je sais pas pourquoi
+
+381
+00:14:24,000 --> 00:14:27,019
+ça par contre c'est bizarre
+
+382
+00:14:34,279 --> 00:14:36,360
+blender tu peux je crois qu'il est
+
+383
+00:14:36,360 --> 00:14:37,620
+installé parce qu'on le voit donc si tu
+
+384
+00:14:37,620 --> 00:14:41,300
+le lance et que ça tourne c'est cool
+
+385
+00:14:41,519 --> 00:14:43,320
+alors un autre logiciel qui prend de la
+
+386
+00:14:43,320 --> 00:14:45,000
+place et qu'il faut télécharger c'est
+
+387
+00:14:45,000 --> 00:14:46,440
+oculus setup
+
+388
+00:14:46,440 --> 00:14:47,940
+oculus c'est top ça permet en fait de
+
+389
+00:14:47,940 --> 00:14:51,899
+faire de la VR sur le PC et c'est ton pc
+
+390
+00:14:51,899 --> 00:14:54,600
+il a quoi comme carte graphique GTX 1050
+
+391
+00:14:54,600 --> 00:14:56,880
+donc ça passera en gros si vous êtes à
+
+392
+00:14:56,880 --> 00:14:59,279
+980 ça devient opolimite mais si vous
+
+393
+00:14:59,279 --> 00:15:01,500
+êtes dans les dernières ou que vous avez
+
+394
+00:15:01,500 --> 00:15:04,199
+un peu de bol ça peut passer
+
+395
+00:15:04,199 --> 00:15:06,800
+oculus c'est top
+
+396
+00:15:07,860 --> 00:15:09,240
+sachant que le lien de toute façon sur
+
+397
+00:15:09,240 --> 00:15:13,139
+le wiki donc installation
+
+398
+00:15:13,139 --> 00:15:16,320
+voilà tu acceptes ici tu vas pouvoir
+
+399
+00:15:16,320 --> 00:15:19,260
+faire je télécharge oui la version du
+
+400
+00:15:19,260 --> 00:15:21,120
+Rift
+
+401
+00:15:21,120 --> 00:15:24,060
+on va l'enregistrer
+
+402
+00:15:24,060 --> 00:15:25,740
+donc ça c'est pour ceux qui savent que
+
+403
+00:15:25,740 --> 00:15:27,899
+leur PC peut faire tourner la VR si vous
+
+404
+00:15:27,899 --> 00:15:29,399
+savez que votre PC sert pas ne peut pas
+
+405
+00:15:29,399 --> 00:15:31,139
+faire tous les navets ça vaut pas
+
+406
+00:15:31,139 --> 00:15:32,399
+nécessairement la peine d'installer
+
+407
+00:15:32,399 --> 00:15:34,920
+oculus et tout alors blender voilà à
+
+408
+00:15:34,920 --> 00:15:36,480
+quoi ça ressemble une petite navette
+
+409
+00:15:36,480 --> 00:15:37,800
+spatiale avec plein de boutons dans tous
+
+410
+00:15:37,800 --> 00:15:38,820
+les sens mais quand vous l'utilisez
+
+411
+00:15:38,820 --> 00:15:40,980
+c'est extrêmement puissant le sujet ici
+
+412
+00:15:40,980 --> 00:15:42,420
+de cette micro vidéo n'est pas de
+
+413
+00:15:42,420 --> 00:15:43,680
+montrer blender donc on va le fermer
+
+414
+00:15:43,680 --> 00:15:46,079
+mais voilà quoi ressemble donc tu peux
+
+415
+00:15:46,079 --> 00:15:48,740
+fermer blender
+
+416
+00:15:54,860 --> 00:15:58,380
+en fonction de votre besoin
+
+417
+00:15:58,380 --> 00:16:00,360
+alors du coup tu vas pouvoir faire mes
+
+418
+00:16:00,360 --> 00:16:04,320
+blender ok voilà
+
+419
+00:16:04,320 --> 00:16:06,060
+oculus nous donc tu veux va pouvoir
+
+420
+00:16:06,060 --> 00:16:08,600
+faire démarrer
+
+421
+00:16:08,699 --> 00:16:10,699
+accepter
+
+422
+00:16:10,699 --> 00:16:14,880
+installer ici tu vas pouvoir installer
+
+423
+00:16:14,880 --> 00:16:16,820
+et là il va installer 15 g de trucs
+
+424
+00:16:16,820 --> 00:16:20,220
+alors on a une petite ambulance qui
+
+425
+00:16:20,220 --> 00:16:21,240
+passe à mon avis vous devez l'entendre
+
+426
+00:16:21,240 --> 00:16:22,560
+donc on va attendre que l'ambulance
+
+427
+00:16:22,560 --> 00:16:23,540
+passe
+
+428
+00:16:23,540 --> 00:16:26,880
+ok alors il faut savoir que pour le A4
+
+429
+00:16:26,880 --> 00:16:29,220
+ans tous les casques sont déjà mis en
+
+430
+00:16:29,220 --> 00:16:31,139
+mode développeur et déjà connecté à
+
+431
+00:16:31,139 --> 00:16:34,740
+molengeek qui est donc du coup vous ne
+
+432
+00:16:34,740 --> 00:16:37,079
+pouvez pas vraiment utiliser sur le truc
+
+433
+00:16:37,079 --> 00:16:38,399
+sur PC parce que vous allez devoir vous
+
+434
+00:16:38,399 --> 00:16:40,560
+connecter à votre propre compte
+
+435
+00:16:40,560 --> 00:16:42,839
+si vous voulez vraiment faire de l'UVR
+
+436
+00:16:42,839 --> 00:16:44,699
+sur votre PC vous savez que votre PC
+
+437
+00:16:44,699 --> 00:16:47,880
+c'est le faire tourner installez-le et
+
+438
+00:16:47,880 --> 00:16:49,560
+venez me trouver et je vous connecterai
+
+439
+00:16:49,560 --> 00:16:50,759
+sur le compte de mon geek pour pouvoir
+
+440
+00:16:50,759 --> 00:16:53,399
+utiliser la VR sur votre PC maintenant
+
+441
+00:16:53,399 --> 00:16:54,420
+je le ferai pas pour le tous les
+
+442
+00:16:54,420 --> 00:16:56,459
+participants donc je vais essayer de
+
+443
+00:16:56,459 --> 00:17:00,120
+voir si on peut installer sur sur qui on
+
+444
+00:17:00,120 --> 00:17:01,199
+peut l'installer chez qui ça vaut la
+
+445
+00:17:01,199 --> 00:17:03,300
+peine de l'installer mais si vous pensez
+
+446
+00:17:03,300 --> 00:17:05,520
+avoir un bon PC et que ça peut tourner
+
+447
+00:17:05,520 --> 00:17:07,799
+vous pouvez l'installer alors dans les
+
+448
+00:17:07,799 --> 00:17:09,299
+autres applications installées donc on
+
+449
+00:17:09,299 --> 00:17:10,679
+avait blender que vous avez pu voir qui
+
+450
+00:17:10,679 --> 00:17:12,299
+est en 3D il y a crita que tu as lancé
+
+451
+00:17:12,299 --> 00:17:14,099
+tu peux lancer pour qu'il voit à quoi ça
+
+452
+00:17:14,099 --> 00:17:15,959
+ressemble
+
+453
+00:17:15,959 --> 00:17:17,299
+et après on va aller télécharger
+
+454
+00:17:17,299 --> 00:17:19,760
+Audacity et
+
+455
+00:17:19,760 --> 00:17:21,480
+un petit peu déjà les télécharger
+
+456
+00:17:21,480 --> 00:17:24,540
+Audacity donc Audacity c'est quoi c'est
+
+457
+00:17:24,540 --> 00:17:27,059
+un logiciel encore une fois open source
+
+458
+00:17:27,059 --> 00:17:28,319
+c'est pour ça que je vous propose ces
+
+459
+00:17:28,319 --> 00:17:30,419
+logiciel là qui permet de faire de
+
+460
+00:17:30,419 --> 00:17:34,080
+l'édition audio de de par exemple de
+
+461
+00:17:34,080 --> 00:17:35,700
+augmenter le gain de diminuer le gain de
+
+462
+00:17:35,700 --> 00:17:37,140
+faire des coupes d'aplatir une courbe
+
+463
+00:17:37,140 --> 00:17:39,660
+c'est très con très simple et ça permet
+
+464
+00:17:39,660 --> 00:17:41,580
+de pouvoir éditer de l'audio alors vous
+
+465
+00:17:41,580 --> 00:17:42,539
+allez me dire oui dans le jeu vidéo on
+
+466
+00:17:42,539 --> 00:17:43,980
+fait vraiment l'audio alors oui mais
+
+467
+00:17:43,980 --> 00:17:45,600
+vous avez pas en faire vous de l'audio
+
+468
+00:17:45,600 --> 00:17:46,620
+parce que c'est un métier très compliqué
+
+469
+00:17:46,620 --> 00:17:48,600
+mais dans le jeu vidéo vous allez avoir
+
+470
+00:17:48,600 --> 00:17:51,360
+des situations où votre musique elle
+
+471
+00:17:51,360 --> 00:17:53,100
+commence avec trois secondes de blanc et
+
+472
+00:17:53,100 --> 00:17:54,299
+dans le jeu vidéo vous avez pas envie
+
+473
+00:17:54,299 --> 00:17:55,559
+d'attendre 3 secondes que la musique
+
+474
+00:17:55,559 --> 00:17:57,240
+commence et donc vous allez dans
+
+475
+00:17:57,240 --> 00:17:59,280
+Audacity vous allez pouvoir couper le ce
+
+476
+00:17:59,280 --> 00:18:01,140
+petit bout ou redimuler les sons pour
+
+477
+00:18:01,140 --> 00:18:03,000
+que les voix dans votre jeu et la même
+
+478
+00:18:03,000 --> 00:18:05,400
+intensité et que ça fasse pas bonjour je
+
+479
+00:18:05,400 --> 00:18:07,620
+m'appelle tatata et je suis une petite
+
+480
+00:18:07,620 --> 00:18:09,539
+fée et qu'on va rien entendre parce
+
+481
+00:18:09,539 --> 00:18:10,559
+qu'ils ont tous des voix différentes
+
+482
+00:18:10,559 --> 00:18:12,600
+c'est à ça que ça sert donc je prends
+
+483
+00:18:12,600 --> 00:18:15,240
+l'installeur donc du coup ici tu vas
+
+484
+00:18:15,240 --> 00:18:15,960
+pouvoir
+
+485
+00:18:15,960 --> 00:18:18,360
+ouais tu l'as déjà en train déjà en
+
+486
+00:18:18,360 --> 00:18:19,860
+train de le télécharger ici j'ai pris
+
+487
+00:18:19,860 --> 00:18:21,679
+celui qui a
+
+488
+00:18:21,679 --> 00:18:25,140
+642 ici tu as mis 64 donc c'est bon
+
+489
+00:18:25,140 --> 00:18:28,160
+c'est que ton PC supporte 64 je suppose
+
+490
+00:18:28,160 --> 00:18:30,059
+tu peux aller sur le site web pour
+
+491
+00:18:30,059 --> 00:18:31,919
+regarder un peu ce qui ce qui reste à
+
+492
+00:18:31,919 --> 00:18:32,539
+installer
+
+493
+00:18:32,539 --> 00:18:35,840
+sur le guide
+
+494
+00:18:41,900 --> 00:18:44,280
+j'en sais rien
+
+495
+00:18:44,280 --> 00:18:46,940
+au revoir
+
+496
+00:18:47,039 --> 00:18:49,440
+il y a pas d'espace dans le lien mais tu
+
+497
+00:18:49,440 --> 00:18:52,520
+dois faire pour rechercher
+
+498
+00:18:57,740 --> 00:19:01,860
+sur mon pseudo
+
+499
+00:19:01,860 --> 00:19:04,220
+voilà
+
+500
+00:19:04,320 --> 00:19:06,380
+qui n'est pas vraiment pseudo
+
+501
+00:19:06,380 --> 00:19:09,840
+et répertoire répertoire en fait c'est
+
+502
+00:19:09,840 --> 00:19:12,840
+des projets sur le site web et dans les
+
+503
+00:19:12,840 --> 00:19:15,919
+projets on va les chercher
+
+504
+00:19:15,980 --> 00:19:19,679
+nos codes gmxr
+
+505
+00:19:19,679 --> 00:19:22,140
+voilà donc ici vous pouvez voir qu'on a
+
+506
+00:19:22,140 --> 00:19:25,440
+installé blender on a lancé une ici on a
+
+507
+00:19:25,440 --> 00:19:27,500
+installé
+
+508
+00:19:27,620 --> 00:19:29,880
+sidequest alors est-ce qu'il y a autre
+
+509
+00:19:29,880 --> 00:19:31,500
+chose il y a sidequest audacity est en
+
+510
+00:19:31,500 --> 00:19:32,940
+train de le faire et il y a le USB
+
+511
+00:19:32,940 --> 00:19:34,860
+driver on va peut-être installer l'USB
+
+512
+00:19:34,860 --> 00:19:37,200
+driver et puis sidequest donc tu peux
+
+513
+00:19:37,200 --> 00:19:40,620
+cliquer sur Quest à des driver c'est le
+
+514
+00:19:40,620 --> 00:19:43,620
+deuxième le premier Google USB driver
+
+515
+00:19:43,620 --> 00:19:44,520
+c'est parce que si vous faites de
+
+516
+00:19:44,520 --> 00:19:46,559
+l'Android avec votre téléphone des fois
+
+517
+00:19:46,559 --> 00:19:48,419
+votre téléphone n'est pas détecté et ce
+
+518
+00:19:48,419 --> 00:19:50,400
+le premier ici Google USB driver permet
+
+519
+00:19:50,400 --> 00:19:53,419
+de le détecter plus facilement
+
+520
+00:19:53,760 --> 00:19:56,340
+donc Quest Drive vous allez tomber sur
+
+521
+00:19:56,340 --> 00:19:58,520
+le site de oculus Quest
+
+522
+00:19:58,520 --> 00:20:01,679
+le téléchargement de audacity est
+
+523
+00:20:01,679 --> 00:20:04,940
+terminée je peux lancer l'installation
+
+524
+00:20:06,360 --> 00:20:07,919
+alors là que ça commence un peu long
+
+525
+00:20:07,919 --> 00:20:09,000
+parce que j'ai beaucoup de trucs qui
+
+526
+00:20:09,000 --> 00:20:11,660
+sont en même temps
+
+527
+00:20:12,260 --> 00:20:14,520
+on va télécharger donc je peux pousser
+
+528
+00:20:14,520 --> 00:20:15,480
+sur le bouton bleu qui va dire
+
+529
+00:20:15,480 --> 00:20:17,720
+télécharger
+
+530
+00:20:17,760 --> 00:20:21,320
+on va accepter télécharger
+
+531
+00:20:23,280 --> 00:20:26,340
+voilà ça devrait voir comment c'est on
+
+532
+00:20:26,340 --> 00:20:28,940
+se devrait commencer
+
+533
+00:20:33,919 --> 00:20:37,200
+alors ça voilà ça c'est à quoi ressemble
+
+534
+00:20:37,200 --> 00:20:39,120
+Krita donc vous pouvez voir qu'il y a
+
+535
+00:20:39,120 --> 00:20:41,039
+comme Photoshop petit menu avec des
+
+536
+00:20:41,039 --> 00:20:42,299
+trucs pour déplacer des trucs pour
+
+537
+00:20:42,299 --> 00:20:43,860
+agrandir et tout il y a plein d'autres
+
+538
+00:20:43,860 --> 00:20:46,140
+tutoriaux sur le web Kita est en open
+
+539
+00:20:46,140 --> 00:20:47,400
+source la communauté est super
+
+540
+00:20:47,400 --> 00:20:50,120
+sympathique et très et très productive
+
+541
+00:20:50,120 --> 00:20:51,960
+n'hésitez pas à aller acheter un coup
+
+542
+00:20:51,960 --> 00:20:53,580
+d'oeil ça vaut la peine c'est gratuit ça
+
+543
+00:20:53,580 --> 00:20:56,100
+fait le taf c'est quand vous avez pas
+
+544
+00:20:56,100 --> 00:20:57,660
+Photoshop illustré toi c'est très très
+
+545
+00:20:57,660 --> 00:20:59,900
+bien
+
+546
+00:21:02,059 --> 00:21:05,240
+en français on continue
+
+547
+00:21:05,240 --> 00:21:08,299
+j'accepte je continue ouais
+
+548
+00:21:08,299 --> 00:21:10,919
+démarrer les préférences initialiser
+
+549
+00:21:10,919 --> 00:21:13,700
+ouais tu peux continuer
+
+550
+00:21:36,260 --> 00:21:38,220
+encore une fois le but c'est pas de
+
+551
+00:21:38,220 --> 00:21:39,299
+montrer comment on dessine fonctionne
+
+552
+00:21:39,299 --> 00:21:40,980
+mais voilà à quoi ça ressemble par
+
+553
+00:21:40,980 --> 00:21:42,419
+exemple tu peux enregistrer ta voix je
+
+554
+00:21:42,419 --> 00:21:43,559
+crois et c'est un peu d'enregistrer ta
+
+555
+00:21:43,559 --> 00:21:47,299
+voix avec le bouton rouge
+
+556
+00:21:48,080 --> 00:21:50,760
+ça a l'air de détecter mais pas très
+
+557
+00:21:50,760 --> 00:21:52,799
+fort
+
+558
+00:21:52,799 --> 00:21:55,260
+et arrête
+
+559
+00:21:55,260 --> 00:21:58,220
+donc c'est le stop stop
+
+560
+00:21:58,700 --> 00:22:01,380
+l'audio vous pouvez voir la courbe et
+
+561
+00:22:01,380 --> 00:22:03,179
+ici s'il veut il va pouvoir découper
+
+562
+00:22:03,179 --> 00:22:04,679
+l'endroit où j'ai dit des Sablons et
+
+563
+00:22:04,679 --> 00:22:07,260
+arrête on peut voir ici que si il y va
+
+564
+00:22:07,260 --> 00:22:09,480
+il a une sorte de zone plate là il peut
+
+565
+00:22:09,480 --> 00:22:11,940
+aller jusqu'au bout vas-y jusqu'au bout
+
+566
+00:22:11,940 --> 00:22:13,740
+jusqu'au bout et tu pousses sur 10
+
+567
+00:22:13,740 --> 00:22:15,620
+litres supprimer
+
+568
+00:22:15,620 --> 00:22:17,400
+et là on vient de couper ce que j'ai dit
+
+569
+00:22:17,400 --> 00:22:19,020
+vous pouvez retirer les blancs mettre
+
+570
+00:22:19,020 --> 00:22:21,360
+des volumes et tout agrandir le son il y
+
+571
+00:22:21,360 --> 00:22:24,860
+a pas basiquement travailler sur le son
+
+572
+00:22:25,799 --> 00:22:28,080
+alors ici maintenant on va s'occuper de
+
+573
+00:22:28,080 --> 00:22:29,820
+cette Quest donc on a téléchargé
+
+574
+00:22:29,820 --> 00:22:31,860
+normalement le
+
+575
+00:22:31,860 --> 00:22:35,760
+USB driver pour le Quest est-ce que j'ai
+
+576
+00:22:35,760 --> 00:22:38,100
+besoin de le
+
+577
+00:22:38,100 --> 00:22:39,200
+de
+
+578
+00:22:39,200 --> 00:22:41,520
+l'extraire alors oui tu vas devoir
+
+579
+00:22:41,520 --> 00:22:43,260
+l'extraire donc tu peux utiliser soit
+
+580
+00:22:43,260 --> 00:22:45,720
+Windows zip soit Windows rare si vous
+
+581
+00:22:45,720 --> 00:22:48,419
+avez Windows rare
+
+582
+00:22:48,419 --> 00:22:50,539
+je le mets dans
+
+583
+00:22:50,539 --> 00:22:52,500
+un endroit où tu peux le supprimer après
+
+584
+00:22:52,500 --> 00:22:54,659
+parce que c'est ici c'est une extrait et
+
+585
+00:22:54,659 --> 00:22:56,400
+puis tu peux le supprimer derrière c'est
+
+586
+00:22:56,400 --> 00:22:57,960
+pas un truc qui faut garder c'est un
+
+587
+00:22:57,960 --> 00:23:00,559
+truc qui va se Lasten
+
+588
+00:23:05,840 --> 00:23:08,700
+tu peux l'ouvrir alors là c'est un truc
+
+589
+00:23:08,700 --> 00:23:10,080
+particulier vous allez voir tu peux
+
+590
+00:23:10,080 --> 00:23:12,720
+l'ouvrir en fait c'est l'installation de
+
+591
+00:23:12,720 --> 00:23:14,340
+driver c'est pas comme un exe où tu fais
+
+592
+00:23:14,340 --> 00:23:16,500
+c'est bon exécute toi il va falloir que
+
+593
+00:23:16,500 --> 00:23:20,159
+tu ailles sur Android Windows
+
+594
+00:23:20,159 --> 00:23:23,880
+USB qui a le troisième ici Android
+
+595
+00:23:23,880 --> 00:23:26,960
+Windows USB non celui-ci au dessus
+
+596
+00:23:26,960 --> 00:23:30,000
+voilà tu fais clic droit dessus
+
+597
+00:23:30,000 --> 00:23:33,380
+et là tu vas pouvoir faire installer
+
+598
+00:23:33,380 --> 00:23:36,960
+voilà et là en fait il va installer le
+
+599
+00:23:36,960 --> 00:23:39,240
+driver pour le quest
+
+600
+00:23:39,240 --> 00:23:41,780
+on va dire oui
+
+601
+00:23:43,260 --> 00:23:45,780
+voilà opération réussie donc là ça va
+
+602
+00:23:45,780 --> 00:23:46,919
+permettre à l'ordinateur de comprendre
+
+603
+00:23:46,919 --> 00:23:48,059
+ce que c'est à quoi est-ce qu'on va le
+
+604
+00:23:48,059 --> 00:23:49,799
+brancher plus tard
+
+605
+00:23:49,799 --> 00:23:51,480
+du coup le dossier j'aurai plus besoin
+
+606
+00:23:51,480 --> 00:23:54,320
+si tu peux le supprimer maintenant
+
+607
+00:23:54,320 --> 00:23:56,100
+ce qu'on va aller faire c'est assez
+
+608
+00:23:56,100 --> 00:23:57,840
+sidequest pendant que oculus se
+
+609
+00:23:57,840 --> 00:24:00,260
+télécharge toujours
+
+610
+00:24:05,780 --> 00:24:09,539
+un magasin alternatif à oculus donc
+
+611
+00:24:09,539 --> 00:24:11,640
+oculus vend femme méta du coup
+
+612
+00:24:11,640 --> 00:24:14,280
+maintenant vend des jeux sur son magasin
+
+613
+00:24:14,280 --> 00:24:15,840
+mais les jeux que vous achetez sur le
+
+614
+00:24:15,840 --> 00:24:17,700
+magasin sont filtrés c'est à dire que
+
+615
+00:24:17,700 --> 00:24:20,100
+ils doivent être commercialement viable
+
+616
+00:24:20,100 --> 00:24:22,380
+sans faute sans faute d'orthographe avec
+
+617
+00:24:22,380 --> 00:24:24,960
+une présentation validée par l'équipe
+
+618
+00:24:24,960 --> 00:24:28,679
+tester par les gens de méta mis dans un
+
+619
+00:24:28,679 --> 00:24:30,120
+calendrier donc en fait vous pouvez voir
+
+620
+00:24:30,120 --> 00:24:31,500
+que le nombre d'applications qui sont
+
+621
+00:24:31,500 --> 00:24:32,520
+sur le store ne sont que des
+
+622
+00:24:32,520 --> 00:24:33,960
+applications filtrées parmi des milliers
+
+623
+00:24:33,960 --> 00:24:35,159
+qui existent
+
+624
+00:24:35,159 --> 00:24:38,159
+vous avez l'oculus Lab qui lui est un
+
+625
+00:24:38,159 --> 00:24:39,720
+truc avec un peu moins drastique mais du
+
+626
+00:24:39,720 --> 00:24:41,700
+coup pas sur le Store vous allez le
+
+627
+00:24:41,700 --> 00:24:43,860
+valider depuis le prix votre navigateur
+
+628
+00:24:43,860 --> 00:24:45,960
+web et vous avez sidequest qui en fait
+
+629
+00:24:45,960 --> 00:24:48,299
+il y a un truc pour les développeurs ce
+
+630
+00:24:48,299 --> 00:24:49,440
+qui se passe c'est que Android vous
+
+631
+00:24:49,440 --> 00:24:50,940
+pouvez prendre une application à la
+
+632
+00:24:50,940 --> 00:24:52,799
+mettre sur votre téléphone avec un câble
+
+633
+00:24:52,799 --> 00:24:55,080
+USB si vous êtes développeur ici tous
+
+634
+00:24:55,080 --> 00:24:56,100
+les cas ce que vous allez recevoir ils
+
+635
+00:24:56,100 --> 00:24:59,000
+sont développeurs par défaut
+
+636
+00:24:59,039 --> 00:25:00,900
+ce qui veut dire qu'en fait vous pouvez
+
+637
+00:25:00,900 --> 00:25:02,700
+aller sur le magasin de cycquest choisir
+
+638
+00:25:02,700 --> 00:25:05,220
+une application et la side Lauder qu'on
+
+639
+00:25:05,220 --> 00:25:07,140
+dit donc c'est prendre l'application et
+
+640
+00:25:07,140 --> 00:25:10,500
+la mettre sur le Quest et aller dans un
+
+641
+00:25:10,500 --> 00:25:11,700
+menu pour les développeurs et jouer au
+
+642
+00:25:11,700 --> 00:25:14,480
+jeu et donc du coup voilà ce magasin là
+
+643
+00:25:14,480 --> 00:25:17,280
+c'est un magasin spécialisé dans les
+
+644
+00:25:17,280 --> 00:25:18,539
+applications que les développeurs des
+
+645
+00:25:18,539 --> 00:25:20,940
+pauses pour aller les side
+
+646
+00:25:20,940 --> 00:25:23,039
+voilà quoi ça ressemble le site web on
+
+647
+00:25:23,039 --> 00:25:25,260
+va aller le télécharger alors j'oublie
+
+648
+00:25:25,260 --> 00:25:26,220
+toujours quel bouton c'est pour
+
+649
+00:25:26,220 --> 00:25:31,580
+télécharger donc tu vas pouvoir aller
+
+650
+00:25:32,159 --> 00:25:34,100
+moi j'ai dans Google je fais
+
+651
+00:25:34,100 --> 00:25:36,720
+sidequest et puis je fais download tu
+
+652
+00:25:36,720 --> 00:25:39,900
+peux faire sidequest espace download
+
+653
+00:25:39,900 --> 00:25:43,340
+pour ça j'arrive directement sur la page
+
+654
+00:25:45,480 --> 00:25:49,700
+voilà tu peux
+
+655
+00:25:50,940 --> 00:25:54,679
+c'est top c'est top
+
+656
+00:25:56,100 --> 00:25:57,480
+alors est-ce que c'est parce que
+
+657
+00:25:57,480 --> 00:25:58,740
+internet devient tout doucement long
+
+658
+00:25:58,740 --> 00:26:00,299
+avec mon petit téléchargement je ne sais
+
+659
+00:26:00,299 --> 00:26:02,520
+pas alors ici ce qui se passe c'est que
+
+660
+00:26:02,520 --> 00:26:03,960
+vous avez deux applications différentes
+
+661
+00:26:03,960 --> 00:26:06,980
+vous avez easyas tout à l'heure et
+
+662
+00:26:06,980 --> 00:26:09,480
+advance easy installeur est un peu plus
+
+663
+00:26:09,480 --> 00:26:10,919
+simple mais le mieux c'est d'avoir
+
+664
+00:26:10,919 --> 00:26:12,120
+Advance pour pouvoir faire tout ce qu'on
+
+665
+00:26:12,120 --> 00:26:14,580
+veut faire avec le Quest on va
+
+666
+00:26:14,580 --> 00:26:16,500
+télécharger advance faut savoir que on a
+
+667
+00:26:16,500 --> 00:26:17,880
+regardé l'autre jour vous pouvez aussi
+
+668
+00:26:17,880 --> 00:26:19,320
+installer side Quest sur votre téléphone
+
+669
+00:26:19,320 --> 00:26:22,860
+s'il a port USB C votre téléphone il
+
+670
+00:26:22,860 --> 00:26:24,120
+peut techniquement installer des
+
+671
+00:26:24,120 --> 00:26:27,419
+applications sur le Quest sachant que le
+
+672
+00:26:27,419 --> 00:26:30,720
+Quest est homologué qui XR et que le
+
+673
+00:26:30,720 --> 00:26:33,480
+téléphone sera sur un autre compte je ne
+
+674
+00:26:33,480 --> 00:26:36,419
+sais pas si ça fonctionnera donc nous ce
+
+675
+00:26:36,419 --> 00:26:37,799
+qu'on a fait c'est que pour cet
+
+676
+00:26:37,799 --> 00:26:39,600
+événement si on vous a installé toute
+
+677
+00:26:39,600 --> 00:26:41,279
+une liste d'applications que vous pouvez
+
+678
+00:26:41,279 --> 00:26:42,659
+déjà tester sur le Quest que vous n'avez
+
+679
+00:26:42,659 --> 00:26:44,460
+pas besoin de télécharger si vraiment
+
+680
+00:26:44,460 --> 00:26:46,620
+vous avez besoin essayez et si vous n'y
+
+681
+00:26:46,620 --> 00:26:48,120
+avez pas venez me voir et on essaiera de
+
+682
+00:26:48,120 --> 00:26:49,260
+trouver une solution
+
+683
+00:26:49,260 --> 00:26:50,700
+alors on peut essayer de voulant parce
+
+684
+00:26:50,700 --> 00:26:51,260
+que j'avais plus de batterie
+
+685
+00:26:51,260 --> 00:26:53,760
+effectivement ça risque de poser à peu
+
+686
+00:26:53,760 --> 00:26:55,820
+près
+
+687
+00:26:59,100 --> 00:27:02,500
+[Musique]
+
+688
+00:27:11,000 --> 00:27:14,059
+s'il te plaît
+
+689
+00:27:21,080 --> 00:27:25,500
+voilà ok au moins ça ira mieux on aura
+
+690
+00:27:25,500 --> 00:27:27,779
+un peu plus de performance plus
+
+691
+00:27:27,779 --> 00:27:30,120
+alors ça s'installe toujours ça
+
+692
+00:27:30,120 --> 00:27:31,700
+télécharge l'ours taequest
+
+693
+00:27:31,700 --> 00:27:35,400
+ici le téléchargement
+
+694
+00:27:35,400 --> 00:27:36,720
+oculus ben on va être patient on
+
+695
+00:27:36,720 --> 00:27:39,360
+accélère cette vidéo à cet endroit-ci on
+
+696
+00:27:39,360 --> 00:27:41,400
+peut couper à partir de là si on fait du
+
+697
+00:27:41,400 --> 00:27:42,900
+montage ce que je ne ferais pas dans un
+
+698
+00:27:42,900 --> 00:27:46,140
+premier temps salut
+
+699
+00:27:47,220 --> 00:27:49,200
+alors est-ce qu'on peut attends je vais
+
+700
+00:27:49,200 --> 00:27:50,640
+repasser au site web en attendant que ça
+
+701
+00:27:50,640 --> 00:27:51,620
+télécharge
+
+702
+00:27:51,620 --> 00:27:54,659
+donc voilà donc pour résumer où on en
+
+703
+00:27:54,659 --> 00:27:57,779
+est on a ici Unity qu'on va installer
+
+704
+00:27:57,779 --> 00:27:59,400
+donc vous décrit un compte sur Unity
+
+705
+00:27:59,400 --> 00:28:01,500
+Unity vous pouvez rester les blender
+
+706
+00:28:01,500 --> 00:28:03,600
+pour faire la 3D installer crita pour
+
+707
+00:28:03,600 --> 00:28:06,659
+faire de la 2D installer oculus si vous
+
+708
+00:28:06,659 --> 00:28:09,000
+voulez faire du de utiliser le Quest
+
+709
+00:28:09,000 --> 00:28:12,419
+pour voir des jeux sur le PC high astibr
+
+710
+00:28:12,419 --> 00:28:15,140
+que tu peux installer aussi
+
+711
+00:28:15,320 --> 00:28:17,580
+alors j'ai pas mis une image dessus mais
+
+712
+00:28:17,580 --> 00:28:19,460
+ici effectivement vous avez steam vert
+
+713
+00:28:19,460 --> 00:28:22,620
+donc tu peux aller télécharger steam VR
+
+714
+00:28:22,620 --> 00:28:24,659
+pour que le reste se télécharge
+
+715
+00:28:24,659 --> 00:28:27,419
+alors qu'est-ce que ce type d'air vous
+
+716
+00:28:27,419 --> 00:28:29,039
+avez plein de jeux sur Steam tu as steam
+
+717
+00:28:29,039 --> 00:28:31,320
+sur ton pc toi ok tu as plein de jeux
+
+718
+00:28:31,320 --> 00:28:33,779
+sur Steam qui sont en réalité virtuelle
+
+719
+00:28:33,779 --> 00:28:35,940
+sauf que pour faire de la réalité
+
+720
+00:28:35,940 --> 00:28:37,740
+virtuelle il faut une sorte d'ajout à
+
+721
+00:28:37,740 --> 00:28:39,120
+Steam qui permet de faire de la VR qui
+
+722
+00:28:39,120 --> 00:28:40,919
+s'appelle steam vert c'est une
+
+723
+00:28:40,919 --> 00:28:42,240
+application qui doit télécharger leur
+
+724
+00:28:42,240 --> 00:28:44,340
+steam donc vous devez télécharger steam
+
+725
+00:28:44,340 --> 00:28:45,720
+créer un compte Steam et ensuite
+
+726
+00:28:45,720 --> 00:28:48,539
+installer steam VR
+
+727
+00:28:48,539 --> 00:28:51,120
+quand vous avez fait ça vous pouvez en
+
+728
+00:28:51,120 --> 00:28:53,400
+fait jouer à des jeux de VR sur votre PC
+
+729
+00:28:53,400 --> 00:28:55,320
+sans nécessairement avoir oculus setup
+
+730
+00:28:55,320 --> 00:28:57,059
+sachant que oculus c'est top c'est la
+
+731
+00:28:57,059 --> 00:28:59,400
+version pour oculus et steam VR c'est
+
+732
+00:28:59,400 --> 00:29:03,559
+pour Windows enfin pour Steam
+
+733
+00:29:03,559 --> 00:29:06,840
+pour steam VR avec les PC pour PC je
+
+734
+00:29:06,840 --> 00:29:08,700
+sais pas s'il est sur Mac d'ailleurs
+
+735
+00:29:08,700 --> 00:29:11,580
+mais steam VR a tapé comme des malades
+
+736
+00:29:11,580 --> 00:29:12,600
+et ils ont fait un truc qui est vraiment
+
+737
+00:29:12,600 --> 00:29:15,779
+génial qui permet de prendre le jeu en
+
+738
+00:29:15,779 --> 00:29:18,140
+réalité virtuelle et de le streamer sur
+
+739
+00:29:18,140 --> 00:29:20,820
+n'importe quel casque tant qu'il est un
+
+740
+00:29:20,820 --> 00:29:22,279
+peu compatible avec deux trois outils
+
+741
+00:29:22,279 --> 00:29:25,279
+sachant que pour pouvoir faire ça
+
+742
+00:29:25,279 --> 00:29:27,840
+vous avez il est en train d'installer ce
+
+743
+00:29:27,840 --> 00:29:29,399
+de son côté le truc c'est pour ça que je
+
+744
+00:29:29,399 --> 00:29:30,779
+vous montre pas mon écran sans l'écran
+
+745
+00:29:30,779 --> 00:29:34,559
+mais c'est surtout parce que ici steam
+
+746
+00:29:34,559 --> 00:29:35,159
+d'ailleurs vous allez pouvoir le
+
+747
+00:29:35,159 --> 00:29:38,460
+télécharger et il y a deux autres outils
+
+748
+00:29:38,460 --> 00:29:40,799
+qui existent alors vu que stream VR
+
+749
+00:29:40,799 --> 00:29:43,080
+steam vert permet de streamer OPC si
+
+750
+00:29:43,080 --> 00:29:46,380
+vous utilisez alt VR c'est un outil qui
+
+751
+00:29:46,380 --> 00:29:47,720
+permet ici
+
+752
+00:29:47,720 --> 00:29:51,360
+de streamer via le Wi-Fi cette donnée
+
+753
+00:29:51,360 --> 00:29:54,240
+dans votre casque il est Open Source je
+
+754
+00:29:54,240 --> 00:29:55,100
+crois
+
+755
+00:29:55,100 --> 00:29:57,360
+ouais il est Open Source il est gratuit
+
+756
+00:29:57,360 --> 00:30:00,120
+il est puissant mais il est un peu geek
+
+757
+00:30:00,120 --> 00:30:01,620
+dans le sens où il faut savoir pousser
+
+758
+00:30:01,620 --> 00:30:03,059
+sur des boutons il faut savoir que
+
+759
+00:30:03,059 --> 00:30:05,340
+lancer des adresses enfin c'est un peu
+
+760
+00:30:05,340 --> 00:30:07,320
+chaud maintenant si pour chez vous vous
+
+761
+00:30:07,320 --> 00:30:08,640
+voulez faire de la VR
+
+762
+00:30:08,640 --> 00:30:11,640
+pas dans le hackathon il y a virtual
+
+763
+00:30:11,640 --> 00:30:13,320
+desktops qui fait aussi qui va chercher
+
+764
+00:30:13,320 --> 00:30:15,179
+le truc de Steam VR et qui l'envoie vers
+
+765
+00:30:15,179 --> 00:30:18,000
+le Quest et celui-là est très bien il
+
+766
+00:30:18,000 --> 00:30:20,279
+est fonctionnel il est optimisé il se
+
+767
+00:30:20,279 --> 00:30:21,419
+lit à votre compte oculus donc vous
+
+768
+00:30:21,419 --> 00:30:23,940
+pouvez utiliser deux puisses
+
+769
+00:30:23,940 --> 00:30:26,760
+up et vu qu'il est lié à votre compte
+
+770
+00:30:26,760 --> 00:30:28,260
+oculus il y a même pas besoin de setup
+
+771
+00:30:28,260 --> 00:30:30,720
+le l'IP il va juste comprendre tout seul
+
+772
+00:30:30,720 --> 00:30:32,760
+ok le PC il est là allumé moi je suis là
+
+773
+00:30:32,760 --> 00:30:34,919
+en tant que Quest je fais le lien entre
+
+774
+00:30:34,919 --> 00:30:37,140
+les deux et je vois je ne ferai pas de
+
+775
+00:30:37,140 --> 00:30:38,760
+tuto dessus parce que c'est pour
+
+776
+00:30:38,760 --> 00:30:40,980
+franchement mais basiquement c'est de là
+
+777
+00:30:40,980 --> 00:30:42,779
+si vous êtes intéressé permet de voir en
+
+778
+00:30:42,779 --> 00:30:44,220
+temps réel ce que vous voyez sur votre
+
+779
+00:30:44,220 --> 00:30:46,500
+PC dans le casque alors je ferme la
+
+780
+00:30:46,500 --> 00:30:48,960
+parenthèse par rapport alors je reviens
+
+781
+00:30:48,960 --> 00:30:50,880
+sur l'écran
+
+782
+00:30:50,880 --> 00:30:56,460
+voilà alors steam VR ici son poste de
+
+783
+00:30:56,460 --> 00:30:59,360
+télécharger donc je lance
+
+784
+00:31:00,899 --> 00:31:02,100
+alors ici c'est tombé sur le report
+
+785
+00:31:02,100 --> 00:31:05,039
+point de Steam de Steam VR je crois bien
+
+786
+00:31:05,039 --> 00:31:07,380
+alors soit tu vas sur le lien et va te
+
+787
+00:31:07,380 --> 00:31:08,520
+retourner dans Steam soit ce que tu peux
+
+788
+00:31:08,520 --> 00:31:09,720
+faire c'est directement les sources
+
+789
+00:31:09,720 --> 00:31:11,279
+Steam et aller chercher le l'application
+
+790
+00:31:11,279 --> 00:31:14,159
+steam day en fait sur le Market ok
+
+791
+00:31:14,159 --> 00:31:17,299
+j'installe juste l'application
+
+792
+00:31:17,299 --> 00:31:21,299
+je viens ici et j'ouvre cet hiver sur
+
+793
+00:31:21,299 --> 00:31:23,580
+une nouvelle page
+
+794
+00:31:23,580 --> 00:31:26,539
+qui est ici
+
+795
+00:31:26,539 --> 00:31:31,279
+tu vas faire install steam ici
+
+796
+00:31:35,960 --> 00:31:38,399
+du coup on va aller directement dans ton
+
+797
+00:31:38,399 --> 00:31:40,860
+style donc si tu peux lancer steam ça te
+
+798
+00:31:40,860 --> 00:31:43,039
+dérange pas
+
+799
+00:31:44,700 --> 00:31:45,559
+voilà
+
+800
+00:31:45,559 --> 00:31:47,279
+la raison pour laquelle on le fait sur
+
+801
+00:31:47,279 --> 00:31:49,140
+son PC c'est que si jamais moi je le
+
+802
+00:31:49,140 --> 00:31:50,399
+fais sur mon pc il y a beaucoup d'étapes
+
+803
+00:31:50,399 --> 00:31:51,840
+que vous ne verrez pas genre des
+
+804
+00:31:51,840 --> 00:31:54,059
+autorisations des trucs j'oublierai
+
+805
+00:31:54,059 --> 00:31:55,799
+d'installer et c'est pour ça que ouais
+
+806
+00:31:55,799 --> 00:31:58,320
+m'aide m'aide à faire cette vidéo donc
+
+807
+00:31:58,320 --> 00:31:59,840
+merci à lui
+
+808
+00:31:59,840 --> 00:32:01,980
+on veut se parler d'installer sans que
+
+809
+00:32:01,980 --> 00:32:03,960
+j'ai des problèmes sur mon pc lui il va
+
+810
+00:32:03,960 --> 00:32:05,460
+venir tout près tout ready pour le
+
+811
+00:32:05,460 --> 00:32:07,880
+Hackett
+
+812
+00:32:10,100 --> 00:32:13,020
+donc on va l'attendre on va repasser à
+
+813
+00:32:13,020 --> 00:32:15,740
+cycquest en attendant
+
+814
+00:32:16,039 --> 00:32:18,480
+je peux le lancer ouais tu peux le
+
+815
+00:32:18,480 --> 00:32:20,539
+lancer
+
+816
+00:32:21,419 --> 00:32:24,360
+ça j'ai plus besoin de la page je peux
+
+817
+00:32:24,360 --> 00:32:27,960
+fermer ça comme ça c'est ça alors ici
+
+818
+00:32:27,960 --> 00:32:29,880
+cette couette c'est en train de se
+
+819
+00:32:29,880 --> 00:32:31,140
+charger il faut savoir que ça équestre
+
+820
+00:32:31,140 --> 00:32:32,460
+c'est un navigateur web c'est une
+
+821
+00:32:32,460 --> 00:32:34,440
+application en navigateur web c'est pour
+
+822
+00:32:34,440 --> 00:32:35,460
+ça qu'il prend son temps à charger la
+
+823
+00:32:35,460 --> 00:32:38,520
+page comme si c'était une page web et
+
+824
+00:32:38,520 --> 00:32:40,679
+alors ici on peut voir d'ailleurs si tu
+
+825
+00:32:40,679 --> 00:32:42,480
+cliques sur le petit truc là-bas je
+
+826
+00:32:42,480 --> 00:32:43,500
+crois que tu vas pouvoir voir ouais
+
+827
+00:32:43,500 --> 00:32:46,140
+vas-y alors ça c'est les ados ok je sais
+
+828
+00:32:46,140 --> 00:32:47,039
+bien qu'il y a un bouton quelque part
+
+829
+00:32:47,039 --> 00:32:48,899
+qui permet de voir le code comme le code
+
+830
+00:32:48,899 --> 00:32:51,380
+de la page web
+
+831
+00:32:52,640 --> 00:32:56,100
+c'était juste pour dire alors ici je
+
+832
+00:32:56,100 --> 00:32:56,880
+suppose qu'il est en train de
+
+833
+00:32:56,880 --> 00:32:59,279
+télécharger des mises à jour comme ça
+
+834
+00:32:59,279 --> 00:33:00,659
+alors vu qu'on télécharge plein de
+
+835
+00:33:00,659 --> 00:33:01,679
+choses à la fois ça nous prend du temps
+
+836
+00:33:01,679 --> 00:33:03,240
+sachant qu'on n'est pas câblé ici du
+
+837
+00:33:03,240 --> 00:33:07,760
+coup Satan ça prend le temps du wifi
+
+838
+00:33:08,640 --> 00:33:10,620
+lui il est presque fini
+
+839
+00:33:10,620 --> 00:33:13,220
+cool
+
+840
+00:33:13,940 --> 00:33:17,100
+donc là il fait son dernier sa dernière
+
+841
+00:33:17,100 --> 00:33:19,940
+ligne droite ça va
+
+842
+00:33:19,940 --> 00:33:24,740
+Steve aussi on a juste à attendre
+
+843
+00:33:32,820 --> 00:33:34,019
+oculus a fini de télécharger maintenant
+
+844
+00:33:34,019 --> 00:33:36,559
+il va installer
+
+845
+00:33:37,700 --> 00:33:39,779
+quoi ça ressemble à ça donc vous voyez
+
+846
+00:33:39,779 --> 00:33:41,039
+c'est un magasin il y a plein de jeux
+
+847
+00:33:41,039 --> 00:33:42,299
+plein d'applications des commentaires
+
+848
+00:33:42,299 --> 00:33:44,399
+des choses comme ça si vous êtes
+
+849
+00:33:44,399 --> 00:33:45,299
+développeur et que vous voulez publier
+
+850
+00:33:45,299 --> 00:33:47,279
+votre jeu c'est là qu'il faut aller en
+
+851
+00:33:47,279 --> 00:33:48,960
+premier après après si vous voulez
+
+852
+00:33:48,960 --> 00:33:50,159
+publier plus plus professionnellement
+
+853
+00:33:50,159 --> 00:33:52,260
+faut les verriculus mais là c'est une
+
+854
+00:33:52,260 --> 00:33:54,059
+langue démarche
+
+855
+00:33:54,059 --> 00:33:56,159
+alors admettons que tu aies envie
+
+856
+00:33:56,159 --> 00:33:57,840
+d'installer quelque chose moi je propose
+
+857
+00:33:57,840 --> 00:33:59,279
+qu'il installe mrtk qui fonctionne
+
+858
+00:33:59,279 --> 00:34:00,679
+extrêmement bien
+
+859
+00:34:00,679 --> 00:34:05,399
+Mr comme mixte reality Mr TK comme
+
+860
+00:34:05,399 --> 00:34:07,919
+Toolkit
+
+861
+00:34:07,919 --> 00:34:08,879
+vous pouvez voir qu'il y a plein de
+
+862
+00:34:08,879 --> 00:34:10,080
+mrtks parce qu'il y a différentes
+
+863
+00:34:10,080 --> 00:34:11,760
+versions on va aller chercher une qui se
+
+864
+00:34:11,760 --> 00:34:15,359
+joue en solo on va prendre les deux vous
+
+865
+00:34:15,359 --> 00:34:16,859
+l'avez
+
+866
+00:34:16,859 --> 00:34:20,699
+on va prendre sample à pays ok donc
+
+867
+00:34:20,699 --> 00:34:23,898
+celui qui est un peu plus bas
+
+868
+00:34:27,980 --> 00:34:29,940
+parce que le V2 je le connais pas bien
+
+869
+00:34:29,940 --> 00:34:32,839
+ok c'est tout ça c'est à cause de
+
+870
+00:34:32,839 --> 00:34:35,839
+t'inquiète
+
+871
+00:34:37,099 --> 00:34:40,820
+le 4e
+
+872
+00:34:40,918 --> 00:34:42,060
+je prends celui-là parce que je le
+
+873
+00:34:42,060 --> 00:34:43,260
+connais sachant qu'il y en a d'autres
+
+874
+00:34:43,260 --> 00:34:45,239
+qu'on aurait pu installer alors tu vas
+
+875
+00:34:45,239 --> 00:34:47,339
+pouvoir tu aimerais bien pouvoir pousser
+
+876
+00:34:47,339 --> 00:34:49,080
+sur le bouton Download app pour
+
+877
+00:34:49,080 --> 00:34:51,179
+télécharger sauf que là il va te
+
+878
+00:34:51,179 --> 00:34:52,440
+demander premièrement de te connecter
+
+879
+00:34:52,440 --> 00:34:54,119
+alors il faut qu'il crée un compte pour
+
+880
+00:34:54,119 --> 00:34:57,540
+pouvoir accéder à sidequest ici il y a
+
+881
+00:34:57,540 --> 00:34:58,560
+pas nécessairement besoin que le compte
+
+882
+00:34:58,560 --> 00:34:59,940
+soit celui de moling donc j'ai dû
+
+883
+00:34:59,940 --> 00:35:01,200
+laisser créer le compte donc tu peux
+
+884
+00:35:01,200 --> 00:35:05,599
+aller créer un compte donc ici c'était
+
+885
+00:35:11,359 --> 00:35:13,619
+je ne sais pas j'ai jamais essayé donc
+
+886
+00:35:13,619 --> 00:35:15,420
+moi je m'en suis créé à directement sur
+
+887
+00:35:15,420 --> 00:35:18,300
+son truc comme ça c'était fait
+
+888
+00:35:18,300 --> 00:35:19,859
+quand on a tous mes informations donc
+
+889
+00:35:19,859 --> 00:35:20,940
+maintenant vous savez comment contacter
+
+890
+00:35:20,940 --> 00:35:23,420
+Mohamed
+
+891
+00:35:28,460 --> 00:35:30,540
+quitte à avoir ton adresse email tu
+
+892
+00:35:30,540 --> 00:35:31,260
+travailles dans la tu travailles dans
+
+893
+00:35:31,260 --> 00:35:34,579
+quel domaine du coup moi
+
+894
+00:35:34,579 --> 00:35:38,099
+actuellement je suis en coding 28 donc
+
+895
+00:35:38,099 --> 00:35:41,220
+je fais plus du réacte mais je suis
+
+896
+00:35:41,220 --> 00:35:45,000
+aussi faire un peu de Java ok donc
+
+897
+00:35:45,000 --> 00:35:47,780
+développement web
+
+898
+00:35:48,839 --> 00:35:50,400
+donc si vous voulez le contacter pour
+
+899
+00:35:50,400 --> 00:35:52,380
+faire des sites Web vous avez son
+
+900
+00:35:52,380 --> 00:35:53,940
+adresse email
+
+901
+00:35:53,940 --> 00:35:56,900
+je vais ici
+
+902
+00:35:57,540 --> 00:36:00,859
+que je renvoie
+
+903
+00:36:02,000 --> 00:36:06,260
+là il va te demander sur ton truc
+
+904
+00:36:11,700 --> 00:36:14,480
+essayer de nouveau
+
+905
+00:36:18,780 --> 00:36:22,880
+enfin oui c'est moi
+
+906
+00:36:24,060 --> 00:36:25,800
+j'ai répondu depuis mon téléphone le
+
+907
+00:36:25,800 --> 00:36:28,940
+truc bleu je crois que tu vas cliquer
+
+908
+00:36:30,480 --> 00:36:32,720
+ok
+
+909
+00:36:34,640 --> 00:36:37,280
+voilà donc maintenant il devrait avoir
+
+910
+00:36:37,280 --> 00:36:40,520
+choisi un truc
+
+911
+00:36:44,540 --> 00:36:48,560
+ouais par exemple on est en Belgique
+
+912
+00:36:49,980 --> 00:36:52,980
+apparemment
+
+913
+00:36:55,460 --> 00:36:59,240
+en français ou je ne sais pas on va voir
+
+914
+00:36:59,240 --> 00:37:02,220
+et là je ne sais pas non plus
+
+915
+00:37:02,220 --> 00:37:03,599
+tu veux que je cache où ça te dérange
+
+916
+00:37:03,599 --> 00:37:07,680
+peut-être cacher ça va alors voilà c'est
+
+917
+00:37:07,680 --> 00:37:12,260
+caché parce que ça va permettre de
+
+918
+00:37:13,200 --> 00:37:16,640
+comme ça vous aurez pas son rêve
+
+919
+00:37:17,520 --> 00:37:19,020
+et aussi ça évite que on vous Acquier
+
+920
+00:37:19,020 --> 00:37:22,160
+son compte avec des données personnelles
+
+921
+00:37:33,740 --> 00:37:35,760
+vous pouvez voir que je ne suis pas fort
+
+922
+00:37:35,760 --> 00:37:38,960
+sur la sécurité ne me fait pas confiance
+
+923
+00:37:38,960 --> 00:37:40,740
+à mon avis c'est parce que tu vas mettre
+
+924
+00:37:40,740 --> 00:37:43,940
+Belgique avec Belgium
+
+925
+00:37:52,220 --> 00:37:54,359
+ça me paraît bizarre qu'il te demande ça
+
+926
+00:37:54,359 --> 00:37:55,859
+comme ça quoi
+
+927
+00:37:55,859 --> 00:37:57,660
+alors clique sur la liste longue
+
+928
+00:37:57,660 --> 00:37:59,339
+peut-être que en fait justement il veut
+
+929
+00:37:59,339 --> 00:38:01,339
+pas
+
+930
+00:38:02,119 --> 00:38:05,420
+c'est quoi ça
+
+931
+00:38:06,839 --> 00:38:08,839
+sinon tu peux essayer
+
+932
+00:38:08,839 --> 00:38:11,220
+sinon tu peux créer ton compte depuis le
+
+933
+00:38:11,220 --> 00:38:12,359
+navigateur web et pas depuis
+
+934
+00:38:12,359 --> 00:38:13,400
+l'application
+
+935
+00:38:13,400 --> 00:38:15,560
+il est possible que
+
+936
+00:38:15,560 --> 00:38:19,320
+ce soit à cause de ça
+
+937
+00:38:19,320 --> 00:38:20,640
+quand tu aurais déjà créé un compte
+
+938
+00:38:20,640 --> 00:38:22,140
+c'est que non
+
+939
+00:38:22,140 --> 00:38:23,460
+non c'est la première fois que je suis
+
+940
+00:38:23,460 --> 00:38:26,839
+dessus donc j'ai jamais créé deux points
+
+941
+00:38:30,140 --> 00:38:32,339
+donc j'ai changé de manière de connexion
+
+942
+00:38:32,339 --> 00:38:35,760
+j'ai mis connexion enfin essayer de dire
+
+943
+00:38:35,760 --> 00:38:39,540
+le compte direct
+
+944
+00:38:40,040 --> 00:38:43,800
+je remets mon pseudo
+
+945
+00:38:43,800 --> 00:38:46,680
+et là ici voilà enfin donc là en fait
+
+946
+00:38:46,680 --> 00:38:48,420
+tantôt quand il est passé il n'avait pas
+
+947
+00:38:48,420 --> 00:38:50,220
+d'anglais pour pouvoir choisir le pays
+
+948
+00:38:50,220 --> 00:38:51,420
+maintenant il est là donc il va les
+
+949
+00:38:51,420 --> 00:38:53,400
+choisir donc si vous essayez de vous
+
+950
+00:38:53,400 --> 00:38:56,339
+connecter via le Gmail il accepte pas
+
+951
+00:38:56,339 --> 00:38:59,000
+donc voilà
+
+952
+00:39:02,820 --> 00:39:06,380
+et le mot de passe
+
+953
+00:39:10,740 --> 00:39:13,860
+[Musique]
+
+954
+00:39:21,020 --> 00:39:23,280
+email que tu aurais pas reçu un mot de
+
+955
+00:39:23,280 --> 00:39:24,660
+passe du coup c'est peut-être parce que
+
+956
+00:39:24,660 --> 00:39:27,800
+tu avais validé juste avant
+
+957
+00:39:57,330 --> 00:39:59,599
+[Musique]
+
+958
+00:39:59,599 --> 00:40:02,720
+je sais pas
+
+959
+00:40:03,920 --> 00:40:06,200
+donc ça c'est bon
+
+960
+00:40:06,200 --> 00:40:09,320
+on va y arriver
+
+961
+00:40:23,220 --> 00:40:25,940
+98
+
+962
+00:40:29,420 --> 00:40:31,940
+ok quand j'écrivais la
+
+963
+00:40:31,940 --> 00:40:35,599
+pas de mot de passe au truc comme ça
+
+964
+00:40:38,480 --> 00:40:41,339
+ok donc voilà il a créé un compte donc
+
+965
+00:40:41,339 --> 00:40:44,359
+je reviens sur son écran je peux
+
+966
+00:40:44,720 --> 00:40:47,300
+dire un truc avant peut-être vérifier là
+
+967
+00:40:47,300 --> 00:40:50,700
+j'ai créé mon compte sur le site et donc
+
+968
+00:40:50,700 --> 00:40:53,220
+là je devrais juste il est connecté
+
+969
+00:40:53,220 --> 00:40:55,200
+alors ce qui se passe c'est que on a un
+
+970
+00:40:55,200 --> 00:40:59,000
+Quest alors je vais vous montrer
+
+971
+00:41:18,420 --> 00:41:19,760
+attends 2 secondes
+
+972
+00:41:19,760 --> 00:41:23,400
+tu peux attends faire quoi attends
+
+973
+00:41:23,400 --> 00:41:26,400
+attends la suite donc pour ceux qui
+
+974
+00:41:26,400 --> 00:41:28,680
+n'auraient jamais vu à Quest ceci est un
+
+975
+00:41:28,680 --> 00:41:30,720
+appareil Quest vous pouvez voir qu'il a
+
+976
+00:41:30,720 --> 00:41:32,339
+quatre petites caméras ici donc je ferai
+
+977
+00:41:32,339 --> 00:41:33,359
+une autre vidéo sur le sujet mais je
+
+978
+00:41:33,359 --> 00:41:35,280
+fais un raccourci la quête caméra qui
+
+979
+00:41:35,280 --> 00:41:37,560
+permet de traquer il a le bouton ici qui
+
+980
+00:41:37,560 --> 00:41:39,420
+permet d'allumer le bouton ici qui
+
+981
+00:41:39,420 --> 00:41:41,160
+permet de gérer le volume un microphone
+
+982
+00:41:41,160 --> 00:41:43,680
+là bas et de l'audio ici ce qu'on va
+
+983
+00:41:43,680 --> 00:41:45,240
+faire c'est que on va le connecter sur
+
+984
+00:41:45,240 --> 00:41:47,280
+ce petit embout ici qui enduisent
+
+985
+00:41:47,280 --> 00:41:49,380
+l'essai sur le PC qui est en USB C
+
+986
+00:41:49,380 --> 00:41:54,300
+sachant que plus si vous gardez un usb-c
+
+987
+00:41:54,300 --> 00:41:55,680
+vous aurez un meilleur débit donc une
+
+988
+00:41:55,680 --> 00:41:57,740
+meilleure image si vous voulez streamer
+
+989
+00:41:57,740 --> 00:41:59,640
+et ça se parle plus vite les
+
+990
+00:41:59,640 --> 00:42:01,140
+applications vous pouvez utiliser l'USB
+
+991
+00:42:01,140 --> 00:42:03,720
+3 à usbc il n'y a pas de problème mais
+
+992
+00:42:03,720 --> 00:42:05,579
+le stream en pâtira si vous voulez voir
+
+993
+00:42:05,579 --> 00:42:07,560
+ce qui se passe dedans
+
+994
+00:42:07,560 --> 00:42:09,480
+alors ici tu peux connecter l'appareil
+
+995
+00:42:09,480 --> 00:42:11,760
+et l'allumer
+
+996
+00:42:11,760 --> 00:42:13,260
+donc ici je laisse enfoncer quelques
+
+997
+00:42:13,260 --> 00:42:15,060
+secondes pour la lunette
+
+998
+00:42:15,060 --> 00:42:18,060
+je le mets sur la tête et ici on
+
+999
+00:42:18,060 --> 00:42:19,320
+aimerait bien pouvoir vous montrer ce
+
+1000
+00:42:19,320 --> 00:42:20,700
+qui se passe dans le casque sauf que
+
+1001
+00:42:20,700 --> 00:42:21,780
+pour pouvoir vous montrer ce qui se
+
+1002
+00:42:21,780 --> 00:42:22,800
+passe dans le casque il faut pouvoir
+
+1003
+00:42:22,800 --> 00:42:25,500
+voir en wifi et ça je peux pas le faire
+
+1004
+00:42:25,500 --> 00:42:26,700
+ici donc on va juste se contenter
+
+1005
+00:42:26,700 --> 00:42:28,980
+d'accepter de trop menu et d'aller à la
+
+1006
+00:42:28,980 --> 00:42:30,900
+suite alors c'est toujours très de
+
+1007
+00:42:30,900 --> 00:42:33,740
+s'allumer tu peux le brancher
+
+1008
+00:42:33,960 --> 00:42:34,990
+alors
+
+1009
+00:42:34,990 --> 00:42:37,380
+[Musique]
+
+1010
+00:42:37,380 --> 00:42:39,800
+voilà
+
+1011
+00:42:41,060 --> 00:42:45,780
+c'est bon alors il a des lunettes les
+
+1012
+00:42:45,780 --> 00:42:47,940
+lunettes vous devez les retirer parce
+
+1013
+00:42:47,940 --> 00:42:50,099
+que si vous les Cassez ce serait con ça
+
+1014
+00:42:50,099 --> 00:42:52,079
+coûte cher si jamais vous avez la
+
+1015
+00:42:52,079 --> 00:42:53,220
+possibilité de mettre le dentiste ça
+
+1016
+00:42:53,220 --> 00:42:54,720
+peut être intéressant si vous voulez
+
+1017
+00:42:54,720 --> 00:42:56,520
+garder les lunettes vous mettez le
+
+1018
+00:42:56,520 --> 00:42:58,079
+casque en face et vous tirez la sangle
+
+1019
+00:42:58,079 --> 00:42:59,640
+pour éviter de casser les pattes en
+
+1020
+00:42:59,640 --> 00:43:02,280
+faisant ceci avec votre casque sachant
+
+1021
+00:43:02,280 --> 00:43:05,099
+que vous voyez ici ça pousse un peu là
+
+1022
+00:43:05,099 --> 00:43:06,300
+et c'est surtout sur les pattes que ça
+
+1023
+00:43:06,300 --> 00:43:08,640
+va casser d'accord si vous voulez quand
+
+1024
+00:43:08,640 --> 00:43:10,200
+même prendre le risque de le faire à ce
+
+1025
+00:43:10,200 --> 00:43:12,420
+moment-là n'hésitez pas à le faire ça
+
+1026
+00:43:12,420 --> 00:43:13,740
+peut ça peut être ça peut fonctionner
+
+1027
+00:43:13,740 --> 00:43:15,119
+donc je suis en train de cliquer pour
+
+1028
+00:43:15,119 --> 00:43:16,940
+autoriser la connexion via le câble
+
+1029
+00:43:16,940 --> 00:43:19,619
+alors ici il y a un menu qui est apparu
+
+1030
+00:43:19,619 --> 00:43:21,960
+sur son truc qui demande voulez-vous
+
+1031
+00:43:21,960 --> 00:43:24,180
+autoriser cet appareil à communiquer
+
+1032
+00:43:24,180 --> 00:43:26,280
+avec le PC il a poussé sur oui parce
+
+1033
+00:43:26,280 --> 00:43:27,480
+qu'on vient de voir que c'est passé en
+
+1034
+00:43:27,480 --> 00:43:29,579
+vert sur le jeu donc maintenant il va
+
+1035
+00:43:29,579 --> 00:43:30,980
+avoir d'autres menus qui permettent de
+
+1036
+00:43:30,980 --> 00:43:33,480
+voir par exemple le Guardian alors je me
+
+1037
+00:43:33,480 --> 00:43:37,200
+permets de toucher ton PC confirmer
+
+1038
+00:43:37,800 --> 00:43:40,079
+admettons que vous voulez voir ce qui se
+
+1039
+00:43:40,079 --> 00:43:41,700
+passe dans le casque vous ne pouvez pas
+
+1040
+00:43:41,700 --> 00:43:43,680
+streamer depuis un PC parce qu'il faut
+
+1041
+00:43:43,680 --> 00:43:44,819
+le compte mologique donc vous pouvez
+
+1042
+00:43:44,819 --> 00:43:47,220
+streamer que depuis sidequest alors vous
+
+1043
+00:43:47,220 --> 00:43:49,560
+allez ici dans cycquest vous cliquez
+
+1044
+00:43:49,560 --> 00:43:50,640
+regarde peut-être comme ça tu vois aussi
+
+1045
+00:43:50,640 --> 00:43:53,579
+toi vous avez une option ici qui permet
+
+1046
+00:43:53,579 --> 00:43:54,780
+de connecter au wi-fi qu'on va pas
+
+1047
+00:43:54,780 --> 00:43:56,940
+activer cette fois-ci et vous avez ici
+
+1048
+00:43:56,940 --> 00:43:59,099
+une option qui permet de streamer ce
+
+1049
+00:43:59,099 --> 00:44:01,020
+qu'on voit en wifi au vocabulaire on va
+
+1050
+00:44:01,020 --> 00:44:02,460
+cliquer ici
+
+1051
+00:44:02,460 --> 00:44:04,440
+ici on va cliquer sur ce bouton qui veut
+
+1052
+00:44:04,440 --> 00:44:06,359
+dire Quest kropper en fait ça veut dire
+
+1053
+00:44:06,359 --> 00:44:07,859
+que vous voyez deux images mais nous on
+
+1054
+00:44:07,859 --> 00:44:09,300
+veut voir que un seul œil donc on va
+
+1055
+00:44:09,300 --> 00:44:11,160
+croquer pour un seul œil
+
+1056
+00:44:11,160 --> 00:44:13,619
+et on va dire streamer sauf que pour
+
+1057
+00:44:13,619 --> 00:44:15,000
+pouvoir le stream il faut qu'il mette le
+
+1058
+00:44:15,000 --> 00:44:16,680
+cas sur sa tête on va attendre qu'il
+
+1059
+00:44:16,680 --> 00:44:19,099
+remette le casque
+
+1060
+00:44:20,400 --> 00:44:23,220
+voilà alors vous voyez ça c'est ce qui
+
+1061
+00:44:23,220 --> 00:44:24,540
+voit actuellement donc on voit du noir
+
+1062
+00:44:24,540 --> 00:44:25,859
+et blanc c'est les fameuses caméras
+
+1063
+00:44:25,859 --> 00:44:27,000
+infrarouges que je vous ai montré juste
+
+1064
+00:44:27,000 --> 00:44:30,420
+avant voilà salut il y a un petit
+
+1065
+00:44:30,420 --> 00:44:32,099
+décalage dans le ce que vous voyez mais
+
+1066
+00:44:32,099 --> 00:44:33,780
+c'est pas grave alors on lui demande
+
+1067
+00:44:33,780 --> 00:44:35,280
+est-ce que vous voulez confirmer un
+
+1068
+00:44:35,280 --> 00:44:37,020
+Guardian aguardian c'est un espace de
+
+1069
+00:44:37,020 --> 00:44:38,700
+jeu vas-y donc vous allez pouvoir dire
+
+1070
+00:44:38,700 --> 00:44:43,260
+oui voilà alors ici demande est-ce qu'on
+
+1071
+00:44:43,260 --> 00:44:44,460
+fait stationner c'est à dire vous êtes
+
+1072
+00:44:44,460 --> 00:44:46,319
+assis et vous voulez pas bouger et vous
+
+1073
+00:44:46,319 --> 00:44:48,300
+avez la flemme de configurer la zone où
+
+1074
+00:44:48,300 --> 00:44:49,859
+est-ce que vous voulez dessiner mais un
+
+1075
+00:44:49,859 --> 00:44:51,000
+peu stationnaire pour voir à quoi ça
+
+1076
+00:44:51,000 --> 00:44:53,460
+ressemble voilà il y a un cercle bleu
+
+1077
+00:44:53,460 --> 00:44:54,599
+qui va se créer ou tu peux dire
+
+1078
+00:44:54,599 --> 00:44:56,339
+confirmer
+
+1079
+00:44:56,339 --> 00:44:57,900
+et là il va rentrer dans le jeu d'une
+
+1080
+00:44:57,900 --> 00:44:59,160
+manière stationnaire c'est à dire il
+
+1081
+00:44:59,160 --> 00:45:00,660
+pourra pas sortir de cette zone là s'il
+
+1082
+00:45:00,660 --> 00:45:02,460
+le fait ça va devenir noir et blanc il y
+
+1083
+00:45:02,460 --> 00:45:03,480
+a un câble donc il va pas le faire
+
+1084
+00:45:03,480 --> 00:45:05,640
+maintenant je vais vous montrer tant
+
+1085
+00:45:05,640 --> 00:45:08,040
+qu'on y est comment définir Guardian là
+
+1086
+00:45:08,040 --> 00:45:09,300
+c'est le petit menu qui est en train de
+
+1087
+00:45:09,300 --> 00:45:11,160
+voir à gauche on peut voir qu'à l'heure
+
+1088
+00:45:11,160 --> 00:45:12,780
+donc ça c'est les applications qui sont
+
+1089
+00:45:12,780 --> 00:45:13,980
+installées sur le jeu qu'il y a de
+
+1090
+00:45:13,980 --> 00:45:16,440
+cliquer alors il y a l'heure avec une
+
+1091
+00:45:16,440 --> 00:45:17,880
+petite batterie Wi-Fi tu peux cliquer
+
+1092
+00:45:17,880 --> 00:45:20,060
+dessus
+
+1093
+00:45:20,960 --> 00:45:23,220
+alors ici on peut voir qu'il est
+
+1094
+00:45:23,220 --> 00:45:24,720
+connecté sur le wifi de molengeek alors
+
+1095
+00:45:24,720 --> 00:45:26,520
+on va le connecter sur mon wifi à moi
+
+1096
+00:45:26,520 --> 00:45:29,160
+donc tu peux aller sur wifi
+
+1097
+00:45:29,160 --> 00:45:30,900
+voilà pendant le hackathon si vous voyez
+
+1098
+00:45:30,900 --> 00:45:32,780
+celui-ci là vous pouvez vous y connecter
+
+1099
+00:45:32,780 --> 00:45:37,619
+le mot de passe ce sera 1 2 3 4 5 6 6
+
+1100
+00:45:37,619 --> 00:45:42,420
+donc le wifi le mot de passe donc là je
+
+1101
+00:45:42,420 --> 00:45:43,560
+ne vois pas donc à mon avis il y a une
+
+1102
+00:45:43,560 --> 00:45:45,060
+protection antipiratage parce que je ne
+
+1103
+00:45:45,060 --> 00:45:50,460
+vois pas ce que tu vois 2 3 4 5 6 6 donc
+
+1104
+00:45:50,460 --> 00:45:52,560
+juste cliquer sur le nom du wi-fi j'ai
+
+1105
+00:45:52,560 --> 00:45:53,640
+mis le mot de passe je fais c'est
+
+1106
+00:45:53,640 --> 00:45:55,740
+connecté voilà
+
+1107
+00:45:55,740 --> 00:45:57,780
+connexion Wi-Fi qu'est-ce qui est perdu
+
+1108
+00:45:57,780 --> 00:45:59,760
+veillez accéder paramètres pour régler
+
+1109
+00:45:59,760 --> 00:46:01,920
+le problème et là je suis connecté c'est
+
+1110
+00:46:01,920 --> 00:46:04,260
+bon en fait juste le stage comme j'ai
+
+1111
+00:46:04,260 --> 00:46:06,740
+perdu la connexion
+
+1112
+00:46:06,980 --> 00:46:09,119
+ça permettra de streamer un peu plus
+
+1113
+00:46:09,119 --> 00:46:10,740
+rapidement parce que ici moi j'ai acheté
+
+1114
+00:46:10,740 --> 00:46:12,900
+une borne Wi-Fi dédiée pour la VR ou le
+
+1115
+00:46:12,900 --> 00:46:14,700
+Wi-Fi est bon il est bonne qualité je
+
+1116
+00:46:14,700 --> 00:46:15,800
+peux connecter plein de cases dessus
+
+1117
+00:46:15,800 --> 00:46:17,760
+alors maintenant on va définir le
+
+1118
+00:46:17,760 --> 00:46:19,380
+Guardian comme on avait dit à la base
+
+1119
+00:46:19,380 --> 00:46:21,960
+donc on va faire oui vas-y roomskel room
+
+1120
+00:46:21,960 --> 00:46:25,220
+Sky se dire la pièce je confirme
+
+1121
+00:46:25,220 --> 00:46:28,319
+alors ici il va dire voulez-vous définir
+
+1122
+00:46:28,319 --> 00:46:31,040
+le roomsky oui
+
+1123
+00:46:34,099 --> 00:46:36,240
+maintenant tu vois il te demande de
+
+1124
+00:46:36,240 --> 00:46:37,800
+calibrer le sol alors pour calibrer le
+
+1125
+00:46:37,800 --> 00:46:39,540
+sol il faut que tu prennes ta manette et
+
+1126
+00:46:39,540 --> 00:46:40,859
+que tu la déposes sur le sol attention
+
+1127
+00:46:40,859 --> 00:46:44,060
+au câble il garde le casse sur la tête
+
+1128
+00:46:45,800 --> 00:46:47,640
+c'est-à-dire que tu la prends sur le sol
+
+1129
+00:46:47,640 --> 00:46:50,339
+est-ce que ça a bougé avec ou pas ok
+
+1130
+00:46:50,339 --> 00:46:52,260
+donc en fait le sol est descendu nous on
+
+1131
+00:46:52,260 --> 00:46:53,460
+l'a pas vu beaucoup mais lui il le voit
+
+1132
+00:46:53,460 --> 00:46:55,440
+3D et ça descendu tu peux tu peux
+
+1133
+00:46:55,440 --> 00:47:00,140
+revenir voilà ici tu vas dire j'accepte
+
+1134
+00:47:00,540 --> 00:47:01,980
+voilà et en fait maintenant il va
+
+1135
+00:47:01,980 --> 00:47:03,599
+demander de dessiner donc là sur le sol
+
+1136
+00:47:03,599 --> 00:47:06,000
+tu vas voir essayer de dessiner un peu
+
+1137
+00:47:06,000 --> 00:47:07,920
+voilà tu vas en fait dessiner l'endroit
+
+1138
+00:47:07,920 --> 00:47:09,260
+où tu veux jouer attention au câble
+
+1139
+00:47:09,260 --> 00:47:11,480
+c'est pour ça
+
+1140
+00:47:11,480 --> 00:47:13,380
+de développer et que j'ai pas le temps
+
+1141
+00:47:13,380 --> 00:47:15,780
+je prends juste ma main et je paye dans
+
+1142
+00:47:15,780 --> 00:47:17,119
+tous les sens
+
+1143
+00:47:17,119 --> 00:47:19,079
+si vous avez pas de câble et que vous
+
+1144
+00:47:19,079 --> 00:47:20,220
+êtes en train de définir la zone faites
+
+1145
+00:47:20,220 --> 00:47:21,660
+une plus grande zone que ça parce que le
+
+1146
+00:47:21,660 --> 00:47:22,859
+but c'est de faire de voir les murs
+
+1147
+00:47:22,859 --> 00:47:25,140
+quand vous allez prendre des murs ici si
+
+1148
+00:47:25,140 --> 00:47:26,579
+vous dépassez la zone ça va vous
+
+1149
+00:47:26,579 --> 00:47:29,819
+remettre en réalité augmentée
+
+1150
+00:47:29,819 --> 00:47:32,579
+un petit bruit de dessin alors tu vas
+
+1151
+00:47:32,579 --> 00:47:34,619
+pouvoir confirmer et voilà comment
+
+1152
+00:47:34,619 --> 00:47:37,680
+définir les enfants
+
+1153
+00:47:37,680 --> 00:47:40,140
+alors maintenant ce qui va se passer
+
+1154
+00:47:40,140 --> 00:47:42,420
+c'est que on sait définir le Guardian on
+
+1155
+00:47:42,420 --> 00:47:43,740
+s'est lancé le Quest on s'est communiqué
+
+1156
+00:47:43,740 --> 00:47:46,260
+avec on sait voir l'image on va essayer
+
+1157
+00:47:46,260 --> 00:47:48,599
+d'installer une application du coup donc
+
+1158
+00:47:48,599 --> 00:47:50,220
+soit de vous installer une application
+
+1159
+00:47:50,220 --> 00:47:52,440
+depuis le store donc ça c'est le store
+
+1160
+00:47:52,440 --> 00:47:54,200
+officiel de
+
+1161
+00:47:54,200 --> 00:47:57,180
+métal c'est tu peux descendre un peu ce
+
+1162
+00:47:57,180 --> 00:47:58,800
+qu'on voit pas bien nous c'est le petit
+
+1163
+00:47:58,800 --> 00:48:01,380
+la petite icône bleu et la petite eau de
+
+1164
+00:48:01,380 --> 00:48:03,780
+cône orange la bleue dans laquelle il
+
+1165
+00:48:03,780 --> 00:48:06,000
+est c'est des applications qui sont
+
+1166
+00:48:06,000 --> 00:48:08,339
+installées ou dans son compte la orange
+
+1167
+00:48:08,339 --> 00:48:09,780
+celle avec la petite maison sur le menu
+
+1168
+00:48:09,780 --> 00:48:12,020
+tu peux aller dans le menu
+
+1169
+00:48:12,020 --> 00:48:15,359
+là voilà ça c'est le magasin vous pouvez
+
+1170
+00:48:15,359 --> 00:48:17,780
+aller dessus
+
+1171
+00:48:20,000 --> 00:48:23,520
+à télécharger pendant cet événement si
+
+1172
+00:48:23,520 --> 00:48:24,619
+vous m'écoutez
+
+1173
+00:48:24,619 --> 00:48:27,420
+ne téléchargez pas de jeu sauf si
+
+1174
+00:48:27,420 --> 00:48:29,520
+vraiment ça vaut la peine de le
+
+1175
+00:48:29,520 --> 00:48:31,079
+télécharger parce que vous allez tuer le
+
+1176
+00:48:31,079 --> 00:48:33,240
+wifi de l'événement donc ne le faites
+
+1177
+00:48:33,240 --> 00:48:34,560
+pas vous installer des applications par
+
+1178
+00:48:34,560 --> 00:48:36,240
+défaut utilisez ces applications par
+
+1179
+00:48:36,240 --> 00:48:37,200
+défaut
+
+1180
+00:48:37,200 --> 00:48:38,460
+mais si vous vouliez les télécharger
+
+1181
+00:48:38,460 --> 00:48:39,720
+c'est là qu'on les télécharge sachant
+
+1182
+00:48:39,720 --> 00:48:41,280
+que de toute façon deux tiers des
+
+1183
+00:48:41,280 --> 00:48:42,720
+applications sur ce store là sont
+
+1184
+00:48:42,720 --> 00:48:44,819
+payants alors admettons que tu veux
+
+1185
+00:48:44,819 --> 00:48:46,200
+lancer une application qu'on t'a appris
+
+1186
+00:48:46,200 --> 00:48:47,000
+à installer
+
+1187
+00:48:47,000 --> 00:48:49,500
+tu peux aller ici dans le petit menu en
+
+1188
+00:48:49,500 --> 00:48:50,579
+bas attends vas-y plus lentement parce
+
+1189
+00:48:50,579 --> 00:48:52,859
+que les gens ils vont reconnaîtreont pas
+
+1190
+00:48:52,859 --> 00:48:54,720
+donc tu peux revenir en arrière on
+
+1191
+00:48:54,720 --> 00:48:56,040
+clique sur la maison orange comme ça on
+
+1192
+00:48:56,040 --> 00:48:57,960
+a un autre menu vous voyez le petit menu
+
+1193
+00:48:57,960 --> 00:49:00,420
+en bas à droite regarde le en même temps
+
+1194
+00:49:00,420 --> 00:49:01,260
+ce que nous on voit pas grand chose
+
+1195
+00:49:01,260 --> 00:49:04,920
+voilà le petit menu en bas à droite avec
+
+1196
+00:49:04,920 --> 00:49:06,540
+les petites
+
+1197
+00:49:06,540 --> 00:49:07,859
+icônes il y a 9 petits carrés tu peux
+
+1198
+00:49:07,859 --> 00:49:10,160
+cliquer dessus
+
+1199
+00:49:10,380 --> 00:49:12,119
+là il y a un entonnoir tout au dessus à
+
+1200
+00:49:12,119 --> 00:49:13,920
+droite
+
+1201
+00:49:13,920 --> 00:49:16,560
+OK dans cet entonnoir il y a un petit
+
+1202
+00:49:16,560 --> 00:49:18,540
+menu ce menu vous allez l'ouvrir celui à
+
+1203
+00:49:18,540 --> 00:49:20,400
+droite où il est mis tout et là vous
+
+1204
+00:49:20,400 --> 00:49:21,720
+allez pouvoir voir ce qui est installé
+
+1205
+00:49:21,720 --> 00:49:24,119
+ce qui a été mis à jour ce qui est non
+
+1206
+00:49:24,119 --> 00:49:26,819
+installé et des sources inconnues on va
+
+1207
+00:49:26,819 --> 00:49:28,859
+aller voir les sources inconnus les
+
+1208
+00:49:28,859 --> 00:49:29,940
+sources inconnues et c'est des
+
+1209
+00:49:29,940 --> 00:49:31,260
+applications qui ne sont pas validées
+
+1210
+00:49:31,260 --> 00:49:32,700
+par le store mais qu'on a installé sur
+
+1211
+00:49:32,700 --> 00:49:34,859
+le casque de manière side Lauder et donc
+
+1212
+00:49:34,859 --> 00:49:36,660
+vous pouvez voir qu'on a Virtual Boy on
+
+1213
+00:49:36,660 --> 00:49:37,740
+a surface on a plein de choses
+
+1214
+00:49:37,740 --> 00:49:38,940
+d'ailleurs virtuellement il y en a pas
+
+1215
+00:49:38,940 --> 00:49:41,339
+installé des rhums donc si vous lancez
+
+1216
+00:49:41,339 --> 00:49:42,480
+Virtual Boy et que vous voyez rien c'est
+
+1217
+00:49:42,480 --> 00:49:44,400
+normal il faut mettre les Roms
+
+1218
+00:49:44,400 --> 00:49:47,880
+et on a plein d'autres on a mrtk par
+
+1219
+00:49:47,880 --> 00:49:50,300
+exemple il y a non
+
+1220
+00:49:50,300 --> 00:49:52,260
+TK c'est l'application qu'on voulait
+
+1221
+00:49:52,260 --> 00:49:53,940
+installer précédemment avec Cypress
+
+1222
+00:49:53,940 --> 00:49:55,680
+alors il est déjà installé mais si vous
+
+1223
+00:49:55,680 --> 00:49:57,240
+voulez l'installer on va vous montrer
+
+1224
+00:49:57,240 --> 00:49:58,920
+comment on fait avant de le lancer tu
+
+1225
+00:49:58,920 --> 00:50:01,200
+peux retirer le casque de seconde
+
+1226
+00:50:01,200 --> 00:50:02,760
+alors si vous voulez installer une
+
+1227
+00:50:02,760 --> 00:50:04,560
+application vous allez sur sidequest
+
+1228
+00:50:04,560 --> 00:50:07,500
+vous vérifiez que le point vert tout au
+
+1229
+00:50:07,500 --> 00:50:08,819
+dessus de l'écran est là pour dire que
+
+1230
+00:50:08,819 --> 00:50:10,980
+le casque via connecté pas besoin de
+
+1231
+00:50:10,980 --> 00:50:12,060
+l'avoir sur la tête mais il faut que le
+
+1232
+00:50:12,060 --> 00:50:14,220
+Power soit là-bas
+
+1233
+00:50:14,220 --> 00:50:16,859
+tu vas sur sidequest tu peux aller donc
+
+1234
+00:50:16,859 --> 00:50:18,240
+sur le store alors le store c'est quoi
+
+1235
+00:50:18,240 --> 00:50:19,619
+c'est la petite planète entre les deux
+
+1236
+00:50:19,619 --> 00:50:23,339
+flèches on va aller sur home
+
+1237
+00:50:23,339 --> 00:50:26,579
+voilà et ici vous pouvez voir que il y a
+
+1238
+00:50:26,579 --> 00:50:27,839
+plein de jeux à télécharger allez
+
+1239
+00:50:27,839 --> 00:50:32,099
+télécharger alors on va essayer mrtica
+
+1240
+00:50:32,099 --> 00:50:33,000
+mais vu qu'il est déjà installé on va
+
+1241
+00:50:33,000 --> 00:50:33,839
+peut-être installer autre chose donc
+
+1242
+00:50:33,839 --> 00:50:35,160
+regarde sur le Store et prend une
+
+1243
+00:50:35,160 --> 00:50:37,140
+application qui t'intéresse
+
+1244
+00:50:37,140 --> 00:50:39,859
+alors on va descendre
+
+1245
+00:50:39,859 --> 00:50:41,940
+sans alors on va peut-être aller
+
+1246
+00:50:41,940 --> 00:50:46,020
+chercher dans les jeux ici
+
+1247
+00:50:46,200 --> 00:50:48,619
+on va aller chercher dans
+
+1248
+00:50:48,619 --> 00:50:51,140
+ouais vas-y on va prendre celle-là
+
+1249
+00:50:51,140 --> 00:50:54,140
+donc j'ai pas besoin de bouger autoriser
+
+1250
+00:50:54,140 --> 00:50:58,079
+ok alors qu'est-ce qui s'est passé
+
+1251
+00:50:58,079 --> 00:51:00,119
+quand tu télécharges une application sur
+
+1252
+00:51:00,119 --> 00:51:02,220
+cycquest avant il y avait que le side
+
+1253
+00:51:02,220 --> 00:51:03,359
+laudding mais maintenant qui est le
+
+1254
+00:51:03,359 --> 00:51:05,280
+magasin l'oculus Lab et l'oculus store
+
+1255
+00:51:05,280 --> 00:51:06,900
+ce qui se passe c'est que quand le jeu
+
+1256
+00:51:06,900 --> 00:51:08,280
+n'est que sur oculus il va vous
+
+1257
+00:51:08,280 --> 00:51:09,480
+rediriger vers le site Web vous pouvez
+
+1258
+00:51:09,480 --> 00:51:11,579
+le télécharger si il clique sur
+
+1259
+00:51:11,579 --> 00:51:14,099
+télécharger ici il va demander de se
+
+1260
+00:51:14,099 --> 00:51:15,900
+connecter au compte pour pouvoir savoir
+
+1261
+00:51:15,900 --> 00:51:18,059
+chez qui il doit le télécharger vu qu'il
+
+1262
+00:51:18,059 --> 00:51:19,920
+n'a pas le compte Google ça ne marchera
+
+1263
+00:51:19,920 --> 00:51:21,900
+pas ok parce que le seul moyen de
+
+1264
+00:51:21,900 --> 00:51:23,280
+télécharger sur les cases blunting c'est
+
+1265
+00:51:23,280 --> 00:51:24,359
+d'être connecté sur le compte de mon
+
+1266
+00:51:24,359 --> 00:51:26,280
+équipe si vous avez besoin d'un jeu et
+
+1267
+00:51:26,280 --> 00:51:27,660
+que c'est important pour vous le tester
+
+1268
+00:51:27,660 --> 00:51:29,520
+durant l'événement vous venez me voir
+
+1269
+00:51:29,520 --> 00:51:31,380
+vous venez voir quelqu'un d'autorité par
+
+1270
+00:51:31,380 --> 00:51:33,660
+rapport à ce sujet et vous lui demandez
+
+1271
+00:51:33,660 --> 00:51:35,339
+de se connecter sur le compte et de
+
+1272
+00:51:35,339 --> 00:51:37,380
+télécharger ce jeu là et là vous le
+
+1273
+00:51:37,380 --> 00:51:39,300
+verrez apparaître dans le magasin du de
+
+1274
+00:51:39,300 --> 00:51:40,800
+votre appareil et vous pourrez aller
+
+1275
+00:51:40,800 --> 00:51:42,660
+cliquer pour le télécharger ça sur
+
+1276
+00:51:42,660 --> 00:51:44,940
+l'appareil ici du coup on va pas le
+
+1277
+00:51:44,940 --> 00:51:45,960
+faire parce que tu n'as pas les droits
+
+1278
+00:51:45,960 --> 00:51:48,000
+sur ton pc donc tu on va pas télécharger
+
+1279
+00:51:48,000 --> 00:51:49,200
+cela donc tu peux revenir en arrière
+
+1280
+00:51:49,200 --> 00:51:51,000
+donc je retourne sur le web et on va
+
+1281
+00:51:51,000 --> 00:51:52,440
+aller installer mrtk du coup on va
+
+1282
+00:51:52,440 --> 00:51:53,760
+essayer la version 2 pour voir ce que ça
+
+1283
+00:51:53,760 --> 00:51:55,760
+fait
+
+1284
+00:51:56,839 --> 00:52:00,119
+version 2 en ligne parce qu'en fait il y
+
+1285
+00:52:00,119 --> 00:52:01,140
+a une version multijoueur mais que j'ai
+
+1286
+00:52:01,140 --> 00:52:02,520
+jamais testé si tu veux tu peux
+
+1287
+00:52:02,520 --> 00:52:04,280
+l'installer on sait jamais
+
+1288
+00:52:04,280 --> 00:52:06,980
+ici la version 2
+
+1289
+00:52:06,980 --> 00:52:08,940
+théoriquement les multijoueurs si vous
+
+1290
+00:52:08,940 --> 00:52:09,960
+arrivez à y jouer ça peut être très
+
+1291
+00:52:09,960 --> 00:52:11,040
+marrant à tester pendant la Deuxième
+
+1292
+00:52:11,040 --> 00:52:13,020
+donc tu fais télécharger alors vous
+
+1293
+00:52:13,020 --> 00:52:14,520
+voyez qu'il est mis download appside
+
+1294
+00:52:14,520 --> 00:52:15,900
+blood ça veut dire qu'on va le side
+
+1295
+00:52:15,900 --> 00:52:17,400
+Lauder et vous pouvez voir que installe
+
+1296
+00:52:17,400 --> 00:52:19,800
+s'est lancé tout seul ça se met dans un
+
+1297
+00:52:19,800 --> 00:52:21,480
+ça se télécharge vous pouvez voir ici
+
+1298
+00:52:21,480 --> 00:52:23,099
+qu'il y a un petit truc tout au dessus
+
+1299
+00:52:23,099 --> 00:52:25,260
+qui dit pour le moment voilà où j'en
+
+1300
+00:52:25,260 --> 00:52:27,720
+suis j'ai téléchargé sauf que vu qu'il a
+
+1301
+00:52:27,720 --> 00:52:28,740
+cliqué deux fois c'est le télécharge une
+
+1302
+00:52:28,740 --> 00:52:31,500
+deuxième fois c'est pas grave vu la
+
+1303
+00:52:31,500 --> 00:52:32,579
+taille c'est pas trop grave on va
+
+1304
+00:52:32,579 --> 00:52:35,000
+laisser tourner
+
+1305
+00:52:35,280 --> 00:52:36,420
+pour ceux qui se posent la question en
+
+1306
+00:52:36,420 --> 00:52:37,800
+approche tout doucement la fin de cette
+
+1307
+00:52:37,800 --> 00:52:39,599
+première vidéo sachant qu'on a installé
+
+1308
+00:52:39,599 --> 00:52:41,280
+pas mal l'application qu'on a vu ce que
+
+1309
+00:52:41,280 --> 00:52:42,960
+c'était le Quest et que les choses
+
+1310
+00:52:42,960 --> 00:52:45,359
+commencent à être installées on va tout
+
+1311
+00:52:45,359 --> 00:52:46,980
+doucement aller vers la fin et puis on
+
+1312
+00:52:46,980 --> 00:52:48,059
+va aller manger à bout et revenir pour
+
+1313
+00:52:48,059 --> 00:52:49,440
+la suivante
+
+1314
+00:52:49,440 --> 00:52:52,559
+alors ici mrtkl lancé donc il a mis que
+
+1315
+00:52:52,559 --> 00:52:54,839
+ça a été installé donc maintenant si il
+
+1316
+00:52:54,839 --> 00:52:57,380
+retourne sur le casque
+
+1317
+00:52:57,900 --> 00:52:59,040
+alors je vais te remettre sur la fenêtre
+
+1318
+00:52:59,040 --> 00:53:00,559
+de
+
+1319
+00:53:00,559 --> 00:53:03,859
+stream voilà
+
+1320
+00:53:07,520 --> 00:53:09,480
+maintenant vous allez pouvoir voir que
+
+1321
+00:53:09,480 --> 00:53:11,280
+il faut quitter la fenêtre pour le
+
+1322
+00:53:11,280 --> 00:53:12,440
+réactualiser
+
+1323
+00:53:12,440 --> 00:53:15,599
+tu vois on peut voir que maintenant mrtk
+
+1324
+00:53:15,599 --> 00:53:16,800
+online 2 est apparu dans les
+
+1325
+00:53:16,800 --> 00:53:20,040
+applications qui ont été side load et
+
+1326
+00:53:20,040 --> 00:53:21,059
+c'est comme ça qu'en fait pour rester
+
+1327
+00:53:21,059 --> 00:53:22,680
+une application
+
+1328
+00:53:22,680 --> 00:53:24,540
+tu peux la lancer pour voir pas à quoi
+
+1329
+00:53:24,540 --> 00:53:26,720
+ça ressemble
+
+1330
+00:53:29,300 --> 00:53:32,280
+à outils qui permet de faire du de la
+
+1331
+00:53:32,280 --> 00:53:34,020
+réalité virtuelle une boîte à outils ça
+
+1332
+00:53:34,020 --> 00:53:35,099
+veut dire des trucs qui sont prêts pour
+
+1333
+00:53:35,099 --> 00:53:36,180
+vous vous avez plus qu'à déposer dans
+
+1334
+00:53:36,180 --> 00:53:37,319
+une tique comprendre comment ça marche
+
+1335
+00:53:37,319 --> 00:53:39,359
+et les utiliser c'est une boîte à outils
+
+1336
+00:53:39,359 --> 00:53:40,559
+qui était fait à la base pour le laine
+
+1337
+00:53:40,559 --> 00:53:41,940
+donc vous pitchez comme ça pour cliquer
+
+1338
+00:53:41,940 --> 00:53:43,500
+sur des objets avec vos deux petits
+
+1339
+00:53:43,500 --> 00:53:45,380
+doigts alors évidemment
+
+1340
+00:53:45,380 --> 00:53:47,640
+de l'audio donc tu peux dire oui parce
+
+1341
+00:53:47,640 --> 00:53:49,140
+que ça multijoueur il fonctionnera pas
+
+1342
+00:53:49,140 --> 00:53:51,000
+sur l'audio et voilà à quoi ressemble
+
+1343
+00:53:51,000 --> 00:53:54,240
+mrtk alors là il a les joystick en main
+
+1344
+00:53:54,240 --> 00:53:55,559
+ce qui veut dire qu'il voit une main
+
+1345
+00:53:55,559 --> 00:53:56,700
+parce que le jeu est fait pour les mains
+
+1346
+00:53:56,700 --> 00:53:58,740
+si vous voulez les mains il faut
+
+1347
+00:53:58,740 --> 00:54:00,480
+vérifier que vous avez bien activer les
+
+1348
+00:54:00,480 --> 00:54:03,359
+mains dans l'oculus quest ce que je t'ai
+
+1349
+00:54:03,359 --> 00:54:04,099
+pas montré
+
+1350
+00:54:04,099 --> 00:54:07,200
+et déposer les manettes alors est-ce que
+
+1351
+00:54:07,200 --> 00:54:09,319
+tu peux déposer la manette
+
+1352
+00:54:09,319 --> 00:54:13,740
+vas-y alors oui ceci je vais faire une
+
+1353
+00:54:13,740 --> 00:54:18,240
+petite pause sur le view ceci est un une
+
+1354
+00:54:18,240 --> 00:54:20,940
+dragonne comment est-ce qu'on la met on
+
+1355
+00:54:20,940 --> 00:54:23,880
+prend le truc ici on tire on met sa main
+
+1356
+00:54:23,880 --> 00:54:27,900
+alors ici c'est la gauche donc on met sa
+
+1357
+00:54:27,900 --> 00:54:31,740
+main dans la dragonne on tire ici et du
+
+1358
+00:54:31,740 --> 00:54:33,059
+coup on peut le faire ce qu'on veut ça
+
+1359
+00:54:33,059 --> 00:54:35,460
+tombera pas d'accord
+
+1360
+00:54:35,460 --> 00:54:38,400
+on prend la manette dans sa main on a
+
+1361
+00:54:38,400 --> 00:54:42,420
+grabé tirer on a deux boutons ici pour
+
+1362
+00:54:42,420 --> 00:54:45,240
+jouer à joystick et un menu qui ne faut
+
+1363
+00:54:45,240 --> 00:54:46,559
+pas toucher sauf si on veut sortir de
+
+1364
+00:54:46,559 --> 00:54:48,059
+l'application ou interagir avec oculus
+
+1365
+00:54:48,059 --> 00:54:49,559
+donc celui-là on touche pas celui qui
+
+1366
+00:54:49,559 --> 00:54:52,680
+est tout au bout ici donc bouton JOUER
+
+1367
+00:54:52,680 --> 00:54:56,760
+joystick tiré gravé la manette ça ça
+
+1368
+00:54:56,760 --> 00:54:58,079
+permettraquer la manette donc ne pas
+
+1369
+00:54:58,079 --> 00:55:00,119
+cacher avec sa main et si vous voulez
+
+1370
+00:55:00,119 --> 00:55:03,000
+changer de batterie vous tirez ici comme
+
+1371
+00:55:03,000 --> 00:55:05,460
+ceci et il y a une batterie à retirer et
+
+1372
+00:55:05,460 --> 00:55:07,440
+mettre une nouvelle on vient on remet
+
+1373
+00:55:07,440 --> 00:55:09,319
+comme ceci
+
+1374
+00:55:09,319 --> 00:55:12,240
+dans notre cas ici vu qu'on veut jouer à
+
+1375
+00:55:12,240 --> 00:55:13,859
+un jeu sans les mains on va repasser la
+
+1376
+00:55:13,859 --> 00:55:16,380
+version sans les mains je dépose la
+
+1377
+00:55:16,380 --> 00:55:20,579
+manette je reviens sur son écran
+
+1378
+00:55:20,579 --> 00:55:22,380
+alors normalement maintenant vu que j'ai
+
+1379
+00:55:22,380 --> 00:55:24,900
+testé les manettes à plates comme ceci
+
+1380
+00:55:24,900 --> 00:55:27,780
+on attend un peu bouge tes mains
+
+1381
+00:55:27,780 --> 00:55:28,700
+maintenant
+
+1382
+00:55:28,700 --> 00:55:30,960
+il a ses mains qui sont traquées par les
+
+1383
+00:55:30,960 --> 00:55:33,119
+caméras c'est complètement pété c'est
+
+1384
+00:55:33,119 --> 00:55:35,099
+juste trop génial je pensais qu'il
+
+1385
+00:55:35,099 --> 00:55:36,119
+fallait que je fasse quelque chose non
+
+1386
+00:55:36,119 --> 00:55:37,559
+en fait il faut aller dans un menu il
+
+1387
+00:55:37,559 --> 00:55:38,760
+activé mais on va aller voir ça juste
+
+1388
+00:55:38,760 --> 00:55:40,880
+après
+
+1389
+00:55:41,660 --> 00:55:45,059
+sur le bouton avec ton doigt OK et en
+
+1390
+00:55:45,059 --> 00:55:48,540
+fait le but d'une d'un jeu de démo ça ne
+
+1391
+00:55:48,540 --> 00:55:50,040
+sert pas à jouer ça sert juste à
+
+1392
+00:55:50,040 --> 00:55:52,380
+comprendre ok ça ça marche comme ça dans
+
+1393
+00:55:52,380 --> 00:55:54,540
+la VR ça c'est chouette d'aller dans
+
+1394
+00:55:54,540 --> 00:55:55,980
+Unity regarder le code et le mettre dans
+
+1395
+00:55:55,980 --> 00:55:57,720
+son propre application alors tu peux
+
+1396
+00:55:57,720 --> 00:55:59,760
+voir que tu as des trucs tu peux prendre
+
+1397
+00:55:59,760 --> 00:56:02,099
+pitcher bouger et vu qu'il a pas le
+
+1398
+00:56:02,099 --> 00:56:03,720
+câble vu qu'il a le câble et qui est pas
+
+1399
+00:56:03,720 --> 00:56:05,400
+encore wifi on va éviter de faire ça
+
+1400
+00:56:05,400 --> 00:56:07,319
+juste peut-être la tasse voilà en fait
+
+1401
+00:56:07,319 --> 00:56:08,400
+vous prenez avec les deux doigts comme
+
+1402
+00:56:08,400 --> 00:56:10,020
+ça et si tu prends avec tes deux mains
+
+1403
+00:56:10,020 --> 00:56:13,040
+je crois que tu peux l'agrandir aussi
+
+1404
+00:56:20,940 --> 00:56:22,619
+alors on va passer à la suite parce que
+
+1405
+00:56:22,619 --> 00:56:24,059
+ici le but c'est que la vidéo soit pas
+
+1406
+00:56:24,059 --> 00:56:25,500
+trop loin qu'on installe des trucs à la
+
+1407
+00:56:25,500 --> 00:56:27,540
+base cette vidéo c'est les installations
+
+1408
+00:56:27,540 --> 00:56:29,280
+donc on va continuer de les
+
+1409
+00:56:29,280 --> 00:56:32,780
+installations et on fera une démo tantôt
+
+1410
+00:56:35,480 --> 00:56:37,380
+tu peux mettre le casque on va montrer
+
+1411
+00:56:37,380 --> 00:56:39,119
+si jamais les mains sont pas activées
+
+1412
+00:56:39,119 --> 00:56:41,460
+parce que le casque était mal c'est top
+
+1413
+00:56:41,460 --> 00:56:43,319
+à part nos équipes ou parce que vous
+
+1414
+00:56:43,319 --> 00:56:44,520
+vous ne savez pas comment on le fait
+
+1415
+00:56:44,520 --> 00:56:45,960
+vous avez jamais joué vous n'êtes pas
+
+1416
+00:56:45,960 --> 00:56:49,800
+ici à Molenbeek tu peux soit avec les
+
+1417
+00:56:49,800 --> 00:56:51,960
+manettes poussées sur les boutons menus
+
+1418
+00:56:51,960 --> 00:56:53,940
+donc je vais passer les manettes et
+
+1419
+00:56:53,940 --> 00:56:55,260
+alors le bouton MENU pour ceux qui ne
+
+1420
+00:56:55,260 --> 00:56:57,540
+savent pas c'est ce petit bouton qui est
+
+1421
+00:56:57,540 --> 00:57:00,480
+ici là vous laissez enfoncer quelques
+
+1422
+00:57:00,480 --> 00:57:02,339
+secondes alors je peux te passer la
+
+1423
+00:57:02,339 --> 00:57:04,859
+manette donc c'est celui-ci voilà tu
+
+1424
+00:57:04,859 --> 00:57:06,839
+laisses enfoncer deux secondes voilà ça
+
+1425
+00:57:06,839 --> 00:57:08,400
+c'est pour reset l'endroit où on veut
+
+1426
+00:57:08,400 --> 00:57:11,540
+jouer et si tu cliques une seule fois
+
+1427
+00:57:11,940 --> 00:57:14,760
+voilà il va demander est-ce que vous
+
+1428
+00:57:14,760 --> 00:57:16,140
+voulez continuer ou quitter ici on va
+
+1429
+00:57:16,140 --> 00:57:17,819
+quitter
+
+1430
+00:57:17,819 --> 00:57:20,339
+on va aller dans le menu d'oculus donc
+
+1431
+00:57:20,339 --> 00:57:21,780
+tu vois le wifi avec la batterie tu peux
+
+1432
+00:57:21,780 --> 00:57:24,260
+cliquer dessus et dedans tu as
+
+1433
+00:57:24,260 --> 00:57:27,740
+paramètres tout de suite à droite
+
+1434
+00:57:27,740 --> 00:57:32,119
+alors dans Paramètres tu as
+
+1435
+00:57:32,119 --> 00:57:34,260
+suivi de mouvement ou quelque chose
+
+1436
+00:57:34,260 --> 00:57:36,480
+comme ça suivi de mouvement en bas à
+
+1437
+00:57:36,480 --> 00:57:38,460
+gauche
+
+1438
+00:57:38,460 --> 00:57:41,059
+je suis désolé
+
+1439
+00:57:43,520 --> 00:57:46,319
+et dedans on voit qu'il a suivi des
+
+1440
+00:57:46,319 --> 00:57:47,640
+mains il est en bleu donc c'est bon le
+
+1441
+00:57:47,640 --> 00:57:50,420
+suivi des mains est activé
+
+1442
+00:57:50,420 --> 00:57:52,740
+ça et quand vous l'activez vous avez un
+
+1443
+00:57:52,740 --> 00:57:54,359
+mini tuto qui va se lancer en disant
+
+1444
+00:57:54,359 --> 00:57:56,040
+voici vos mains vous pouvez bouger et
+
+1445
+00:57:56,040 --> 00:57:57,480
+tout une fois que vous avez fini le tuto
+
+1446
+00:57:57,480 --> 00:57:59,460
+vous pouvez utiliser les modes et
+
+1447
+00:57:59,460 --> 00:58:00,359
+normalement les cases devraient arriver
+
+1448
+00:58:00,359 --> 00:58:02,339
+préconfiguré pour ceux qui sont dans
+
+1449
+00:58:02,339 --> 00:58:06,079
+l'événement je te redonne ça voilà voilà
+
+1450
+00:58:06,079 --> 00:58:07,980
+alors on en est où au niveau des
+
+1451
+00:58:07,980 --> 00:58:09,480
+installations maintenant qu'on arrive à
+
+1452
+00:58:09,480 --> 00:58:11,339
+faire tout ça on a c'est Quest on a ça
+
+1453
+00:58:11,339 --> 00:58:15,059
+on a USB on a le temps alors on estime
+
+1454
+00:58:15,059 --> 00:58:18,780
+vert qui reste donc déjà où est-ce qu'il
+
+1455
+00:58:18,780 --> 00:58:21,380
+en est United déjà
+
+1456
+00:58:21,380 --> 00:58:23,339
+est-ce qu'il a installé ou est-ce qu'il
+
+1457
+00:58:23,339 --> 00:58:26,119
+va commencer l'installation
+
+1458
+00:58:27,180 --> 00:58:28,380
+je crois qu'il commence l'installation
+
+1459
+00:58:28,380 --> 00:58:30,720
+alors on a joué on a fait plein de
+
+1460
+00:58:30,720 --> 00:58:32,540
+choses mais il y a eu un message de
+
+1461
+00:58:32,540 --> 00:58:35,220
+demandais d'installer Visual Studio
+
+1462
+00:58:35,220 --> 00:58:37,200
+alors Visual Studio prend son temps à
+
+1463
+00:58:37,200 --> 00:58:39,299
+s'installer donc ça va être encore un
+
+1464
+00:58:39,299 --> 00:58:42,180
+truc un peu long il est non il est là où
+
+1465
+00:58:42,180 --> 00:58:44,520
+il est pas là alors ici il faut que tu
+
+1466
+00:58:44,520 --> 00:58:47,099
+aies développement de Netflix tu peux
+
+1467
+00:58:47,099 --> 00:58:49,559
+l'activer normalement il est celui-là
+
+1468
+00:58:49,559 --> 00:58:52,260
+attends je peux alors vous aurez besoin
+
+1469
+00:58:52,260 --> 00:58:54,119
+de d'autres nets parce que d'autres net
+
+1470
+00:58:54,119 --> 00:58:55,140
+c'est une librairie qui permet de faire
+
+1471
+00:58:55,140 --> 00:58:56,819
+du séchage donc dans tous les cas ça
+
+1472
+00:58:56,819 --> 00:58:58,920
+vaut la peine de l'avoir ici on fait pas
+
+1473
+00:58:58,920 --> 00:59:00,240
+du ici donc on va pas mettre du python
+
+1474
+00:59:00,240 --> 00:59:01,799
+si vous voulez mettre du python c'est là
+
+1475
+00:59:01,799 --> 00:59:03,839
+qu'il fallait le mettre on va descendre
+
+1476
+00:59:03,839 --> 00:59:06,859
+le petit menu
+
+1477
+00:59:06,859 --> 00:59:09,619
+voilà
+
+1478
+00:59:09,619 --> 00:59:11,819
+Windows Universal plateforme c'est si
+
+1479
+00:59:11,819 --> 00:59:13,200
+vous voulez faire du développement pour
+
+1480
+00:59:13,200 --> 00:59:15,119
+Windows
+
+1481
+00:59:15,119 --> 00:59:16,980
+alors ici il faut vraiment faire
+
+1482
+00:59:16,980 --> 00:59:21,020
+attention que Unity soit bien active
+
+1483
+00:59:21,180 --> 00:59:23,160
+on ne fait pas du C++ Unity c'est du
+
+1484
+00:59:23,160 --> 00:59:26,540
+sécharpe développement expansion
+
+1485
+00:59:26,540 --> 00:59:28,799
+a priori c'est tout ça me paraît bizarre
+
+1486
+00:59:28,799 --> 00:59:29,640
+ce qui me semblait qu'il y avait un
+
+1487
+00:59:29,640 --> 00:59:31,079
+autre mais à priori c'est bon donc
+
+1488
+00:59:31,079 --> 00:59:35,160
+DotNet Unity ça il y a peut-être elle
+
+1489
+00:59:35,160 --> 00:59:37,400
+tous ses ppm et on a vu
+
+1490
+00:59:37,400 --> 00:59:40,079
+comme j'ai déjà à mon avis il est déjà
+
+1491
+00:59:40,079 --> 00:59:43,559
+installé donc on va dire installer et là
+
+1492
+00:59:43,559 --> 00:59:45,960
+il va lancer l'installation alors ce qui
+
+1493
+00:59:45,960 --> 00:59:46,859
+est possible c'est qu'il était installé
+
+1494
+00:59:46,859 --> 00:59:48,480
+il y a 2022 avec l'installer s'est
+
+1495
+00:59:48,480 --> 00:59:51,119
+déclenchée et que on va voir ici tu en
+
+1496
+00:59:51,119 --> 00:59:53,160
+as deux tu en as un qui est en train de
+
+1497
+00:59:53,160 --> 00:59:54,079
+se modifier
+
+1498
+00:59:54,079 --> 00:59:56,940
+on va laisser se faire et on ira on ira
+
+1499
+00:59:56,940 --> 00:59:59,059
+après
+
+1500
+00:59:59,299 --> 01:00:02,359
+le Visual Studio on va aller retourner
+
+1501
+01:00:02,359 --> 01:00:04,859
+dans Steam là tu peux chercher du coup
+
+1502
+01:00:04,859 --> 01:00:09,500
+après steam VR alors la question
+
+1503
+01:00:11,299 --> 01:00:14,640
+voilà donc c'est celui-là dans Steam VR
+
+1504
+01:00:14,640 --> 01:00:18,000
+tu as attends
+
+1505
+01:00:20,700 --> 01:00:21,960
+dans mes souvenirs il faut peut-être
+
+1506
+01:00:21,960 --> 01:00:25,099
+qu'il faut aller dans le magasin
+
+1507
+01:00:25,380 --> 01:00:27,359
+on va aller plutôt sur google tu vas
+
+1508
+01:00:27,359 --> 01:00:29,280
+taper télécharger steam VR et on va les
+
+1509
+01:00:29,280 --> 01:00:30,119
+vérifier maintenant que tu es connecté
+
+1510
+01:00:30,119 --> 01:00:33,140
+si il va bien vouloir
+
+1511
+01:00:33,900 --> 01:00:35,579
+télécharger normalement c'est depuis le
+
+1512
+01:00:35,579 --> 01:00:38,160
+store mais apparemment non
+
+1513
+01:00:38,160 --> 01:00:40,520
+voilà
+
+1514
+01:00:42,720 --> 01:00:44,760
+alors c'est ce truc là qu'il faut aller
+
+1515
+01:00:44,760 --> 01:00:48,180
+chercher jouer au jeu oui
+
+1516
+01:00:48,180 --> 01:00:50,599
+tendance
+
+1517
+01:00:51,200 --> 01:00:53,400
+qu'il a demandé d'installer ça demande à
+
+1518
+01:00:53,400 --> 01:00:54,720
+Steam est-ce que tu voulais installer ça
+
+1519
+01:00:54,720 --> 01:00:58,319
+tu peux dire oui c'est giga 50 c'est 6
+
+1520
+01:00:58,319 --> 01:01:00,119
+Go 56 faut savoir que il vous faut de la
+
+1521
+01:01:00,119 --> 01:01:01,740
+place sur votre PC parce que
+
+1522
+01:01:01,740 --> 01:01:02,880
+oculus setup si vous voulez faire de
+
+1523
+01:01:02,880 --> 01:01:04,940
+l'oculus prend 15 Go un truc comme ça
+
+1524
+01:01:04,940 --> 01:01:08,280
+steam prend 6 Go les jeux prennent très
+
+1525
+01:01:08,280 --> 01:01:09,900
+vite à ou 2 Go mais ici en l'occurrence
+
+1526
+01:01:09,900 --> 01:01:11,040
+on va pas installer le jeu sur le tien
+
+1527
+01:01:11,040 --> 01:01:13,280
+sauf si tu as vraiment envie
+
+1528
+01:01:13,280 --> 01:01:15,359
+Unity prend la place donc ouais il faut
+
+1529
+01:01:15,359 --> 01:01:18,359
+faire de la place sur son PC
+
+1530
+01:01:18,359 --> 01:01:19,619
+oculus c'est top a fini lui de son côté
+
+1531
+01:01:19,619 --> 01:01:21,420
+on va aller voir de du côté d'oculus
+
+1532
+01:01:21,420 --> 01:01:23,540
+c'est top
+
+1533
+01:01:25,980 --> 01:01:28,740
+ok alors ici nous demande est-ce que
+
+1534
+01:01:28,740 --> 01:01:30,319
+vous voulez vous connecter à un compte
+
+1535
+01:01:30,319 --> 01:01:33,920
+méta sachant que
+
+1536
+01:01:33,920 --> 01:01:36,359
+si je vous donne l'accès à molengeek
+
+1537
+01:01:36,359 --> 01:01:38,040
+vous aurez accès à tous les trucs de
+
+1538
+01:01:38,040 --> 01:01:40,440
+molink ici je ne sais pas si je lui
+
+1539
+01:01:40,440 --> 01:01:41,579
+donne accès à mon geek ou si je lui
+
+1540
+01:01:41,579 --> 01:01:43,260
+donne accès à lui-même on va faire accès
+
+1541
+01:01:43,260 --> 01:01:45,420
+à toi-même alors le truc c'est que tu as
+
+1542
+01:01:45,420 --> 01:01:46,680
+pas encore de compte alors pourquoi
+
+1543
+01:01:46,680 --> 01:01:49,140
+est-ce qu'il propose ça en fait Facebook
+
+1544
+01:01:49,140 --> 01:01:51,299
+à la base pour utiliser les quests on
+
+1545
+01:01:51,299 --> 01:01:52,559
+devait utiliser obligatoirement en
+
+1546
+01:01:52,559 --> 01:01:53,760
+compte Facebook mais les gens n'aiment
+
+1547
+01:01:53,760 --> 01:01:56,819
+pas Facebook donc Facebook a dit après
+
+1548
+01:01:56,819 --> 01:02:00,059
+les mois de où on a gueulé a dit écoutez
+
+1549
+01:02:00,059 --> 01:02:01,559
+on va vous créer un autre système qui
+
+1550
+01:02:01,559 --> 01:02:02,760
+peut permettre de vous connecter avec
+
+1551
+01:02:02,760 --> 01:02:05,940
+votre adresse email sur meta donc vous
+
+1552
+01:02:05,940 --> 01:02:06,960
+pouvez toujours pas vous connecter avec
+
+1553
+01:02:06,960 --> 01:02:08,160
+votre adresse email mais vous pouvez
+
+1554
+01:02:08,160 --> 01:02:11,160
+utiliser celui de Meta et si vous dites
+
+1555
+01:02:11,160 --> 01:02:12,359
+que vous arrivez à trouver une
+
+1556
+01:02:12,359 --> 01:02:14,040
+alternative sachez que de toute façon le
+
+1557
+01:02:14,040 --> 01:02:15,960
+compte développeur sera du métal donc si
+
+1558
+01:02:15,960 --> 01:02:17,400
+vous voulez développer sur le Quest il
+
+1559
+01:02:17,400 --> 01:02:19,200
+vous faudra qu'on remette donc ici on va
+
+1560
+01:02:19,200 --> 01:02:21,599
+créer un compte métal configurer un
+
+1561
+01:02:21,599 --> 01:02:23,700
+compte avec la connexion avec une
+
+1562
+01:02:23,700 --> 01:02:27,559
+adresse email connectée avec un compte
+
+1563
+01:02:28,200 --> 01:02:31,700
+tu as cliqué sur le bouton gris
+
+1564
+01:02:36,260 --> 01:02:38,520
+alors j'ai deux trucs qui installent en
+
+1565
+01:02:38,520 --> 01:02:39,440
+même temps
+
+1566
+01:02:39,440 --> 01:02:43,140
+autoriser j'ai des applications VR de
+
+1567
+01:02:43,140 --> 01:02:45,240
+journée pas tu en as pas vu que tu crées
+
+1568
+01:02:45,240 --> 01:02:47,099
+un compte tu peux créer ton adresse
+
+1569
+01:02:47,099 --> 01:02:50,359
+email ça ils avaient vu
+
+1570
+01:02:50,400 --> 01:02:53,660
+je m'apprête à te voir cacher ta fenêtre
+
+1571
+01:02:53,660 --> 01:02:55,940
+je vais cacher en mettant la webcam
+
+1572
+01:02:55,940 --> 01:02:59,160
+attends présent je cache quand même ici
+
+1573
+01:02:59,160 --> 01:03:00,420
+donc on lui demande son nom de famille
+
+1574
+01:03:00,420 --> 01:03:02,960
+et son prénom
+
+1575
+01:03:03,240 --> 01:03:06,319
+son sa date de naissance
+
+1576
+01:03:15,140 --> 01:03:18,660
+alors après sa date de naissance on va
+
+1577
+01:03:18,660 --> 01:03:20,760
+lui demander
+
+1578
+01:03:20,760 --> 01:03:22,559
+donc là on est sur authentification
+
+1579
+01:03:22,559 --> 01:03:24,839
+métape.com qui était ouverte par le
+
+1580
+01:03:24,839 --> 01:03:27,660
+logiciel de oculus setup il crée un mot
+
+1581
+01:03:27,660 --> 01:03:29,640
+de passe alors on lui demande de
+
+1582
+01:03:29,640 --> 01:03:30,839
+vérifier que c'est bien les infos qui
+
+1583
+01:03:30,839 --> 01:03:32,460
+vont enregistrer s'il veut créer un
+
+1584
+01:03:32,460 --> 01:03:34,680
+compte d'accepter les conditions
+
+1585
+01:03:34,680 --> 01:03:37,819
+il a accepté les conditions
+
+1586
+01:03:41,119 --> 01:03:44,220
+de la publicité par mail alors on lui
+
+1587
+01:03:44,220 --> 01:03:45,780
+envoie un message à son adresse email
+
+1588
+01:03:45,780 --> 01:03:48,299
+pour vérifier que c'est une vraie
+
+1589
+01:03:48,299 --> 01:03:50,660
+adresse email
+
+1590
+01:03:54,380 --> 01:03:57,380
+Facebook
+
+1591
+01:03:59,960 --> 01:04:01,579
+prend le numéro
+
+1592
+01:04:01,579 --> 01:04:05,400
+il retourne sur le site de Meta email
+
+1593
+01:04:05,400 --> 01:04:08,240
+numéro dans le champ
+
+1594
+01:04:08,640 --> 01:04:10,380
+voilà
+
+1595
+01:04:10,380 --> 01:04:13,460
+alors là je peux revenir sur toi
+
+1596
+01:04:14,960 --> 01:04:17,819
+il autorise les cookies il a mis tous
+
+1597
+01:04:17,819 --> 01:04:19,079
+les trucs il a validé le numéro de
+
+1598
+01:04:19,079 --> 01:04:21,359
+confirmation et le voilà dans meta avec
+
+1599
+01:04:21,359 --> 01:04:23,280
+une magnifique vidéo d'introduction mais
+
+1600
+01:04:23,280 --> 01:04:24,319
+on va passer
+
+1601
+01:04:24,319 --> 01:04:26,880
+là tu dois mettre ton nom et ton nom
+
+1602
+01:04:26,880 --> 01:04:28,200
+d'utilisateur que tu veux qu'il soit
+
+1603
+01:04:28,200 --> 01:04:31,740
+remis dans le métal vert parce que en
+
+1604
+01:04:31,740 --> 01:04:34,619
+l'occurrence attention je vais frapper
+
+1605
+01:04:34,619 --> 01:04:37,140
+des gens le métaverse un mot de
+
+1606
+01:04:37,140 --> 01:04:38,460
+vocabulaire qui existait déjà bien avant
+
+1607
+01:04:38,460 --> 01:04:40,859
+Facebook mais que Facebook a méga
+
+1608
+01:04:40,859 --> 01:04:43,140
+amplifié du coup en fait pour la
+
+1609
+01:04:43,140 --> 01:04:44,760
+majorité des gens le métaphe ça veut
+
+1610
+01:04:44,760 --> 01:04:47,160
+dire la VR pas du tout la métaverse
+
+1611
+01:04:47,160 --> 01:04:49,500
+c'est pas du tout la verre mais en
+
+1612
+01:04:49,500 --> 01:04:51,420
+l'occurrence ici ce que Mark Zucker dit
+
+1613
+01:04:51,420 --> 01:04:53,339
+avec le métaverse c'est le fait d'avoir
+
+1614
+01:04:53,339 --> 01:04:56,160
+un réseau social où en fait on peut voir
+
+1615
+01:04:56,160 --> 01:04:58,260
+des objets en 3D aller voir communiquer
+
+1616
+01:04:58,260 --> 01:04:59,880
+vocalement avec des gens on peut se
+
+1617
+01:04:59,880 --> 01:05:02,280
+balader on peut lancer des petits jeux
+
+1618
+01:05:02,280 --> 01:05:03,780
+des trucs comme ça c'est ce que mais ce
+
+1619
+01:05:03,780 --> 01:05:05,640
+que Marc essaie de faire et de vendre
+
+1620
+01:05:05,640 --> 01:05:08,160
+nous quand on parle de métal c'est ça
+
+1621
+01:05:08,160 --> 01:05:10,980
+ici nous on veut pas faire du métaverse
+
+1622
+01:05:10,980 --> 01:05:12,900
+dans ce hackathon on veut apprendre à
+
+1623
+01:05:12,900 --> 01:05:13,859
+faire des applications de réalité
+
+1624
+01:05:13,859 --> 01:05:15,359
+virtuelle sur les cases de réalité
+
+1625
+01:05:15,359 --> 01:05:16,980
+virtuelle donc on fait de la réalité
+
+1626
+01:05:16,980 --> 01:05:19,380
+virtuelle de la réalité augmentée ou de
+
+1627
+01:05:19,380 --> 01:05:21,420
+la réalité mixte la différence je lui
+
+1628
+01:05:21,420 --> 01:05:22,260
+expliquerai dans une vidéo mais
+
+1629
+01:05:22,260 --> 01:05:25,920
+basiquement VR c'est on est isolé arc on
+
+1630
+01:05:25,920 --> 01:05:29,099
+voit le monde Mr mix reality et on voit
+
+1631
+01:05:29,099 --> 01:05:31,799
+le monde et on interagit avec
+
+1632
+01:05:31,799 --> 01:05:33,380
+alors ici
+
+1633
+01:05:33,380 --> 01:05:35,900
+solo oui
+
+1634
+01:05:35,900 --> 01:05:39,000
+on va cacher hide actif c'est toi qui
+
+1635
+01:05:39,000 --> 01:05:40,559
+vois ça si tu veux te cacher ou pas par
+
+1636
+01:05:40,559 --> 01:05:41,700
+rapport à aux autres qui sont dans le
+
+1637
+01:05:41,700 --> 01:05:44,280
+truc pour l'instant on va rester comme
+
+1638
+01:05:44,280 --> 01:05:46,339
+ça
+
+1639
+01:05:47,579 --> 01:05:51,140
+on accepte le truc
+
+1640
+01:05:51,900 --> 01:05:55,799
+alors continuez oui
+
+1641
+01:05:55,799 --> 01:05:58,160
+ouvrir
+
+1642
+01:05:58,380 --> 01:06:00,720
+voilà donc là il a créé son adresse et
+
+1643
+01:06:00,720 --> 01:06:03,119
+on retourne vers l'application où il va
+
+1644
+01:06:03,119 --> 01:06:06,059
+pouvoir valider qu'il est voilà alors tu
+
+1645
+01:06:06,059 --> 01:06:10,200
+peux prendre random truc
+
+1646
+01:06:10,200 --> 01:06:11,700
+ça c'est une bête icône pour que vous
+
+1647
+01:06:11,700 --> 01:06:14,880
+appréciez sur vous connaissez ce que
+
+1648
+01:06:14,880 --> 01:06:15,680
+c'est
+
+1649
+01:06:15,680 --> 01:06:19,380
+apprendre à dinosaure confirmer
+
+1650
+01:06:19,380 --> 01:06:20,760
+alors est-ce que tu veux être
+
+1651
+01:06:20,760 --> 01:06:23,000
+développeur
+
+1652
+01:06:23,000 --> 01:06:26,099
+alors la prochaine vidéo on va passer
+
+1653
+01:06:26,099 --> 01:06:28,319
+son compte en mode développeur vous
+
+1654
+01:06:28,319 --> 01:06:29,280
+n'êtes pas obligé de le faire pour le
+
+1655
+01:06:29,280 --> 01:06:31,020
+hackathon parce que basiquement sur la
+
+1656
+01:06:31,020 --> 01:06:32,460
+Caton on les couettes sont déjà en mode
+
+1657
+01:06:32,460 --> 01:06:33,839
+développeurs avec moling mais juste pour
+
+1658
+01:06:33,839 --> 01:06:36,420
+le fun de savoir comment on fait on va
+
+1659
+01:06:36,420 --> 01:06:37,440
+le passer en mode développeur dans la
+
+1660
+01:06:37,440 --> 01:06:38,720
+prochaine vidéo
+
+1661
+01:06:38,720 --> 01:06:42,740
+quand tu veux télécharger
+
+1662
+01:06:48,799 --> 01:06:51,619
+des actions du coup je vais aller cacher
+
+1663
+01:06:51,619 --> 01:06:55,920
+2 secondes donc ici on demande à pin ce
+
+1664
+01:06:55,920 --> 01:06:58,380
+pin il va servir à cacher à donner à
+
+1665
+01:06:58,380 --> 01:06:59,539
+droite de
+
+1666
+01:06:59,539 --> 01:07:01,859
+dans le Quest c'est à dire que quand
+
+1667
+01:07:01,859 --> 01:07:03,359
+vous acceptez d'acheter un truc on veut
+
+1668
+01:07:03,359 --> 01:07:04,980
+pas que vous ayez sur Paypal que vous
+
+1669
+01:07:04,980 --> 01:07:06,720
+acceptez et que vous passez votre temps
+
+1670
+01:07:06,720 --> 01:07:08,400
+dingue allez faire ça donc du coup ici
+
+1671
+01:07:08,400 --> 01:07:10,079
+vous dites ok c'est bon je valide si
+
+1672
+01:07:10,079 --> 01:07:12,000
+jamais ces quatre numéros reviennent tu
+
+1673
+01:07:12,000 --> 01:07:15,059
+acceptes le droit du mail ce que je dois
+
+1674
+01:07:15,059 --> 01:07:18,119
+configurer le Costic alors le questling
+
+1675
+01:07:18,119 --> 01:07:19,680
+on le configura pas maintenant mais on
+
+1676
+01:07:19,680 --> 01:07:21,299
+confira dans une autre vidéo tantôt si
+
+1677
+01:07:21,299 --> 01:07:23,780
+on a le temps
+
+1678
+01:07:28,819 --> 01:07:33,480
+ok voilà on se retrouve ici dans le
+
+1679
+01:07:33,480 --> 01:07:36,180
+logiciel d'oculus qui en fait c'est
+
+1680
+01:07:36,180 --> 01:07:37,859
+oculus et métal la différence c'est la
+
+1681
+01:07:37,859 --> 01:07:39,359
+même chose c'est oculus a été racheté
+
+1682
+01:07:39,359 --> 01:07:41,160
+par meta donc maintenant il possède
+
+1683
+01:07:41,160 --> 01:07:42,260
+totalement
+
+1684
+01:07:42,260 --> 01:07:44,220
+métape cette totalement oculus donc
+
+1685
+01:07:44,220 --> 01:07:45,960
+Facebook tout peut-être totalement
+
+1686
+01:07:45,960 --> 01:07:47,700
+oculus vous voyez c'est un peu compliqué
+
+1687
+01:07:47,700 --> 01:07:50,839
+mais non
+
+1688
+01:07:51,559 --> 01:07:54,240
+ça le problème c'est que il y a plein de
+
+1689
+01:07:54,240 --> 01:07:55,079
+cartes graphiques qui sont pas
+
+1690
+01:07:55,079 --> 01:07:56,940
+compatibles avec la VR mais il y a une
+
+1691
+01:07:56,940 --> 01:07:57,839
+différence entre ne pas être compatible
+
+1692
+01:07:57,839 --> 01:07:58,920
+et pas du tout arriver à le faire
+
+1693
+01:07:58,920 --> 01:08:00,960
+tourner ici pas compatible c'est à dire
+
+1694
+01:08:00,960 --> 01:08:02,880
+que il déconseille et que ça a peut-être
+
+1695
+01:08:02,880 --> 01:08:05,819
+pas marché mais si ça se trouve on va
+
+1696
+01:08:05,819 --> 01:08:07,980
+lancer ça a marché on va faire on fera
+
+1697
+01:08:07,980 --> 01:08:08,819
+un test
+
+1698
+01:08:08,819 --> 01:08:10,799
+alors ce qui est important de faire par
+
+1699
+01:08:10,799 --> 01:08:11,760
+rapport ici c'est juste de comprendre
+
+1700
+01:08:11,760 --> 01:08:13,020
+que c'est un magasin qu'on peut
+
+1701
+01:08:13,020 --> 01:08:14,220
+installer on peut aller chercher des
+
+1702
+01:08:14,220 --> 01:08:15,720
+trucs on peut voir les Quest qui sont
+
+1703
+01:08:15,720 --> 01:08:18,560
+connectés des trucs comme ça
+
+1704
+01:08:18,560 --> 01:08:20,839
+et puis en gros voilà
+
+1705
+01:08:20,839 --> 01:08:23,339
+Unity visuel on va d'abord se focus sur
+
+1706
+01:08:23,339 --> 01:08:26,000
+le fait de finir Unity et visual
+
+1707
+01:08:26,000 --> 01:08:29,040
+lui il est fini ok donc tu peux le faire
+
+1708
+01:08:29,040 --> 01:08:31,580
+mais celui-ci
+
+1709
+01:08:31,580 --> 01:08:35,040
+voilà alors normalement il y a besoin
+
+1710
+01:08:35,040 --> 01:08:36,000
+d'un compte mais je crois qu'on peut
+
+1711
+01:08:36,000 --> 01:08:37,799
+passer donc me rappeler ultérieurement
+
+1712
+01:08:37,799 --> 01:08:42,179
+sombre pour économiser de l'énergie
+
+1713
+01:08:42,179 --> 01:08:45,380
+et aussi parce que c'est plus stylé
+
+1714
+01:08:45,540 --> 01:08:50,960
+parce que on en est où on en est à
+
+1715
+01:08:50,960 --> 01:08:52,799
+ouais il a fini donc il a fini
+
+1716
+01:08:52,799 --> 01:08:53,698
+d'installer l'estime donc maintenant
+
+1717
+01:08:53,698 --> 01:08:54,899
+théoriquement il pourra jouer à des jeux
+
+1718
+01:08:54,899 --> 01:08:58,758
+VR sur son PC
+
+1719
+01:08:58,880 --> 01:09:01,799
+alors ici c'était quoi ça alors on était
+
+1720
+01:09:01,799 --> 01:09:04,439
+en train d'installer c'est pour le Link
+
+1721
+01:09:04,439 --> 01:09:07,560
+mais on le montrera après le locus c'est
+
+1722
+01:09:07,560 --> 01:09:08,520
+juste pour montrer qu'il y a un magasin
+
+1723
+01:09:08,520 --> 01:09:10,080
+que vous pouvez afficher les
+
+1724
+01:09:10,080 --> 01:09:13,679
+applications 2019 ouais alors c'est pas
+
+1725
+01:09:13,679 --> 01:09:14,698
+grave celui-là tu peux le faire mais
+
+1726
+01:09:14,698 --> 01:09:16,259
+c'était juste qu'il a ouvert studio on
+
+1727
+01:09:16,259 --> 01:09:18,719
+va retourner sur Unity hub c'est le
+
+1728
+01:09:18,719 --> 01:09:22,259
+petit la petite icône grise voilà alors
+
+1729
+01:09:22,259 --> 01:09:24,179
+la limity up qu'est-ce qui nous dit il
+
+1730
+01:09:24,179 --> 01:09:26,100
+nous dit qu'on a créé un projet initi
+
+1731
+01:09:26,100 --> 01:09:27,839
+alors qu'on a installé pardon Unity
+
+1732
+01:09:27,839 --> 01:09:29,580
+cette version là donc installé la même
+
+1733
+01:09:29,580 --> 01:09:32,580
+je vous rappelle vous pouvez ramasser
+
+1734
+01:09:32,580 --> 01:09:34,319
+les plats sur votre ordinateur ici moi
+
+1735
+01:09:34,319 --> 01:09:36,479
+quand je fais des projets je me retrouve
+
+1736
+01:09:36,479 --> 01:09:38,100
+souvent avec une dizaine de versions sur
+
+1737
+01:09:38,100 --> 01:09:40,620
+l'ordinateur parce qu'on a les autres on
+
+1738
+01:09:40,620 --> 01:09:42,600
+a les vieilles versions d'Unity les plus
+
+1739
+01:09:42,600 --> 01:09:44,040
+récentes où on fait des tests celles
+
+1740
+01:09:44,040 --> 01:09:45,479
+qu'on utilise vraiment pour le projet
+
+1741
+01:09:45,479 --> 01:09:47,640
+donc si vous avez de la place au disque
+
+1742
+01:09:47,640 --> 01:09:50,100
+dur vous pourrez installer plein ici on
+
+1743
+01:09:50,100 --> 01:09:51,600
+va créer un projet vif jusqu'au ça vous
+
+1744
+01:09:51,600 --> 01:09:53,939
+voyez comment on crée un projet vide
+
+1745
+01:09:53,939 --> 01:09:56,640
+et la version Unity sera déjà comme ça
+
+1746
+01:09:56,640 --> 01:09:59,699
+sera déjà vu donc tu vas pouvoir aller
+
+1747
+01:09:59,699 --> 01:10:02,840
+dans le projet créer un nouveau projet
+
+1748
+01:10:02,840 --> 01:10:06,540
+voilà alors ici il va vous demander quel
+
+1749
+01:10:06,540 --> 01:10:08,219
+type de projet vous voulez faire ok
+
+1750
+01:10:08,219 --> 01:10:10,679
+alors normalement dedans il devrait y
+
+1751
+01:10:10,679 --> 01:10:13,020
+avoir u RP je le vois pas tu as pas peur
+
+1752
+01:10:13,020 --> 01:10:14,160
+ah non c'est parce qu'il a ouvert
+
+1753
+01:10:14,160 --> 01:10:15,600
+learning pour que tu puisses la forme
+
+1754
+01:10:15,600 --> 01:10:17,880
+faut aller dans tous les pattern donc
+
+1755
+01:10:17,880 --> 01:10:20,280
+projet nouveau
+
+1756
+01:10:20,280 --> 01:10:23,520
+ok voilà dedans il a tous les patins
+
+1757
+01:10:23,520 --> 01:10:25,380
+dedans vous voyez qu'il y a deux dés 3D
+
+1758
+01:10:25,380 --> 01:10:26,880
+URP en fait
+
+1759
+01:10:26,880 --> 01:10:28,739
+URP ça veut dire Universal run Dering
+
+1760
+01:10:28,739 --> 01:10:31,140
+Papeline l'ancien modèle n'était pas en
+
+1761
+01:10:31,140 --> 01:10:32,760
+URP donc si vous voyez 2D ou 3D cliquez
+
+1762
+01:10:32,760 --> 01:10:35,820
+pas dessus allez dans 2D ou 3D URP et en
+
+1763
+01:10:35,820 --> 01:10:37,560
+fait URPS ça va permettre de faire que
+
+1764
+01:10:37,560 --> 01:10:39,120
+ça tourne sur toutes les plateformes de
+
+1765
+01:10:39,120 --> 01:10:40,380
+manière efficace c'est cool c'est le
+
+1766
+01:10:40,380 --> 01:10:41,900
+nouveau système basiquement
+
+1767
+01:10:41,900 --> 01:10:45,300
+parce que je prends le son alors on va
+
+1768
+01:10:45,300 --> 01:10:47,400
+prendre le 3D sans le simple parce que
+
+1769
+01:10:47,400 --> 01:10:49,860
+ça peut aller un peu lourd alors ici ce
+
+1770
+01:10:49,860 --> 01:10:51,179
+qui se passe c'est que c'est pas plein
+
+1771
+01:10:51,179 --> 01:10:52,560
+de versions Unity c'est la même version
+
+1772
+01:10:52,560 --> 01:10:54,659
+Unity sauf que là ce que vous allez
+
+1773
+01:10:54,659 --> 01:10:56,219
+télécharger c'est des outils des boîtes
+
+1774
+01:10:56,219 --> 01:10:57,360
+à outils qui seront prêts à installer
+
+1775
+01:10:57,360 --> 01:10:58,620
+dans votre Unity c'est pour commencer
+
+1776
+01:10:58,620 --> 01:11:00,179
+directement en mode c'est bon je peux
+
+1777
+01:11:00,179 --> 01:11:01,679
+bosser vous pouvez en créer pour
+
+1778
+01:11:01,679 --> 01:11:03,540
+vous-même mais ici on va l'utiliser ceux
+
+1779
+01:11:03,540 --> 01:11:06,620
+de Unity nous propose
+
+1780
+01:11:07,100 --> 01:11:09,960
+alors là il lui a créé projet à la
+
+1781
+01:11:09,960 --> 01:11:12,300
+racine de user quelque part normalement
+
+1782
+01:11:12,300 --> 01:11:13,620
+essaie de trouver un endroit où vous
+
+1783
+01:11:13,620 --> 01:11:15,060
+déposez tous vos projets Unity pour que
+
+1784
+01:11:15,060 --> 01:11:16,679
+ce soit pas le footoir et alors
+
+1785
+01:11:16,679 --> 01:11:18,900
+attention que Windows n'a que 255
+
+1786
+01:11:18,900 --> 01:11:21,239
+caractères de longueur donc plus l'eau
+
+1787
+01:11:21,239 --> 01:11:22,440
+plus vous allez loin dans le chemin
+
+1788
+01:11:22,440 --> 01:11:24,120
+d'accès c'est à dire l'endroit où vous
+
+1789
+01:11:24,120 --> 01:11:26,580
+déposez l'espèce de texte ici qui peut
+
+1790
+01:11:26,580 --> 01:11:28,500
+qui met en surbrillance plus vous
+
+1791
+01:11:28,500 --> 01:11:30,780
+risquez d'avoir les 255 caractères alors
+
+1792
+01:11:30,780 --> 01:11:32,219
+pourquoi est-ce que je vous dis ça c'est
+
+1793
+01:11:32,219 --> 01:11:33,360
+parce que moi en tant que développeur je
+
+1794
+01:11:33,360 --> 01:11:36,719
+suis un gros j'adore avoir des longs
+
+1795
+01:11:36,719 --> 01:11:37,920
+noms de classe très long pour pouvoir
+
+1796
+01:11:37,920 --> 01:11:39,900
+savoir ce qu'elle fait et donc du coup
+
+1797
+01:11:39,900 --> 01:11:41,159
+quand vous allez avoir utilisé mes
+
+1798
+01:11:41,159 --> 01:11:42,540
+outils vous allez déjà avoir perdre son
+
+1799
+01:11:42,540 --> 01:11:43,739
+caractère
+
+1800
+01:11:43,739 --> 01:11:45,840
+parce que le nom du projet plus le nom
+
+1801
+01:11:45,840 --> 01:11:49,260
+de la variable plus on perd vite
+
+1802
+01:11:49,260 --> 01:11:50,520
+donc ce que je veux dire c'est essayer
+
+1803
+01:11:50,520 --> 01:11:52,020
+de le rapprocher le plus bas de le plus
+
+1804
+01:11:52,020 --> 01:11:54,719
+proche de ces ou de des du bas de la
+
+1805
+01:11:54,719 --> 01:11:57,179
+racine si vous voyez ce que je veux dire
+
+1806
+01:11:57,179 --> 01:11:59,280
+si vous voyez pas poser la question à
+
+1807
+01:11:59,280 --> 01:12:01,440
+Google ou venez me voir un peu de temps
+
+1808
+01:12:01,440 --> 01:12:03,420
+alors oui effectivement installer une
+
+1809
+01:12:03,420 --> 01:12:04,800
+ici prend son temps parce que ici ce qui
+
+1810
+01:12:04,800 --> 01:12:07,679
+se passe le projet Unity parce qu'en
+
+1811
+01:12:07,679 --> 01:12:08,940
+fait ce qui se passe c'est que il crée
+
+1812
+01:12:08,940 --> 01:12:10,199
+les dossiers il crée les fichiers
+
+1813
+01:12:10,199 --> 01:12:12,179
+temporaires il va télécharger les boîtes
+
+1814
+01:12:12,179 --> 01:12:13,739
+à outils qu'il a besoin sur internet si
+
+1815
+01:12:13,739 --> 01:12:15,360
+c'est pas déjà le cas il va les
+
+1816
+01:12:15,360 --> 01:12:16,320
+réinstaller mettre tout correctement
+
+1817
+01:12:16,320 --> 01:12:17,699
+donc là il est en train de créer tout ce
+
+1818
+01:12:17,699 --> 01:12:18,620
+qu'il faut
+
+1819
+01:12:18,620 --> 01:12:22,640
+à l'endroit où on lui a demandé
+
+1820
+01:12:26,780 --> 01:12:28,679
+de toute façon pour les projets je les
+
+1821
+01:12:28,679 --> 01:12:31,699
+mettrai dans le bus
+
+1822
+01:12:42,920 --> 01:12:45,000
+tu peux lancer mais je suis pas sûr
+
+1823
+01:12:45,000 --> 01:12:46,800
+qu'il peut lancera on va voir parce que
+
+1824
+01:12:46,800 --> 01:12:50,400
+le vu que tu as pas encore
+
+1825
+01:12:50,400 --> 01:12:53,340
+on va voir c'est intéressant de regarder
+
+1826
+01:12:53,340 --> 01:12:54,360
+donc là ce qu'on va essayer de faire
+
+1827
+01:12:54,360 --> 01:12:55,620
+c'est de lancer steam VR pour voir s'il
+
+1828
+01:12:55,620 --> 01:12:57,060
+y a besoin absolument de configurer
+
+1829
+01:12:57,060 --> 01:12:59,820
+l'oculus Quest ou s'il y a pas besoin en
+
+1830
+01:12:59,820 --> 01:13:01,920
+fait ici il va pas marcher pour une
+
+1831
+01:13:01,920 --> 01:13:04,199
+simple raison c'est que tu ne l'as pas
+
+1832
+01:13:04,199 --> 01:13:05,460
+encore connecté avec
+
+1833
+01:13:05,460 --> 01:13:08,340
+oculus link ok en fait vu que votre
+
+1834
+01:13:08,340 --> 01:13:10,560
+casque c'est au téléphone Android il
+
+1835
+01:13:10,560 --> 01:13:13,020
+faut utiliser les outils qui simulent le
+
+1836
+01:13:13,020 --> 01:13:14,699
+fait de pouvoir la voir comme un casque
+
+1837
+01:13:14,699 --> 01:13:17,280
+normal quand vous utilisez oculus setup
+
+1838
+01:13:17,280 --> 01:13:18,780
+il peut simuler c'est ce qu'on appelle
+
+1839
+01:13:18,780 --> 01:13:22,260
+l'oculus link c'est ce que on propose ce
+
+1840
+01:13:22,260 --> 01:13:24,179
+qui nous proposait ici au début l'autre
+
+1841
+01:13:24,179 --> 01:13:26,040
+solution c'est d'utiliser une
+
+1842
+01:13:26,040 --> 01:13:27,420
+application sur votre téléphone qui
+
+1843
+01:13:27,420 --> 01:13:29,760
+s'appelle aldr ou Virtual Desktop qui va
+
+1844
+01:13:29,760 --> 01:13:31,380
+envoyer les données à une application
+
+1845
+01:13:31,380 --> 01:13:33,900
+sur votre PC et qui lui va simuler le
+
+1846
+01:13:33,900 --> 01:13:35,520
+fait d'avoir un casque c'est un peu
+
+1847
+01:13:35,520 --> 01:13:37,080
+compliqué c'est pour ça que je ferai une
+
+1848
+01:13:37,080 --> 01:13:39,140
+vidéo dédiée à ça un autre jour
+
+1849
+01:13:39,140 --> 01:13:42,360
+mais voilà alors est-ce qu'on essaye le
+
+1850
+01:13:42,360 --> 01:13:44,340
+plus link en attendant que ça s'installe
+
+1851
+01:13:44,340 --> 01:13:47,520
+ok on va faire ça alors tu peux aller
+
+1852
+01:13:47,520 --> 01:13:51,060
+sur appareil ici tu vas cliquer dessus
+
+1853
+01:13:51,060 --> 01:13:52,620
+et alors là il est revenu qui apparaît
+
+1854
+01:13:52,620 --> 01:13:54,960
+tu vas pouvoir aller chercher configurer
+
+1855
+01:13:54,960 --> 01:13:58,440
+l'appareil voilà et il va demander par
+
+1856
+01:13:58,440 --> 01:14:00,179
+wifi ou par câble vous pouvez faire par
+
+1857
+01:14:00,179 --> 01:14:01,679
+wifi mais vu que le bâtiment dans lequel
+
+1858
+01:14:01,679 --> 01:14:03,000
+on est n'est pas terrible niveau du wifi
+
+1859
+01:14:03,000 --> 01:14:04,679
+si vous n'avez pas votre propre routeur
+
+1860
+01:14:04,679 --> 01:14:05,780
+il faudra le faire au niveau du câble
+
+1861
+01:14:05,780 --> 01:14:08,640
+donc encore une fois ça ne marche que si
+
+1862
+01:14:08,640 --> 01:14:09,780
+vous avez un ordinateur qui se fait
+
+1863
+01:14:09,780 --> 01:14:11,040
+faire tourner la VR ici en l'occurrence
+
+1864
+01:14:11,040 --> 01:14:13,380
+alors question imaginons que j'utilise
+
+1865
+01:14:13,380 --> 01:14:15,780
+mon téléphone comme moteur je fais un je
+
+1866
+01:14:15,780 --> 01:14:17,219
+crée un réseau sur le téléphone je le
+
+1867
+01:14:17,219 --> 01:14:19,199
+partage et ce qui sera assez puissant
+
+1868
+01:14:19,199 --> 01:14:22,020
+pour pouvoir le faire ça va dépendre des
+
+1869
+01:14:22,020 --> 01:14:22,860
+composants qui est dans ton téléphone
+
+1870
+01:14:22,860 --> 01:14:25,739
+mais peut-être donc vous pouvez essayer
+
+1871
+01:14:25,739 --> 01:14:26,820
+votre téléphone si vous voulez mais
+
+1872
+01:14:26,820 --> 01:14:28,500
+votre téléphone va avoir la batterie qui
+
+1873
+01:14:28,500 --> 01:14:31,140
+se vide donc il faut ça peut peut-être
+
+1874
+01:14:31,140 --> 01:14:33,960
+marcher donc je suis en câble alors
+
+1875
+01:14:33,960 --> 01:14:36,480
+continuez
+
+1876
+01:14:36,480 --> 01:14:38,760
+vérifier votre connexion par câble ah tu
+
+1877
+01:14:38,760 --> 01:14:40,739
+l'as bien branché oui tu peux le mettre
+
+1878
+01:14:40,739 --> 01:14:42,540
+sur ta tête comme ça on est sûr que il y
+
+1879
+01:14:42,540 --> 01:14:43,920
+a pas de problème avec ça donc là il
+
+1880
+01:14:43,920 --> 01:14:46,020
+vient de tester le câble pour savoir si
+
+1881
+01:14:46,020 --> 01:14:47,940
+le câble est bon ou pas mais celui
+
+1882
+01:14:47,940 --> 01:14:50,100
+d'oculus de base donc il est bon mais
+
+1883
+01:14:50,100 --> 01:14:53,360
+pas le meilleur du monde mais il est bon
+
+1884
+01:14:55,699 --> 01:15:00,719
+je vais cliquer sur Fermer voilà alors
+
+1885
+01:15:00,719 --> 01:15:02,159
+est-ce que toi tu vois quelque chose
+
+1886
+01:15:02,159 --> 01:15:04,100
+pour l'instant non non
+
+1887
+01:15:04,100 --> 01:15:07,560
+je vais retourner dans la vue de Side
+
+1888
+01:15:07,560 --> 01:15:09,000
+Quest parce que là du coup on va devoir
+
+1889
+01:15:09,000 --> 01:15:11,040
+aller voir voilà ce qui va se passer
+
+1890
+01:15:11,040 --> 01:15:13,560
+c'est que tu vas prendre des manettes et
+
+1891
+01:15:13,560 --> 01:15:15,300
+il va falloir que tu ailles attends non
+
+1892
+01:15:15,300 --> 01:15:16,380
+t'inquiète pas les manettes sera plus
+
+1893
+01:15:16,380 --> 01:15:18,719
+rapide c'est celle là tes manettes ou
+
+1894
+01:15:18,719 --> 01:15:21,320
+non elles sont derrière
+
+1895
+01:15:22,180 --> 01:15:25,219
+[Musique]
+
+1896
+01:15:28,920 --> 01:15:31,100
+alors
+
+1897
+01:15:33,540 --> 01:15:35,880
+maintenant que tu es là tu vas pouvoir
+
+1898
+01:15:35,880 --> 01:15:37,620
+aller cliquer dans le petit menu sur
+
+1899
+01:15:37,620 --> 01:15:41,000
+c'est le wifi et la batterie
+
+1900
+01:15:41,640 --> 01:15:45,199
+c'est l'autre minceur
+
+1901
+01:15:46,880 --> 01:15:49,320
+t'inquiète je vais pas la protection si
+
+1902
+01:15:49,320 --> 01:15:50,640
+ça te prend ça prend du temps sur la
+
+1903
+01:15:50,640 --> 01:15:52,699
+vidéo
+
+1904
+01:15:54,440 --> 01:15:57,719
+sur la petite batterie et le wifi ok
+
+1905
+01:15:57,719 --> 01:16:00,739
+dedans il y a oculus link
+
+1906
+01:16:00,739 --> 01:16:02,840
+questing
+
+1907
+01:16:02,840 --> 01:16:04,860
+et ici vous demande est-ce que vous
+
+1908
+01:16:04,860 --> 01:16:06,480
+voulez par câble ou par wifi si vous
+
+1909
+01:16:06,480 --> 01:16:07,920
+avez décidé de faire par WIFI vous
+
+1910
+01:16:07,920 --> 01:16:09,360
+changez sur le wifi si vous le faites
+
+1911
+01:16:09,360 --> 01:16:10,620
+par cas vous faites par câble attends
+
+1912
+01:16:10,620 --> 01:16:12,920
+parce que nous on a perdu la vue
+
+1913
+01:16:12,920 --> 01:16:15,659
+autorisé le dépannage USB il me demande
+
+1914
+01:16:15,659 --> 01:16:18,840
+une autorisation alors du coup nous on
+
+1915
+01:16:18,840 --> 01:16:20,600
+voit plus que tu fais donc
+
+1916
+01:16:20,600 --> 01:16:23,580
+là il va devoir autoriser
+
+1917
+01:16:23,580 --> 01:16:24,780
+oculus Link pour pouvoir voir ce qui se
+
+1918
+01:16:24,780 --> 01:16:26,820
+passe et alors là normalement tu devrais
+
+1919
+01:16:26,820 --> 01:16:29,960
+voir une sorte de grand écran blanc
+
+1920
+01:16:31,860 --> 01:16:34,100
+ça
+
+1921
+01:16:34,280 --> 01:16:36,360
+tu vois une zone blanche autour de toi
+
+1922
+01:16:36,360 --> 01:16:38,520
+ou pas tu es toujours dans l'application
+
+1923
+01:16:38,520 --> 01:16:40,500
+du Quest ou est-ce que tu es dans un
+
+1924
+01:16:40,500 --> 01:16:42,179
+autre monde maintenant je suis toujours
+
+1925
+01:16:42,179 --> 01:16:44,760
+dans le là où j'étais de base j'ai pas
+
+1926
+01:16:44,760 --> 01:16:46,260
+bougé ok donc tu as pas réussi à faire
+
+1927
+01:16:46,260 --> 01:16:50,300
+le Link attends je peux regarder à quoi
+
+1928
+01:16:53,300 --> 01:16:56,000
+ok lancer
+
+1929
+01:16:56,000 --> 01:16:59,580
+après on peut mettre on peut mettre le
+
+1930
+01:16:59,580 --> 01:17:01,080
+cycos en fait il s'est fermé c'est pour
+
+1931
+01:17:01,080 --> 01:17:03,179
+ça que faut aller dans le truc noir là
+
+1932
+01:17:03,179 --> 01:17:04,820
+puis il faut tourner ici
+
+1933
+01:17:04,820 --> 01:17:08,760
+là et tu fais cropper
+
+1934
+01:17:08,760 --> 01:17:10,860
+et puis se démarrer
+
+1935
+01:17:10,860 --> 01:17:12,179
+alors peut-être qu'on verra peut-être
+
+1936
+01:17:12,179 --> 01:17:15,060
+qu'on aura pas donc là j'ai lancé
+
+1937
+01:17:15,060 --> 01:17:17,699
+j'ai dit oui et en fait là ce qui se
+
+1938
+01:17:17,699 --> 01:17:18,960
+passe c'est que quand tu dis oui il
+
+1939
+01:17:18,960 --> 01:17:21,540
+lance oculus voilà donc en fait voilà
+
+1940
+01:17:21,540 --> 01:17:22,679
+quoi ressemble
+
+1941
+01:17:22,679 --> 01:17:24,540
+oculus leak donc là en fait ce qui se
+
+1942
+01:17:24,540 --> 01:17:26,640
+passe c'est que mon casque en ayant
+
+1943
+01:17:26,640 --> 01:17:27,900
+cliqué sur oculiste Link et en ayant
+
+1944
+01:17:27,900 --> 01:17:31,440
+validé et on est en configuré le PC on
+
+1945
+01:17:31,440 --> 01:17:32,940
+se retrouve la situation vous voyez ce
+
+1946
+01:17:32,940 --> 01:17:35,460
+que le PC rend donc ici en gros c'est le
+
+1947
+01:17:35,460 --> 01:17:38,340
+PC qui met l'image sur le casque et donc
+
+1948
+01:17:38,340 --> 01:17:39,540
+vous pouvez voir que ça c'est un magasin
+
+1949
+01:17:39,540 --> 01:17:41,340
+de PC alors vu que c'est le PC vous
+
+1950
+01:17:41,340 --> 01:17:42,540
+pouvez voir que sa carte graphique a un
+
+1951
+01:17:42,540 --> 01:17:45,480
+peu du mal et donc du coup ça rame la VR
+
+1952
+01:17:45,480 --> 01:17:47,940
+est rendue on la voit mais ça ne ça
+
+1953
+01:17:47,940 --> 01:17:49,460
+bouge un peu alors c'est pas du haut ici
+
+1954
+01:17:49,460 --> 01:17:51,840
+à mon avis ici c'est plus dû à sa carte
+
+1955
+01:17:51,840 --> 01:17:53,719
+graphique maintenant
+
+1956
+01:17:53,719 --> 01:17:56,060
+si la meilleure là ou l'autre évidemment
+
+1957
+01:17:56,060 --> 01:17:59,760
+ça peut racheter alors pourquoi est-ce
+
+1958
+01:17:59,760 --> 01:18:01,380
+que je vous montre le Link c'est parce
+
+1959
+01:18:01,380 --> 01:18:03,800
+que ceux qui vont développer en Unity
+
+1960
+01:18:03,800 --> 01:18:06,540
+vous aurez un truc qui va être un peu
+
+1961
+01:18:06,540 --> 01:18:08,400
+chiant
+
+1962
+01:18:08,400 --> 01:18:11,640
+quand vous lancez Unity et que il n'y a
+
+1963
+01:18:11,640 --> 01:18:14,100
+pas de quoi se connecter sur le PC dans
+
+1964
+01:18:14,100 --> 01:18:15,900
+le temps ça allait mais dans les
+
+1965
+01:18:15,900 --> 01:18:18,540
+dernières versions ça fait planter unity
+
+1966
+01:18:18,540 --> 01:18:20,159
+ce qui veut dire que les quand vous
+
+1967
+01:18:20,159 --> 01:18:21,960
+allez développer une application saut
+
+1968
+01:18:21,960 --> 01:18:23,600
+Unity vous allez devoir le développer
+
+1969
+01:18:23,600 --> 01:18:27,480
+sans la VR ce projet non VR et quand
+
+1970
+01:18:27,480 --> 01:18:28,620
+vous voulez faire vraiment de la VR et
+
+1971
+01:18:28,620 --> 01:18:29,760
+vous avez un PC et vous savez le
+
+1972
+01:18:29,760 --> 01:18:30,840
+connecter à ce moment-là vous pouvez le
+
+1973
+01:18:30,840 --> 01:18:32,239
+faire sur le projet vert alors
+
+1974
+01:18:32,239 --> 01:18:35,159
+l'alternative à ça c'est de ne pas
+
+1975
+01:18:35,159 --> 01:18:37,320
+abuser avec l'appareil connecté au PC
+
+1976
+01:18:37,320 --> 01:18:39,659
+c'est de pousser l'application sur le
+
+1977
+01:18:39,659 --> 01:18:42,120
+téléphone avec Android ce que on va
+
+1978
+01:18:42,120 --> 01:18:43,800
+faire dans les vidéos suivantes cet
+
+1979
+01:18:43,800 --> 01:18:46,699
+après-midi OK et donc vous voilà voilà
+
+1980
+01:18:46,699 --> 01:18:48,780
+vous avez vu ce que c'était l'oculus
+
+1981
+01:18:48,780 --> 01:18:50,699
+Link vous savez comment le connecter il
+
+1982
+01:18:50,699 --> 01:18:52,820
+y a steam VR qui reste alors
+
+1983
+01:18:52,820 --> 01:18:54,600
+steam VR comment est-ce qu'on peut faire
+
+1984
+01:18:54,600 --> 01:18:56,940
+pour montrer ça du coup je leur lance
+
+1985
+01:18:56,940 --> 01:18:58,800
+ouais mais je crois que d'abord tu vas
+
+1986
+01:18:58,800 --> 01:19:00,480
+quitter l'oculus link mais c'est pas
+
+1987
+01:19:00,480 --> 01:19:01,800
+grave attends il faut que tu restes
+
+1988
+01:19:01,800 --> 01:19:03,060
+dedans parce que ouais non il faut que
+
+1989
+01:19:03,060 --> 01:19:04,320
+tu restes dedans donc là on est dans
+
+1990
+01:19:04,320 --> 01:19:06,179
+l'oculing oculus ligne tourne sur le
+
+1991
+01:19:06,179 --> 01:19:08,420
+casque
+
+1992
+01:19:08,540 --> 01:19:12,440
+tu peux relancer la vidéo
+
+1993
+01:19:12,679 --> 01:19:14,820
+donc là on est dans l'oculus Link vous
+
+1994
+01:19:14,820 --> 01:19:15,659
+pouvez voir c'était tout blanc
+
+1995
+01:19:15,659 --> 01:19:18,500
+maintenant quand il va vouloir
+
+1996
+01:19:18,500 --> 01:19:20,699
+lancer steam maintenant vous voyez qu'on
+
+1997
+01:19:20,699 --> 01:19:22,560
+voit le casque et on voit les manettes
+
+1998
+01:19:22,560 --> 01:19:24,120
+de reculer steam ce qui veut dire qu'il
+
+1999
+01:19:24,120 --> 01:19:26,040
+reconnaît bien le casque alors ce qui va
+
+2000
+01:19:26,040 --> 01:19:27,300
+se passer c'est que maintenant quand je
+
+2001
+01:19:27,300 --> 01:19:28,440
+vais mettre ma tête vous allez voir il
+
+2002
+01:19:28,440 --> 01:19:30,000
+va essayer de changer l'application le
+
+2003
+01:19:30,000 --> 01:19:33,000
+truc sur son coup sur sa connerie oui
+
+2004
+01:19:33,000 --> 01:19:33,840
+mais c'est parce que je sais pas
+
+2005
+01:19:33,840 --> 01:19:36,659
+accepter ici je sais pas pourquoi il y a
+
+2006
+01:19:36,659 --> 01:19:38,960
+un bug avec
+
+2007
+01:19:50,940 --> 01:19:52,739
+sur sa connu c'est juste pour dire que
+
+2008
+01:19:52,739 --> 01:19:55,020
+il y a une application
+
+2009
+01:19:55,020 --> 01:19:56,280
+en fait il faut que j'autorise mais il
+
+2010
+01:19:56,280 --> 01:19:58,940
+me laisse pas autoriser tu vois
+
+2011
+01:20:04,159 --> 01:20:06,320
+je vais ah je sais ce qui se passe
+
+2012
+01:20:06,320 --> 01:20:09,500
+quitter l'application
+
+2013
+01:20:11,360 --> 01:20:15,540
+qui est inconnue de oculus et top sauf
+
+2014
+01:20:15,540 --> 01:20:16,800
+que du coup il faut aller lui autoriser
+
+2015
+01:20:16,800 --> 01:20:19,380
+le fait de voir steam donc tu peux aller
+
+2016
+01:20:19,380 --> 01:20:23,100
+reculer setup voilà tu vas aller dans
+
+2017
+01:20:23,100 --> 01:20:25,560
+Paramètres tout en bas alors désolé on
+
+2018
+01:20:25,560 --> 01:20:26,940
+va voir des asso à toi il faut que tu
+
+2019
+01:20:26,940 --> 01:20:29,040
+ailles dans général
+
+2020
+01:20:29,040 --> 01:20:30,719
+et ici il faut que tu acceptes les
+
+2021
+01:20:30,719 --> 01:20:33,960
+paramètres ici sur ce autorise autre
+
+2022
+01:20:33,960 --> 01:20:35,100
+chose que vous pouvez faire tant que tu
+
+2023
+01:20:35,100 --> 01:20:38,280
+es ici en fait la VR tourne avec Open XR
+
+2024
+01:20:38,280 --> 01:20:39,780
+open XR c'est quelque chose qui essaie
+
+2025
+01:20:39,780 --> 01:20:42,179
+de standardiser la VR et on peut voir
+
+2026
+01:20:42,179 --> 01:20:44,040
+que ici là il est en oculus de base
+
+2027
+01:20:44,040 --> 01:20:45,840
+natif si vous cliquez ici ça va essayer
+
+2028
+01:20:45,840 --> 01:20:48,239
+d'activer openingsair comme système par
+
+2029
+01:20:48,239 --> 01:20:50,040
+défaut pour le Quest c'est à dire que
+
+2030
+01:20:50,040 --> 01:20:50,880
+quand vous allez enseigner une
+
+2031
+01:20:50,880 --> 01:20:51,900
+application il va d'abord essayer ici
+
+2032
+01:20:51,900 --> 01:20:53,940
+d'utiliser oculus
+
+2033
+01:20:53,940 --> 01:20:55,980
+alors le reste il y a pas besoin de
+
+2034
+01:20:55,980 --> 01:20:57,659
+modifier c'est juste plein de détails
+
+2035
+01:20:57,659 --> 01:21:00,179
+plein de trucs pour l'instant tu peux
+
+2036
+01:21:00,179 --> 01:21:02,940
+sortir de là maintenant que tu as fait
+
+2037
+01:21:02,940 --> 01:21:04,920
+ça je crois que en lançant steam VR il
+
+2038
+01:21:04,920 --> 01:21:09,620
+va ça a fonctionné je me retente
+
+2039
+01:21:09,659 --> 01:21:12,060
+j'ai lancé
+
+2040
+01:21:12,060 --> 01:21:13,800
+voilà maintenant qu'on a laissé sur sa
+
+2041
+01:21:13,800 --> 01:21:14,460
+connu on peut lancer d'autres
+
+2042
+01:21:14,460 --> 01:21:16,320
+applications et on va se retrouver à
+
+2043
+01:21:16,320 --> 01:21:17,699
+pouvoir lancer steam VR qui est une
+
+2044
+01:21:17,699 --> 01:21:21,620
+application VR en fait un steam vert
+
+2045
+01:21:23,520 --> 01:21:27,739
+de la puissance de ton PC
+
+2046
+01:21:28,219 --> 01:21:30,239
+en plus du fait d'être au bord de la
+
+2047
+01:21:30,239 --> 01:21:32,580
+zone il y a un bug ici qui fait que il
+
+2048
+01:21:32,580 --> 01:21:34,880
+plante
+
+2049
+01:21:37,380 --> 01:21:40,100
+alors on verra si on a le temps
+
+2050
+01:21:40,100 --> 01:21:43,140
+voilà ici on est voyez ce que je vois ou
+
+2051
+01:21:43,140 --> 01:21:47,159
+pas ouais ok ici on est dans le menu de
+
+2052
+01:21:47,159 --> 01:21:49,920
+configuration de Steam VR donc le blanc
+
+2053
+01:21:49,920 --> 01:21:51,300
+c'est quand vous êtes dans oculus setup
+
+2054
+01:21:51,300 --> 01:21:53,640
+le noir comme ça c'est quand vous êtes
+
+2055
+01:21:53,640 --> 01:21:56,100
+dans Steam VR et donc ici l'ordinateur
+
+2056
+01:21:56,100 --> 01:21:57,719
+ici n'est pas descendant dédié pour la
+
+2057
+01:21:57,719 --> 01:21:59,640
+VR donc il prend son temps mais
+
+2058
+01:21:59,640 --> 01:22:01,140
+basiquement vous allez avoir des
+
+2059
+01:22:01,140 --> 01:22:02,699
+applications vous allez pouvoir lancer
+
+2060
+01:22:02,699 --> 01:22:04,860
+des jeux avoir une maison des trucs
+
+2061
+01:22:04,860 --> 01:22:06,960
+comme ça basiquement faire de la VR mais
+
+2062
+01:22:06,960 --> 01:22:08,159
+vous pouvez voir que même avec la
+
+2063
+01:22:08,159 --> 01:22:10,920
+cariatique qu'il a mais oui ça n'est pas
+
+2064
+01:22:10,920 --> 01:22:12,780
+toujours facile de faire tourner toutes
+
+2065
+01:22:12,780 --> 01:22:14,340
+ces applications elles sont très
+
+2066
+01:22:14,340 --> 01:22:16,080
+gourmandes et donc ici ça va pas être
+
+2067
+01:22:16,080 --> 01:22:18,320
+idéal
+
+2068
+01:22:18,320 --> 01:22:21,320
+pas de problème et donc voilà
+
+2069
+01:22:21,320 --> 01:22:24,480
+on estime VR on a les applications on a
+
+2070
+01:22:24,480 --> 01:22:26,940
+su installer on a se lancer l'oculus
+
+2071
+01:22:26,940 --> 01:22:28,020
+link
+
+2072
+01:22:28,020 --> 01:22:29,760
+il nous reste à comprendre Unity et des
+
+2073
+01:22:29,760 --> 01:22:30,840
+trucs comme ça on va peut-être juste
+
+2074
+01:22:30,840 --> 01:22:32,699
+vérifier d'avoir une scène Unity ouverte
+
+2075
+01:22:32,699 --> 01:22:35,900
+et puis on va fermer la vidéo alors
+
+2076
+01:22:35,900 --> 01:22:39,000
+voilà donc à quoi ressemble Unity ça
+
+2077
+01:22:39,000 --> 01:22:40,440
+ressemble à ça donc vous pouvez voir
+
+2078
+01:22:40,440 --> 01:22:43,040
+qu'il y a des menus
+
+2079
+01:22:43,699 --> 01:22:46,620
+ça je le garde vous avez des menus vous
+
+2080
+01:22:46,620 --> 01:22:47,699
+avez des fenêtres qui s'ouvrent dans
+
+2081
+01:22:47,699 --> 01:22:50,580
+tous les sens et c'est le sujet d'une
+
+2082
+01:22:50,580 --> 01:22:52,140
+autre vidéo où je vous expliquerai les
+
+2083
+01:22:52,140 --> 01:22:54,480
+bases de Unity comment importer des
+
+2084
+01:22:54,480 --> 01:22:56,219
+assets et les mettre dedans
+
+2085
+01:22:56,219 --> 01:22:58,500
+et donc voilà on vous souhaite un bon
+
+2086
+01:22:58,500 --> 01:23:01,460
+moment à la prochaine vidéo
+

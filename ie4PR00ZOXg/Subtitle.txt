@@ -1,0 +1,3536 @@
+bien le bonjour à vous et bienvenue pour
+
+cette partie 4 où nous allons parler de
+
+comment utiliser plutôt Unity que la VR
+
+il faut bien comprendre que dans les
+
+précédentes parties nous avons vu
+
+comment on installe tout on a vu comment
+
+on utilisait side Quest les applications
+
+comment dans une troisième partie on
+
+pouvait télécharger un projet qui était
+
+déjà fait pour vous et que vous pouviez
+
+toucher sur le Quest maintenant ce qu'on
+
+va voir c'est comment on peut dessiner
+
+une salle en 3D la portée sur
+
+l'ordinateur la mettre dans une ici
+
+mettre deux trois assets 2D dedans
+
+peut-être une vidéo et ce sera déjà bien
+
+si on arrive à faire ça dans les temps
+
+on est content
+
+il faut savoir que si jamais vous
+
+cherchez à étudier les parties 1 2 3 4
+
+le cours est en ligne sur GITS à cette
+
+adresse dans le wiki il y aura un onglet
+
+vidéo et dans l'onglet vidéo il y aura
+
+ces différentes vidéos la première
+
+partie est déjà en ligne les autres
+
+suivants
+
+je vais passer sur l'écran de Mohamed
+
+voilà voilà et on va s'y prendre alors
+
+déjà Unity on a vu précédemment qui
+
+avait deux trois petits interfaces je
+
+vous invite vraiment à faire des tutos
+
+en ligne il y a des gens qui expliquent
+
+1000 fois mieux que moi ce que c'est des
+
+interfaces Unity mais dans les bases on
+
+a une fenêtre d'édition et on peut y
+
+ajouter par exemple des cubes et des
+
+ronds par exemple ici s'il fait clic
+
+droit dans la hiérarchie et qui va dans
+
+Ajouter pour ajouter des cubes des
+
+sphères donc vas-y tu peux ajouter un
+
+cube 3D 3D objets
+
+vous voyez que là avec la souris il peut
+
+tourner à gauche tourner à droite monter
+
+et des choses comme ça avec son
+
+interface et il a un petit menu à gauche
+
+qui permet de sélectionner c'est pas
+
+pratique mais c'est ça aussi
+
+d'être se rappeler l'humain est pas fait
+
+pour la les éditeurs sont pas faits pour
+
+la 3D mais du coup on doit beaucoup
+
+bouger avec la caméra donc là ici je
+
+peux aller en mode ici au dessus vous
+
+avez un petit un petit menu tu peux le
+
+contraire et ce menu permet de choisir
+
+si on veut déplacer tourner agrandir Des
+
+choses comme ça vous allez des
+
+raccourcis clavier qui permet d'aller
+
+plus vite avec les doigts et ici vas-y
+
+comment
+
+du coup
+
+donc ici basiquement vous aurez déplacé
+
+ici donc vous sélectionnez avec le
+
+milieu de la souris avec le contrôle et
+
+le droit vous pouvez tourner ici alors
+
+il y a une touche qui est très
+
+importante c'est F qui veut dire focus
+
+et focus c'est à dire mais moi sur
+
+l'objet que j'ai ce qui vous permettra
+
+de plus facilement tourner et bouger
+
+autour du truc enfoncer le bouton du
+
+milieu de la souris ça veut dire tourner
+
+comme ceci
+
+et clic droit c'est tourner comme ceci
+
+vous avez l'outil qui permet de bouger
+
+ici alors vous pouvez bouger vous pouvez
+
+changer ici pour dire si vous voulez
+
+bouger par rapport au nombre de initi ou
+
+par rapport à l'objet alors qu'est-ce
+
+que je veux dire par là c'est que si
+
+vous tournez l'objet ici comme ceci
+
+vous allez voir que le pivot il est vert
+
+l'avant parce que l'objet est orienté
+
+par là-bas mais par rapport à Unity ce
+
+serait par ici qu'il faudrait et vous
+
+avez des couleurs pour dire ça c'est les
+
+X ça c'est les Z ça c'est les y dans
+
+tous les éditeurs 3D ils ont des pivots
+
+qui sont qui sont tous un peu unique à
+
+eux par exemple nous dans Unity on est
+
+dans cet axe là où c'est Z c'est y
+
+ces aides devant X sur le côté et y au
+
+dessus ça vous dit rien c'est pas grave
+
+au fur et à mesure du temps ça viendra
+
+mais basiquement c'est juste une
+
+convention de nommage des axes
+
+on a la rotation ici qui permet de
+
+toucher de tourner l'objet comme ceci
+
+après
+
+on voit pas trop la différence donc on
+
+va ajouter un cube
+
+hop ajouter hop en cube
+
+et vu que le cube on n'a pas son
+
+orientation on pourrait y ajouter une
+
+orientation donc ce qu'on peut faire
+
+c'est soit le déformer ici par exemple
+
+en mettant un en mettant deux ça va être
+
+de déformer c'est ce qu'on appelle le
+
+Scale rotation position soit vous pouvez
+
+y ajouter un enfant et donc ici je vais
+
+ajouter un enfant un autre cube
+
+on va le faire avancer vers l'avant ici
+
+on va demander de le rétrécir comme ceci
+
+de la ranger
+
+et on a une orientation et vous allez
+
+voir que vu qu'il est enfant de celui-là
+
+vous allez pouvoir tourner les deux à la
+
+fois
+
+ce sont deux objets différents imbriqués
+
+là dans l'autre mais qui n'en font plus
+
+que 1 et ici vous pouvez voir qu'on le
+
+tourne on le déplace alors quand vous
+
+êtes un peu plus rapide vous pouvez
+
+utiliser celui-là qui utilise les trois
+
+mais il faut faire attention pas toucher
+
+sur le mauvais ça ça aurait ça c'est
+
+pour quand c'est sur un plan ça c'est
+
+pour tourner ça c'est pour agrandir vous
+
+voyez un peu l'idée ça affecte ce qu'on
+
+appelle au transforme qui est la
+
+position de votre objet si vous êtes
+
+développeur et vous allez utiliser le
+
+code dans ce projet il va falloir que
+
+vous compreniez ce que c'est un
+
+transforme et donc dans les tutos
+
+n'hésitez pas à aller regarder ce que
+
+c'est comment on modifie le niveau du
+
+code
+
+alors question
+
+d'utiliser le transforme directement
+
+l'école les valeurs ici donc je le mets
+
+par exemple position YZ
+
+5 la
+
+position alors tu peux les changer
+
+directement donc que ce soit l'éditeur
+
+donc là par rapport à une ici il est en
+
+00 donc je peux le mettre par exemple en
+
+y0 x 10 sauf qu'en fait c'est aussi par
+
+rapport à ton parent vous voyez ici par
+
+exemple ici je suis techniquement hop.8
+
+mais si ici je le mets en zéro vous
+
+allez voir que il va se mettre en 0 par
+
+rapport à mon parent il faut savoir que
+
+c'est rien d'autre qu'une représentation
+
+de Unity pour avoir plus facile donc ici
+
+c'est pas de sa position réelle mais
+
+dans le code vous pouvez avoir soit sa
+
+position chez le parent qu'on appelle
+
+local soit la position dans le monde qui
+
+est globale en vrai je trouve que mettre
+
+la valeur directement à droite ça a
+
+l'air un peu mieux facile alors c'est
+
+plus facile pour des cuber les ronds
+
+mais quand tu dois placer concerne dans
+
+la main de quelqu'un c'est pas toujours
+
+facile de sens là je comprends et donc
+
+du coup voilà c'est à ça que ça ces
+
+outils là piloter et tout faut savoir
+
+qu'il y en a un quatrième que je vous ai
+
+pas montré qui est aussi celui-là qui
+
+permet en fait selon l'orientation
+
+d'aller chercher les poids de pivot et
+
+de faire ceci comme cela vous voyez vous
+
+pouvez agrandir rétrécir et alors si
+
+vous voulez l'autre axe vous l'avez
+
+tourné votre caméra et vous allez faire
+
+ça d'accord c'est vrai que transforme
+
+donc en fait c'est juste un gros un gros
+
+café qui permet de gérer plutôt des axes
+
+tu vois ici comme ceci pour le déplacer
+
+mais voilà c'est à vous de voir lequel
+
+qu'on via le mieux en fonction de la
+
+situation c'est juste des outils quoi
+
+d'accord donc ici on a ajouté un cube
+
+on peut ajouter si vous voulez un
+
+matériel créer ici je vais créer à la
+
+racine faut pas faire ça mais écoutez on
+
+n'a pas vraiment beaucoup de temps donc
+
+on va faire au plus rapide on va
+
+l'appeler bleu
+
+voilà en fait ici un matériel comme j'ai
+
+expliqué dans la vidéo précédente c'est
+
+la façon dont on va percevoir l'objet
+
+donc je vais déposer un matériel sur
+
+l'objet comme ceci voilà et je vais
+
+changer la couleur du matériel en bleu
+
+et maintenant l'objet il est en bleu et
+
+alors le matériel il permet de savoir
+
+aussi comment la lumière et la les
+
+ombrages vont réagir donc ici vous
+
+pouvez voir que si je mets en métallique
+
+il y a une sorte de comme si c'était le
+
+rayon qui rebondissait sur du métal ici
+
+par exemple à la lumière vous voyez vous
+
+voyez que la lumière rebondit à une
+
+sorte degré dégradé dessus alors que si
+
+je le mets ici en online
+
+ici en bleu unlight ça veut dire on s'en
+
+fout de la lumière de l'ombrage on met
+
+juste de la couleur sauf que vous voyez
+
+que maintenant discerner la forme 3D
+
+dans un truc comme ça c'est extrêmement
+
+dur et donc du coup ça nous fait gagner
+
+du temps de calcul dans Unity parce
+
+qu'on n'a pas besoin de calculer la
+
+lumière ombrage mais pour un joueur vert
+
+ça va être un peu chaud de savoir où ça
+
+débute le cubisme
+
+donc c'est pour ça que la lumière est
+
+importante en VR a des grands papas de
+
+la de la VR qui s'appelle Tom Thomas je
+
+sais plus comment avait dit un truc que
+
+je trouvais intéressant dans une
+
+conférence c'est basiquement la VR oui
+
+c'est la stéréoscopie des deux caméras
+
+mais ça veut aussi dire que si vous
+
+fermez un œil comme ceci et que vous
+
+regardez votre jeu vous arrivez quand
+
+même à discerner la 3D parce qu'en fait
+
+ici la 3D on va le cerveau a plein de
+
+manières de voir la 3D de vous voir la
+
+profondeur et la lumière l'ombrage la
+
+distance le parallaxe c'est plein de
+
+choses qui peuvent jouer pour aider la
+
+personne à comprendre ce qu'il voit en
+
+face de lui
+
+donc voilà c'est à ça que ça sert à
+
+matériel à gérer la lumière l'ombrage
+
+des couleurs les textures qu'on va y
+
+appliquer par rapport au mode on a que
+
+métallique ou s'il y a autre chose qu'on
+
+peut proposer alors il y a tout ce que
+
+les développeurs vous met à disposition
+
+c'est à dire que ici vous voyez on a
+
+plein de choses qui sont disponibles
+
+c'est toutes des manières différentes de
+
+gérer la lumière et mon ouvrage et les
+
+textures
+
+si on met nature nature alors il y a pas
+
+nature mais par contre tu veux dire
+
+nature
+
+le truc c'est qu'il faut pas mettre un
+
+homme parce que en fait ils ont tous une
+
+utilité par exemple ça ça dépend de
+
+l'interface graphique dans les plus des
+
+menus tu vois ça ça va être pour la VR
+
+c'est des trucs oculus nous a préparé
+
+pour voir plus l'espace 3D tu vois et
+
+c'est ce qu'on appelle des shaders
+
+c'est-à-dire des trucs qui vont dire à
+
+l'ordinateur comment ils doivent
+
+présenter les triangles du jeu qu'est-ce
+
+que je veux dire par des triangles en
+
+fait vous voyez ici on a un truc qui est
+
+lisse avec de la couleur mais si ici on
+
+vient et qu'on met en wire frame wire
+
+frame ça veut dire le grillage on peut
+
+voir que notre cube il est composé de
+
+lignes
+
+forme des triangles et donc pour faire
+
+un cube vous avez besoin de 8 fois x 2
+
+triangles soit 16 triangles et on en a
+
+deux donc on a 32 triangles ici dans le
+
+jeu
+
+et des triangles sa forme mèche c'est à
+
+dire un objet construit un triangle pour
+
+chaque fois si on a deux triangles
+
+vu qu'on en a 8 on en a 16 et vu qu'on a
+
+deux cubes on en a 32 ce qui veut dire
+
+que un ordinateur lui il est calculé des
+
+triangles c'est faire ça très très vite
+
+mais très très bon ça ok téléphone un
+
+peu moins mais il arrive toujours à
+
+calculer pour donner un ordre d'exemple
+
+dans un jeu vidéo vous pouvez mettre
+
+facilement 100 000 à 200 000 triangles
+
+sur Quest et vous pouvez mettre
+
+facilement de 2 millions à 4 millions de
+
+triangles selon l'outil que vous
+
+utilisez Unity permet d'avoir ça mais et
+
+le PC dépend beaucoup aussi mais par
+
+exemple une réelle engine avec un autre
+
+technique complètement taré pour les
+
+objets vous pouvez avoir des millions et
+
+des millions et des millions triangles
+
+tant que ces objets sont mis d'une
+
+certaine manière et sont gérés dans un
+
+algos spécial mais ici en l'occurrence
+
+dans Unity nous on va essayer d'éviter
+
+d'avoir trop de triangles surtout qu'on
+
+fait sur les Quest qui restent des
+
+téléphones si vous dépassez les limites
+
+c'est pas grave mais par contre ça a
+
+consommé plus de ressources et donc plus
+
+de batterie aussi donc
+
+donc voilà ça c'est le wire
+
+si vous voulez mettre de une texture
+
+dessus par exemple une image ce que vous
+
+pouvez faire c'est que vous allez sur
+
+Google
+
+voilà on va aller chercher une texture
+
+par exemple Terra World Warcraft texture
+
+si jamais
+
+jeu vidéo
+
+on va aller chercher dans les images
+
+voilà donc ça c'est un vieux jeux vidéo
+
+pour perdre la démonétisation
+
+et alors voilà
+
+ça ça c'est une texture
+
+du vieux jeu vidéo Wolfenstein vous
+
+pouvez voir qu'en fait chaque mur c'est
+
+un petit carré ce qui veut dire qu'en
+
+fait si je télécharge ça si je fais
+
+enregistrer sous
+
+et que je vais dans ton projet inutile
+
+et sur D il était où il était dans
+
+le 7
+
+voilà myproject ici ça c'est ce qu'on
+
+appelle le truc de iliti nous on est
+
+dans le dossier A7 tout ce qu'on va
+
+déposer donc on va aller dans à 7 on va
+
+faire un petit dossier qu'on va appeler
+
+2D
+
+voilà on va retourner dans notre projet
+
+et soudainement on a un dossier de D
+
+avec Wolfenstein dessus
+
+alors on peut d'ailleurs regarder ce que
+
+ça donne voilà en fait qu'est-ce qui va
+
+se passer il va vous créer un dossier
+
+matériel parce que il va te créer un
+
+nouveau matériel qui est déjà prêt avec
+
+la texture alors comme tu peux voir la
+
+texture elle a toujours de l'ombrage et
+
+de la lumière alors pour un jeu
+
+Wolfenstein avoir de la lumière sur les
+
+textures pas terrible ok d'accord donc
+
+on va plutôt lui demander de retirer
+
+toute la lumière donc maintenant c'est
+
+plus de la texture de
+
+ce qui se passe c'est que on a une
+
+texture ici on a de la couleur la
+
+couleur on doit pas la changer mais si
+
+vous voulez que soit un peu plus sombre
+
+un peu plus ombrageux ou plus rouge vous
+
+êtes comme ça vous pouvez changer ici ok
+
+par exemple si vous voulez faire qu'un
+
+mur fasse clignote avant de disparaître
+
+vous pourriez faire
+
+tac et puis pouf disparaître
+
+vous pouvez jouer avec la couleur si
+
+vous voulez mettre de la transparence
+
+vous pouvez ici avec a sauf que ici vu
+
+que le shader ne gère pas la
+
+transparence
+
+il pourrait ok par exemple ici j'ai une
+
+transparence en ce qu'on appelle alpha
+
+clipping c'est à dire qu'il va pas gérer
+
+la transparence mais s'il peut voir
+
+qu'il y a beaucoup transparent il va
+
+retirer ok il y a pas de transition
+
+c'est vraiment
+
+pourtant par transparence pour ceux qui
+
+savent pas ce que c'est la transparence
+
+si je vais transparent ici et que je vis
+
+avec ça comme ça voilà là on va pouvoir
+
+voir à travers l'objet par exemple
+
+on peut dire ça que c'est de l'opacité
+
+c'est ça bonjour alors il faut faire
+
+attention que la transparence
+
+effectivement ça marche dans le jeu
+
+vidéo sauf qu'en fait le jeu vidéo c'est
+
+quoi c'est un dessin donc vous dessinez
+
+une image et puis très vite vous
+
+dessinez une autre très vite et 60 fois
+
+par seconde vous allez dessiner et cette
+
+image c'est ça que les gens vont voir et
+
+c'est ça qui va donner l'impression
+
+d'avoir une vidéo jeux vidéo
+
+le seul truc c'est que si vous dessinez
+
+une image avec de la transparence il
+
+faut d'abord dessiner certains objets
+
+ensuite en dessiner d'autres donc il y a
+
+un ordre pour la transparence qui peut
+
+créer les bugs mais il y a aussi la
+
+notion de devoir dessiner deux fois du
+
+coup on doit décider d'abord un dessin
+
+puis redessiner sur le dessin et donc ça
+
+veut dire que à calcul qui est
+
+transparent va être calculé de 3 4 5 6
+
+fois en fonction des transparence et des
+
+chefs ce qui veut dire que vous dans la
+
+VR pour le Quest vous avez pas trouvé
+
+beaucoup de jeux avec de la transparence
+
+parce que ça prend de la ressource vous
+
+pouvez mais c'est des conseils alors
+
+question ouais on a eu on a mis une
+
+un matériel sur
+
+cet objet ouais monsieur matériel il
+
+représente plusieurs images ouais ça
+
+veut dire que je pense qu'il est
+
+possible de changer la taille la
+
+répétition en fait tu me parlais de cube
+
+de la vidéo précédente donc si jamais
+
+j'avais voulu tiser un cube cube
+
+UV
+
+cube
+
+voilà imaginez que vous voulez faire un
+
+cube
+
+en gros vous avez un cube et vous devez
+
+le mettre sur une image de dés et donc
+
+en fait ce que vous allez faire c'est
+
+que vous allez faire un grand rectangle
+
+comme ça
+
+sur le grand vous allez mettre une
+
+texture et cette texture là dans Blender
+
+vous allez en fait essayer de faire que
+
+ça correspond à cette phase là celle-là
+
+à celle-là celle-là à celle-là celle-là
+
+celle-là c'est là et ça donne ce qu'on
+
+voit ici ok sachant que c'est un métier
+
+de faire ça
+
+on va pas l'expliquer mais ça ressemble
+
+par exemple à ceci vous voyez
+
+et donc on aura une texture qui
+
+ressemble à ça ça c'est quand tu veux
+
+une texture que tu aplatis sur un objet
+
+sauf que quand tu joues avec certains
+
+jeux des fois tu dis bah pourquoi
+
+j'utiliserai 40 images alors que je
+
+pourrais en prendre une et la déplacer
+
+d'accord ce qui fait qu'il y a moins de
+
+ressources dans le jeu à charger et donc
+
+du coup ici la Wolfenstein vu que c'est
+
+un jeu vieux jeu où on est presque pas
+
+de ressources sur les appareils d'accord
+
+on utilise ce qu'on appelle
+
+c'est quoi c'est cette notion dont on a
+
+plein d'images et en fait tu vas dans le
+
+matérialiser ici tu vas changer les X
+
+comme ceci pour voir plein de changer
+
+les y et donc vous voyez ici je vais
+
+changer voilà et on va changer le Y
+
+ça change tout donc faut trouver le
+
+juste milieu de la texture il faut
+
+diviser mais basiquement on va pouvoir
+
+aller chercher ici et donc si vous avez
+
+besoin d'un bloc on va aller chercher ça
+
+comme ça si vous avez besoin d'autres
+
+choses que tu vas déplacer la texture
+
+d'accord
+
+on a un deux trois quatre cinq six
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+17 18
+
+donc alors on va faire alors tu peux
+
+faire des divisions dedans ça marche
+
+ensuite tu vas de l'autre côté
+
+et tu fais a divisé par 18
+
+et ça nous donne ça mais en fait ce qui
+
+se passe c'est que c'est bon c'est juste
+
+que ce qui se passe c'est que maintenant
+
+que tu l'as fait mais il se trouve tout
+
+en bas où il y avait pas de texture donc
+
+ici on va juste aller prendre ce numéro
+
+et la mettre ici en X OK et si tu veux
+
+te déplacer en y sur le truc tu vas
+
+prendre ce numéro et tu vas mettre ça en
+
+vrai et voilà comment on obtient un cube
+
+de texture c'est ça voilà comment on
+
+fait pour avoir une seule image qui
+
+représente ce qu'on appelle un atlas ou
+
+soit des sprites quand c'est des
+
+animations et on Atlas quand c'est on
+
+prend plein de trucs et on les met dans
+
+un ok ça permet de gagner de la
+
+ressource ça ressemble un peu quand on
+
+essaie de récupérer un skin sur
+
+Minecraft c'est ça c'est exactement ça
+
+donc
+
+c'est ça donc quand j'étais petit
+
+j'allais récupérer
+
+des skins pour mon perso sur Minecraft
+
+et ça ressemble jamais à ceux qui s'en
+
+servir dans le jeu c'est toujours des
+
+trucs pas mis par dessus l'usine par des
+
+solutions alors du coup maintenant vous
+
+savez comment on met des images alors
+
+admettons que vous voulez mettre l'image
+
+de quelqu'un ce que vous pouvez faire
+
+c'est qu'au lieu de créer un cube vous
+
+allez créer ici ce qu'on appelle soit
+
+plane soit un quad hoplane il a plein
+
+plein de triangles un quad il a que deux
+
+triangles on va prendre un quad ici
+
+voilà
+
+pour le calcul c'est plus facile comme
+
+vous pouvez voir le quad il est il a
+
+deux triangles et les triangles vont un
+
+sens bon vous pouvez voir que là on voit
+
+là on voit pas à travers c'est pour ça
+
+que des fois dans le jeu vidéo vous
+
+voyez à travers les murs
+
+ou quand vous voyez les dentiers les
+
+gens c'est parce que vous avez mis la
+
+caméra dans le mauvais sens alors ici on
+
+va aller chercher quelqu'un
+
+ce qu'on reprend Ibrahim on prend
+
+quelqu'un
+
+voilà on va aller chercher
+
+on prend laquelle on prend
+
+alors on va cliquer sur celle là on va
+
+copier l'adresse du lien ou la
+
+télécharger on va essayer les deux
+
+voilà
+
+c'est pas grave tant mieux et alors en
+
+fait ce qu'on va faire
+
+on va aller sur le site qui permet de
+
+retirer le background alors vous pouvez
+
+le faire depuis Photoshop depuis crita
+
+depuis plein logiciel mais quand vous
+
+avez à faire et que vous voulez aller
+
+vite vous pouvez faire ça
+
+en fait opéra garde en mémoire le
+
+dernier copier-coller images et voilà on
+
+était chercher l'image on l'a mis dans
+
+le background Néoval brim ovale pour de
+
+la gelée il faut le payer donc on va pas
+
+faire de l'Alger on va télécharger juste
+
+la version light ok voilà et on va
+
+l'appeler
+
+voilà on va le déposer dans Unity dans
+
+2D on va le mettre dans le matériel et
+
+puis on va le descendre dans 2
+
+voilà on a notre Ibrahim avec et sans
+
+fond alors vous pouvez voir que c'est
+
+noir parce qu'en fait on n'a pas dit que
+
+l'image était transparente on va cliquer
+
+sur ce petit bouton pour dire qu'elle
+
+est transparente voilà maintenant ce qui
+
+se passe c'est que notre truc ici on va
+
+déposer
+
+Ibrahim dessus et en fait Ibrahim est
+
+dedans sauf que le problème c'est que ah
+
+on n'a pas ratio qui est de assura on a
+
+un ratio qui est de 2 sera d'accord donc
+
+soit de vous le couper dans l'éditeur de
+
+dans un éditeur Krita ou autre soit vous
+
+devez jouer avec le matériel alors du
+
+coup on a matérielle
+
+on va aller dire que le matériel on veut
+
+soit un truc pour qu'il gère la lumière
+
+soit sur la lumière qu'on va les gérer
+
+sans lumière
+
+on va lui dire qu'il veut on veut de
+
+l'alfa clipping alors le souvenir que
+
+j'ai dit qu'il y avait de la
+
+transparence et de l'alfa clipping la
+
+transparence et on va dégrader le pixel
+
+ici la fac epic on va retirer le pixel à
+
+calculer on va mettre alpha clipping
+
+voilà et alors en fait le fait qu'il
+
+soit noir c'est parce qu'à mon avis je
+
+l'ai enregistré en JPEG
+
+non ça fait g donc si c'est pas ça
+
+qu'est-ce qui reste à faire pour que ce
+
+soit transparent en toi
+
+on est dans le matériel ah il faut le
+
+mettre en transparence
+
+pour l'instant il y a une grosse tête
+
+une longue tête parce qu'on veut alors
+
+vu que l'image vous êtes en deux sous
+
+rats on va simplement dire que le timing
+
+est de 0,5 le problème c'est que 0,5 et
+
+encore décalé donc on va faire moins 0,5
+
+non moi
+
+du coup on va jouer comme ça jusqu'à ce
+
+qu'on est la bonne valeur
+
+[Musique]
+
+donc c'était 0,25 en fait
+
+on a notre magnifique photo nibrahim
+
+dans notre projet oh oui donc là c'est
+
+comment on met une photo maintenant
+
+admettons que vous voulez mettre une
+
+vidéo
+
+vous allez sur YouTube
+
+voilà qu'est-ce qu'on pourrait mettre
+
+comme vidéo vidéo courte
+
+même
+
+tu peux mettre
+
+on est mercredi
+
+non on est jeudi
+
+j'ai pas d'imagination
+
+on va chercher une vidéo comme celle-ci
+
+voilà
+
+on va copier le lien
+
+alors évidemment faire ce que je suis en
+
+train de faire c'est pas très légal ni
+
+pour YouTube ni niveau des droits mais
+
+c'est pour l'exercice pour la démo de
+
+comment on fait pour télécharger une
+
+vidéo dans Unity on va aller sur YouTube
+
+to MP3
+
+de toute façon on va toujours tomber sur
+
+un site web qui fait en MP4
+
+voilà on va dire MP4 ça va télécharger
+
+notre vidéo
+
+je me suis fait avoir j'étais concentré
+
+sur l'exercice
+
+voilà
+
+on veut pas revoir la jolie dame
+
+alors maintenant on a une petite vidéo
+
+MP4 on va aller la copier dans le projet
+
+voilà on va aller dans une ici alors il
+
+veut pas faire
+
+glisser directement
+
+alors il y a un dossier normalement
+
+spécial qu'on doit nommer genre stream
+
+quelque chose mais je vous y a plus du
+
+nom donc ici on va juste créer vidéo ce
+
+qu'en fait le fait de mettre des vidéos
+
+dans un projet c'est que ça alourdit
+
+quand même pas mal le projet ici la
+
+vidéo est vraiment petite et légère donc
+
+ça va aller mais c'est vrai que vaut
+
+mieux éviter quoi on la met juste pour
+
+montrer comment ça généralement ce qu'on
+
+va faire c'est plus on va charger la
+
+vidéo à l'extérieur de Unity dans un
+
+dossier et puis on va la recharger
+
+depuis l'outil à l'endroit où elle est
+
+tu vois pour éviter que la PéKa soit
+
+lourde mais que le que il a été
+
+téléchargé après maintenant si tu sais
+
+que les clients on va pas avoir internet
+
+c'est vrai que là vaut mieux le mettre
+
+dans le projet quoi mais ça alourdit
+
+trop ton projet ton guide ça dit vite
+
+d'ailleurs geek n'accepte pas des
+
+fichiers au-dessus de sa compte à 100 et
+
+moi 25 c'est déjà beaucoup donc c'est
+
+toujours un problème
+
+alors c'est pour ça que ici on va pas
+
+être ici on utilise spaghett on n'aura
+
+pas le problème mais si on avait un
+
+cours de guide j'aurais montré comment
+
+pas mettre la vidéo dedans
+
+alors comment on fait pour jouer une
+
+vidéo on va créer un deuxième quad
+
+je pourrais le dire je sais pas si c'est
+
+ça mais pour ceux qui utilisent guide il
+
+y a le gitanior ouais donc juste si vous
+
+avez d'ignorer un dossier chercher juste
+
+gitinor où ils vont vous expliquer
+
+comment ça marche
+
+alors ici on va mettre ce qu'on appelle
+
+vidéo Player qui un truc que inutile a
+
+fait pour nous qui n'existait pas dans
+
+le temps mais qu'ils ont rajouté qui
+
+permet soit de donner le clip de la
+
+vidéo donc ici on grille ça comme ça
+
+soit d'aller chercher un URL ça marche
+
+pas ça marche pas si c'est une vidéo
+
+YouTube évidemment pour aller chercher
+
+l'URL d'une vidéo qui peut télécharger
+
+streaming et vous pouvez chercher un URL
+
+ou à URL ça va aussi dire chemin d'accès
+
+sur votre PC donc si vous visez vers
+
+votre PC ou vers l'endroit sur le Quest
+
+ou la vidéo il va pouvoir les
+
+télécharger depuis là c'est pour ça que
+
+par exemple tu pourrais charger des
+
+vidéos au fur et à mesure de ton
+
+application
+
+alors ici on va dire en vidéo on dit que
+
+il va jouer tout seul on dit qu'il va
+
+faire une loupe pour que soit marrant
+
+d'accord
+
+on peut choisir si on veut l'afficher
+
+dans une caméra dans un rendu dans un
+
+matériel ici on va dire vas-y écris à
+
+celui de pour le moment dans le mien moi
+
+j'ai utilisé rendu texture parce que
+
+j'ai besoin de l'afficher sur l'écran
+
+derrière toi et des choses comme ça donc
+
+du coup j'ai plus le donner à une
+
+texture qui elle va être appliquée
+
+partout ok c'est un peu complexe
+
+regardez juste un rendu texture si
+
+jamais vous voulez vraiment explorer le
+
+sujet
+
+alors on va laisser override et alors
+
+normalement
+
+normalement normalement quand je vais
+
+faire play
+
+on va avoir
+
+la vidéo qui se lance et vous n'avez pas
+
+le son mais il y a en fait si il y a le
+
+son ici en fait vous voyez il va gérer
+
+le son et il vous demande est-ce que le
+
+gérant direct ou est-ce que je gère
+
+ailleurs qui a des propriétés pour un
+
+peu streamer le son ailleurs ou gérer le
+
+son ailleurs dans le projet mais c'est
+
+juste ici on a pas mis le son sur le
+
+truc et que séparer le raccorder à la
+
+webcam mais basiquement vous avez le son
+
+dedans
+
+et voilà comment on met une vidéo une
+
+vidéo c'est gourmand donc oui évidemment
+
+ne mettez pas 36000 vidéos dans votre
+
+projet mettez que une voire deux ou
+
+trois maximum à la fois quoi parce que
+
+déjà une c'est lourd quoi d'accord vous
+
+êtes dans un téléphone quand même
+
+donc voilà
+
+mais c'est évident que 1 à la petite
+
+vidéo elle est pas lisible parce qu'on
+
+l'a pas mis en online donc là il y a pas
+
+de lumière dans la scène comment on fait
+
+pour mettre de la lumière on fait clic
+
+droit ajouter et désolé là l'objet 3D
+
+lumière
+
+directionnel light c'est pour remettre
+
+une ticket directionnelle il y en a déjà
+
+une ok où on peut ajouter spotlight
+
+Spotlight c'est plus quand vous voulez
+
+une lumière mais là je vais le voir
+
+qu'il y en a déjà une de PS4
+
+ici et on peut voir que elle est
+
+directionnelle elle est en temps réel et
+
+alors l'intensité elle est de 2 alors
+
+qu'est-ce que je veux dire par là je
+
+vais vous montrer
+
+ici vu que le quad d'ailleurs j'ai
+
+rajouté un cube à votre avis qu'est-ce
+
+qui va passer si j'arrête le métier
+
+maintenant avec un cube dedans
+
+donc là j'ai de rajouter un cube à votre
+
+avis qu'est-ce qui va se passer quand je
+
+vais arrêter le player
+
+donc il va retenir que quand il était au
+
+début il y avait rien donc voilà je
+
+recule je vais mettre alors mon crapaud
+
+il va générer une texture et cette
+
+texture elle va être appliquée sur le
+
+quad en fait ce qui se passe c'est que
+
+si vous prenez le matériel qui a été
+
+créé pour le crapaud c'est à dire ici il
+
+va affecter celui-ci
+
+qui est un matériel par défaut donc on
+
+va recréer pour lui je vais pas vous
+
+expliquer c'est trop compliqué
+
+basiquement tout ce que je voulais
+
+montrer ici c'est que vous avez aussi
+
+une notion de lumière dans l'Insee c'est
+
+à dire que là
+
+voilà on a cette lumière là et si je la
+
+tourne vous pouvez voir que l'ombrage va
+
+changer parce que basiquement c'est
+
+l'orientation la lumière par rapport à
+
+la scène vous voyez donc là elle vit à
+
+du bas là il y a du haut là il y a plus
+
+de
+
+tourner comme ça donc ça permet
+
+d'orienter et vous voyez que les images
+
+ici ont changé parce que la lumière est
+
+calculée sur le triangle et c'est pour
+
+ça que tantôt on avait mis unlight pour
+
+dire on s'en fout la lumière on veut
+
+juste la texture donc basiquement notre
+
+crapaud si on la met sur un écran dans
+
+la salle et qu'on veut qu'elle ait pas
+
+de lumière qu'on veut qu'elle soit avec
+
+tes parents la laisse comme ça si on
+
+veut qu'elle soit on s'en fout ça doit
+
+faire comme si elle les mettait
+
+elle-même de la lumière à ce moment là
+
+on va aller changer la texture qui a
+
+affecté et la mettre en omelette
+
+le problème c'est qu'ici vu qu'il écrase
+
+le matériel et le matériel par défaut
+
+c'est celui qui a unity a on va devoir
+
+créer un matériel pour le crapaud
+
+donc on va aller ici on va créer à
+
+matériel
+
+matériel
+
+crapaud
+
+effectivement je l'ai pas dit mais on va
+
+voir alors ici notre vidéo player là
+
+elle est en mode j'écrase qu'il y a
+
+dessus maintenant on va dire non en fait
+
+on veut pas que tu écrases ce qu'il y a
+
+dessus on veut que tu écrases plutôt la
+
+texture qu'on a alors ici vu qu'il va
+
+écraser ce truc là et que là c'est celui
+
+par défaut on va aller chercher celui du
+
+crapauds on va le mettre là
+
+et ici on va dire du coup on le veut
+
+comme tantôt Universal render plan light
+
+alors il y a pas encore de texture ici
+
+oui parce qu'en fait le player va le
+
+mettre dessus d'accord donc ici on est
+
+bon pour une vidéo le la question sera
+
+mic au lancement c'est ça alors
+
+normalement ici vous voyez on voit pas
+
+Ibrahim de l'autre côté c'est parce
+
+qu'il y a
+
+dans le matériau du crapaud on va dire
+
+qu'on veut des deux côtés
+
+à mettre de la vidéo de la transparence
+
+et on clique ici si vous voulez faire un
+
+fond vert sans devoir retirer le fond
+
+vert il faut essayer de transformer la
+
+vidéo pour que le verre soit vraiment
+
+uni et là j'ai un chef d'or dans l'autre
+
+projet qui permet de retirer le fond
+
+vert
+
+et donc maintenant si on fait play
+
+théoriquement
+
+on va avoir notre fameux jeu vidéo
+
+comme pour l'autre elle est un peu
+
+écrasée parce que on n'a pas changé le
+
+clipping c'est à dire la façon dont la
+
+texture se comporte par rapport à
+
+l'objet l'objet en a et la vidéo le
+
+départ mais voilà on a notre fameux
+
+crapaud d'Orient ici
+
+dernière étape du coup maintenant c'est
+
+mettre des textures des objets on peut
+
+mettre
+
+avant de commencer sur la VR on va
+
+dessiner un peu dans la pièce je vais te
+
+montrer comment on fait pour apporter
+
+depuis un site web
+
+alors qu'est-ce que j'entends par là
+
+vous avez des sites web de
+
+téléchargement
+
+vous avez la sex Store
+
+qui est un peu trop compliqué pour cette
+
+vidéo qui dit allons donc j'ai juste
+
+vous montrer qu'il existe et basiquement
+
+dans Unity quand vous avez un compte
+
+Unity vous pouvez aller sur la 7 Store
+
+et dire j'ai besoin de d'arbres
+
+ici
+
+officiel de limites en anglais et donc
+
+ici vous voyez que si je dois d'arbre il
+
+y a plein d'armes il y en a des très
+
+beaux très lourds il y en a des très
+
+petits alors lopolis il y en a qui sont
+
+plus sur les risques il y en a qui sont
+
+dans les gros paquets je lui ai payants
+
+il y en a qui sont à 5 euros voilà c'est
+
+il faut trouver son petit bonheur la
+
+chance le télécharger et il faut trouver
+
+une sorte de charte graphique pour ton
+
+jeu c'est si tu télécharges des jeux des
+
+arbres lopoly et des arbres alpolis
+
+c'est pas la même chose donc voilà ils
+
+ont pas la même vue quoi mais vous
+
+pouvez aller là-bas vous dites de
+
+télécharger et en fait il va ouvrir une
+
+ici d'ailleurs vu que tu es connecté sur
+
+le compte on va peut-être parce que tu
+
+as créé un compte apparemment on va
+
+prendre un truc gratuit là on va dire
+
+qu'on les veut
+
+voilà on dit qu'on accepte la condition
+
+ici va nous dire c'est bon tu l'as dans
+
+tes licences de trucs gratuits que tu as
+
+ajouté sur ton compte donc on peut on
+
+dit de l'ouvrir dans Unity il va ouvrir
+
+ce qu'on appelle le package manager qui
+
+permet de facilement gérer les assets
+
+qu'on télécharge sur l'ordinateur donc
+
+tu vois qu'ici il va chercher la 7 on
+
+dit qu'on veut le télécharger donc
+
+finalement ça va ça va pas être trop
+
+compliqué on lit quand le télécharger on
+
+l'apporte et alors ici il nous dit qu'il
+
+y a ah oui il nous dit en fait vous êtes
+
+toujours en plein mode donc vous pouvez
+
+pas la porter arrêtez des temples évoque
+
+la porte là il me dit ok tu es sûr de
+
+vouloir les porter si tu apportes voilà
+
+tout ce que je vais apporter ou je vais
+
+le télé pas chargé effectivement tout
+
+est nouveau pour toi quoi tu peux
+
+décocher certains si tu aimes pas
+
+on va dire oui
+
+et là en fait il va nous télécharger ce
+
+qu'on appelle un asset et dans les
+
+assets on est on a cette notion de les
+
+choses doivent être plus ou moins
+
+rangées plus ou moins propres donc vous
+
+voyez qu'on a un dossier propre à la 7
+
+je vous invite à faire pareil pour votre
+
+projet c'est de faire par exemple ici à
+
+dossier
+
+vous appelez mon beau projet
+
+ok vous prenez tout ce qu'il y a dedans
+
+sauve évidemment le truc que vous avez
+
+apporté du web et vous le déposez dedans
+
+comme ça quand quelqu'un apporte la
+
+scène de culture d'autres il ne va pas
+
+se mélanger avec les autres vous avez
+
+votre propre dossier c'est quelque chose
+
+qu'il faut vraiment faire
+
+moi je suis pas discipliné mais c'est
+
+aussi pour ça que mes projets ils
+
+échouent c'est parce que si vous n'êtes
+
+pas discipliné dans la programmation
+
+dans le fait d'être propre dans vos
+
+projets d'être propre dans les noms
+
+d'être propre dans la faute
+
+d'orthographe que vous laissez dans vos
+
+projets ça vous revient à la figure un
+
+peu plus tard parce qu'en fait c'est
+
+très facile de faire un projet
+
+rapidement mais le préfère un projet qui
+
+tient à la longueur c'est un autre défi
+
+mais ici c'est pas le sujet
+
+on a le JR mais il est en mauve parce
+
+qu'il comprend pas la il comprend pas le
+
+matériel
+
+donc en fait comment est-ce qu'on fait
+
+pour changer on vient ici on regarde la
+
+texture que le gars avait utilisé
+
+d'accord on passe plus en standard mais
+
+en Universal 22
+
+Lite et alors si il a perdu la texture
+
+ici on va aller lui remettre tu vois ici
+
+il a perdu on va aller prendre la
+
+texture on va essayer de lui remettre
+
+comme on peut et tout on a pas joli arme
+
+voilà c'est pas perdu perdu c'est juste
+
+qu'il faut le rendre compatible avec le
+
+nouveau système comparé à l'ancien
+
+d'accord mais maintenant on a un joli
+
+et ça c'est ce qu'on appelle un préfab
+
+alors comment est-ce que je sais que
+
+c'est la préface c'est parce que vous
+
+voyez il y a le carré il est bleuté
+
+comme ça en fait l'avantage d'après Fab
+
+c'est que tu peux faire ceci admettons
+
+tu fais ton arme tu fais un deuxième tu
+
+fais un troisième tu fais un quatrième
+
+et tu le déplace un peu
+
+ici
+
+voilà et à un moment donné tu dis ah
+
+ ce serait quand même chouette
+
+désolé pour le qui est un
+
+écureuil dans l'arbre
+
+ici hop une petite sphère qui représente
+
+l'écureuil ici tu le rétréci
+
+et tu dis ah c'est chouette l'écureuil
+
+mais je sens bien que l'écureuil soit
+
+dans tous les arts mais est-ce que tu
+
+vas faire c'est que tu vas aller sous le
+
+truc bleu ici un truc blanc qui
+
+représente l'écureuil et tu vas aller
+
+ici dans l'inspecteur ce qui permet de
+
+voir les scripts les couleurs les tous
+
+les trucs dans les secteur tu vas lui
+
+dire j'aimerais bien écraser mon préfet
+
+d'avant
+
+et il y a un écureuil sur tous les arts
+
+ok imagine toi tu fais une ville et que
+
+tu as des lampadaires et que tu dois
+
+changer 1000 lampadaire
+
+ça va être chaud alors je vais pas vous
+
+expliquer ça en détail parce que il vous
+
+faudrait vraiment étudier un peu inutile
+
+pour le comprendre mais il faut savoir
+
+que vous pouvez faire des préfabes dans
+
+des préfabes dans des préfab dans des
+
+pré-fables vous pouvez faire une ville
+
+qui est après Fab dans la ville vous
+
+avez des lampadaires qui sont après
+
+fables la lampe est elle-même après
+
+fable ça veut dire si tu changes la
+
+lampe ça change tous les lampadaires
+
+sauf ceux qui ont fait un truc
+
+spécialisé et si tu changes le
+
+lampadaire bah ça a changé tous les
+
+lampadaires donc c'est tu peux aller
+
+choisir qui tu mets à jour dans ton
+
+architecture de préférence ok c'est un
+
+peu compliqué ceux qui sont perdus c'est
+
+pas grave ça viendrait avec le temps et
+
+avec les tutos et voilà comment on fait
+
+pour apporter un asset 3D quand il est
+
+tout fait sauf que quand vous apportez
+
+un assiette 3D
+
+depuis un autre site Web admettons que
+
+je vais sur sketchup
+
+qui a un autre site qui permet de donner
+
+des équipes de publier des essais 3D
+
+pour le jeu vidéo mais ici pas Unity
+
+juste de la 3D je vais son sketch Fab et
+
+je dis que je veux un écureuil il y en a
+
+un écureuil
+
+je sais plus comment on écrit ce que
+
+alors vous voyez qu'il y a plein de
+
+trucs sont payants
+
+ce que vous pouvez faire c'est vous
+
+mettez download parce que au moins là
+
+vous savez que vous pouvez le
+
+télécharger il reste il restera des
+
+trucs payants on va chercher un truc qui
+
+est gratuit donc on va ouvrir celui-là
+
+ouvrir celui-là on va essayer de trouver
+
+quelque chose de Doctor Who qui est
+
+gratuit
+
+voilà comment on peut savoir si le
+
+gratuit c'est pas le voir de l'extérieur
+
+moi je les ouvre et puis je vais voir et
+
+je regarde est-ce qu'il était payant tu
+
+vois là il y a pas payant alors quand tu
+
+le télécharges tu as aussi le nombre de
+
+triangles tu vois que je te disais que
+
+c'était important en attirant ici tu as
+
+8000 triangles pour pouvoir faire ceci
+
+d'accord ça prend déjà pas mal ça prend
+
+déjà pas mal
+
+ça dépend des trucs mais ouais ça monte
+
+alors le problème c'est qu'il faut créer
+
+un compte pour faire ça donc je sais pas
+
+si tu peux
+
+essayer de me connecter via mon compte
+
+google alors je fais un altable
+
+donc là il est en train de créer un
+
+compte SketchUp pour qu'on puisse aller
+
+télécharger un asset la scène est
+
+gratuit mais il faut quand même savoir
+
+que c'est vous qui le téléchargez pour
+
+le créateur
+
+il accepte les terres il a mis son
+
+adresse ici on lui demande il veut
+
+acheter du découvrir
+
+le profil ça va être de
+
+de on s'en fout développeurs développeur
+
+donc on va pouvoir télécharger il faut
+
+revenir sur l'ancien donc je sais pas
+
+regarde peut-être les autres alors du
+
+coup
+
+ils ont réussi
+
+à 21000 c'est beaucoup mieux on peut le
+
+mettre ouais vas-y télécharge-le c'est
+
+pas grave
+
+alors celui-là il a même un skybox un
+
+skybox c'est quoi c'est quand vous
+
+voulez voir le ciel si vous le mettez
+
+très loin dans le jeu vous allez avoir
+
+l'impression que c'est le ciel parce que
+
+ça bouge pas et donc en fait c'est juste
+
+une grosse sphère ou une boîte sur
+
+laquelle on met une texture vers
+
+l'intérieur et on se retrouve comme s'il
+
+y avait un ciel tu l'as téléchargé ou
+
+pas
+
+tout à l'heure il veut que je me
+
+connecte F5
+
+vous avez des objets que vous pouvez
+
+télécharger en OBG ou en FBX ici on n'a
+
+pas FBX et on a d'autres formats en fait
+
+tous les éditeurs 3D ils ont des formats
+
+différents et ici voir Unity on a FBX ou
+
+BG donc tu peux télécharger un objet
+
+sachant que les autres formats c'est
+
+juste sketch Fab ce SketchUp qui
+
+convertit en plein d'autres formats pour
+
+que vous puissent plus facilement le
+
+télécharger et du coup ce que je prends
+
+les deux et je publie directement tu vas
+
+devoir les extraire parce que là tu es
+
+dans WinRAR
+
+donc tu dois d'abord faire extraire le
+
+truc je peux pas le tu peux pas juste le
+
+glisser sur Youtube d'abord que tu
+
+l'extrait de ton winra et si je veux
+
+directement dans le dossier ouais tu
+
+peux alors c'est dans le je sais pas où
+
+tu l'as téléchargé donc
+
+dans le C non moi je parle de ton winra
+
+tu l'as exporté haut dans le
+
+téléchargement
+
+moi ce que je voulais faire c'est de
+
+laisser ça directement
+
+affiché tu vois
+
+maintenant ça tu peux copier ça dans
+
+Unity je le mets en fait tu vas aller
+
+dans Unity attends avant de faire ça
+
+avant de faire et un truc qui est très
+
+important et typiquement et pour la
+
+propreté aussi c'est que tu veux aller
+
+dans la 7 tu vas créer un dossier
+
+voilà le dossier tu l'as appelé par
+
+exemple from web
+
+normalement il faut pas d'espace mais
+
+si tu respectes l'incompréhension alpha
+
+numérique on veut juste pas avoir de
+
+problème ici et créer un truc qui
+
+s'appelle TARDIS pour pas mélanger tous
+
+les trucs
+
+[Musique]
+
+on va chaud inexplorer parce qu'on peut
+
+pas déposer des liens dans les métiers
+
+directement
+
+on va aller sur le truc du TARDIS on va
+
+prendre ce lien on va le faire glisser
+
+et on va le mettre ici vu que les liens
+
+ils sont trop longs on va les rappeler
+
+source comme ça vous n'oubliez pas de où
+
+vous êtes allé chercher la 7 parce que
+
+si vous publiez le jeu à jour il faut
+
+demander l'autorisation et il faut aussi
+
+demander le créditer en fonction de la
+
+licence donc ici on va mettre ça en
+
+disant là c'est du développement on
+
+s'amuse mais plus tard il faut retourner
+
+d'accord donc en tout cas éthiquement
+
+c'est c'est comme ça quand on devrait
+
+s'y prendre
+
+alors on va déposer ça ici voilà on va
+
+retourner dans Unity et on a notre
+
+projet d'accord alors comme tu peux voir
+
+ici on a un dossier source de ces
+
+textures source apparemment ça vas-y
+
+donc on va devoir aller les IP
+
+fermé oui
+
+on va revenir voilà on a un dossier dans
+
+ce dossier comme tu peux voir il a mis
+
+des images de présentation des trucs
+
+comme ça nous ce qu'on a besoin c'est de
+
+ce truc là parce qu'en fait ici il a
+
+fait un skybox avec
+
+voilà et alors si j'ai des zoome on peut
+
+voir que l'objet il est immense parce
+
+que ce qu'on peut alors comment est-ce
+
+que je sais qu'il est immense
+
+parce qu'on voyait
+
+je sais pas ça s'appelle le nucléping au
+
+jambon
+
+dézoomé des zoom et des omets et que si
+
+par exemple tu viens ici et que tu crées
+
+un objet cube il a une dimension de 1 1
+
+en fait la notion de a ça veut pas dire
+
+que c'est un mètre mais vu que beaucoup
+
+de codes vont utiliser a comme à mettre
+
+il y a beaucoup de choses qui vont
+
+bugger si tu fais trop grand ou trop
+
+petit donc ici moi je mets un cube pour
+
+savoir que c'est ce que c'est à mettre
+
+et alors soit tu l'édites ici en disant
+
+bah moi en fait il devait être beaucoup
+
+moins grand donc ceci et alors là il va
+
+te le rétrécir très petit soit ce que tu
+
+fais c'est que tu prends le Tardis qui
+
+est qu'on a déposé ici
+
+tu lui crées apparent parce que c'est
+
+toujours bien d'avoir parents qui
+
+englobe un objet 3D parce que si il
+
+change il va tout péter dedans tu vois
+
+donc c'est pas ses parents tu vas pas
+
+l'appeler
+
+tard
+
+pourquoi prefab c'est juste pour
+
+rappeler que ça va être l'objet qui va
+
+être à copier si tu veux je pense
+
+c'était pas dérangeant alors on va
+
+prendre ce pré-femme là et on va le
+
+mettre là bas comme ça en fait on a un
+
+objet qu'on peut dragon drop mais vu que
+
+c'est quand même plus pratique de savoir
+
+qu'il est là et qu'on a juste à le
+
+dragon drop on va le déposer plus dans
+
+la racine de TARDIS ici on le truc de
+
+départ on va créer un dossier qui
+
+s'appelle préfab
+
+voilà
+
+dedans on va les déposer notre objet
+
+comme ça le prochain qui vient ici où
+
+aller chercher l'objet à déposer
+
+d'accord maintenant notre préfab on peut
+
+aller l'éditer en cliquant sur le petit
+
+flèche là-bas d'accord alors soit on les
+
+dites là-bas directement le problème
+
+c'est qu'on va pas voir l'environnement
+
+autour de nous pour le calibrer tu vois
+
+donc ce qu'on va aller plutôt aller
+
+faire déjà c'est le mettre en 0,0
+
+comme ceci on va mettre le cube qu'on a
+
+créé tantôt pour calibrer en 0,0 aussi
+
+voilà
+
+on peut voir que ça correspond déjà plus
+
+ou moins à la valeur de ce que préfables
+
+devrait faire de ce que la boxe à ton
+
+avis elles font quoi 2 mètres 3 mètres
+
+comme ça le Tardis
+
+en hauteur on va mettre qui fait 2 m
+
+d'accord et ici on va le mettre à 0.5
+
+comme ça
+
+donc là il devrait faire ça le Tardis ok
+
+d'accord donc on va aller dans notre
+
+TARDIS on va vérifier que le poids est
+
+bien 0,0 ici il est bien 00
+
+on prend le Tardis l'objet tardif on va
+
+le déplacer comme ça ici on va aller ici
+
+ça ce que je fais c'est ce qu'on appelle
+
+le métier là c'est être attegrateur
+
+c'est à dire faire en sorte que les
+
+trucs que les artistes nous envoient
+
+soit prêt à être utilisé dans le jeu on
+
+intègre des assets 3D que les gens nous
+
+ont fait c'est un métier dans le jeu
+
+vidéo
+
+on prépare les trucs et on les prépare
+
+pour être sur le store par exemple voilà
+
+on va dire que ça c'est notre TARDIS
+
+alors maintenant on va aller appliquer
+
+pour qu'il écrase l'ancienne version OK
+
+et ça effectivement c'est ce que
+
+j'appelais une skybox tout autour tu
+
+peux voir c'est une grosse paire où on a
+
+inversé le truc on a appliqué une image
+
+ok si vous faites de la photo 360 dans
+
+votre projet venez me voir et c'est
+
+basiquement j'ai des cours ou des trucs
+
+que je peux vous passer qui parle un peu
+
+de ça comment on aplati une image une
+
+image dessus OK et lui il a fait pour
+
+pouvoir avoir un ciel
+
+voilà voilà donc là on a un objet 3D
+
+qu'on a apporté c'est cool alors
+
+maintenant le truc c'est qu'il y a un
+
+dernier point et puis alors après on va
+
+arrêter la vidéo sauf si tu as plus le
+
+temps
+
+ce qui te reste encore un peu de temps
+
+ou pas c'est pour le dessin 3D
+
+si vous avez encore le temps de regarder
+
+la vidéo avec nous alors restez donc là
+
+on vous a montré comment importer une
+
+image une vidéo un asset 3D de l'asset
+
+Store ou un asset du magasin maintenant
+
+ce qui nous apporte c'est de prendre la
+
+calibration de la pièce alors comment
+
+est-ce que je fais ça j'utilise un truc
+
+qui s'appelle open brush XR donc on va
+
+aller sur sidequest
+
+je crois que c'est sur ça avec quoi
+
+est-ce qu'on va le trouver mais
+
+on va brancher le casque et on va
+
+installer un outil qui permet de
+
+dessiner en VR
+
+donc je lance le ouais tu peux lancer le
+
+stream
+
+tu peux mettre le casque
+
+voilà
+
+alors ici nous ce qu'on va chercher sur
+
+side Quest c'est open
+
+on va aller télécharger a priori c'est
+
+une application oculus donc on va devoir
+
+dire ok
+
+sachant que moi je l'ai déjà ajouté sur
+
+le compte moling donc si vous êtes sur
+
+des cases de molengeek vous avez déjà
+
+l'application installée faites get comme
+
+ceci et vous allez la voir alors là en
+
+l'occurrence je crois que tu l'as déjà
+
+sur ton compte parce que là je suis sur
+
+ton compte et parce que celui de je vais
+
+aller voir ta vue donc tu peux aller
+
+cherche dans Open brush dans le menu vu
+
+que c'est une application officielle tu
+
+devrais peut-être la voir
+
+alors ici pour pouvoir faire la suite il
+
+va falloir débrancher le câble donc on
+
+va aller faire ça alors comment est-ce
+
+que je vais faire pour
+
+du coup il va falloir que je quitte à
+
+nouveau ouais mais je sais pas si on
+
+débranchant on va faire la connexion
+
+j'essaye voilà la connexion donc il vaut
+
+il faut le remettre en wifi
+
+mais le jeu ici
+
+on a perdu la vue
+
+alors
+
+on va aller ici on va dire qu'on veut
+
+que le casque par contre je l'ai
+
+toujours pas redécuté le cas si tu le
+
+vois ou il dit pas autoriser si j'ai eu
+
+un truc j'ai mis autorisé on va dire
+
+qu'on veut du wifi encore une fois il
+
+faut que vous ayez une bonne borne Wi-Fi
+
+bon truc wifi pour faire ce que je fais
+
+on va dire qu'on veut le débrancher ici
+
+pour que ce soit bon
+
+je peux enlever le câble voilà on va
+
+lancer le stream en croquant pour de
+
+voir que ça avec des yeux
+
+voilà alors là en fait maintenant ce que
+
+vous pouvez voir c'est un outil de
+
+dessin donc vous voyez là est-ce qu'il
+
+voit c'est un outil de dessin
+
+le petit dessin il va permettre de
+
+dessiner est-ce que tu veux que je fasse
+
+des mots du coup pour ça
+
+ouais
+
+dans les menus chercher le l'outil pour
+
+pouvoir voir en réalité augmentée
+
+l'essayer
+
+alors j'ai monté la caméra pour que on
+
+voit un peu plus
+
+donc
+
+est-ce qu'on voit toujours mon image ok
+
+parce que moi on voit
+
+ton corps mais pas ta tête
+
+la on va essayer de calibrer la fenêtre
+
+en fait
+
+admettons
+
+ok vous voyez la fenêtre ici admettons
+
+qu'on veut que ça se Vienne au tableau
+
+blanc d'accord on va prendre le casque
+
+comme ceci
+
+on va suivre le tuto qui en fait nous
+
+dit juste de pointer le laser tourner le
+
+menu donc ça c'est un menu qui permet de
+
+dessiner d'accord vous là vous
+
+choisissez la couleur rouge
+
+là vous choisissez si vous voulez que ce
+
+soit un peu du feu que ce soit un
+
+arc-en-ciel des choses comme ça donc
+
+c'est un outil de dessin OK
+
+on va aller dans les options ici
+
+environnement et on va dire qu'on veut
+
+le passe sous donc je répète on lance le
+
+Quest le jeu c'est à dire on vient ici
+
+environnement passe et maintenant je te
+
+vois donc du coup je te dessiner dans la
+
+veille du coup maintenant en fait ce qui
+
+se passe c'est que le point là-bas il
+
+est pas totalement au bout du truc donc
+
+c'est on va juste faire quelque chose
+
+qui n'est pas précis il y a d'autres
+
+logiciels où c'est beaucoup plus précis
+
+que celui-ci mais celui-là il est il est
+
+facile à télécharger il est bien donc
+
+voilà j'ai pris celui-là je prends ma
+
+manette
+
+je l'ai dit
+
+et je vais longer mon doigt en frottant
+
+la paroi alors qu'à la limite
+
+mais tu vois ici on va pouvoir dessiner
+
+comme ceci la paroi
+
+alors vous allez me dire il y a pas
+
+moyen de faire autre chose que je
+
+dessinais mais de prendre directement à
+
+la mesure
+
+alors oui
+
+on voit les ici vous voyez dessiner
+
+attention carton d’air j'ai décidé la
+
+zone de la vitre problème c'est que
+
+c'est la zone par rapport à quoi par
+
+rapport à un mur alors moi ce que je
+
+fais généralement c'est que je fais une
+
+croix pour un mieux pour dire ceci
+
+établir vous voyez et ici il faut un sol
+
+donc je mets une croix vous pouvez aussi
+
+si vous voulez être plus précis mettre
+
+le truc comme ça et faire une sorte de
+
+rond
+
+juste pour pouvoir avoir des zones des
+
+encres de calibration
+
+donc si vous voulez le mur on fait le
+
+mur
+
+si on veut par exemple ceci si c'était
+
+important le mieux est ici on ferait hop
+
+mais ici hop hop hop
+
+le but c'est de faire plein de petits
+
+pois de repère qu'on va pouvoir utiliser
+
+dans Unity après ok
+
+par exemple la porte ici c'est important
+
+pour le jeûne on va la calibrer sauf que
+
+si vous voulez vous pouvez mettre la
+
+latte
+
+et la latte elle permet de faire ceci
+
+vous voyez là
+
+on va mettre la cloche ici alors je vais
+
+sortir de la ville dans ma vie
+
+alors vous pouvez voir que si je chante
+
+de la limite il va me demander de
+
+recréer le dernier
+
+si je me rapproche il va peut-être
+
+essayer de le retrouver
+
+il va le retrouver mais voyez que j'ai
+
+perdu la notion alors j'ai plus le truc
+
+au même endroit
+
+on va s'arrêter là pour celui-là du coup
+
+est-ce qu'on a de toute façon on a le
+
+dessus la porte on a la clash on a la
+
+truffe on va pas mettre la porte on va
+
+juste mettre la fenêtre
+
+mais du coup là tu vois tu l'as fait la
+
+fenêtre
+
+alors comme tu peux voir en fait si vous
+
+changez la taille c'est plus la bonne
+
+taille donc il faut essayer de trouver
+
+la juste totale ok ok ici c'est vu que
+
+c'est un outil de dessin vous pouvez
+
+faire admettons que j'ai envie de
+
+dessiner voilà
+
+et c'est un humain éléphant
+
+[Musique]
+
+OK
+
+et voilà comment on fait du prototypage
+
+rapide magnifique éléphant pour mon jeu
+
+vidéo
+
+on peut changer basiquement c'est un
+
+petit dessin d'accord alors maintenant
+
+pour exporter on va dedans on enregistre
+
+on fait un magnifique
+
+dessin en éléphant avec la fenêtre
+
+derrière
+
+voilà
+
+on va retourner ici dans les setting on
+
+va vouloir dire qu'on veut elle oublie à
+
+chaque fois où c'est je crois que ça
+
+doit être dans
+
+[Musique]
+
+upload c'est pour mettre en ligne
+
+directement sur votre compte si vous
+
+avez un compte mais ici on n'a pas de
+
+compte
+
+[Musique]
+
+[Musique]
+
+ça c'est pas ça c'est plutôt cool mais
+
+non
+
+je crois qu'il peut peut-être aller
+
+chercher une option avancée
+
+ça c'est ça
+
+ici on a ça peu enregistrer que avant
+
+qu'on a avancé on a plus d'options et du
+
+coup on a aussi plus d'options ici on a
+
+la
+
+ici dans lave alors à toutes les super
+
+marrant c'est que vous pouvez prendre
+
+les objets
+
+ça c'est pour ajuster la taille du brush
+
+c'est le joystick mais vous pouvez
+
+prendre les objets normalement je sais
+
+pas pourquoi je peux pas le prendre ici
+
+voilà vous pouvez prendre les déplacer
+
+il peut même prendre celui-là le
+
+déplacer et mettre là et quand vous en
+
+avez marre avec le jeu de peinture
+
+vous pouvez faire ça
+
+ok on peut pas dire mais certains ils
+
+partent ils disparaissent quand tu fais
+
+ça
+
+bon nous ce qu'on veut c'est exporter
+
+donc on va aller ici export et là en
+
+fait vous voyez il va exporter le truc à
+
+la racine de Android sur le projet
+
+d'accord
+
+plus ou moins tous les outils de dessin
+
+ou un outil exporte il faut juste
+
+trouver où il va et exporter
+
+correctement donc maintenant qu'on a
+
+fait ça on va pouvoir enlever le casque
+
+sachant qu'il y a plein de petits et que
+
+c'est plus il y aura cours sur le dessin
+
+samedi où je ferai une vidéo en
+
+expliquant les outils de dessin que vous
+
+pouvez utiliser
+
+maintenant où est-ce qu'on peut le
+
+retrouver alors maintenant comment
+
+est-ce qu'on va le retrouver ok
+
+on va connecter notre Quest au PC avec
+
+le câble
+
+s'il te plaît
+
+alors normalement le volume sera le bon
+
+normalement la dimension sera bonne mais
+
+si jamais les dimensions ne sont plus
+
+bonnes qu'est-ce que vous devez faire
+
+chercher un truc qui est stable alors
+
+ici on sait que c'est
+
+17 10 117 cm donc c'est dans Android
+
+data c'est ça alors voilà maintenant que
+
+tu la connecter tu peux soit t'y aller
+
+par Windows soit y aller par
+
+oculus Quest par sidequest
+
+alors il faut aller dans Android
+
+peut-être pas ici tu vois qu'il y a un
+
+dossier qui s'appelle openbrush faut
+
+trouver faut aller sur google tu
+
+demandes openbrush il exporte où il va
+
+dire le dossier et ici c'est ça il a pas
+
+mis dedans on n'est pas mis dedans donc
+
+c'est untitle
+
+en entier 1 2 sur entier ouais ok il va
+
+voir pourquoi bah du coup juste je fais
+
+marche arrière alors on va faire open
+
+brush
+
+exporte et on va les copier untitle 0
+
+celui-là il faut l'extraire alors la
+
+question c'est pourquoi est-ce
+
+qu'il c'est pas grave reviens en arrière
+
+voilà et là tu vois tu as enregistré ok
+
+sélectionner la jambe droite et tu vas
+
+aller le mettre dans notre projet
+
+inutile
+
+ment
+
+on va créer un dossier qu'on va appeler
+
+openbrush pour que on perce pas les
+
+trucs d'origine
+
+finalement elle terminera dans le projet
+
+final ah oui
+
+alors voilà c'est exporter donc
+
+maintenant qu'on a exporter on va aller
+
+dans une ici pour voir un peu à quoi ça
+
+ressemble donc ici il est en train de
+
+charger il a reçu c'est ça donc on va
+
+pouvoir aller dans à 7
+
+et là c'est ça on a on a le truc ici et
+
+ça ressemble à deux choses on a a
+
+GLB et de une image pour en fait les
+
+différents pinceaux qu'on a utilisés ok
+
+le truc n'est que nous on s'en fout un
+
+peu du pinceau parce que c'est pas notre
+
+type dessin enfin on peut faire si vous
+
+voulez faire du dessin en VR à ce moment
+
+là il faudrait avoir quelque chose à
+
+faire du pinceau est-ce que je peux le
+
+glisser directement dedans alors non
+
+parce qu'en fait tu peux voir que le
+
+format c'est GLB OK et JLB Unity connais
+
+pas donc la raison pour laquelle je vous
+
+ai fait télécharger critable blender
+
+c'est parce qu'il y a des choses qu'on
+
+ne fait pas de limites donc ici
+
+basiquement comment est-ce qu'on va
+
+faire
+
+on va ouvrir ici et on voit GLB on va
+
+prendre ce lien
+
+on va aller dans Blender que vous avez
+
+installé dans la version a de la dans la
+
+partie 1 de cette vidéo de cette journée
+
+il faudra peut-être un peu de temps que
+
+ce soit
+
+alors une fois qu'on va avoir au bout
+
+d'un blender on va voilà on va virer
+
+tout ce qu'il y a dedans donc c'est à
+
+dire ça on va faire supprimer
+
+tout court pas besoin d'Unity c'est un
+
+truc qui fait de la 3D mais il est
+
+pratique quand tu fais de la 3D pour le
+
+jeu vidéo donc on va l'utiliser
+
+ça passe bien c'est mieux que le noir
+
+mais c'est il y a plein de logiciel qui
+
+sont noirs
+
+on va dire qu'on veut apporter ici dans
+
+fichier apporter et on va chercher le
+
+format que on a eu et le format
+
+apparemment c'était GLB tu le vois ou
+
+pas
+
+il y a celui-là peut-être
+
+voilà on va dire où est-ce qu'il est il
+
+est là-bas et oui il le voit donc
+
+apporter et
+
+hop voilà à quoi ressemble notre truc 3D
+
+on a notre magnifique éléphant un autre
+
+pièce qui est renversé pourquoi il
+
+renversé à ton avis
+
+parce que mon Guizmo est renversé
+
+différents par exemple tu vois dans une
+
+y c'était le Z et le Z c'était le y ok
+
+tu vois
+
+donc ici on du coup maintenant qu'on est
+
+content avec notre objet on va vouloir
+
+l'exporter donc on l'enregistre c'est
+
+pour ça que j'ai supprimé la caméra à la
+
+lumière parce qu'on en a pas besoin d'un
+
+outil donc je vais supprimer les trucs
+
+exporter alors Unity il accepte de
+
+l'objet ou de lève BX la différence faut
+
+aller voir les manuels c'est vraiment
+
+conditionnel est-ce que tu vas faire de
+
+l'animation est-ce que tu vas faire de
+
+l'objet 3D est-ce que c'est plus un
+
+objet ou est-ce que c'est plus de la à
+
+des corps ça va dépendre ici on va
+
+exporter par exemple en VX
+
+et on va enregistrer on va l'enregistrer
+
+juste à côté de l'autre voilà
+
+comme ça voilà on a le truc de source
+
+qu'on peut supprimer si tu veux
+
+supprimer ou l'autre qu'on appelait
+
+Sandro ici on l'appelait et les fans
+
+donc c'est un éléphant c'est
+
+window voilà on retourne dans Unity et
+
+là tu peux voir que maintenant on a un
+
+truc qui est qui semble être lisible ok
+
+on va le déposer dans notre projet
+
+génétique et il est visible
+
+alors le truc c'est que comme tu peux
+
+voir maintenant on a une magnifique
+
+fenêtre et un éléphant et ce qui fait le
+
+bon format à la fenêtre
+
+on va vérifier a priori oui ça a l'air
+
+d'être un bon format maintenant si vous
+
+n'êtes pas sûr vous prenez votre cuve
+
+ici on va le déplacer au niveau de la
+
+fenêtre voilà
+
+on va le
+
+scaler comme ceci
+
+alors le problème c'est que il vaut
+
+mieux pivoter la fenêtre enfin le cube
+
+et le mettre dans le
+
+et sa Windows histoire que poire bouger
+
+les deux
+
+on va prendre notre truc
+
+et ce que je conseille pour la fenêtre
+
+pour ce truc là c'est de prendre la
+
+partie qui est plate et de la faire
+
+correspondre au grillage de Unity pour
+
+que les outils soient plus facile à
+
+gérer qu'ici on va tourner ceci pour que
+
+ça corresponde le mieux possible à des
+
+grillage
+
+tu vois
+
+la grosse ligne qui est là-bas c'est
+
+parce qu'on a téléporté tu sais quand ça
+
+c'était porté ça ça fait une grosse mine
+
+quoi voilà
+
+donc voilà on a notre magnifique fenêtre
+
+donc si vous voyez que je me suis bourré
+
+j'ai mis sur la ligne ici c'est pas
+
+grave on va remettre le l'objet
+
+d'origine ici
+
+on va arrêter le on va l'empêcher de
+
+tourner voilà on va le déplacer ici
+
+comme ceci
+
+on va essayer de zoomer alors on peut
+
+voir qu'elle monte jusqu'ici la fenêtre
+
+que là là voilà
+
+est-ce que ici c'était bon j'en sais
+
+rien je vois pas le trait et ce qu'on
+
+l'a fait on a fait un trait ici ou
+
+normalement
+
+vous vous souvenez que j'ai dit que on
+
+voit un triangle dans ce seul côté ici
+
+et justement la seule côté donc pour
+
+mieux le voir moi ce que je fais c'est
+
+que je crée ici
+
+un matériel
+
+le matériel
+
+des bugs
+
+par exemple je vais le mettre ici en
+
+online
+
+je vais dire que je vais voir des deux
+
+côtés qui soit opaque qui soit bien vert
+
+pétant
+
+voilà et je vais le déposer sur notre
+
+assiette 3D
+
+ça on le voit de tous les côtés et on
+
+peut vraiment savoir où est-ce qu'il est
+
+voilà donc là moi on respecte les
+
+dimensions
+
+de la fenêtre
+
+si vous voulez vraiment une notion
+
+précise vous prendre une latte ou
+
+prendre un rayon pour essayer de trouver
+
+un moyen de calibrer de prendre la bonne
+
+dimension mais des fois pour certains
+
+objets c'est long et chiant
+
+et donc voilà on a notre fenêtre
+
+maintenant si on veut le sol en fait on
+
+a juste besoin de prendre le cube ici
+
+copier faire descendre ici au niveau de
+
+cette de ce truc ici comme ça voilà
+
+on descend ça là-bas on vient ici sur le
+
+côté
+
+on a grandi comme ceci
+
+hop
+
+comme ça
+
+voilà
+
+donc là basiquement c'est le solde
+
+devant la fenêtre avec l'éléphant et on
+
+se retrouve du coup avec la bonne
+
+dimension de notre on peut rajouter des
+
+murs et tout l'idée ici c'est que pour
+
+le hackathon si vous voulez faire un
+
+truc avec la pièce il faut faire la même
+
+chose mais pour toute la pièce et donc
+
+ici pour pouvoir plus facilement
+
+déboguer ce que je fais c'est que je
+
+fais normalement une qui est purement
+
+verte puis j'en fais une deuxième elle
+
+des bugs zone
+
+des bugs
+
+attends j'ai agrandir un peu pour que
+
+les gens puissent lire si vous le dire
+
+je vais mettre ici en transparent
+
+on va aller chercher ça on va les mettre
+
+ça comme ceci voilà encore et ça je vais
+
+aller le l'appliquer sur les zones où je
+
+fais les zones comme ça en fait j'ai des
+
+cuves où je vais pouvoir voir cube dans
+
+un cube par exemple ici vu qu'elle est
+
+transparente si je regarde on peut voir
+
+la différence entre le cube du sol et le
+
+cube de la fenêtre ok je vois et donc
+
+voilà basiquement c'est comme ça qu'on
+
+fait pour apporter des assiettes dans
+
+Unity prendre les mesures de du bâtiment
+
+et tout finalement on parle à part le
+
+côté on va dire imaginaire où il faut
+
+imaginer quelque chose et le créer c'est
+
+pas si compliqué que ça non rien
+
+et vu que il est connu mondialement et
+
+vraiment utilisé il y a énormément
+
+d'informations énormément de gens qui
+
+ont fait des guides énormément parce
+
+qu'ils vont faire français en anglais
+
+tant que vous n'allez pas dans les trucs
+
+spécialisés il y aura toujours bien
+
+quelqu'un qui explique en français
+
+et quand vous comprenez pas en français
+
+il faut essayer de comprendre le
+
+contexte regarder une vidéo en anglais
+
+on est à dire ce que vous voulez et vous
+
+regardez un peu ce qu'il fait et juste
+
+de ça vous essayez de comprendre ce qui
+
+se passe quoi OK
+
+et donc voilà voilà
+
+on va finir cette vidéo sur ceci parce
+
+qu'il se fait tard de notre côté
+
+demain je regarderai si j'aurai le temps
+
+de faire d'autres vidéos tout seul ou
+
+avec Mohamed s'il veut continuer
+
+l'aventure
+
+il nous reste en fait à pouvoir
+
+comprendre mon projet pour pouvoir
+
+placer l'objet par rapport au Guardian
+
+le truc c'est que pour ça on va voir
+
+d'abord demain si on a le temps elle
+
+commence déroule la journée parce que
+
+vous je crois que vous avez fini à midi
+
+et puis vous allez jusqu'à 5h je sais
+
+pas franchement j'ai aucune mais ça
+
+c'est des détails donc on verra après
+
+j'espère que vous avez aimé ces quatre
+
+parties de tutoriel sur comment on peut
+
+gérer le projet il y aura peut-être
+
+d'autres vidéos sur ce je vous souhaite
+
+une très bonne soirée de là où vous êtes
+
+un très bon moment et à la prochaine
+
+ciao ciao ciao
+

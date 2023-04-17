@@ -1,0 +1,1824 @@
+salut à tous bienvenue dans cette vidéo
+
+je suis avec Mohamed salut et dans cette
+
+partie ici nous allons vous montrer un
+
+peu comment télécharger le projet par
+
+défaut que je vous propose de tester
+
+sachant que ce que je vous propose de
+
+tester c'est un Ibrahim Peach alors ici
+
+nous avons Ibrahim le fondateur de
+
+molengeek et vous allez devoir sur la
+
+petite ordinateur lui pitcher votre idée
+
+il faut savoir que le projet il y a une
+
+vidéo de deux heures où je montre
+
+comment on va de Unity donc de rien
+
+jusque il y a la VR qui est là qui
+
+fonctionne elle dure 8 heures si vous
+
+voulez avoir tous les petits détails
+
+tous les petites améliorations et le
+
+code est sur le guide en ligne
+
+c'est-à-dire ici ceci c'est le code de
+
+Unity on le voit parce qu'il est mis à 7
+
+package project setting ce sont une
+
+sénatrice une architecture classique de
+
+Unity
+
+vous avez une petite démo ici que vous
+
+pouvez télécharger qui a un apk donc si
+
+vous téléchargez ça et vous le mettez
+
+sur le Quest vous devriez pouvoir jouer
+
+à libre indique
+
+et si vous voulez télécharger le code il
+
+vous suffit de soit utiliser git et
+
+d'utiliser au lien si vous savez ce que
+
+ça guide je vous expliquerai pas ce que
+
+c'est ici parce que c'est un peu
+
+compliqué c'est un truc excellent étudié
+
+si jamais vous devez étudier un truc
+
+c'est guide mais ça va pas être le sujet
+
+de cette vidéo donc on va faire
+
+downloady je vais passer sur l'écran de
+
+Mohamed qui lui a déjà téléchargé ce zip
+
+et on va essayer de voir si le projet
+
+veut bien s'exécuter se lancer sur Unity
+
+comment faire pour le faire tourner sur
+
+le Quest comment on fait pour le publier
+
+sur le Quest et c'est plus ou moins ça
+
+l'idée de la vidéo allez on y va je
+
+passe sur son écran donc ici j'ai
+
+téléchargé
+
+ici je ne vois pas ton
+
+le stream quand je recommence non je
+
+veux dire le stream voilà c'est bon on
+
+va regarder sur son écran à lui parce
+
+que c'est comme ça qu'on va pouvoir se
+
+voir si ça marche et je le fais sur mon
+
+propre PC il y a des choses que j'ai
+
+pris à installer qui vont peut-être
+
+faire que je ne vais pas voir ce que
+
+vous aurez comme erreur donc c'est pour
+
+ça qu'on le fait sur son pc donc là ici
+
+j'ai les îles qui est installé
+
+falloir que tu me guides sur les étapes
+
+alors ici il va falloir que tu extrais
+
+ceci donc ça c'est le projet Unity donc
+
+tu vas pouvoir l'extraire sur ton pc
+
+essaie de le mettre le plus proche de la
+
+racine possible par exemple sur un
+
+disque dur un autre disque dur si tu en
+
+as plusieurs pour éviter de prendre la
+
+place sur ton pc donc c'est une mauvaise
+
+idée sur le bureau oui tu pouvais le
+
+mettre sur ton délai vu que tu m'as dit
+
+que tu avais
+
+je le transférer sur le DAB
+
+pourquoi est-ce que je dis de pas le
+
+déposer sur le bureau c'est parce que
+
+les projets Windows n'a que 255
+
+caractères comme je disais la vidéo
+
+précédente et j'ai écrit mes noms de
+
+variables avec mes noms de classe avec
+
+des grands noms les noms de projets avec
+
+des grands noms et donc du coup plus
+
+vous l'éloignez plus vous risquez
+
+d'avoir des problèmes dus à Windows
+
+n'acceptant que 255 caractères
+
+tu l'as supprimé ou tu le copies là non
+
+je le copie ok ça après je me demande si
+
+ça aurait été pas mieux de juste là
+
+copier pendant qu'il copie on peut déjà
+
+les télécharger la démo donc tu peux
+
+aller sur le site si tu vas dans release
+
+alors là je vois qu'il est mis des euros
+
+c'est parce que t'as pas actualisé la
+
+page
+
+hop tu peux retourner en arrière
+
+voilà et là il y avait un before Agathe
+
+ici vous pouvez voir qu'on peut
+
+télécharger une apk donc si il clique
+
+sur le bouton Impeca non je attends 2
+
+secondes on voit rien on voit rien
+
+désolé pour cette introduction foireuse
+
+j'ai oublié de pousser sur regarder la
+
+vidéo bye bye donc pour l'instant tout
+
+ce qu'on a fait c'était d'aller sur le
+
+site web donc c'était d'essayer de
+
+dézipper le truc on attend que ça
+
+désigne donc on est allé sur le site web
+
+donc je vais sur le site sur le site tu
+
+peux cliquer ici là il y a quelque chose
+
+qui s'appelle release vous cliquez
+
+dessus
+
+il faut juste du temps que la page et
+
+ensuite il y a une apk que vous pouvez
+
+télécharger ici le fait de cliquer
+
+dessus et va lancer à téléchargement
+
+c'est quoi une apk
+
+un exécutable dans un ordinateur c'est
+
+une application vous allez pouvoir
+
+exécuter sur Windows que vous allez
+
+pouvoir jouer et pouvoir faire tourner
+
+un apk c'est une sorte d'est alors qui
+
+va installer ce qu'il faut sur le
+
+téléphone pour pouvoir jouer à un jeu
+
+lancer une application et tout
+
+c'est rien d'autre que une sorte de
+
+grosse zip qui permet d'installer
+
+sachant que ici
+
+on va le déposer sur sidequest pour
+
+aller l'installer sur le Quest donc par
+
+exemple si vous voulez installer cet apk
+
+maintenant qu'elle est téléchargée on va
+
+lancer sidequest que vous avez installé
+
+dans la vidéo précédente
+
+on va connecter le casque s'il est pas
+
+connecté il est connecté
+
+alors vu que on a mis l'ordinateur en
+
+veille tantôt le casque ne détecte et en
+
+mode autorisation en gros il doit aller
+
+autoriser le casque comme il est mis ici
+
+en orange au dessus à gauche donc il va
+
+devoir mettre le cas sur sa tête donc tu
+
+peux mettre son casque quand on fait le
+
+setup instruction il nous montre
+
+justement
+
+ça vous montre comment setup sauf que
+
+pour setup il faut être développeur et
+
+développeur ça veut dire que vous allez
+
+devoir faire une très longue démarche
+
+c'est pour ça qu'il a fait une vidéo
+
+parce que les gens demandent à chaque
+
+fois vous pouvez regarder la vidéo elle
+
+est très longue il y a plein de vidéos
+
+sur Internet qui montrent comment on
+
+fait pour devenir développeur sur Quest
+
+mais je vous garantis que c'est bien
+
+compliqué ça sera compliqué mais c'est
+
+ici tous les cas ce que vous avez sont
+
+déjà en mode développeur sous le compte
+
+de molengeek du coup il y a pas besoin
+
+de faire ces étapes si pour le A400
+
+si vous êtes hors du à 4 ans et que vous
+
+voulez apprendre je vous invite à taper
+
+dans Google mode développeur Quest 2
+
+c'est top et vous aurez énormément de
+
+tutos sur le sujet
+
+donc là il y a d'autoriser le casque
+
+donc on va voir que ça passe en vert
+
+voilà maintenant on va essayer
+
+d'installer la PK donc tu peux lâcher le
+
+casque on va Dragan drop c'est à dire
+
+déposer l'application dans sidequest
+
+alors
+
+un petit peu aller dans le dossier de
+
+téléchargement tu peux le déposer donc
+
+il faut juste ouvrir voilà donc c'est
+
+d'en télécharger je suppose
+
+il faut que tu montres l'endroit où il
+
+était téléchargé
+
+ici à plus cycos donc il faut que tu
+
+aies en arrière fond voilà tu déposes ça
+
+et alors plus vers ici jusqu'à ce qu'il
+
+ait un menu qui apparaissent voilà donc
+
+maintenant il y a un truc qui est apparu
+
+qui décide de reprir maintenant qu'il
+
+l'a fait vous pouvez voir qu'il est en
+
+train d'installer il y a une petite
+
+notification qui dit que c'est en train
+
+de se faire voilà c'est devenu vert donc
+
+c'est installé ce qui veut dire que là
+
+il lance le jeu il va pouvoir le voir le
+
+jeu d'ailleurs quitte à quitte à l'avoir
+
+installé tu peux plus ou moins lancer
+
+juste lancer ici pour qu'on puisse voir
+
+le résultat sur
+
+le quest
+
+voilà
+
+et du coup alors pour lancer une
+
+application qui a développé Rami il faut
+
+aller dans un menu spécial comme vous
+
+avez pu voir dans la vidéo précédente
+
+ici il va aller y aller donc c'est tout
+
+à droite
+
+voilà l'orthographe
+
+et là on va aller chercher hello
+
+et on va aller sur elon no cojem
+
+ici nous demande si on veut découvrir
+
+l'application oui on veut dire on veut
+
+dire oui discover continuait
+
+j'ai l'impression que
+
+voilà
+
+alors je ne vois rien pour le moment
+
+il faut le temps que ça se lance
+
+donner les autorisations
+
+pour accéder aux photos parce que en
+
+fait ce qui se passe ici c'est que vous
+
+pouvez déposer des fichiers et ces
+
+fichiers je peux aller les lire pour
+
+présenter donc c'est petcha Kucha ça
+
+permet de parler sur des fichiers sur
+
+des images
+
+alors l'application continue la
+
+décharger made initi c'est quelque chose
+
+que vous allez avoir que vous allez voir
+
+quand vous faites un jeu gratuit et
+
+je vous présente
+
+il y a encore le son
+
+alors ce qui se passe c'est que ici il a
+
+un câble donc il peut pas beaucoup
+
+bouger
+
+mais ici vous pouvez voir qu'il y a
+
+Ibrahim en face voilà
+
+et il y a une table avec
+
+pas beaucoup plus voilà il y a des
+
+slides qui passent vous avez 20 secondes
+
+pour pitcher sur les slides vous avez
+
+vos mains vous avez des boutons pour
+
+pouvoir passer de slide en slide tu peux
+
+regarder les boutons
+
+ça permet en fait de pouvoir faire pause
+
+elle est de slide en slide donc ça vous
+
+permet d'apprendre à avoir deux trois
+
+interactions dans Unity et donc voilà
+
+l'idée c'est juste ça c'est de faire
+
+cette application là
+
+sachant que vous vous allez faire des
+
+applications qui ne sont pas ça ici
+
+c'est juste un exemple de comment on
+
+fait une application de réalité
+
+augmentée niveau des boutons de comment
+
+ça marche et des trucs comme ça comment
+
+on charge des images comment on met des
+
+objets 3D donc ça c'est le sujet d'une
+
+autre vidéo beaucoup plus complète
+
+quand
+
+je dis
+
+il s'arrête alors tant qu'à faire je
+
+vais vous montrer comment on fait pour
+
+voir l'image via wifi donc là vous avez
+
+vu qu'on pouvait pousser sur le bouton
+
+et on voit l'image en câblée si vous
+
+voulez le voir en wifi premièrement vous
+
+devez avoir un wifi alors vaut mieux
+
+avoir au wifi personnalisé à routeur je
+
+ne sais pas si on peut le faire depuis
+
+le téléphone donc il faudra tester ça
+
+pendant le A4 ans si vous créez votre
+
+propre spot téléphone vous pouvez le
+
+faire depuis votre PC en créant votre
+
+boîte mais ça encore une fois il faut
+
+aller voir dans Windows comment ça
+
+fonctionne ici nous on a notre propre
+
+routeur donc comment ça se passe
+
+on va aller on va laisser le Quest
+
+brancher on va aller cliquer sur le
+
+petit truc ici qui veut dire wifi et on
+
+va cliquer sur Connecter en fait le fait
+
+de faire ça lance un service sur Android
+
+quelque chose qui tourne en arrière fond
+
+qui va permettre de dire je donne tout
+
+autorisation source sur ce chemin pour
+
+aller faire des choses sur l'appareil et
+
+récupérer des choses ce qui veut dire
+
+que là basiquement le casque est accable
+
+si quelqu'un est sur le wifi et ici le
+
+wifi est fermé donc on s'en fout donc je
+
+donne les autorisations il a autorisé le
+
+casque tu peux mettre autorisé pour ce
+
+PC la prochaine fois c'était à trois
+
+options tu as autorisé à autorisé pour
+
+ce PC alors maintenant qu'il a ça on
+
+peut débrancher le câble
+
+et vous allez voir qu'il va disparaître
+
+et réapparaître voilà en fait il disparu
+
+et puis réapparu donc il est resté
+
+connecté ce qui veut dire que maintenant
+
+il est connecté via wifi donc je vais
+
+aller sur l'icône de stream je vais
+
+cropper l'image et je vais lancer le
+
+stream
+
+et maintenant on voit sans câble donc
+
+c'est comme ça qu'on fait si vous voulez
+
+voir Unity sans câble voir le jeu sans
+
+sur l'écran et pour montrer aux autres
+
+via son câble
+
+malheureusement vous pouvez voir que là
+
+il a une manette et une main
+
+oculus n'autorise que d'avoir soit les
+
+manettes soit les mains mais pas là et
+
+l'autre donc ici il doit choisir les
+
+manettes ou la main
+
+voilà voilà
+
+ça c'est les points que vous pouvez
+
+récupérer au niveau de la main donc vous
+
+pouvez voir que vous pouvez mettre des
+
+interactions dessus par exemple ici moi
+
+j'ai mis des collisions sur son index
+
+donc il y a deux petites boules sur son
+
+index qui permettent d'interagir avec le
+
+menu donc j'ai pas fait que tout soit
+
+utilisable alors ça décolle
+
+parce que nous on voit plus rien de
+
+notre côté voilà c'est bon
+
+voilà par exemple ici avec et ça fait
+
+quelque chose encore une fois si j'ai
+
+pas le temps de faire d'autres vidéos
+
+n'hésitez pas à les regarder la vidéo où
+
+je construis ça pour pouvoir voir
+
+comment faire et basiquement dans Unity
+
+vous avez juste deux collisions ces
+
+collision sont détectés et on va
+
+exécuter un tout petit bout de code
+
+derrière
+
+voilà
+
+derrière ton tableau aussi
+
+se passe c'est que vous aimeriez bien
+
+pouvoir bouger cet objet alors vous
+
+voyez il y a des petits points sur le
+
+côté que j'ai codé pour l'exemple si il
+
+va le toucher avec ses doigts tu peux
+
+aller toucher le pivot là-bas ouais
+
+avec juste le la boule de l'index
+
+voilà ça permet de le tourner le
+
+déplacer je crois que ça marche mieux
+
+avec le tableau il est beaucoup plus
+
+rapide tu peux aller essayer sur le
+
+tableau si tu veux
+
+donc là il va aller sur le tableau
+
+ah bah c'est tant mieux du coup on peut
+
+montrer donc ici le problème c'est que
+
+le guardiaque il l'a rendu trop petit
+
+parce que tantôt on n'avait pas la place
+
+avec le câble donc il va devoir le
+
+redéfinir
+
+est-ce que toi tu vois quelque chose du
+
+coup
+
+donc
+
+je clique ici
+
+je vais
+
+aller toucher le sol mais ici faut
+
+d'abord demander de redéfinir ici
+
+redéfinir va dessiner dans la table
+
+continue
+
+fallait cliquer sur redessiner
+
+redessiner il touche le sol
+
+il va pouvoir dessiner le sol où il veut
+
+jouer alors dessine croit au maximum de
+
+zones pour que tu puisses te déplacer
+
+dans la pièce
+
+voilà
+
+elle va vraiment loin loin quoi
+
+vous pouvez soit être précis et essayer
+
+de correspondre à la pièce soit vraiment
+
+aller chercher beaucoup de beaucoup plus
+
+de la zone ça permet juste de ne pas se
+
+prendre des murs donc il faut savoir que
+
+en verre on perd toutes notion d'espace
+
+et donc du coup quand vous n'êtes pas en
+
+réalité augmentée quand vous voyez pas
+
+le monde c'est très très facile de ne
+
+plus savoir où on est c'est ça que c'est
+
+cet objet cette notion qu'on appelle le
+
+Guardian
+
+lance l'application
+
+alors est-ce que ça va bugger ou pas
+
+parce que tu as changé de Guardian
+
+pendant
+
+alors maintenant
+
+voilà ça c'est les manettes comme vous
+
+pouvez voir elles sont vous pouvez
+
+récupérer les données de l'endroit où se
+
+trouve la manette il a un tableau et il
+
+va pouvoir les déplacer le tableau pour
+
+le mettre ailleurs alors ici vous pouvez
+
+toucher il a fait une toucher vous
+
+pouvez bouger les en touchant le les
+
+bouts alors c'est très lent c'est
+
+simplement parce que je n'ai pas eu le
+
+temps de développer beaucoup plus
+
+profondément l'idée c'est quand vous
+
+voulez bouger des objets en 3D vous avez
+
+plutôt utilisé des boîtes à outils des
+
+trucs qui existent qui font déjà le taf
+
+mais ici vu que je voulais pas vous
+
+apprendre à utiliser une boîte à outils
+
+dans ce hack à ton ci parce que beaucoup
+
+trop lourds votre couple compliqué
+
+vu que vous ne connaissez pas le code ni
+
+Unity je vous ai fait un petit pivot qui
+
+permet de bouger alors ce qui est cool
+
+c'est que ce pivot j'ai fait en sorte
+
+qu'il retienne le Guardian c'est-à-dire
+
+la zone que vous avez défini ce qui veut
+
+dire que maintenant si il quitte le
+
+tableau tu peux mettre le tableau en
+
+diagonale pour qu'on voit vraiment bien
+
+avec les petites
+
+voilà donc on voit vraiment bien que il
+
+sera au même endroit que précédemment
+
+attends parce que nous on voit plus rien
+
+ça suit pas toujours voilà c'est bon
+
+donc maintenant tu peux quitter le jeu
+
+l'application alors avec les manettes on
+
+peut pousser sur le petit bouton MENU
+
+pour quitter mais ici il n'est pas avec
+
+les manettes si tu mets tes mains en
+
+face comme ça voilà tu as ça qui
+
+apparaît un petit menu mais NON ferme
+
+tes mains comme ceci attends tu vois
+
+mais tu vois ma main ou pas tu fais ceci
+
+voilà mais avec la main de droite
+
+la main droite tu as ma droite voilà tu
+
+fermes il y a un menu qui apparaît là
+
+c'est pour aller dans oculus au dessus
+
+c'est pour repositionner pour
+
+enregistrer la caméra couper le micro
+
+mais nous on veut aller donc tu relâche
+
+là voilà et en fait il va te demander
+
+de continuer ouais tu vas dire ok il
+
+faut pincher si tu fais ça avec ton
+
+doigt
+
+voilà et tu vas dire quitter
+
+ce qui se passe c'est admettons vous
+
+jouez au jeu ou calibrer la zone vous
+
+quittez et vous voulez le passer à que
+
+le gâteau maintenant elle voulait
+
+relancer le jeu bah les objets sont plus
+
+au même endroit donc enfin ils vont se
+
+remettre à l'endroit où on a commencé
+
+sauf que ici le code que j'ai mis dans
+
+le projet va vous permettre de faire que
+
+l'objet garde sa place et c'est ça qu'on
+
+va vérifier c'est que ça vient marcher
+
+quand il va revenir théoriquement le
+
+tableau est toujours là et il est en
+
+diagonale
+
+parce qu'il va reconnaître le Guardian
+
+le truc que vous avez dessiné au début
+
+et c'est ça qui va permettre de
+
+recharger la formation alors comment
+
+est-ce qu'on fait ça c'est le sujet
+
+d'une autre vidéo alors juste lance le
+
+programme
+
+il est revenu à sa place mais il est pas
+
+en diagonale ah merde il est pas
+
+et ben c'est un échec critique
+
+je vais corriger ce code pour ce soir
+
+histoire que ça fonctionne dans la vraie
+
+vie normalement ça aurait dû fonctionner
+
+mais apparemment non
+
+ça c'est juste un point c'est un point
+
+qui monte l'endroit de la scène les
+
+boutons c'est des boutons pour interagir
+
+avec le slide alors tu peux toucher sur
+
+le bouton de droite les boutons tout à
+
+droite
+
+voilà
+
+alors regarde en face de toi
+
+alors si vous voulez pitié à quelqu'un
+
+d'autre
+
+Ibrahim vous pouvez pitcher à
+
+Jean-Claude Van Damme ou à le bœuf
+
+Jean-Claude Van Damme
+
+[Musique]
+
+et donc voilà ça c'est l'idée du projet
+
+c'est juste un entraînement au pitch
+
+pour voir si vous arrivez à pitcher sous
+
+pression
+
+alors je propose qu'on retourne à
+
+l'exercice qui est de faire maintenant
+
+du coup le copier le projet ouais mais
+
+comment je fais pour le retirer tu peux
+
+le retirer simplement
+
+la position encore une fois le c'est pas
+
+c'est pas toujours facile le code donc
+
+désolé de ce fail critique mais sur PC
+
+ça marchait donc ça doit être une bêtise
+
+je vais régler ça
+
+maintenant nous ce qu'on va faire du
+
+coup c'est aller copier ce projet sur
+
+son ordinateur ce qu'on a déjà fait on
+
+l'a dézippé et on l'a mis sur le disque
+
+D il est actuellement ici c'est ça donc
+
+on va aller l'ouvrir avec Unity pour ça
+
+il faut ouvrir une ici
+
+vous pouvez ouvrir une ici directement
+
+mais souvent il va automatiquement
+
+lancer une ici hub ici on va pouvoir
+
+dire qu'on veut pas créer un projet mais
+
+ouvrir un projet et du coup je dois lui
+
+donner et on va aller le chercher
+
+l'endroit où on l'a déposé
+
+voilà alors n'hésitez pas à faire un
+
+dossier Unity pour que vos projets
+
+soient tous stockés au même endroit ici
+
+qu'est-ce qu'il dit il dit que ma
+
+version moi quand je l'ai fait elle est
+
+en 2019 F1 et lui il est en 21 et fin
+
+c'est parce que il y a une mise à jour
+
+de limity entre le moment où moi j'ai
+
+voulu faire ce projet ci et le moment où
+
+je voulais passer donc entre la version
+
+19 et la version 21 alors c'est une
+
+bonne question il y a pas beaucoup de
+
+différence c'est des petites parce que
+
+si c'était une grosse différence au lieu
+
+d'avoir trois on aurait eu 4 dans 2010
+
+2021 x 3 et LTS dire last stable version
+
+c'est à dire que c'est la dernière
+
+version qui est stable de Unity donc ça
+
+veut dire qu'on peut faire des projets
+
+dessus il y a pas de problème sachant
+
+que ici lui il est en 2021 en 21 F1 on
+
+va lui faire faire on va changer en 2021
+
+parce que moi demain je vais me créer de
+
+faire ce soir je vais me mettre à jour
+
+sur votre version pour causer une
+
+version mise à jour
+
+de la version
+
+change de version on lance le projet
+
+voilà maintenant il va ouvrir le projet
+
+ici qu'est-ce qui va demander il va dire
+
+est-ce que vous êtes sûr parce que c'est
+
+une version différente ben oui
+
+malheureusement oui je suis sûr
+
+voilà et il va falloir attendre qu'il
+
+charge le projet qui ouvre le projet que
+
+tout se passe bien une fois qu'il sera
+
+ouvert on va pouvoir passer à la suite
+
+qu'est-ce qu'on peut montrer en
+
+attendant donc ici on
+
+apk on a réussi en installer une apk
+
+étrangère ce qui est chouette on a
+
+montré comment streamer
+
+[Musique]
+
+je peux vous montrer peut-être par
+
+exemple en attendant que ça s'installe
+
+ça Quest alors il faut savoir que danse
+
+qui est du truc un outil vous allez
+
+utiliser beaucoup si vous êtes
+
+développeur vert pour le Quest
+
+il y a d'autres options donc évidemment
+
+ici on a le magasin
+
+qui permet de d'aller chercher des
+
+applications les télécharger des choses
+
+comme ça on a ici un truc qui permet
+
+d'aller chercher directement ce qu'on
+
+veut installer comme à la PéKa si vous
+
+voulez pas de droper
+
+on a ici quelques choses qui permet
+
+d'aller récupérer les fichiers donc par
+
+exemple si vous voulez installer la Rome
+
+de la Virtual Boy pour jouer à la
+
+Virtual Boy vous pouvez créer un dossier
+
+ici et aller déposer les Roms dedans ou
+
+si vous voulez récupérer une image qui
+
+était prise en VR s'il prend une capture
+
+d'écran là-bas elle sera là dans ce
+
+dossier si
+
+tu peux la prendre et justement ça sert
+
+à ça si tu vas pouvoir l'extraire et en
+
+déposer ok alors ici
+
+ce petit là permet de savoir quels sont
+
+les applications qui sont installées sur
+
+le klus Quest en ce moment donc vous
+
+pouvez voir que sur celui-ci on a vite
+
+fait beurre qui est installé physique
+
+Lab openbrush on a élixir donc on a
+
+plein de petites applications qu'on a
+
+installé par défaut pour vous si vous
+
+êtes dans cet événement-ci
+
+qui sont assez sympathiques à tester
+
+tout avec des thématiques un peu
+
+différentes les mains le patcho
+
+celui du joueur des trucs comme ça
+
+on a installé la Virtual Boy mais on n'a
+
+pas installé des Roms on va voir si on a
+
+le temps désinstaller pour demain
+
+donc ce qui est cool dans ce truc c'est
+
+que vous pouvez du coup avoir des
+
+informations c'est à dire hop est-ce
+
+qu'on veut lancer l'application à
+
+l'utilisateur qui est en train de jouer
+
+est-ce qu'on veut forcer à quitter
+
+est-ce qu'on veut nettoyer les données
+
+temporaires de l'application est-ce
+
+qu'on veut la désinstaller et il y a
+
+aussi faire backup donc quand vous
+
+faites un backup ici backup game data
+
+backup apk ça permet d'extraire la PK et
+
+de pouvoir la partager sur un autre
+
+Quest alors directement je suppose que
+
+la question qui va te poser c'est on
+
+peut faire ça exactement officielles et
+
+non malheureusement non et
+
+malheureusement oui c'est à dire qu'en
+
+fait vous pouvez extraire les
+
+applications et les mettre sur notre
+
+Quest de temps en temps ça va
+
+fonctionner de temps en temps pas
+
+sachant qu'en fait quand vous
+
+téléchargez une application qui est sur
+
+le store d'oculus
+
+elle sera signée ce qui veut dire que
+
+quand tu vas la mettre sur notre Quest
+
+ça ne fonctionnera pas mais si la
+
+personne a acheté le jeu à ce moment là
+
+ça marchera donc c'est ça donc vu que
+
+moi sur les casques de molengy qu'on a
+
+installé le compte de Molly si j'extrais
+
+de la case de volumique et je le dépose
+
+sur la case vous le geek ça fonctionnera
+
+si j'extrais sur celui des lois
+
+sébor vu que moi j'ai acheté beats ça
+
+fonctionnera si je le mets sur un casque
+
+qui n'a jamais acheté beats ça ne
+
+fonctionnera pas donc ça c'est pour tous
+
+les applications qui sont sur le store
+
+officiel d'accord
+
+et donc voilà voilà mais ça permet
+
+d'interagir un peu avec ce qu'on a sur
+
+le Quest de faire des choses ça
+
+évidemment vous l'avez vu c'est ce qui
+
+est en train de vous installer vous
+
+faites des actions c'est la liste
+
+d'attente des actions
+
+ça c'est des paramètres qui vous
+
+permettent de changer des choses sur le
+
+Quest alors qu'est-ce qu'on veut dire
+
+par là en fait vous pouvez voir que le
+
+Quest il a quand même des paramètres qui
+
+sont changeables la texture des
+
+composants est-ce qu'on veut utiliser le
+
+CPU le GPU de toute manière forte est-ce
+
+que le frame red c'est à dire le taux
+
+d'affichage du casque doit être bas ou
+
+haut ça va consommer plus mais vous
+
+allez avoir moins un peu moins malade si
+
+vous le mettez en 120 Hertz mais voilà
+
+ça va consommer plus donc vous pouvez
+
+mettre en 72 ou descend pareil ici pour
+
+tout ce qui est c'est des systèmes de
+
+rendus des informations que l'on peut
+
+tuer
+
+et aller changer par exemple ici c'est
+
+plus pour l'enregistrement si vous
+
+voulez enregistrer en bonne qualité ou
+
+en mauvaise
+
+là et voilà en gros un peu c'est plein
+
+de petits trucs qu'on peut activer
+
+désactiver alors désactiver le Guardian
+
+c'est une fonctionnalité intéressante
+
+mais qui crée beaucoup de bugs en fait
+
+ça permet de dire au Quest écoute la
+
+zone de protection de l'utilisateur moi
+
+j'en veux pas et vous pouvez la
+
+désactiver ce qui fait que là il vous
+
+demandera pas de redessiner le dessin
+
+mais ça veut aussi dire que quand il est
+
+perdu ça va faire un peu tout bouger
+
+donc ça c'est qualité ça c'est défaut
+
+et donc voilà ça c'était pour les
+
+options de du Quest alors ça c'est pour
+
+les experts la dernière option ici ça
+
+permet d'exécuter des commandes alors ça
+
+veut dire quoi faire des exécuter les
+
+commandes quand vous connectez votre
+
+Quest au PC vous pouvez envoyer des
+
+instructions pour dire c'est quoi son ID
+
+et c'est quoi l'état de sa batterie
+
+est-ce que je peux installer thé
+
+l'application x que je peux extraire les
+
+applications c'est à dire que tout ce
+
+que vous voulez de vous montrer c'est
+
+rien d'autre que des interfaces
+
+graphiques qui permet de faire ça avec
+
+votre appareil si vous êtes
+
+informaticien et que vous connaissez
+
+quelle méthode il faut envoyer mais en
+
+fait vous pouvez les envoyer ici par
+
+exemple si je tape ADB
+
+de vice ici comme ceci
+
+avec S je crois
+
+voilà vous pouvez voir que le casque
+
+actuellement c'est ça son ID il est non
+
+autorisé et on a un autre casque qui est
+
+sur le Wifi qui est autorisé c'est celui
+
+qu'on a configuré juste avant pourquoi
+
+il y en a deux parce qu'il est connecté
+
+en câble et en wifi et qui arrive pas à
+
+faire la différence ça veut dire que là
+
+pour le remettre en cas il faut que je
+
+déconnecte du fi et leur compte c'est à
+
+dire que si tu veux qu'il y en ait que
+
+un seul dans la liste parce qu'en fait
+
+il y a des quand tu installes une apk il
+
+peut reprendre qu'un seul à la fois si
+
+tu veux le faire il faut soit le
+
+débrancher soit de le déconnecter du
+
+wifi
+
+et donc du coup il y a plein plein
+
+d'autres méthodes qui existent mais ça
+
+c'est un autre sujet courantier c'était
+
+juste pour vous montrer que vous pouvez
+
+le faire ce qui est inutile installé
+
+maintenant toujours pas
+
+alors faut savoir que pourquoi ça prend
+
+autant d'ouvrir un projet initi qui est
+
+déjà créé il faut savoir que il va
+
+d'abord recompiler tous les codes il va
+
+recharger recréer tous les dossiers
+
+temporaires qui n'étaient pas dans git
+
+parce que quand on met un projet en
+
+ligne on va pas mettre tous les fichiers
+
+temporaires qui ne servent à rien à
+
+l'application ça fait des gigas de
+
+données enfin ça fait 1 mg ça ne sert à
+
+rien de les mettre en ligne c'est réel
+
+que des gros chiffres qui ne servent à
+
+rien
+
+tout ça on va les ignorer mais du coup
+
+il faut les reconstruire
+
+et dans ces fichiers temporaires il y en
+
+a qui sont liés aux images et en fait
+
+tout ce qui est image 3D et autres il va
+
+devoir les ruches il va devoir recréer
+
+toutes ces données et c'est ça qu'il est
+
+en train de faire et en fait quand vous
+
+téléchargez l'outil qui permet de faire
+
+de l'oculus Quest les développeurs de
+
+oculus sont des gros fainéants et en
+
+fait au lieu de faire un outil qui est
+
+light avec ce qui est nécessaire pour la
+
+VR et un autre outil avec plein de démo
+
+plein textures ils ont tout en un depuis
+
+des années ce qui fait que quand vous
+
+faites un projet oculus vous avez aussi
+
+la synchronisation labiale vous avez la
+
+texture de la démo avec les trains vous
+
+avez toutes les démos avec les mains les
+
+trucs les bazars avec le networking et
+
+en fait vous pouvez essayer de retirer
+
+ça mais ça risque de créer des bugs donc
+
+dans notre cas vu que je veux pas créer
+
+des bugs dans le cours j'ai mis
+
+effectivement tout le truc comme il est
+
+à la base c'est pour ça que ça prend du
+
+temps à charger
+
+je crois qu'on se rapproche tout
+
+doucement oui on y est le timing alors
+
+on est un peu décalé nous sur l'image
+
+parce que ici je vois qu'il y a un gros
+
+décalage entre ce que
+
+parce que nous on vient de finir et vous
+
+vous êtes toujours sur
+
+l'image du chargement
+
+de attends on va relancer discord pour
+
+être sûr que le truc c'est que comme il
+
+était en train de télécharger
+
+ça a peut-être décalé le timing de trucs
+
+ou quelque chose comme ça
+
+on va lancer discord parce que vous avez
+
+quand même un beau décalage
+
+alors
+
+en attendant
+
+donc pour rappel vous cliquez ici vous
+
+faites télécharger le zip
+
+et
+
+la démo se trouve là-bas sachant que
+
+voilà la dernière apparemment la
+
+dernière a quand même bug au
+
+positionnement mais ça vous permet déjà
+
+de tester l'application
+
+que je vous ai fourni
+
+si jamais vous utilisez guide faites
+
+juste guide clone ici et vous allez
+
+avoir ça sur votre ordinateur et après
+
+j'ai envie de dire c'est pas grave si le
+
+tableau il reste pas en place ouais mais
+
+c'est quand même l'utilité c'est de
+
+reconnaître le Guardian et de
+
+personnaliser sa pièce parce que le but
+
+du concours ici de l'exercice c'est de
+
+prendre une pièce de la décorer avec des
+
+objets en réalité virtuelle ou en
+
+réalité augmentée et le faire que quand
+
+vous revenez les objets sont toujours à
+
+leur place donc c'est pour ça que que ça
+
+me frustre de voir ça ne pas fonctionner
+
+je comprends mais ça va ça va
+
+fonctionner alors le discord est de
+
+retour voilà donc après que il est
+
+chargé et tout j'ai eu ce message alors
+
+ici qu'est-ce qui nous dit nous dit les
+
+performances des cafolder tatata à cette
+
+donc là il demande de pouvoir les essais
+
+de recommander je peux lui dire non
+
+c'est bon on va dire non ne demande plus
+
+il y a pas besoin
+
+fermé voilà alors ici il a le projet
+
+Unity ouvert
+
+ce qu'on va les faire c'est aller
+
+chercher ce qui se passe c'est que quand
+
+vous allez dans le projet génétique
+
+quelqu'un que vous connaissez pas vous
+
+pouvez aller dans le but setting et ici
+
+vous allez voir en fait quelle scène sur
+
+laquelle scène il était en train de
+
+travailler il y a plein de scènes une
+
+scène c'est rien d'autre qu'une sorte de
+
+Level c'est l'endroit où on va déposer
+
+des objets jouer les trucs comme ça il y
+
+en a plein dans le projet mais c'est là
+
+c'est celle qui va c'est celle qui va
+
+utiliser pour lancer le jeu donc on va
+
+double cliquer dessus et ça nous permet
+
+de voir que ici c'était celle-ci
+
+alors moi j'aime pas les icônes ici donc
+
+généralement ce que je fais c'est que je
+
+viens là et je fais ceci pour avoir plus
+
+des informations vous pouvez voir qu'ici
+
+on a lancé pitch to Ibrahim place blue
+
+alors ce qui va se passer c'est que si
+
+il fait plein normalement il va y avoir
+
+un message d'erreur et ça va cracher une
+
+ici c'est
+
+le petit bouton qui est tout au dessus
+
+ça veut dire en fait c'est quoi la c'est
+
+quoi le plait quand vous faites du litti
+
+à un moment où vous éditez la scène à un
+
+moment donné vous voulez jouer et quand
+
+vous jouez vous voulez pas que ça
+
+affecte l'édition donc voilà le crash
+
+qui a lieu en fait ce qui se passe c'est
+
+que le code d'oculus depuis je sais pas
+
+laquelle mise à jour
+
+quand vous lancez unique a pas d'oculus
+
+Quest connecté donc la scène Unity il
+
+prend de votre ligne ici et il crache
+
+le jour il coricha on aura plus ce bug
+
+là mais là pour le moment on va se bug
+
+là comment est-ce qu'on fait et pourquoi
+
+je vous le montre c'est justement pour
+
+que vous puissiez ne pas être perdu
+
+pendant la game James pour pouvoir faire
+
+contrer ça il faut soit
+
+ne pas faire plein et d'envoyer
+
+directement sur le Quest et de tester
+
+sur le Quest il est pas pratique parce
+
+que ça veut dire que vous devez à chaque
+
+fois attendre que ça construise si votre
+
+PC lui c'est supporter le Quest à ce
+
+moment là il faut brancher le Quest et
+
+le lancer avant d'aller l'attendre donc
+
+lancer Quest Link et c'est ce qu'on va
+
+faire maintenant ok la troisième
+
+solution pour que lui lance Westling
+
+ok le la troisième solution si vous
+
+voulez ne pas avoir ce bug là c'est de
+
+faire deux projets ici parce qu'en fait
+
+un projet de réalité virtuelle c'est
+
+rien d'autre que un projet Unity jeux
+
+vidéo classique et donc moi-même quand
+
+je fais des projets parce que je fais
+
+c'est que j'utilise pas la VR pour ne
+
+pas avoir le cas sur ma tête toute la
+
+journée je fais le projet à l'extérieur
+
+du projet VR en faisant des scènes et
+
+les objets déplacer faire du code et
+
+tout et quand c'est prêt je l'exporte
+
+dans le projet VR et là je le teste avec
+
+le 4R donc c'est ce que vous allez
+
+devoir faire mais c'est le sujet de la
+
+vidéo suivante où je vous montrerai
+
+comment faire un projet utile non VR
+
+pour travailler sur la scène
+
+alors ici il a lancé oculus c'est top
+
+que je ne vois pas ah merde non tu vas
+
+pas me dire que les autorisations
+
+en fait je crois que j'ai enregistré
+
+sans c'est on n'est pas cliquer là
+
+dessus donc on a rien vu
+
+je peux vous montrer pas de souci ouais
+
+on peut donc
+
+en fait
+
+j'ai fait attends attends attends en
+
+fait le problème c'est que ici on a
+
+perdu une grosse partie avec la vidéo
+
+est déjà longue alors que la première
+
+partie de la vidéo était déjà bien
+
+intéressante sur le fait de lancer le
+
+quiz de streamay donc on va arrêter
+
+cette vidéo aussi je vous donne
+
+rendez-vous dans la vidéo suivante où on
+
+va explorer le projet Unity tantôt
+

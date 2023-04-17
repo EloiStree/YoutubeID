@@ -1,0 +1,7324 @@
+1
+00:00:00,840 --> 00:00:02,280
+salut à tous et bienvenue dans cette
+
+2
+00:00:02,280 --> 00:00:06,779
+vidéo 3 avec Mohamed ici on a exploré
+
+3
+00:00:06,779 --> 00:00:08,639
+comment installer Unity comment
+
+4
+00:00:08,639 --> 00:00:10,320
+installer tous les software Open Source
+
+5
+00:00:10,320 --> 00:00:11,460
+qu'on pouvait utiliser pour travailler
+
+6
+00:00:11,460 --> 00:00:13,440
+dans Unity on a explosé un peu ce que
+
+7
+00:00:13,440 --> 00:00:14,759
+c'était ça Quest les différents stores
+
+8
+00:00:14,759 --> 00:00:16,560
+les choses comme ça on a exploré un peu
+
+9
+00:00:16,560 --> 00:00:19,619
+comment lancer une apk sur le projet et
+
+10
+00:00:19,619 --> 00:00:21,060
+la dernière vidéo si vous l'avez regardé
+
+11
+00:00:21,060 --> 00:00:23,520
+on essayait d'installer le projet par
+
+12
+00:00:23,520 --> 00:00:25,980
+défaut pour ce workshop le projet c'est
+
+13
+00:00:25,980 --> 00:00:28,080
+un Ibrahim Beach ou pitchez à Ibrahim le
+
+14
+00:00:28,080 --> 00:00:30,900
+fondateur de Molenbeek ici on va se
+
+15
+00:00:30,900 --> 00:00:33,300
+concentrer du coup directement à Unity
+
+16
+00:00:33,300 --> 00:00:35,820
+je vous invite à télécharger le zip sur
+
+17
+00:00:35,820 --> 00:00:39,780
+le site qui se trouve ici donc sur
+
+18
+00:00:39,780 --> 00:00:42,960
+GitHub vous avez et le Noko Jam vous
+
+19
+00:00:42,960 --> 00:00:45,120
+téléchargez le code ici à partir du zip
+
+20
+00:00:45,120 --> 00:00:46,980
+vous pouvez télécharger ici la dernière
+
+21
+00:00:46,980 --> 00:00:49,800
+démo si vous voulez tester la démo avant
+
+22
+00:00:49,800 --> 00:00:52,140
+et vous allez pouvoir du coup l'ouvrir
+
+23
+00:00:52,140 --> 00:00:54,539
+Unity ouvrir une ici prend beaucoup de
+
+24
+00:00:54,539 --> 00:00:56,160
+temps vous allez voir ça prend bonnement
+
+25
+00:00:56,160 --> 00:00:57,600
+en quoi 5 minutes 10 minutes quelque
+
+26
+00:00:57,600 --> 00:00:58,620
+chose comme ça pour la première fois
+
+27
+00:00:58,620 --> 00:00:59,820
+pour la première fois mais cette fois
+
+28
+00:00:59,820 --> 00:01:03,140
+suivante ça s'ouvrira plus vite donc là
+
+29
+00:01:03,140 --> 00:01:05,820
+alors dans la précédente vidéo avant
+
+30
+00:01:05,820 --> 00:01:07,860
+qu'on la coupe nous étions confrontés à
+
+31
+00:01:07,860 --> 00:01:10,320
+une erreur ce qui se passe c'est que
+
+32
+00:01:10,320 --> 00:01:13,680
+l'outil d'oculus bug quand aucun oculus
+
+33
+00:01:13,680 --> 00:01:15,840
+n'est détecté avec oculus link ou que
+
+34
+00:01:15,840 --> 00:01:17,220
+aucun oculiste n'est branché avec le
+
+35
+00:01:17,220 --> 00:01:19,439
+câble on ne peut rien y faire à part
+
+36
+00:01:19,439 --> 00:01:20,460
+espérer qu'il le corrige au plus vite
+
+37
+00:01:20,460 --> 00:01:23,100
+pour le moment on va voir ce bug pour
+
+38
+00:01:23,100 --> 00:01:24,840
+vous pouvoir le vous le montrer on va
+
+39
+00:01:24,840 --> 00:01:27,479
+exécuter Unity voilà donc on fait play
+
+40
+00:01:27,479 --> 00:01:28,920
+c'est-à-dire qu'on veut voir la scène
+
+41
+00:01:28,920 --> 00:01:30,900
+qu'on veut voir la démo il va lancer la
+
+42
+00:01:30,900 --> 00:01:34,200
+démo et bam crash bloqué
+
+43
+00:01:34,200 --> 00:01:36,900
+ça va planter Unity ça le redémarrer sa
+
+44
+00:01:36,900 --> 00:01:37,860
+plante pas c'est à vous de le redémarrer
+
+45
+00:01:37,860 --> 00:01:40,560
+et il va vous mettre un message erreur
+
+46
+00:01:40,560 --> 00:01:44,340
+donc vous avez pas 36000 solutions la
+
+47
+00:01:44,340 --> 00:01:46,560
+première solution c'est d'avoir Quest
+
+48
+00:01:46,560 --> 00:01:47,700
+qui est branché à votre PC mais vous
+
+49
+00:01:47,700 --> 00:01:49,259
+venez peut-être pas à pc assez puissant
+
+50
+00:01:49,259 --> 00:01:51,479
+pour la VR sûrement pas d'ailleurs
+
+51
+00:01:51,479 --> 00:01:54,420
+du coup la deuxième solution nous on va
+
+52
+00:01:54,420 --> 00:01:55,920
+explorer la première maintenant la
+
+53
+00:01:55,920 --> 00:01:57,600
+deuxième solution c'est de ne pas
+
+54
+00:01:57,600 --> 00:01:59,220
+utiliser la VR comme projet mais de
+
+55
+00:01:59,220 --> 00:02:00,960
+créer un autre projet non VR de
+
+56
+00:02:00,960 --> 00:02:03,240
+travailler dedans d'exporter dans la VR
+
+57
+00:02:03,240 --> 00:02:04,680
+quand vous voulez faire des tests VR et
+
+58
+00:02:04,680 --> 00:02:07,380
+de pousser avec une apk sur le Quest
+
+59
+00:02:07,380 --> 00:02:09,239
+pour les tester sur le Quest ça prend
+
+60
+00:02:09,239 --> 00:02:11,099
+plus de temps c'est plus conséquent et
+
+61
+00:02:11,099 --> 00:02:12,239
+si vous n'avez pas de PC c'est vrai que
+
+62
+00:02:12,239 --> 00:02:14,220
+ça va être un peu chaud il y a d'autres
+
+63
+00:02:14,220 --> 00:02:16,680
+alternatives comme l'utiliser advr ou
+
+64
+00:02:16,680 --> 00:02:17,940
+steam VR ou des trucs comme ça mais
+
+65
+00:02:17,940 --> 00:02:20,160
+encore une fois votre PC doit avoir un
+
+66
+00:02:20,160 --> 00:02:21,480
+peu de puissance et la complexité
+
+67
+00:02:21,480 --> 00:02:23,040
+devient trop grande pour un nochot
+
+68
+00:02:23,040 --> 00:02:26,099
+j'aime donc ici on va essayer de
+
+69
+00:02:26,099 --> 00:02:30,060
+résoudre problématique par problématique
+
+70
+00:02:30,060 --> 00:02:32,160
+oculus link alors pour lancer oculus le
+
+71
+00:02:32,160 --> 00:02:33,540
+sling vous devez avoir installé oculus
+
+72
+00:02:33,540 --> 00:02:34,860
+setup
+
+73
+00:02:34,860 --> 00:02:36,900
+ici on l'a déjà installé donc on va le
+
+74
+00:02:36,900 --> 00:02:37,640
+lancer
+
+75
+00:02:37,640 --> 00:02:40,560
+votre cache doit être branché et on va
+
+76
+00:02:40,560 --> 00:02:44,580
+lancer le casque ici pour lui dire que
+
+77
+00:02:44,580 --> 00:02:46,860
+on veut passer alors ici il y a pas
+
+78
+00:02:46,860 --> 00:02:48,000
+besoin de configurer parce qu'on avait
+
+79
+00:02:48,000 --> 00:02:50,519
+déjà configuré précédemment donc il faut
+
+80
+00:02:50,519 --> 00:02:52,220
+juste relancer le casque
+
+81
+00:02:52,220 --> 00:02:54,300
+sachant que je vais lancer mon corps que
+
+82
+00:02:54,300 --> 00:02:56,220
+tu fais ça sidequest histoire qu'on
+
+83
+00:02:56,220 --> 00:02:58,700
+puisse voir ce qui se passe
+
+84
+00:02:59,580 --> 00:03:02,360
+ça aide quest
+
+85
+00:03:02,400 --> 00:03:07,220
+dessus on va aller cropper l'image
+
+86
+00:03:07,760 --> 00:03:10,940
+c'est ici
+
+87
+00:03:14,370 --> 00:03:16,760
+[Musique]
+
+88
+00:03:16,760 --> 00:03:19,800
+il accepte pas que je l'ai je la mets
+
+89
+00:03:19,800 --> 00:03:21,980
+ailleurs
+
+90
+00:03:22,159 --> 00:03:25,819
+donc activer
+
+91
+00:03:25,819 --> 00:03:27,959
+donc en fait ce qui va se passer c'est
+
+92
+00:03:27,959 --> 00:03:28,980
+je voulais vous le montrer mais c'est
+
+93
+00:03:28,980 --> 00:03:30,060
+pas grave c'est déjà dans la vidéo
+
+94
+00:03:30,060 --> 00:03:31,099
+précédente
+
+95
+00:03:31,099 --> 00:03:33,420
+donc allez d'avoir des vidéos
+
+96
+00:03:33,420 --> 00:03:36,300
+précédentes mais basiquement ici on va
+
+97
+00:03:36,300 --> 00:03:38,220
+aller dans la reculus Quest et on va
+
+98
+00:03:38,220 --> 00:03:39,599
+aller dire qu'on accepte
+
+99
+00:03:39,599 --> 00:03:41,400
+oculus questning une fois qu'il va faire
+
+100
+00:03:41,400 --> 00:03:43,580
+ça il va tomber dans un espace blanc
+
+101
+00:03:43,580 --> 00:03:46,140
+tout blanc de couleur c'est parce qu'on
+
+102
+00:03:46,140 --> 00:03:47,879
+n'est pas assez je suis dans le sens
+
+103
+00:03:47,879 --> 00:03:49,799
+blanc je vais cropper parce que là j'ai
+
+104
+00:03:49,799 --> 00:03:51,200
+pas encore lancé
+
+105
+00:03:51,200 --> 00:03:54,120
+voilà voilà vous voyez que il est lancé
+
+106
+00:03:54,120 --> 00:03:55,739
+il est dans un espace blanc qu'il a
+
+107
+00:03:55,739 --> 00:03:57,239
+réussi à lancer ça c'est en allant dans
+
+108
+00:03:57,239 --> 00:03:59,159
+le menu et dans le menu vous allez sur
+
+109
+00:03:59,159 --> 00:04:01,260
+oculus questnik maintenant tu peux dire
+
+110
+00:04:01,260 --> 00:04:03,180
+OK
+
+111
+00:04:03,180 --> 00:04:04,560
+et donc tant qu'il est ici ça veut dire
+
+112
+00:04:04,560 --> 00:04:06,540
+que le Quest se comporte comme un
+
+113
+00:04:06,540 --> 00:04:09,120
+appareil pour le PC et donc du coup il
+
+114
+00:04:09,120 --> 00:04:10,500
+faut pas sortir de ça il peut enlever le
+
+115
+00:04:10,500 --> 00:04:11,640
+cas si il veut mais il faut surtout pas
+
+116
+00:04:11,640 --> 00:04:14,340
+sortir de ça donc ici je vais aller dans
+
+117
+00:04:14,340 --> 00:04:15,380
+Unity
+
+118
+00:04:15,380 --> 00:04:18,358
+et je vais lancer tu peux le garder
+
+119
+00:04:18,358 --> 00:04:20,760
+comme ça tu vas voir directement je vais
+
+120
+00:04:20,760 --> 00:04:24,959
+lancer le casque
+
+121
+00:04:31,280 --> 00:04:33,419
+de trop parce qu'il est branché avec le
+
+122
+00:04:33,419 --> 00:04:35,639
+câble sur le PC vous pouvez le faire en
+
+123
+00:04:35,639 --> 00:04:36,720
+wifi mais pour ça il faut que vous ayez
+
+124
+00:04:36,720 --> 00:04:39,600
+une bonne wifi ou à l'émetteur wifi
+
+125
+00:04:39,600 --> 00:04:41,699
+quelque part dans la pièce
+
+126
+00:04:41,699 --> 00:04:43,620
+et donc voilà ici son pc assez puissant
+
+127
+00:04:43,620 --> 00:04:45,419
+pour supporter le fait de lancer le jeu
+
+128
+00:04:45,419 --> 00:04:47,699
+mais vous pouvez voir que ça rame
+
+129
+00:04:47,699 --> 00:04:49,139
+énormément donc ça va lui un peu
+
+130
+00:04:49,139 --> 00:04:51,120
+la maladie de la VR donc c'est à dire la
+
+131
+00:04:51,120 --> 00:04:54,060
+gerbe si il joue trop comme ça mais
+
+132
+00:04:54,060 --> 00:04:55,800
+basiquement ici peut tester il peut voir
+
+133
+00:04:55,800 --> 00:04:58,160
+que ça marche
+
+134
+00:05:01,460 --> 00:05:03,600
+en fait ce qui se passe c'est que c'est
+
+135
+00:05:03,600 --> 00:05:05,160
+un outil qui permet de pitcher à Ibrahim
+
+136
+00:05:05,160 --> 00:05:06,660
+c'est à dire que vous déposez des images
+
+137
+00:05:06,660 --> 00:05:09,180
+dans un dossier à côté du projet et ces
+
+138
+00:05:09,180 --> 00:05:10,500
+images vont charger vous pouvez parler
+
+139
+00:05:10,500 --> 00:05:12,840
+par-dessus le but c'est de s'entraîner à
+
+140
+00:05:12,840 --> 00:05:14,580
+pitcher
+
+141
+00:05:14,580 --> 00:05:15,720
+alors maintenant je crois que c'est tu
+
+142
+00:05:15,720 --> 00:05:17,160
+bouges le tableau et que tu le ramènes
+
+143
+00:05:17,160 --> 00:05:18,720
+mais le problème c'est qu'il est un peu
+
+144
+00:05:18,720 --> 00:05:19,979
+loin bouge-toi de la table fait tourner
+
+145
+00:05:19,979 --> 00:05:23,280
+la table pour voir si le code ici est
+
+146
+00:05:23,280 --> 00:05:25,199
+bien fonctionné tu peux utiliser les
+
+147
+00:05:25,199 --> 00:05:27,199
+manettes
+
+148
+00:05:27,199 --> 00:05:29,280
+il faut le faire avec non c'est pas
+
+149
+00:05:29,280 --> 00:05:30,360
+cliquer il faut toucher avec le gros
+
+150
+00:05:30,360 --> 00:05:32,960
+cube de la manette
+
+151
+00:05:33,380 --> 00:05:37,220
+je sais pas si ça sera assez proche
+
+152
+00:05:38,900 --> 00:05:42,360
+ligne rouge dans le jeu c'est ce que le
+
+153
+00:05:42,360 --> 00:05:43,740
+Guardian c'est à dire que normalement le
+
+154
+00:05:43,740 --> 00:05:45,240
+Guardian c'est plein de petits pois et
+
+155
+00:05:45,240 --> 00:05:46,740
+une longue ligne avant on pouvait y
+
+156
+00:05:46,740 --> 00:05:48,000
+avoir accès mais là j'ai pas réussi à
+
+157
+00:05:48,000 --> 00:05:49,139
+avoir accès donc je crois qu'ils ont
+
+158
+00:05:49,139 --> 00:05:51,120
+retiré la fonction et on a juste un gros
+
+159
+00:05:51,120 --> 00:05:53,220
+carré et ce gros carré c'est l'espace où
+
+160
+00:05:53,220 --> 00:05:54,900
+il peut jouer tu peux le tourner comme
+
+161
+00:05:54,900 --> 00:05:58,280
+ça de manière bizarre
+
+162
+00:05:58,460 --> 00:06:00,840
+comme ça on est sûr qu'on voit si tu le
+
+163
+00:06:00,840 --> 00:06:03,240
+tournes VLC horizon sur le pour qu'il
+
+164
+00:06:03,240 --> 00:06:07,139
+soit mal foutu voilà alors en fait ce
+
+165
+00:06:07,139 --> 00:06:08,479
+qui se passe ici c'est que
+
+166
+00:06:08,479 --> 00:06:10,620
+dans le projet il vient de bouger la
+
+167
+00:06:10,620 --> 00:06:12,600
+table on pouvait voir qu'elle est plus
+
+168
+00:06:12,600 --> 00:06:15,259
+totalement droite
+
+169
+00:06:15,320 --> 00:06:18,060
+et on va voir si elle recharge
+
+170
+00:06:18,060 --> 00:06:21,360
+correctement je l'arrête attention je
+
+171
+00:06:21,360 --> 00:06:25,280
+m'arrête je vais relancer le projet
+
+172
+00:06:26,160 --> 00:06:28,639
+voilà
+
+173
+00:06:30,240 --> 00:06:34,880
+et là normalement quand ça va relancer
+
+174
+00:06:37,139 --> 00:06:39,380
+on peut voir que la table
+
+175
+00:06:39,380 --> 00:06:41,759
+elle a pas bougé dans le sens elle est
+
+176
+00:06:41,759 --> 00:06:43,380
+toujours elle est retournée l'endroit où
+
+177
+00:06:43,380 --> 00:06:46,319
+elle devait être c'est ça donc elle est
+
+178
+00:06:46,319 --> 00:06:47,220
+retournée à l'endroit où elle devait
+
+179
+00:06:47,220 --> 00:06:51,000
+être pour pas que du coup je suis pas
+
+180
+00:06:51,000 --> 00:06:53,100
+dans ce monde alors ce qui se passe
+
+181
+00:06:53,100 --> 00:06:55,919
+c'est que pour comprendre toutes ces
+
+182
+00:06:55,919 --> 00:06:58,860
+trucs vous pouvez voir que ici donc là
+
+183
+00:06:58,860 --> 00:07:01,280
+tu peux enlever le casque t'inquiète
+
+184
+00:07:01,280 --> 00:07:03,560
+comme ça tu peux voir aussi
+
+185
+00:07:03,560 --> 00:07:06,000
+en fait c'est ce qui se passe c'est que
+
+186
+00:07:06,000 --> 00:07:07,440
+ici tout ça c'est ce qu'on appelle des
+
+187
+00:07:07,440 --> 00:07:10,319
+game objet c'est à dire des objets qui
+
+188
+00:07:10,319 --> 00:07:12,060
+ont un sens dans Unity et qui permettent
+
+189
+00:07:12,060 --> 00:07:13,919
+de voir des objets de voir d'avoir des
+
+190
+00:07:13,919 --> 00:07:16,080
+collisions de mettre des scripts
+
+191
+00:07:16,080 --> 00:07:18,419
+c'est game object ils appartiennent à
+
+192
+00:07:18,419 --> 00:07:21,020
+une hiérarchie la hiérarchie
+
+193
+00:07:21,020 --> 00:07:23,819
+c'est basiquement ce qu'il y a dans
+
+194
+00:07:23,819 --> 00:07:26,400
+votre scène dans votre level
+
+195
+00:07:26,400 --> 00:07:28,319
+et en fait tous ces objets il faut bien
+
+196
+00:07:28,319 --> 00:07:29,580
+qu'ils appellent des fichiers que ce
+
+197
+00:07:29,580 --> 00:07:31,440
+soit des images des objets 3D et donc
+
+198
+00:07:31,440 --> 00:07:32,460
+vous avez quelque chose qu'on appelle
+
+199
+00:07:32,460 --> 00:07:35,220
+ici un projet projet qui a des dossiers
+
+200
+00:07:35,220 --> 00:07:37,380
+avec plein d'images plein de fichiers 3D
+
+201
+00:07:37,380 --> 00:07:40,699
+par exemple ici si j'ouvre celui-ci
+
+202
+00:07:40,699 --> 00:07:44,099
+je suis pas habitué à ton clavier on
+
+203
+00:07:44,099 --> 00:07:46,099
+peut aller dans 3D objects par exemple
+
+204
+00:07:46,099 --> 00:07:49,319
+voilà et là on va pouvoir voir que j'ai
+
+205
+00:07:49,319 --> 00:07:52,080
+des objets qui viennent du web donc si
+
+206
+00:07:52,080 --> 00:07:54,479
+on va voir par exemple il y a laptop
+
+207
+00:07:54,479 --> 00:07:56,280
+voilà et si tu vas ouvrir le dossier
+
+208
+00:07:56,280 --> 00:07:59,599
+laptop donc tu cliques dessus
+
+209
+00:08:01,039 --> 00:08:03,720
+on peut voir qu'il y a la source parce
+
+210
+00:08:03,720 --> 00:08:04,860
+qu'il faut toujours bien sourcer quand
+
+211
+00:08:04,860 --> 00:08:06,620
+vous prenez de du web
+
+212
+00:08:06,620 --> 00:08:09,740
+et il y a
+
+213
+00:08:09,740 --> 00:08:11,460
+plein de petites choses que
+
+214
+00:08:11,460 --> 00:08:13,139
+j'expliquerai dans une autre vidéo mais
+
+215
+00:08:13,139 --> 00:08:14,460
+vas-y moi ce qu'il faut comprendre c'est
+
+216
+00:08:14,460 --> 00:08:15,840
+que vous pouvez apporter des assets 3D
+
+217
+00:08:15,840 --> 00:08:17,099
+des textures des choses comme ça les
+
+218
+00:08:17,099 --> 00:08:19,919
+mettre dans le projet tout développeur
+
+219
+00:08:19,919 --> 00:08:21,360
+aimerait bien pouvoir voir ce qui se
+
+220
+00:08:21,360 --> 00:08:23,220
+passe et débugger donc il y a en fait
+
+221
+00:08:23,220 --> 00:08:25,680
+une fenêtre qui s'appelle console ici
+
+222
+00:08:25,680 --> 00:08:27,180
+et en fait ça permet d'afficher les
+
+223
+00:08:27,180 --> 00:08:29,879
+messages tout se passe bien cette
+
+224
+00:08:29,879 --> 00:08:32,159
+texture et la charge est tout c'est très
+
+225
+00:08:32,159 --> 00:08:34,080
+pratique et si vous voulez pouvoir la
+
+226
+00:08:34,080 --> 00:08:37,320
+voir un peu différemment vous pouvez la
+
+227
+00:08:37,320 --> 00:08:40,979
+glisser comme ceci ici voilà comme ça on
+
+228
+00:08:40,979 --> 00:08:42,799
+a le dos très pratique
+
+229
+00:08:42,799 --> 00:08:45,600
+il reste trois fenêtres à voir alors
+
+230
+00:08:45,600 --> 00:08:48,180
+celle-ci celle que vous voyez ici c'est
+
+231
+00:08:48,180 --> 00:08:50,040
+ce qu'on appelle le rendu donc le Game
+
+232
+00:08:50,040 --> 00:08:51,899
+qui permet de voir ce que l'utilisateur
+
+233
+00:08:51,899 --> 00:08:53,940
+final va
+
+234
+00:08:53,940 --> 00:08:55,380
+alors que ici on a une fenêtre qui
+
+235
+00:08:55,380 --> 00:08:57,660
+s'appelle sin qui est en fait vous quand
+
+236
+00:08:57,660 --> 00:08:59,040
+vous éditez que vous déplacez les objets
+
+237
+00:08:59,040 --> 00:09:00,480
+vous voulez voir des lignes qui
+
+238
+00:09:00,480 --> 00:09:01,440
+déboguent vous voulez voir des petits
+
+239
+00:09:01,440 --> 00:09:03,120
+curseurs qui bougent c'est exactement ça
+
+240
+00:09:03,120 --> 00:09:04,440
+donc vous pouvez prendre les objets les
+
+241
+00:09:04,440 --> 00:09:06,600
+bouger les déplacer tourner agrandir et
+
+242
+00:09:06,600 --> 00:09:08,220
+tout encore une fois ce sera le sujet
+
+243
+00:09:08,220 --> 00:09:10,160
+d'une autre vidéo et si vous voulez
+
+244
+00:09:10,160 --> 00:09:12,300
+regarder comment moi j'ai fait cette
+
+245
+00:09:12,300 --> 00:09:14,880
+scène là évidemment je le montre dans la
+
+246
+00:09:14,880 --> 00:09:17,040
+vidéo où je ne parle pas
+
+247
+00:09:17,040 --> 00:09:19,320
+alors il reste une fenêtre ici
+
+248
+00:09:19,320 --> 00:09:21,140
+intéressante qui s'appelle inspecteur
+
+249
+00:09:21,140 --> 00:09:23,580
+inspecteur c'est quoi quand vous cliquez
+
+250
+00:09:23,580 --> 00:09:26,820
+sur un objet donc ici sur le côté ces
+
+251
+00:09:26,820 --> 00:09:29,220
+objets là ils ont une utilité par
+
+252
+00:09:29,220 --> 00:09:33,860
+exemple si je prends la table ici
+
+253
+00:09:34,380 --> 00:09:37,260
+attendez on va sélectionner ça
+
+254
+00:09:37,260 --> 00:09:41,660
+voilà on va aller sélectionner la table
+
+255
+00:09:41,660 --> 00:09:43,920
+si je sélectionne la table c'est quoi
+
+256
+00:09:43,920 --> 00:09:46,080
+une table bah c'est un objet dans le jeu
+
+257
+00:09:46,080 --> 00:09:47,880
+donc il est présent ici ce qu'on appelle
+
+258
+00:09:47,880 --> 00:09:50,820
+un Game object le Game object il a non
+
+259
+00:09:50,820 --> 00:09:54,240
+donc ici cette table des stops
+
+260
+00:09:54,240 --> 00:09:56,640
+il a transforme alors à transforme c'est
+
+261
+00:09:56,640 --> 00:09:58,500
+quoi c'est une position dans l'espace
+
+262
+00:09:58,500 --> 00:10:01,620
+une rotation et à l'agrandissement donc
+
+263
+00:10:01,620 --> 00:10:02,940
+c'est à dire que vous avez une taille
+
+264
+00:10:02,940 --> 00:10:05,279
+ici donc par exemple si je change la
+
+265
+00:10:05,279 --> 00:10:06,600
+taille vous allez voir que hop elle
+
+266
+00:10:06,600 --> 00:10:08,160
+grossit elle devient un peu plus haute
+
+267
+00:10:08,160 --> 00:10:09,959
+si jamais à 5 elle devient très haute
+
+268
+00:10:09,959 --> 00:10:12,120
+mais ça va étirer donc ça va vite
+
+269
+00:10:12,120 --> 00:10:13,620
+devenir moche
+
+270
+00:10:13,620 --> 00:10:15,540
+on a une rotation ici qui permet de
+
+271
+00:10:15,540 --> 00:10:17,399
+bouger l'objet
+
+272
+00:10:17,399 --> 00:10:19,940
+comme ceci
+
+273
+00:10:20,160 --> 00:10:23,339
+180 voilà par exemple ici je les tourne
+
+274
+00:10:23,339 --> 00:10:25,320
+à l'envers
+
+275
+00:10:25,320 --> 00:10:27,060
+et on a une position qui est sa position
+
+276
+00:10:27,060 --> 00:10:29,600
+dans l'espace
+
+277
+00:10:30,120 --> 00:10:32,940
+ouais ça en fait c'est un script c'est
+
+278
+00:10:32,940 --> 00:10:34,560
+au bout de code que Unity nous a donné
+
+279
+00:10:34,560 --> 00:10:36,779
+pour pouvoir positionner un objet dans
+
+280
+00:10:36,779 --> 00:10:40,200
+l'objet 3D il y a plein de scripts par
+
+281
+00:10:40,200 --> 00:10:41,459
+exemple il y a un script qui permet de
+
+282
+00:10:41,459 --> 00:10:43,260
+voir l'objet de lui donner de la couleur
+
+283
+00:10:43,260 --> 00:10:45,660
+de paramétrer le volume les lumières les
+
+284
+00:10:45,660 --> 00:10:46,860
+couleurs et ça c'est ce qu'on va appeler
+
+285
+00:10:46,860 --> 00:10:48,959
+ici le mechrone d'horreur donc qu'est-ce
+
+286
+00:10:48,959 --> 00:10:52,140
+qu'il fait il prend un objet 3D qu'on a
+
+287
+00:10:52,140 --> 00:10:55,980
+apporté qui est la table en gris c'est
+
+288
+00:10:55,980 --> 00:10:56,760
+rien d'autre que plein de petits
+
+289
+00:10:56,760 --> 00:10:58,019
+triangles mineurs derrière l'autre c'est
+
+290
+00:10:58,019 --> 00:11:00,000
+ça ça donne comme une la pression d'une
+
+291
+00:11:00,000 --> 00:11:04,440
+table et grâce ici au rendu on va
+
+292
+00:11:04,440 --> 00:11:07,740
+pouvoir afficher des lumières dessus des
+
+293
+00:11:07,740 --> 00:11:09,240
+ombrages et tout c'est ça qui va gérer
+
+294
+00:11:09,240 --> 00:11:11,579
+ça mais le problème c'est comment en
+
+295
+00:11:11,579 --> 00:11:13,620
+fait pour lui donner de la couleur mais
+
+296
+00:11:13,620 --> 00:11:14,760
+en fait on va déposer ce qu'on appelle
+
+297
+00:11:14,760 --> 00:11:16,560
+un matériel et un matériel s'il y a
+
+298
+00:11:16,560 --> 00:11:19,079
+d'autres que on dit cet objet on va y
+
+299
+00:11:19,079 --> 00:11:20,519
+mettre une texture c'est à dire une
+
+300
+00:11:20,519 --> 00:11:23,160
+image la texture elle va se déplier
+
+301
+00:11:23,160 --> 00:11:25,440
+comme ça sur le l'objet 3D elle aura
+
+302
+00:11:25,440 --> 00:11:26,940
+telle couleur telle lumière telle
+
+303
+00:11:26,940 --> 00:11:29,459
+luminosité telle tel effet et ça
+
+304
+00:11:29,459 --> 00:11:30,899
+ressemble à
+
+305
+00:11:30,899 --> 00:11:32,940
+vous pouvez voir qu'on a ici un reflet
+
+306
+00:11:32,940 --> 00:11:35,220
+qui sera plutôt métallique on aura un
+
+307
+00:11:35,220 --> 00:11:36,779
+œuf lait à reflex opaque c'est à dire
+
+308
+00:11:36,779 --> 00:11:38,040
+qu'on peut pas traverser dedans si vous
+
+309
+00:11:38,040 --> 00:11:39,000
+voulez le rendre transparent vous pouvez
+
+310
+00:11:39,000 --> 00:11:41,519
+sur transparent
+
+311
+00:11:41,519 --> 00:11:43,920
+on veut qu'il soit soit des deux côtés
+
+312
+00:11:43,920 --> 00:11:45,120
+c'est à dire est-ce qu'on voit à travers
+
+313
+00:11:45,120 --> 00:11:47,160
+les triangles d'un côté et pas de
+
+314
+00:11:47,160 --> 00:11:48,180
+l'autre ça veut dire qu'on n'est pas
+
+315
+00:11:48,180 --> 00:11:49,740
+obligé de calculer le rendu des deux
+
+316
+00:11:49,740 --> 00:11:52,140
+côtés du triangle mais ici si vous
+
+317
+00:11:52,140 --> 00:11:53,820
+mettez from ça veut dire oui de face
+
+318
+00:11:53,820 --> 00:11:55,800
+sinon vous pouvez mettre boss et ça veut
+
+319
+00:11:55,800 --> 00:11:57,959
+dire que quel que soit l'orientation du
+
+320
+00:11:57,959 --> 00:12:00,800
+triangle on verra une texture dessus
+
+321
+00:12:00,800 --> 00:12:04,500
+ici on va pouvoir déposer des textures
+
+322
+00:12:04,500 --> 00:12:06,300
+de dés donc comme vous pouvez voir ça
+
+323
+00:12:06,300 --> 00:12:08,279
+ressemble à ceci
+
+324
+00:12:08,279 --> 00:12:10,380
+ça c'est ce qu'on appelle un musée map
+
+325
+00:12:10,380 --> 00:12:13,260
+dépliage on va prendre une image de D on
+
+326
+00:12:13,260 --> 00:12:15,420
+va dessiner dessus et on va l'appliquer
+
+327
+00:12:15,420 --> 00:12:18,000
+sur l'objet 3D pour dessiner sur l'objet
+
+328
+00:12:18,000 --> 00:12:21,980
+3D ça c'est le métier d'un artiste
+
+329
+00:12:23,660 --> 00:12:26,820
+en fait ce qui se passe c'est que un
+
+330
+00:12:26,820 --> 00:12:29,339
+artiste va prendre l'objet 3D il va il
+
+331
+00:12:29,339 --> 00:12:30,720
+va découper tous les petits triangles et
+
+332
+00:12:30,720 --> 00:12:32,640
+dire ce triangle là si je dessine ici
+
+333
+00:12:32,640 --> 00:12:34,320
+dans le Tessa ça va dessiner sur ce
+
+334
+00:12:34,320 --> 00:12:37,079
+triangle et ça c'est un métier en appart
+
+335
+00:12:37,079 --> 00:12:38,640
+entière donc c'est extrêmement dur pour
+
+336
+00:12:38,640 --> 00:12:39,899
+moi de vous l'expliquer juste en deux
+
+337
+00:12:39,899 --> 00:12:41,519
+minutes sur une vidéo mais ça s'appelle
+
+338
+00:12:41,519 --> 00:12:43,980
+du dépliage de l'uvmap
+
+339
+00:12:43,980 --> 00:12:46,680
+c'est pas comme le cube quand on l'ouvre
+
+340
+00:12:46,680 --> 00:12:50,399
+ça donne une espèce de si par exemple si
+
+341
+00:12:50,399 --> 00:12:51,899
+vous prenez un bon exemple donc si vous
+
+342
+00:12:51,899 --> 00:12:53,639
+prenez un cube c'est un objet 3D Alors
+
+343
+00:12:53,639 --> 00:12:55,320
+comment on dessine sur le cube on va
+
+344
+00:12:55,320 --> 00:12:57,060
+couper les faces du cube on va le
+
+345
+00:12:57,060 --> 00:12:58,680
+déplier et là on aura une espèce de
+
+346
+00:12:58,680 --> 00:13:01,139
+croix comme la croix de Jésus et en fait
+
+347
+00:13:01,139 --> 00:13:03,000
+cette croix de Jésus on va pouvoir
+
+348
+00:13:03,000 --> 00:13:04,620
+dessiner sur chacune des phases sur une
+
+349
+00:13:04,620 --> 00:13:06,300
+image de dés et on va l'appliquer sur
+
+350
+00:13:06,300 --> 00:13:08,399
+l'objet 3D sauf que si vous faites ça
+
+351
+00:13:08,399 --> 00:13:10,500
+vous perdez plein d'espace dans le gros
+
+352
+00:13:10,500 --> 00:13:12,600
+carré de la texture ce qui fait que vous
+
+353
+00:13:12,600 --> 00:13:14,399
+perdez de la place sur l'ordinateur et
+
+354
+00:13:14,399 --> 00:13:15,779
+donc pour pas perdre cet espace là on va
+
+355
+00:13:15,779 --> 00:13:16,980
+prendre tous les cubes et les réallonger
+
+356
+00:13:16,980 --> 00:13:19,079
+pour que on puisse ne pas perdre de
+
+357
+00:13:19,079 --> 00:13:21,540
+l'espace mais l'idée c'est ça c'est de
+
+358
+00:13:21,540 --> 00:13:22,860
+déplier le cube de dessiner dessus
+
+359
+00:13:22,860 --> 00:13:24,420
+maintenant ici c'est des objets plus
+
+360
+00:13:24,420 --> 00:13:26,639
+complexes que cuve donc il faut dessiner
+
+361
+00:13:26,639 --> 00:13:27,899
+de manière bizarre comme vous avez pu
+
+362
+00:13:27,899 --> 00:13:29,579
+voir avec la table donc on va déposer
+
+363
+00:13:29,579 --> 00:13:31,380
+cette image là ici et lui il va savoir
+
+364
+00:13:31,380 --> 00:13:33,500
+comment on le déplie sur l'objet 3D
+
+365
+00:13:33,500 --> 00:13:36,420
+on peut gérer la couleur donc par
+
+366
+00:13:36,420 --> 00:13:37,740
+exemple ici si on veut à bord qu'il soit
+
+367
+00:13:37,740 --> 00:13:40,079
+plus vert si on change ici top il va
+
+368
+00:13:40,079 --> 00:13:41,100
+être plus vert
+
+369
+00:13:41,100 --> 00:13:44,399
+donc c'est à ça que ça sert à matériel
+
+370
+00:13:44,399 --> 00:13:45,660
+alors je pourrais vous expliquer ce que
+
+371
+00:13:45,660 --> 00:13:46,920
+ça shader mais je vais vous perdre donc
+
+372
+00:13:46,920 --> 00:13:48,600
+je vais pas aller plus loin mais à
+
+373
+00:13:48,600 --> 00:13:50,100
+shader c'est maintenant qu'on sait ce
+
+374
+00:13:50,100 --> 00:13:51,839
+qu'on veut comment demander réellement
+
+375
+00:13:51,839 --> 00:13:53,459
+l'ordinateur à votre carte graphique de
+
+376
+00:13:53,459 --> 00:13:55,620
+dessiner tout ça mais ça je vais pas y
+
+377
+00:13:55,620 --> 00:13:56,579
+aller parce que c'est un truc de
+
+378
+00:13:56,579 --> 00:13:58,620
+d'informaticien de geek je vous
+
+379
+00:13:58,620 --> 00:14:00,180
+l'expliquerai que si un jour je donne
+
+380
+00:14:00,180 --> 00:14:02,399
+cours sur le sujet alors juste une
+
+381
+00:14:02,399 --> 00:14:04,760
+question ouais
+
+382
+00:14:06,420 --> 00:14:09,139
+ma sœur
+
+383
+00:14:13,160 --> 00:14:15,240
+si tu veux tourner tu peux utiliser le
+
+384
+00:14:15,240 --> 00:14:16,880
+pivot ici
+
+385
+00:14:16,880 --> 00:14:19,139
+tu peux cliquer dessus quand vous avez
+
+386
+00:14:19,139 --> 00:14:20,459
+pas de souris vous pouvez utiliser ça
+
+387
+00:14:20,459 --> 00:14:22,680
+pour bouger sachant que si tu cliques
+
+388
+00:14:22,680 --> 00:14:24,240
+sur le sang tu vas gagner la perspective
+
+389
+00:14:24,240 --> 00:14:26,040
+ou perd la perspective alors c'est quoi
+
+390
+00:14:26,040 --> 00:14:28,200
+la perspective c'est justement ça que tu
+
+391
+00:14:28,200 --> 00:14:29,399
+vas pouvoir voir ici vous voyez la table
+
+392
+00:14:29,399 --> 00:14:33,600
+et si vous voyez la table du dessus
+
+393
+00:14:33,600 --> 00:14:35,519
+voilà comme ceci vous pouvez voir que la
+
+394
+00:14:35,519 --> 00:14:37,560
+table on voit qu'elle est un peu qu'elle
+
+395
+00:14:37,560 --> 00:14:39,480
+part vers les bords ce qu'on appelle la
+
+396
+00:14:39,480 --> 00:14:41,519
+perspective par contre quand vous posez
+
+397
+00:14:41,519 --> 00:14:42,839
+pas sur la perspective vous voyez à
+
+398
+00:14:42,839 --> 00:14:44,639
+plaque comme un jeu 2D ça c'est
+
+399
+00:14:44,639 --> 00:14:45,600
+orthogonique
+
+400
+00:14:45,600 --> 00:14:47,779
+orthogonal enfin
+
+401
+00:14:47,779 --> 00:14:49,860
+vous avez ça qui vous permet de mieux
+
+402
+00:14:49,860 --> 00:14:51,480
+calibrer en octogoning mais de mieux
+
+403
+00:14:51,480 --> 00:14:54,240
+comprendre en perspective donc vous
+
+404
+00:14:54,240 --> 00:14:56,820
+passez de l'un à l'autre comment je fais
+
+405
+00:14:56,820 --> 00:14:58,920
+pour revenir
+
+406
+00:14:58,920 --> 00:15:00,779
+en perspective tu recliques sur le
+
+407
+00:15:00,779 --> 00:15:02,899
+centre
+
+408
+00:15:03,980 --> 00:15:06,899
+alors ici le jeu le truc un peu lent
+
+409
+00:15:06,899 --> 00:15:08,220
+c'est parce qu'il a pas arrêté le mode
+
+410
+00:15:08,220 --> 00:15:10,320
+plaît alors il sert quoi le mode plaît
+
+411
+00:15:10,320 --> 00:15:12,420
+clique pas dessus tout de suite le petit
+
+412
+00:15:12,420 --> 00:15:14,399
+bouton que vous voyez ici en bleu donc
+
+413
+00:15:14,399 --> 00:15:16,139
+tu peux mettre en curseur dessus voilà
+
+414
+00:15:16,139 --> 00:15:18,300
+ce petit bouton là c'est le mode play ça
+
+415
+00:15:18,300 --> 00:15:20,339
+veut dire on joue donc on modifie tout
+
+416
+00:15:20,339 --> 00:15:22,079
+en fait tout ce qu'on veut mais quand on
+
+417
+00:15:22,079 --> 00:15:23,579
+arrête il faut que ça récupère la place
+
+418
+00:15:23,579 --> 00:15:24,720
+de quand on était en train de travailler
+
+419
+00:15:24,720 --> 00:15:26,639
+et on vous allez voir que ici quand il
+
+420
+00:15:26,639 --> 00:15:28,019
+va arrêter le mode play la table elle va
+
+421
+00:15:28,019 --> 00:15:30,440
+revenir à sa place
+
+422
+00:15:30,440 --> 00:15:32,220
+donc c'est à dire qu'il y a des données
+
+423
+00:15:32,220 --> 00:15:34,199
+qui peuvent être reconstruites par Unity
+
+424
+00:15:34,199 --> 00:15:35,760
+il y a des exceptions mais c'est très
+
+425
+00:15:35,760 --> 00:15:36,959
+pratique pour pouvoir tester son jeu
+
+426
+00:15:36,959 --> 00:15:38,699
+vite fait et puis relancer puis retester
+
+427
+00:15:38,699 --> 00:15:42,000
+puis relancer et donc voilà maintenant
+
+428
+00:15:42,000 --> 00:15:43,260
+qu'on sait un peu ce que c'est inutile
+
+429
+00:15:43,260 --> 00:15:44,760
+les interfaces et tout on verra plus
+
+430
+00:15:44,760 --> 00:15:47,220
+profondément ça dans une autre vidéo ce
+
+431
+00:15:47,220 --> 00:15:48,540
+qu'on veut voir c'est comment on fait
+
+432
+00:15:48,540 --> 00:15:50,720
+pour Builder sur la réalité virtuelle
+
+433
+00:15:50,720 --> 00:15:52,800
+alors ici vous avez vu comment on joue
+
+434
+00:15:52,800 --> 00:15:54,660
+dans Unity sur la réalité virtuelle mais
+
+435
+00:15:54,660 --> 00:15:55,800
+alors comment on fait pour le mettre sur
+
+436
+00:15:55,800 --> 00:15:59,279
+le casque alors ce qui se passe c'est
+
+437
+00:15:59,279 --> 00:16:00,300
+que vous avez ici un truc qui s'appelle
+
+438
+00:16:00,300 --> 00:16:03,899
+file quand vous cliquez sur file
+
+439
+00:16:03,899 --> 00:16:05,279
+je crois pas que l'ity puisse être en
+
+440
+00:16:05,279 --> 00:16:08,360
+français donc tout est en anglais
+
+441
+00:16:41,339 --> 00:16:42,540
+alors ce qui se passe c'est que vu qu'on
+
+442
+00:16:42,540 --> 00:16:43,980
+change de plateforme bah elle est
+
+443
+00:16:43,980 --> 00:16:45,899
+texture elles sont plus dans le le bon
+
+444
+00:16:45,899 --> 00:16:48,180
+format il faut les redessiner il faut
+
+445
+00:16:48,180 --> 00:16:49,980
+les recalculer et vous pouvez voir que
+
+446
+00:16:49,980 --> 00:16:51,420
+le chargement qu'on avait eu dans la
+
+447
+00:16:51,420 --> 00:16:53,279
+vidéo précédente qui est un peu long et
+
+448
+00:16:53,279 --> 00:16:55,560
+on va leur avoir il sera peut-être un
+
+449
+00:16:55,560 --> 00:16:56,519
+peu moins long mais on va quand même
+
+450
+00:16:56,519 --> 00:16:58,500
+avoir rechargement ready toutes les
+
+451
+00:16:58,500 --> 00:17:01,320
+métadonnées sur les sur les textures sur
+
+452
+00:17:01,320 --> 00:17:02,820
+les objets 3D et surtout ce qui va
+
+453
+00:17:02,820 --> 00:17:04,679
+permettre de faire un programme Android
+
+454
+00:17:04,679 --> 00:17:07,339
+alors ici
+
+455
+00:17:07,339 --> 00:17:10,859
+pour le casque vert ouais pas pour le
+
+456
+00:17:10,859 --> 00:17:12,900
+téléphone ouais mais en fait ce qui se
+
+457
+00:17:12,900 --> 00:17:14,179
+passe c'est que ton
+
+458
+00:17:14,179 --> 00:17:18,059
+casque VR ton oculus Quest ici c'est une
+
+459
+00:17:18,059 --> 00:17:20,880
+bonne question alors là du coup je vais
+
+460
+00:17:20,880 --> 00:17:23,280
+passer sur le webcam
+
+461
+00:17:23,280 --> 00:17:26,520
+voilà ceci n'est rien d'autre que de
+
+462
+00:17:26,520 --> 00:17:29,460
+réalité virtuelle dedans vous avez un
+
+463
+00:17:29,460 --> 00:17:32,520
+téléphone qui se trouve ici OK et dans
+
+464
+00:17:32,520 --> 00:17:33,900
+ce téléphone on est une ligne à greffer
+
+465
+00:17:33,900 --> 00:17:35,700
+des caméras infrarouges pour savoir où
+
+466
+00:17:35,700 --> 00:17:37,559
+elles sont plein de composants
+
+467
+00:17:37,559 --> 00:17:39,960
+électroniques pour gérer la performance
+
+468
+00:17:39,960 --> 00:17:42,600
+le rendu des caméras gérer la luminosité
+
+469
+00:17:42,600 --> 00:17:44,640
+les composants et les choses comme ça le
+
+470
+00:17:44,640 --> 00:17:47,280
+volume sauf que dans le temps on avait
+
+471
+00:17:47,280 --> 00:17:49,020
+ce qu'on appelait un cardboard alors
+
+472
+00:17:49,020 --> 00:17:50,120
+regarde
+
+473
+00:17:50,120 --> 00:17:52,679
+tout de suite
+
+474
+00:17:52,679 --> 00:17:56,000
+est-ce que je l'ai pris avec moi
+
+475
+00:17:56,400 --> 00:18:01,580
+je trouve pas une image sur le site
+
+476
+00:18:01,580 --> 00:18:03,520
+l'image de ce à quoi ça ressemble
+
+477
+00:18:03,520 --> 00:18:06,260
+[Musique]
+
+478
+00:18:06,260 --> 00:18:10,140
+mais je le vois pas donc tant pis tu
+
+479
+00:18:10,140 --> 00:18:13,140
+l'as mis dans le dans le cou
+
+480
+00:18:13,140 --> 00:18:15,000
+non mais Pierre carbone avec moi mais je
+
+481
+00:18:15,000 --> 00:18:16,679
+l'ai pas pris donc je n'ai pas pris le
+
+482
+00:18:16,679 --> 00:18:17,760
+cardboard donc je vais vous montrer à
+
+483
+00:18:17,760 --> 00:18:20,179
+quoi ça ressemble
+
+484
+00:18:22,080 --> 00:18:25,919
+voilà donc pendant que c'est en train de
+
+485
+00:18:25,919 --> 00:18:28,500
+charger je vais vous montrer ça en
+
+486
+00:18:28,500 --> 00:18:29,940
+allant sur les slides ça me permettra de
+
+487
+00:18:29,940 --> 00:18:32,220
+vous montrer les slides bah du coup
+
+488
+00:18:32,220 --> 00:18:33,840
+alors ici ce que j'avais fait
+
+489
+00:18:33,840 --> 00:18:35,220
+précédemment que je n'ai pas mis en
+
+490
+00:18:35,220 --> 00:18:36,840
+vidéo c'est à slide où j'explique un peu
+
+491
+00:18:36,840 --> 00:18:38,419
+ce que c'est la réalité virtuelle
+
+492
+00:18:38,419 --> 00:18:40,320
+ce que c'est le Quest c'est des choses
+
+493
+00:18:40,320 --> 00:18:42,360
+comme ça et pour vous montrer ici donc
+
+494
+00:18:42,360 --> 00:18:43,980
+ça c'est le lien du cours avec le QR
+
+495
+00:18:43,980 --> 00:18:44,780
+code
+
+496
+00:18:44,780 --> 00:18:46,860
+la réalité virtuelle c'est rien d'autre
+
+497
+00:18:46,860 --> 00:18:48,660
+que basiquement on met notre tête devant
+
+498
+00:18:48,660 --> 00:18:50,340
+un écran et ça permet de voir quelque
+
+499
+00:18:50,340 --> 00:18:52,320
+chose on le fait depuis bien bien
+
+500
+00:18:52,320 --> 00:18:54,000
+longtemps ça ressemble un peu comme ça
+
+501
+00:18:54,000 --> 00:18:55,260
+assez vieux trucs je sais pas si vous
+
+502
+00:18:55,260 --> 00:18:57,419
+souvenez du web du view master qui
+
+503
+00:18:57,419 --> 00:18:58,860
+permettait de voir deux images une à
+
+504
+00:18:58,860 --> 00:19:00,299
+côté de l'autre et on voyait de la
+
+505
+00:19:00,299 --> 00:19:02,160
+profondeur dans l'image vas-y moi c'est
+
+506
+00:19:02,160 --> 00:19:03,840
+l'ancêtre des cinémas 3D que vous avez
+
+507
+00:19:03,840 --> 00:19:07,020
+pour le moment sauf que quand vous
+
+508
+00:19:07,020 --> 00:19:08,700
+mettez des lentilles dessus et ça donne
+
+509
+00:19:08,700 --> 00:19:10,919
+le Virtual Boy qui permet en fait de
+
+510
+00:19:10,919 --> 00:19:12,539
+voir des images vraiment comme si on y
+
+511
+00:19:12,539 --> 00:19:14,400
+était dedans sauf que le Virtual Boy il
+
+512
+00:19:14,400 --> 00:19:16,260
+était beaucoup trop tôt pour 100 ans
+
+513
+00:19:16,260 --> 00:19:17,820
+beaucoup de gens ont fait de la
+
+514
+00:19:17,820 --> 00:19:21,840
+recherche et basiquement un téléphone un
+
+515
+00:19:21,840 --> 00:19:22,460
+truc
+
+516
+00:19:22,460 --> 00:19:24,840
+Quest ici c'est rien d'autre qu'un
+
+517
+00:19:24,840 --> 00:19:26,160
+téléphone et un téléphone pour pouvoir
+
+518
+00:19:26,160 --> 00:19:27,480
+faire de la VR il a besoin de savoir
+
+519
+00:19:27,480 --> 00:19:29,940
+comment il orienté dans l'espace pour ça
+
+520
+00:19:29,940 --> 00:19:32,160
+il va utiliser un gyroscope qui permet
+
+521
+00:19:32,160 --> 00:19:33,660
+de savoir l'orientation par rapport au
+
+522
+00:19:33,660 --> 00:19:34,919
+monde et un accéléromètre qui permet
+
+523
+00:19:34,919 --> 00:19:35,760
+d'avoir des données beaucoup plus
+
+524
+00:19:35,760 --> 00:19:37,620
+précises et beaucoup plus rapide sur le
+
+525
+00:19:37,620 --> 00:19:39,840
+à quel point il bouge quelle orientation
+
+526
+00:19:39,840 --> 00:19:42,179
+il a ça ressemble à ça les petits
+
+527
+00:19:42,179 --> 00:19:43,020
+composants si vous voulez en faire
+
+528
+00:19:43,020 --> 00:19:46,679
+vous-même avec un Arduino
+
+529
+00:19:46,679 --> 00:19:48,299
+ça c'est ce qu'on appelle au carboard
+
+530
+00:19:48,299 --> 00:19:50,039
+c'était une blague de Google ou en fait
+
+531
+00:19:50,039 --> 00:19:51,240
+ils ont fait vous voyez tous vos cas
+
+532
+00:19:51,240 --> 00:19:52,980
+super cher qui coûte 200 euros à faire
+
+533
+00:19:52,980 --> 00:19:54,720
+et où on met un téléphone mais en fait
+
+534
+00:19:54,720 --> 00:19:57,000
+moi pour 15 euros je vous produis un
+
+535
+00:19:57,000 --> 00:19:58,679
+truc en carton qui marche très bien et
+
+536
+00:19:58,679 --> 00:19:59,640
+vous pouvez voir que c'est rien d'autre
+
+537
+00:19:59,640 --> 00:20:01,799
+que une lentille un truc dépliable une
+
+538
+00:20:01,799 --> 00:20:03,419
+petite élastique est à la vous pouvez
+
+539
+00:20:03,419 --> 00:20:05,400
+faire de la mer en fait vous venez
+
+540
+00:20:05,400 --> 00:20:07,020
+mettre votre téléphone ici devant comme
+
+541
+00:20:07,020 --> 00:20:09,240
+ceci et vous pouvez faire de la VR vous
+
+542
+00:20:09,240 --> 00:20:10,380
+n'êtes pas obligé d'acheter ça parce que
+
+543
+00:20:10,380 --> 00:20:11,820
+c'est quand même plus confortable
+
+544
+00:20:11,820 --> 00:20:13,679
+d'avoir quelque chose qui est dédié
+
+545
+00:20:13,679 --> 00:20:15,720
+parce que la raison aussi pour laquelle
+
+546
+00:20:15,720 --> 00:20:18,679
+on aime bien ce genre de truc c'est que
+
+547
+00:20:18,679 --> 00:20:21,120
+quand vous prenez votre téléphone il y a
+
+548
+00:20:21,120 --> 00:20:22,440
+des services pour le téléphone qui
+
+549
+00:20:22,440 --> 00:20:24,179
+tourne qui vérifie qu'il y a pas d'appel
+
+550
+00:20:24,179 --> 00:20:26,280
+qui vérifie que vous avez des mails qui
+
+551
+00:20:26,280 --> 00:20:29,460
+vérifient que la sécurité est bonne donc
+
+552
+00:20:29,460 --> 00:20:30,600
+il y a plein de choses qu'on appelle les
+
+553
+00:20:30,600 --> 00:20:31,919
+services qui vont tourner dessus et qui
+
+554
+00:20:31,919 --> 00:20:34,080
+ont consommé la batterie et en plus de
+
+555
+00:20:34,080 --> 00:20:36,299
+ça le téléphone il va chauffer et si il
+
+556
+00:20:36,299 --> 00:20:37,440
+chauffe trop fort ça ralentit les
+
+557
+00:20:37,440 --> 00:20:39,600
+composants ça les abîme et donc ici on a
+
+558
+00:20:39,600 --> 00:20:41,720
+une coque qui va refroidir
+
+559
+00:20:41,720 --> 00:20:44,720
+par réduction le
+
+560
+00:20:44,720 --> 00:20:46,740
+Quest ici
+
+561
+00:20:46,740 --> 00:20:47,580
+vous voyez que c'est plein de petits
+
+562
+00:20:47,580 --> 00:20:48,840
+détails plein de petits trucs qui font
+
+563
+00:20:48,840 --> 00:20:50,280
+que c'est quand même mieux d'avoir
+
+564
+00:20:50,280 --> 00:20:52,140
+quelque chose de dédié et pas juste un
+
+565
+00:20:52,140 --> 00:20:53,160
+téléphone qu'on vient mettre dans une
+
+566
+00:20:53,160 --> 00:20:54,840
+coque c'est pour ça qu'on a changé de
+
+567
+00:20:54,840 --> 00:20:56,059
+stratégie au fur et à mesure des années
+
+568
+00:20:56,059 --> 00:20:58,380
+oh je dis oh je dis tous les gens qui
+
+569
+00:20:58,380 --> 00:20:59,460
+font de la recherche au fur et à mesure
+
+570
+00:20:59,460 --> 00:21:01,320
+des années dans la VR c'est à dire tous
+
+571
+00:21:01,320 --> 00:21:02,940
+les différents on ne sait pas par où on
+
+572
+00:21:02,940 --> 00:21:05,100
+va donc là on regarde la chose du
+
+573
+00:21:05,100 --> 00:21:06,780
+présent en se disant mais c'est con bah
+
+574
+00:21:06,780 --> 00:21:08,340
+oui logique mais nous quand on était
+
+575
+00:21:08,340 --> 00:21:09,660
+dans le passé on était en mode bon on va
+
+576
+00:21:09,660 --> 00:21:12,179
+les verrous et on va faire quoi
+
+577
+00:21:12,179 --> 00:21:15,419
+et donc voilà voilà par exemple ça c'est
+
+578
+00:21:15,419 --> 00:21:17,900
+le parcours qu'on a eu où on est passé
+
+579
+00:21:17,900 --> 00:21:20,660
+d'un concept qui est devenu une réalité
+
+580
+00:21:20,660 --> 00:21:22,799
+deuxième qui xsarter pour le rendre un
+
+581
+00:21:22,799 --> 00:21:24,120
+peu plus vrai là on avait le tracking du
+
+582
+00:21:24,120 --> 00:21:26,760
+tête on a essayé de le d'utiliser un
+
+583
+00:21:26,760 --> 00:21:27,780
+téléphone parce qu'on s'est dit bon bah
+
+584
+00:21:27,780 --> 00:21:29,280
+finalement c'est on a déjà des
+
+585
+00:21:29,280 --> 00:21:30,299
+téléphones ils ont déjà un bon écran
+
+586
+00:21:30,299 --> 00:21:32,159
+mais c'est pas assez bien pas assez
+
+587
+00:21:32,159 --> 00:21:34,559
+précis pas c'est bon ça consomme trop du
+
+588
+00:21:34,559 --> 00:21:36,000
+coup on est retourné sur un stand de
+
+589
+00:21:36,000 --> 00:21:38,280
+l'Aude c'est-à-dire un truc qui est tout
+
+590
+00:21:38,280 --> 00:21:40,799
+seul et on est tout doucement les vers
+
+591
+00:21:40,799 --> 00:21:42,179
+le Quest et maintenant on est arrivé ici
+
+592
+00:21:42,179 --> 00:21:44,640
+on a un téléphone sachant que la
+
+593
+00:21:44,640 --> 00:21:46,980
+prochaine étape c'est soit vous partez
+
+594
+00:21:46,980 --> 00:21:49,740
+sur du PC c'est à dire des gros PC une
+
+595
+00:21:49,740 --> 00:21:51,240
+grosse tour un bon gros câble et un bon
+
+596
+00:21:51,240 --> 00:21:53,520
+gros casque qui fait que vous voyez de
+
+597
+00:21:53,520 --> 00:21:55,080
+beaux angles de beaux écrans mais c'est
+
+598
+00:21:55,080 --> 00:21:57,059
+très lourd sur la tête et voilà c'est
+
+599
+00:21:57,059 --> 00:21:58,080
+une immersion qui est complètement
+
+600
+00:21:58,080 --> 00:21:59,460
+différente ça va être plus basé sur le
+
+601
+00:21:59,460 --> 00:22:00,440
+réalisme
+
+602
+00:22:00,440 --> 00:22:02,340
+on va pouvoir porter pendant longtemps
+
+603
+00:22:02,340 --> 00:22:03,720
+quoi vous pouvez pas le porter pendant
+
+604
+00:22:03,720 --> 00:22:05,100
+longtemps et en plus de ça ça coûte
+
+605
+00:22:05,100 --> 00:22:06,120
+extrêmement cher parce que du coup
+
+606
+00:22:06,120 --> 00:22:07,919
+qu'est-ce comme ça coûte 1000 à 2000
+
+607
+00:22:07,919 --> 00:22:11,220
+euros et le PC coûte 1000 à 3000 euros
+
+608
+00:22:11,220 --> 00:22:14,120
+quoi donc c'est pas abordable
+
+609
+00:22:14,120 --> 00:22:16,380
+pour les gens qui ont jamais testé la VR
+
+610
+00:22:16,380 --> 00:22:17,700
+je vous conseille vraiment de le tester
+
+611
+00:22:17,700 --> 00:22:19,500
+le plus vite possible pour pouvoir voir
+
+612
+00:22:19,500 --> 00:22:20,880
+ce que c'est parce que c'est très dur de
+
+613
+00:22:20,880 --> 00:22:22,260
+parler la VR avec quelqu'un qui n'en a
+
+614
+00:22:22,260 --> 00:22:23,940
+jamais testé faut bien se dire que c'est
+
+615
+00:22:23,940 --> 00:22:25,320
+pas de la 2D avec la profondeur c'est
+
+616
+00:22:25,320 --> 00:22:27,000
+vraiment vous êtes dans le monde de
+
+617
+00:22:27,000 --> 00:22:28,320
+réalité virtuelle vous voyez le monde
+
+618
+00:22:28,320 --> 00:22:29,520
+comme si vous y étiez c'est même des
+
+619
+00:22:29,520 --> 00:22:32,220
+fois perturbant parce qu'on s'y perd
+
+620
+00:22:32,220 --> 00:22:34,260
+il y a des trucs en VR alors pour
+
+621
+00:22:34,260 --> 00:22:35,100
+l'instant c'est toujours en train
+
+622
+00:22:35,100 --> 00:22:36,740
+d'installer c'est pour ça que je meuble
+
+623
+00:22:36,740 --> 00:22:38,760
+c'est toujours en train de passer à
+
+624
+00:22:38,760 --> 00:22:39,960
+Android on y est presque on y est
+
+625
+00:22:39,960 --> 00:22:41,179
+presque
+
+626
+00:22:41,179 --> 00:22:43,500
+alors la VR c'est ça c'est quand vous
+
+627
+00:22:43,500 --> 00:22:45,480
+êtes carrément isolé de Lyon et vous ne
+
+628
+00:22:45,480 --> 00:22:46,620
+voyez rien d'autre que le monde par
+
+629
+00:22:46,620 --> 00:22:48,200
+exemple avec le jeu beats
+
+630
+00:22:48,200 --> 00:22:50,760
+la r C'est quand vous voyez de la
+
+631
+00:22:50,760 --> 00:22:52,020
+réalité de la réalité augmentée
+
+632
+00:22:52,020 --> 00:22:53,880
+c'est-à-dire que vous voyez derrière le
+
+633
+00:22:53,880 --> 00:22:56,460
+monde vous pouvez être des objets mais
+
+634
+00:22:56,460 --> 00:22:57,840
+vous ne pouvez pas vraiment interagir
+
+635
+00:22:57,840 --> 00:22:59,220
+avec le monde sur le lien si on peut le
+
+636
+00:22:59,220 --> 00:23:00,900
+faire mais pas sur le Quest on n'a pas
+
+637
+00:23:00,900 --> 00:23:02,400
+vraiment encore le scan de la pièce les
+
+638
+00:23:02,400 --> 00:23:04,679
+murs le sol accessible au développeur ça
+
+639
+00:23:04,679 --> 00:23:06,900
+va venir dans le suivant
+
+640
+00:23:06,900 --> 00:23:09,000
+alors que la réalité mixte c'est la même
+
+641
+00:23:09,000 --> 00:23:11,100
+c'est celle de lololens et du lynx que
+
+642
+00:23:11,100 --> 00:23:12,000
+j'attends qui est le casque suivant
+
+643
+00:23:12,000 --> 00:23:13,740
+c'est une réalité ou en fait on va
+
+644
+00:23:13,740 --> 00:23:15,480
+afficher par dessus la vraie vie avec de
+
+645
+00:23:15,480 --> 00:23:16,620
+la couleur ce qu'on n'a pas encore sur
+
+646
+00:23:16,620 --> 00:23:18,020
+ce casque
+
+647
+00:23:18,020 --> 00:23:20,520
+afficher sur la vraie vie avec de la
+
+648
+00:23:20,520 --> 00:23:21,900
+couleur des objets qui se font dans
+
+649
+00:23:21,900 --> 00:23:24,720
+l'espace sachant que on veut interagir
+
+650
+00:23:24,720 --> 00:23:26,220
+avec la table on va interagir avec les
+
+651
+00:23:26,220 --> 00:23:27,600
+moments interagir avec l'environnement
+
+652
+00:23:27,600 --> 00:23:28,980
+que nous entoure donc ça c'est ce qui
+
+653
+00:23:28,980 --> 00:23:30,240
+nous attend et donc par exemple ici
+
+654
+00:23:30,240 --> 00:23:31,799
+c'est le Lens qui existe depuis des
+
+655
+00:23:31,799 --> 00:23:34,140
+années c'est excellent c'est très
+
+656
+00:23:34,140 --> 00:23:36,059
+puissant mais il faut 3000 à 5000 euros
+
+657
+00:23:36,059 --> 00:23:38,460
+pour en avoir je n'ai pas 3000 à 5000
+
+658
+00:23:38,460 --> 00:23:40,200
+euros je pense pas que vous en avez et
+
+659
+00:23:40,200 --> 00:23:41,760
+on approche tout doucement la fin du
+
+660
+00:23:41,760 --> 00:23:43,520
+truc on va pouvoir repasser sur Unity
+
+661
+00:23:43,520 --> 00:23:45,840
+mais voilà à quoi ça ressemble mais 3D
+
+662
+00:23:45,840 --> 00:23:48,539
+de quand vous avez un casque dédié à la
+
+663
+00:23:48,539 --> 00:23:49,679
+réalité augmentée vous pouvez utiliser
+
+664
+00:23:49,679 --> 00:23:52,200
+les meubles et tout alors le chargement
+
+665
+00:23:52,200 --> 00:23:53,880
+est terminé je repasse sur ton écran
+
+666
+00:23:53,880 --> 00:23:56,299
+voilà
+
+667
+00:23:56,299 --> 00:23:58,740
+maintenant où on en était on était en
+
+668
+00:23:58,740 --> 00:23:59,940
+train d'essayer de publier sur le Quest
+
+669
+00:23:59,940 --> 00:24:01,679
+en tout cas publier localement pas sur
+
+670
+00:24:01,679 --> 00:24:02,640
+le store
+
+671
+00:24:02,640 --> 00:24:05,159
+alors on est passé maintenant en version
+
+672
+00:24:05,159 --> 00:24:06,900
+Android c'est à dire que le projet va se
+
+673
+00:24:06,900 --> 00:24:09,320
+comporter comme si c'était pour Android
+
+674
+00:24:09,320 --> 00:24:11,640
+ici il va falloir pouvoir détecter le
+
+675
+00:24:11,640 --> 00:24:13,500
+casque alors ici si tu cliques sur
+
+676
+00:24:13,500 --> 00:24:16,559
+défaut alors tout on va pouvoir voir ok
+
+677
+00:24:16,559 --> 00:24:18,179
+pour le moment on a deux cases de
+
+678
+00:24:18,179 --> 00:24:20,280
+connecter on en a un qui est connecté à
+
+679
+00:24:20,280 --> 00:24:23,659
+Wi-Fi et hockey
+
+680
+00:24:24,919 --> 00:24:28,620
+ici voilà alors vous vu que vous aurez
+
+681
+00:24:28,620 --> 00:24:29,880
+pas peut-être pas mis le WiFi vous
+
+682
+00:24:29,880 --> 00:24:31,080
+n'aurez que un seul et donc du coup il
+
+683
+00:24:31,080 --> 00:24:32,520
+va pas poser problème il va juste dire
+
+684
+00:24:32,520 --> 00:24:33,960
+ok c'est bon c'est celui-là que sur
+
+685
+00:24:33,960 --> 00:24:36,539
+lequel je buildais alors normalement ça
+
+686
+00:24:36,539 --> 00:24:37,799
+ça devrait être disponible mais ça
+
+687
+00:24:37,799 --> 00:24:39,179
+dépend donc je vais essayer de trouver
+
+688
+00:24:39,179 --> 00:24:42,500
+pourquoi je réfléchis deux secondes
+
+689
+00:24:44,419 --> 00:24:46,919
+ok il dit que il est en train de faire
+
+690
+00:24:46,919 --> 00:24:48,299
+des calculs et apporter des trucs donc
+
+691
+00:24:48,299 --> 00:24:49,860
+on va aïe il est toujours en train de
+
+692
+00:24:49,860 --> 00:24:51,600
+compiler ici vous voyez qu'il est
+
+693
+00:24:51,600 --> 00:24:52,919
+toujours en train de travailler et c'est
+
+694
+00:24:52,919 --> 00:24:55,020
+pour ça qu'il n'a pas encore fini de son
+
+695
+00:24:55,020 --> 00:24:55,860
+taf
+
+696
+00:24:55,860 --> 00:24:58,440
+mais ça va bientôt être fini quoi là
+
+697
+00:24:58,440 --> 00:25:01,020
+voilà il a l'air d'avoir fini donc on va
+
+698
+00:25:01,020 --> 00:25:03,179
+revenir dans le
+
+699
+00:25:03,179 --> 00:25:05,039
+alors la différence entre ce qu'on vient
+
+700
+00:25:05,039 --> 00:25:06,419
+de faire ici c'est à dire reconstruire
+
+701
+00:25:06,419 --> 00:25:08,280
+tous les images et compiler c'est que
+
+702
+00:25:08,280 --> 00:25:09,480
+reconstruire toutes les images ça va
+
+703
+00:25:09,480 --> 00:25:11,159
+être plus préparer le projet alors que
+
+704
+00:25:11,159 --> 00:25:13,500
+compiler c'est plus le code de initi qui
+
+705
+00:25:13,500 --> 00:25:15,299
+se régénère en fait s'écharpe n'est pas
+
+706
+00:25:15,299 --> 00:25:16,740
+un langage interprété c'est à dire
+
+707
+00:25:16,740 --> 00:25:18,900
+langage qui au fur et à mesure s'exécute
+
+708
+00:25:18,900 --> 00:25:20,820
+ça langage que l'on compile c'est-à-dire
+
+709
+00:25:20,820 --> 00:25:22,620
+qu'on va le transformer pour la machine
+
+710
+00:25:22,620 --> 00:25:25,380
+et on va l'exécuter donc du coup il a
+
+711
+00:25:25,380 --> 00:25:27,480
+besoin d'être régulièrement rebuildé ça
+
+712
+00:25:27,480 --> 00:25:28,860
+prend son petit temps j'ai l'impression
+
+713
+00:25:28,860 --> 00:25:30,919
+que non ça c'est des messages
+
+714
+00:25:30,919 --> 00:25:32,820
+en gros les messages erreur c'est pas
+
+715
+00:25:32,820 --> 00:25:35,340
+qu'il faut les ignorer mais c'est vrai
+
+716
+00:25:35,340 --> 00:25:36,659
+que on se retrouve vite avec des
+
+717
+00:25:36,659 --> 00:25:38,279
+messages erreur qui flottent qui sont
+
+718
+00:25:38,279 --> 00:25:40,200
+partout dans le la console c'est pour ça
+
+719
+00:25:40,200 --> 00:25:41,580
+qu'ici vous cliquez là bas pour dire
+
+720
+00:25:41,580 --> 00:25:43,500
+j'ignore les messages erreur ou j'ignore
+
+721
+00:25:43,500 --> 00:25:46,260
+les erreurs pour pouvoir être focus que
+
+722
+00:25:46,260 --> 00:25:48,240
+sur un ou sur l'autre OK
+
+723
+00:25:48,240 --> 00:25:49,860
+mais ce que ça veut dire est-ce qu'il
+
+724
+00:25:49,860 --> 00:25:51,059
+serait pas comme par exemple pour les
+
+725
+00:25:51,059 --> 00:25:54,059
+programmes moi quand je programme par
+
+726
+00:25:54,059 --> 00:25:56,580
+exemple j'ai créé un script s'il y a une
+
+727
+00:25:56,580 --> 00:25:59,480
+erreur le programme il veut pas se
+
+728
+00:26:00,559 --> 00:26:03,539
+lancera pas ok jaune ça veut dire il y a
+
+729
+00:26:03,539 --> 00:26:04,740
+un truc qui est pas très terrible à
+
+730
+00:26:04,740 --> 00:26:05,760
+laisser là-bas il faudrait peut-être le
+
+731
+00:26:05,760 --> 00:26:08,220
+changer OK et blanc ça veut dire c'est à
+
+732
+00:26:08,220 --> 00:26:09,000
+l'autre c'est toi qui crie des
+
+733
+00:26:09,000 --> 00:26:10,559
+informations pour savoir autant donc
+
+734
+00:26:10,559 --> 00:26:11,820
+rouge il te laissera pas aller plus loin
+
+735
+00:26:11,820 --> 00:26:14,640
+mais tant que c'est jaune ça marchera
+
+736
+00:26:14,640 --> 00:26:16,080
+c'est juste un warning du il y a quelque
+
+737
+00:26:16,080 --> 00:26:17,220
+chose qui n'est pas terrible dans ton
+
+738
+00:26:17,220 --> 00:26:18,900
+projet tu peux le corriger mais quand
+
+739
+00:26:18,900 --> 00:26:20,039
+t'as pas le temps de le corriger ou
+
+740
+00:26:20,039 --> 00:26:21,419
+quand tu vois qu'il y a pas vraiment
+
+741
+00:26:21,419 --> 00:26:23,220
+moyen de corriger tu peux essayer soit
+
+742
+00:26:23,220 --> 00:26:24,600
+de créer des trucs pour l'ignorer soit
+
+743
+00:26:24,600 --> 00:26:26,179
+de laisser là et de dire
+
+744
+00:26:26,179 --> 00:26:28,340
+je corrigerai
+
+745
+00:26:28,340 --> 00:26:30,539
+c'est pas très cool quand tu le publie
+
+746
+00:26:30,539 --> 00:26:32,220
+sur le store de laisser ça mais ici on
+
+747
+00:26:32,220 --> 00:26:35,059
+n'est pas sur le store donc alors
+
+748
+00:26:35,059 --> 00:26:39,480
+on va retourner sur le fil setting ici
+
+749
+00:26:39,480 --> 00:26:41,220
+en maintenant vous pouvez voir qu'on est
+
+750
+00:26:41,220 --> 00:26:43,440
+toujours bien sur le Quest qu'on visait
+
+751
+00:26:43,440 --> 00:26:45,600
+on est toujours bien sur le build au
+
+752
+00:26:45,600 --> 00:26:46,980
+build and run alors la différence entre
+
+753
+00:26:46,980 --> 00:26:48,960
+Bulle les Bull and run Bulls ça va
+
+754
+00:26:48,960 --> 00:26:50,820
+prendre votre projet ça va le mettre en
+
+755
+00:26:50,820 --> 00:26:52,559
+apk que vous puissiez le passer à
+
+756
+00:26:52,559 --> 00:26:54,720
+quelqu'un build and run ça va faire ça
+
+757
+00:26:54,720 --> 00:26:57,000
+et puis ça va regarder la cible que vous
+
+758
+00:26:57,000 --> 00:26:58,260
+avez et c'est le mettre directement
+
+759
+00:26:58,260 --> 00:27:00,720
+dessus donc on part sur du bullition du
+
+760
+00:27:00,720 --> 00:27:02,760
+Builder run alors il va dire ok où
+
+761
+00:27:02,760 --> 00:27:04,140
+est-ce qu'on le stocke alors une
+
+762
+00:27:04,140 --> 00:27:05,520
+convention une convention c'est une
+
+763
+00:27:05,520 --> 00:27:07,080
+manière que des développeurs ont de se
+
+764
+00:27:07,080 --> 00:27:09,480
+dire on fait tous la même chose c'est de
+
+765
+00:27:09,480 --> 00:27:11,179
+créer un dossier qui s'appelle build
+
+766
+00:27:11,179 --> 00:27:15,360
+build pour stocker tous les build
+
+767
+00:27:15,360 --> 00:27:17,940
+l'avantage aussi c'est que dans git on
+
+768
+00:27:17,940 --> 00:27:19,440
+peut ignorer des dossiers quand vous
+
+769
+00:27:19,440 --> 00:27:20,760
+travaillez sur des objets collaboratifs
+
+770
+00:27:20,760 --> 00:27:22,919
+et on va dire ce dossier là avec tous
+
+771
+00:27:22,919 --> 00:27:24,120
+les exécutables il n'y a pas besoin de
+
+772
+00:27:24,120 --> 00:27:25,140
+les mettre en ligne c'est beaucoup trop
+
+773
+00:27:25,140 --> 00:27:26,940
+volumineux on va les ignorer on va les
+
+774
+00:27:26,940 --> 00:27:29,940
+laisser là et ça c'est pas facile à
+
+775
+00:27:29,940 --> 00:27:31,140
+expliquer que quelqu'un qui connaît pas
+
+776
+00:27:31,140 --> 00:27:33,000
+donc ici dans le Buil tu vas pouvoir
+
+777
+00:27:33,000 --> 00:27:34,980
+déposer ton apk faut que tu lui donnes
+
+778
+00:27:34,980 --> 00:27:36,600
+un nom à toi de voir ce que tu mets
+
+779
+00:27:36,600 --> 00:27:37,919
+c'était pressé tu mets n'importe quoi
+
+780
+00:27:37,919 --> 00:27:39,779
+c'était pas pressé moi généralement je
+
+781
+00:27:39,779 --> 00:27:41,760
+mets une date et comme ça ça me permet
+
+782
+00:27:41,760 --> 00:27:43,500
+de savoir si je veux tester une vieille
+
+783
+00:27:43,500 --> 00:27:45,559
+version à quoi ça ressemble en termes de
+
+784
+00:27:45,559 --> 00:27:49,220
+juste mettre une version
+
+785
+00:27:49,760 --> 00:27:52,020
+comme ça non on va mettre la date c'est
+
+786
+00:27:52,020 --> 00:27:52,980
+pas grave mais c'est juste que je suis
+
+787
+00:27:52,980 --> 00:27:55,919
+vraiment nul dans les dans les choix des
+
+788
+00:27:55,919 --> 00:27:58,100
+noms
+
+789
+00:27:59,279 --> 00:28:01,620
+alors quand on est informaticien on sait
+
+790
+00:28:01,620 --> 00:28:03,659
+que si tu mets des espaces dans les noms
+
+791
+00:28:03,659 --> 00:28:05,940
+ça se crée souvent des bugs si tu mets
+
+792
+00:28:05,940 --> 00:28:08,100
+non tu as pas mis d'espace mais quand tu
+
+793
+00:28:08,100 --> 00:28:09,779
+mets des slashs des plus ça crée des
+
+794
+00:28:09,779 --> 00:28:11,760
+bugs si tu mets des accents aigus et des
+
+795
+00:28:11,760 --> 00:28:13,200
+trucs comme ça ça peut créer des bugs si
+
+796
+00:28:13,200 --> 00:28:14,760
+tu mets du Nikon ou des étoiles ça peut
+
+797
+00:28:14,760 --> 00:28:16,260
+créer des bugs donc on va faire ce qu'on
+
+798
+00:28:16,260 --> 00:28:18,059
+appelle le l'alpha numérique c'est à
+
+799
+00:28:18,059 --> 00:28:19,679
+dire que vous ne mettez que du A à Z
+
+800
+00:28:19,679 --> 00:28:21,120
+avec des minuscules et des majuscules
+
+801
+00:28:21,120 --> 00:28:24,720
+vous pouvez mettre des chiffres de 0 à 9
+
+802
+00:28:24,720 --> 00:28:27,419
+et alors il y a une petite exception qui
+
+803
+00:28:27,419 --> 00:28:28,679
+est ce que je viens de voir ici c'est à
+
+804
+00:28:28,679 --> 00:28:30,179
+dire que généralement en tant que
+
+805
+00:28:30,179 --> 00:28:31,440
+développeur on va mettre un underscore
+
+806
+00:28:31,440 --> 00:28:32,580
+c'est à dire une barre en dessous
+
+807
+00:28:32,580 --> 00:28:35,159
+d'accord dans le dans le texte mais on
+
+808
+00:28:35,159 --> 00:28:37,440
+va pas mettre des moins parce qu'en fait
+
+809
+00:28:37,440 --> 00:28:38,940
+les moins dans certains programmes ça
+
+810
+00:28:38,940 --> 00:28:40,559
+peut créer des problèmes d'accord donc
+
+811
+00:28:40,559 --> 00:28:42,539
+la seule exception à l'Alfa numérique
+
+812
+00:28:42,539 --> 00:28:45,480
+c'est l'Ender score ok alors pour que
+
+813
+00:28:45,480 --> 00:28:46,740
+pour les gens qui connaissent pas vu que
+
+814
+00:28:46,740 --> 00:28:48,840
+ça prend le temps de charger
+
+815
+00:28:48,840 --> 00:28:51,419
+note pas de
+
+816
+00:28:51,419 --> 00:28:55,919
+voilà écrire ça ça va écrire ça va ça
+
+817
+00:28:55,919 --> 00:28:59,039
+c'est toléré mais ça risque de créer des
+
+818
+00:28:59,039 --> 00:29:00,419
+bugs et ça c'est ce que on peut mettre
+
+819
+00:29:00,419 --> 00:29:02,880
+donc si c'est hors des chiffres hors des
+
+820
+00:29:02,880 --> 00:29:04,559
+lettres et hors de ça c'est à éviter
+
+821
+00:29:04,559 --> 00:29:06,600
+d'accord
+
+822
+00:29:06,600 --> 00:29:08,520
+alors vous pouvez le faire c'est juste
+
+823
+00:29:08,520 --> 00:29:11,419
+un conseil
+
+824
+00:29:12,919 --> 00:29:15,419
+il avance alors il avance il avance donc
+
+825
+00:29:15,419 --> 00:29:16,500
+là ce qu'on est en train de faire du
+
+826
+00:29:16,500 --> 00:29:17,640
+coup c'est de prendre le projet que je
+
+827
+00:29:17,640 --> 00:29:19,500
+vous ai passé on a vérifié qui tournait
+
+828
+00:29:19,500 --> 00:29:20,820
+sur l'éditeur donc on est en train de
+
+829
+00:29:20,820 --> 00:29:22,080
+faire une version on va pouvoir tester
+
+830
+00:29:22,080 --> 00:29:24,179
+sur le quest
+
+831
+00:29:24,179 --> 00:29:25,919
+ce qui veut dire que ici quand ça va
+
+832
+00:29:25,919 --> 00:29:27,659
+marcher ça veut dire que si il va dans
+
+833
+00:29:27,659 --> 00:29:29,700
+l'éditeur qui rajoute non plus une table
+
+834
+00:29:29,700 --> 00:29:32,580
+mais une armoire et que il fait ça ben
+
+835
+00:29:32,580 --> 00:29:34,500
+on va voir une armoire dans le dans le
+
+836
+00:29:34,500 --> 00:29:37,080
+jeu de ce côté là ok bon elle sera pas
+
+837
+00:29:37,080 --> 00:29:38,520
+positionnée à l'espace et on pourra pas
+
+838
+00:29:38,520 --> 00:29:42,080
+les bouger mais il y aura une
+
+839
+00:29:42,080 --> 00:29:43,799
+histoire de dire qu'on va pouvoir
+
+840
+00:29:43,799 --> 00:29:45,720
+modifier le projet c'est ça alors je
+
+841
+00:29:45,720 --> 00:29:46,860
+pourrais donner un autre cours sur
+
+842
+00:29:46,860 --> 00:29:49,559
+comment on fait pour bien calibrer
+
+843
+00:29:49,559 --> 00:29:50,880
+oculus comment on fait pour mettre les
+
+844
+00:29:50,880 --> 00:29:52,200
+scripts et des trucs comme ça maintenant
+
+845
+00:29:52,200 --> 00:29:53,580
+est-ce que j'aurai le temps de préparer
+
+846
+00:29:53,580 --> 00:29:55,860
+ça avant les événement pas certain donc
+
+847
+00:29:55,860 --> 00:29:57,539
+je vais vous demander d'aller regarder
+
+848
+00:29:57,539 --> 00:30:00,000
+des vidéos sur Google il faut savoir que
+
+849
+00:30:00,000 --> 00:30:02,039
+ici
+
+850
+00:30:02,039 --> 00:30:04,820
+dans le cours que je vous ai donné ici
+
+851
+00:30:04,820 --> 00:30:07,500
+vous pouvez voir que je vous ai donné
+
+852
+00:30:07,500 --> 00:30:09,419
+ici une liste de youtubeurs à aller
+
+853
+00:30:09,419 --> 00:30:12,120
+regarder il faut savoir que le monde du
+
+854
+00:30:12,120 --> 00:30:14,100
+jeu vidéo est extrêmement anglophone
+
+855
+00:30:14,100 --> 00:30:15,419
+donc il y a très peu de vidéos
+
+856
+00:30:15,419 --> 00:30:16,820
+françaises
+
+857
+00:30:16,820 --> 00:30:18,840
+Arnaud je pars donne des cours de
+
+858
+00:30:18,840 --> 00:30:20,399
+français des cours de initi en français
+
+859
+00:30:20,399 --> 00:30:22,020
+mais c'est des cours assez avancés sur
+
+860
+00:30:22,020 --> 00:30:23,700
+des sujets assez avancés donc je suis
+
+861
+00:30:23,700 --> 00:30:24,720
+pas sûr que vous allez trouver votre
+
+862
+00:30:24,720 --> 00:30:26,820
+bonheur mais abonnez-vous à ce gars-là
+
+863
+00:30:26,820 --> 00:30:28,399
+il est génial
+
+864
+00:30:28,399 --> 00:30:31,200
+code Monkey c'est en anglais mais c'est
+
+865
+00:30:31,200 --> 00:30:32,940
+plein de tutos débutants pour comment on
+
+866
+00:30:32,940 --> 00:30:34,980
+voulait apprendre Unity c'est génial je
+
+867
+00:30:34,980 --> 00:30:36,980
+vous conseille vraiment d'y aller
+
+868
+00:30:36,980 --> 00:30:39,419
+bracelet vous avez jamais refaire des
+
+869
+00:30:39,419 --> 00:30:42,059
+recherches sur la VR ou sur Unity sans
+
+870
+00:30:42,059 --> 00:30:43,380
+tomber sur lui c'est vraiment un
+
+871
+00:30:43,380 --> 00:30:44,580
+ambassadeur d'Unity il est vraiment
+
+872
+00:30:44,580 --> 00:30:46,799
+excellent mais déjà un petit peu niveau
+
+873
+00:30:46,799 --> 00:30:48,600
+médium expert
+
+874
+00:30:48,600 --> 00:30:49,679
+mais par contre nous ce qui nous
+
+875
+00:30:49,679 --> 00:30:52,679
+intéresse c'est ce gars là deal merde ce
+
+876
+00:30:52,679 --> 00:30:56,460
+gars là c'est le mec qui va faire de la
+
+877
+00:30:56,460 --> 00:30:59,220
+réalité virtuelle donc XR donc avant il
+
+878
+00:30:59,220 --> 00:31:01,980
+y avait la VR on est isolé la R qui est
+
+879
+00:31:01,980 --> 00:31:04,799
+les téléphones la MR qui est en fait le
+
+880
+00:31:04,799 --> 00:31:06,240
+fait d'avoir de la réalité augmentée
+
+881
+00:31:06,240 --> 00:31:08,580
+avec des objets et la XR c'est une
+
+882
+00:31:08,580 --> 00:31:09,480
+manière de dire bon les gars on arrête
+
+883
+00:31:09,480 --> 00:31:11,399
+on va faire un truc standardisé que tout
+
+884
+00:31:11,399 --> 00:31:12,659
+le monde peut utiliser et on va mettre
+
+885
+00:31:12,659 --> 00:31:14,880
+tout ça dans un dans un seul et vous
+
+886
+00:31:14,880 --> 00:31:15,899
+pouvez voir que lui il fait que des
+
+887
+00:31:15,899 --> 00:31:18,059
+cours sur la XR et c'est énorme par
+
+888
+00:31:18,059 --> 00:31:19,260
+exemple moi quand j'ai dû apprendre à
+
+889
+00:31:19,260 --> 00:31:20,700
+utiliser les mains en réalité virtuelle
+
+890
+00:31:20,700 --> 00:31:23,039
+avec la vue en noir et blanc c'est sur
+
+891
+00:31:23,039 --> 00:31:25,500
+lui que j'ai étudié le sujet j'ai pas
+
+892
+00:31:25,500 --> 00:31:26,880
+été lire dans le manuel directement j'ai
+
+893
+00:31:26,880 --> 00:31:29,279
+d'abord été étudié chez lui donc je vous
+
+894
+00:31:29,279 --> 00:31:30,720
+conseille vivement de vous abonner à ce
+
+895
+00:31:30,720 --> 00:31:31,860
+gars là et d'aller voir un peu ce qu'il
+
+896
+00:31:31,860 --> 00:31:33,679
+fait parce que c'est
+
+897
+00:31:33,679 --> 00:31:35,460
+incontournable vous avez de toute façon
+
+898
+00:31:35,460 --> 00:31:38,299
+tous les souris
+
+899
+00:31:38,779 --> 00:31:42,000
+pour 3 minutes il y en a encore pour 3
+
+900
+00:31:42,000 --> 00:31:43,559
+minutes non c'est ça fait trois minutes
+
+901
+00:31:43,559 --> 00:31:45,960
+qu'il retrait de compil en fait ce qui
+
+902
+00:31:45,960 --> 00:31:48,179
+se passe c'est que le projet la première
+
+903
+00:31:48,179 --> 00:31:49,799
+fois que vous le compilez il va prendre
+
+904
+00:31:49,799 --> 00:31:51,240
+du temps donc je vais retourner sur ton
+
+905
+00:31:51,240 --> 00:31:52,980
+écran pour montrer vous voyez que là on
+
+906
+00:31:52,980 --> 00:31:55,320
+est à 3 minutes 50 de compilation ça
+
+907
+00:31:55,320 --> 00:31:57,899
+prend du temps et ce qui se passe c'est
+
+908
+00:31:57,899 --> 00:31:59,460
+que si vous le faites en s'écharp pure
+
+909
+00:31:59,460 --> 00:32:01,260
+il va toujours prendre beaucoup de temps
+
+910
+00:32:01,260 --> 00:32:04,140
+si vous le faites en il tous ces PP un
+
+911
+00:32:04,140 --> 00:32:04,799
+truc que je vous avais demandé
+
+912
+00:32:04,799 --> 00:32:07,020
+d'installer au tout début de Unity qu'on
+
+913
+00:32:07,020 --> 00:32:09,480
+essaye Unity ça permet en fait de
+
+914
+00:32:09,480 --> 00:32:12,059
+diminuer drastiquement ce temps là et de
+
+915
+00:32:12,059 --> 00:32:14,100
+d'avoir des optimisations sur des codes
+
+916
+00:32:14,100 --> 00:32:15,299
+de Unity
+
+917
+00:32:15,299 --> 00:32:17,220
+donc c'est à dire que la si le projet
+
+918
+00:32:17,220 --> 00:32:18,840
+avait envoyé le tout CPP je crois que je
+
+919
+00:32:18,840 --> 00:32:21,179
+l'ai mis à tous ces PP la prochaine fois
+
+920
+00:32:21,179 --> 00:32:22,919
+qu'on va builer ça va prendre 30
+
+921
+00:32:22,919 --> 00:32:24,360
+secondes un truc comme ça et pas à 5
+
+922
+00:32:24,360 --> 00:32:26,600
+minutes quoi
+
+923
+00:32:26,600 --> 00:32:28,559
+ça va toujours prendre du temps et vu
+
+924
+00:32:28,559 --> 00:32:29,820
+que vous avez téléchargé le projet pour
+
+925
+00:32:29,820 --> 00:32:32,600
+vous c'est la première fois
+
+926
+00:32:33,679 --> 00:32:38,580
+et donc voilà voilà que dire d'autre bah
+
+927
+00:32:38,580 --> 00:32:39,899
+basiquement oui si vous voulez chercher
+
+928
+00:32:39,899 --> 00:32:41,399
+de la VR vous pouvez voir que si on tape
+
+929
+00:32:41,399 --> 00:32:42,899
+vers
+
+930
+00:32:42,899 --> 00:32:45,360
+oculus ici
+
+931
+00:32:45,360 --> 00:32:47,700
+on va tomber sur plein de vidéos vous
+
+932
+00:32:47,700 --> 00:32:48,899
+êtes développeur donc vous allez taper
+
+933
+00:32:48,899 --> 00:32:51,299
+développeur
+
+934
+00:32:51,299 --> 00:32:53,940
+voilà ici on a encore d'autres vidéos
+
+935
+00:32:53,940 --> 00:32:56,039
+donc vous voyez que la communauté elle
+
+936
+00:32:56,039 --> 00:32:58,140
+est énorme littéralement des tutos à
+
+937
+00:32:58,140 --> 00:32:59,779
+longueur de braves sur tous les sujets
+
+938
+00:32:59,779 --> 00:33:03,020
+ici vous avez peut-être mettre biguineur
+
+939
+00:33:03,020 --> 00:33:05,220
+pour dire débutant si vous voulez de
+
+940
+00:33:05,220 --> 00:33:06,899
+l'anglais et si vous voulez pas du
+
+941
+00:33:06,899 --> 00:33:09,080
+français
+
+942
+00:33:09,260 --> 00:33:11,580
+étant donné que le Quest est
+
+943
+00:33:11,580 --> 00:33:12,899
+mondialement utilisé il y a énormément
+
+944
+00:33:12,899 --> 00:33:15,059
+de vidéos sur le sujet soyez pris un
+
+945
+00:33:15,059 --> 00:33:16,140
+autre cas ça aurait été un peu moins le
+
+946
+00:33:16,140 --> 00:33:18,179
+cas
+
+947
+00:33:18,179 --> 00:33:21,179
+débutant
+
+948
+00:33:21,740 --> 00:33:25,200
+voilà on a ici toujours en anglais
+
+949
+00:33:25,200 --> 00:33:28,700
+apparemment donc le Quest et l'oculus
+
+950
+00:33:28,700 --> 00:33:30,600
+non en fait ce qui se passe c'est que
+
+951
+00:33:30,600 --> 00:33:31,860
+l'oculus Rif c'est le projet de Palmer
+
+952
+00:33:31,860 --> 00:33:35,820
+Lucky qui a lancé l'initiative et ce
+
+953
+00:33:35,820 --> 00:33:38,399
+oculus était plus basé sur les PC et la
+
+954
+00:33:38,399 --> 00:33:39,260
+connexion
+
+955
+00:33:39,260 --> 00:33:41,820
+filaire on va dire alors que le Quest
+
+956
+00:33:41,820 --> 00:33:44,100
+c'est une aventure une évolution du
+
+957
+00:33:44,100 --> 00:33:48,059
+Quest de l'oculus pardon qui était faite
+
+958
+00:33:48,059 --> 00:33:50,279
+par facebook à l'époque et meta
+
+959
+00:33:50,279 --> 00:33:52,080
+maintenant et donc maintenant en fait ce
+
+960
+00:33:52,080 --> 00:33:53,880
+casque là c'est vraiment propriété de
+
+961
+00:33:53,880 --> 00:33:56,640
+méta et c'est l'évolution de tout ce qui
+
+962
+00:33:56,640 --> 00:33:58,320
+va être sachant que tu peux toujours
+
+963
+00:33:58,320 --> 00:34:01,320
+l'utiliser en câblé mais c'est un
+
+964
+00:34:01,320 --> 00:34:03,299
+téléphone et là actuellement ce qui a
+
+965
+00:34:03,299 --> 00:34:05,100
+d'autres fournisseurs de casques verts
+
+966
+00:34:05,100 --> 00:34:07,440
+que meta et il y a d'autres fournisseurs
+
+967
+00:34:07,440 --> 00:34:09,540
+de casques VR on va parler de ça pendant
+
+968
+00:34:09,540 --> 00:34:11,159
+que c'est en train de charger parce
+
+969
+00:34:11,159 --> 00:34:13,500
+qu'on est toujours en train de Builder
+
+970
+00:34:13,500 --> 00:34:15,179
+ça prend du temps en fait généralement
+
+971
+00:34:15,179 --> 00:34:18,300
+vous savez pourquoi on appelle Java
+
+972
+00:34:18,300 --> 00:34:20,940
+en fait à l'époque quand les
+
+973
+00:34:20,940 --> 00:34:23,040
+développeurs Java codés le fait de
+
+974
+00:34:23,040 --> 00:34:24,839
+compiler l'application donc de faire ce
+
+975
+00:34:24,839 --> 00:34:26,339
+qu'on fait prenez tellement de temps
+
+976
+00:34:26,339 --> 00:34:28,619
+qu'on allait prendre à café et en fait
+
+977
+00:34:28,619 --> 00:34:30,780
+la notion Java qui veut dire café donc
+
+978
+00:34:30,780 --> 00:34:32,699
+le nom de Java c'est parce qu'on va
+
+979
+00:34:32,699 --> 00:34:34,260
+chercher un café le temps de sa compile
+
+980
+00:34:34,260 --> 00:34:36,780
+en fait ok donc du coup je vous invite à
+
+981
+00:34:36,780 --> 00:34:38,159
+aller chercher au café à quand c'est ce
+
+982
+00:34:38,159 --> 00:34:39,239
+qu'il y a ça ou d'aller faire un autre
+
+983
+00:34:39,239 --> 00:34:40,619
+taf d'aller faire travailler son otage
+
+984
+00:34:40,619 --> 00:34:42,179
+de préparer un autre assiette quand vous
+
+985
+00:34:42,179 --> 00:34:43,320
+travaillez c'est trouver quelque chose
+
+986
+00:34:43,320 --> 00:34:44,460
+pour vous occuper parce que vous pouvez
+
+987
+00:34:44,460 --> 00:34:46,399
+rien faire pendant que ça fait ça
+
+988
+00:34:46,399 --> 00:34:48,839
+alors ici tu me demandais pour les
+
+989
+00:34:48,839 --> 00:34:51,359
+concurrents il faut savoir que il y a
+
+990
+00:34:51,359 --> 00:34:52,800
+pas vraiment de concurrent à oculus
+
+991
+00:34:52,800 --> 00:34:56,219
+Quest à part le picot donc ici vous
+
+992
+00:34:56,219 --> 00:34:57,660
+pouvez voir ça c'est le Quest il est à
+
+993
+00:34:57,660 --> 00:35:00,000
+450 euros on a le Pico qui est la
+
+994
+00:35:00,000 --> 00:35:00,920
+version chinoise
+
+995
+00:35:00,920 --> 00:35:04,140
+concurrente du Quest qui a 420 euros ok
+
+996
+00:35:04,140 --> 00:35:06,480
+si vous allez sur le PC il y a des trucs
+
+997
+00:35:06,480 --> 00:35:08,220
+à 1000 euros comme le vive pro qui est
+
+998
+00:35:08,220 --> 00:35:09,900
+vraiment une valeur sûre d'accord mais
+
+999
+00:35:09,900 --> 00:35:10,920
+il faut appeler c'est une bonne carte
+
+1000
+00:35:10,920 --> 00:35:13,079
+graphique vous avez le Quest pro qui
+
+1001
+00:35:13,079 --> 00:35:14,760
+était à 1800 qui est maintenant à 1000
+
+1002
+00:35:14,760 --> 00:35:16,079
+1200 je crois parce qu'ils ont diminué
+
+1003
+00:35:16,079 --> 00:35:18,060
+le prix mais ça reste un Quest 2 avec
+
+1004
+00:35:18,060 --> 00:35:20,160
+des améliorations des fonctionnalités
+
+1005
+00:35:20,160 --> 00:35:22,500
+mais ça reste un Quest 2 c'est pas ça
+
+1006
+00:35:22,500 --> 00:35:23,760
+vaut pas moi je trouve ça pas que ça
+
+1007
+00:35:23,760 --> 00:35:25,800
+vaut le prix la question c'est ce que
+
+1008
+00:35:25,800 --> 00:35:27,300
+les fonctionnalités des quatre sont les
+
+1009
+00:35:27,300 --> 00:35:29,640
+mêmes je veux dire entre celui-là et
+
+1010
+00:35:29,640 --> 00:35:31,440
+celui-là niveau du hardware c'est
+
+1011
+00:35:31,440 --> 00:35:33,060
+presque les mêmes la seule différence
+
+1012
+00:35:33,060 --> 00:35:35,520
+c'est que tu as soit tu vends ton âme la
+
+1013
+00:35:35,520 --> 00:35:37,920
+marque soit tu vends ton âme au chinois
+
+1014
+00:35:37,920 --> 00:35:40,740
+mais basiquement ça revient au même et
+
+1015
+00:35:40,740 --> 00:35:42,380
+du coup les deux ils utilisent aussi
+
+1016
+00:35:42,380 --> 00:35:44,520
+ils utilisent tous les deux Unity c'est
+
+1017
+00:35:44,520 --> 00:35:45,599
+tous les deux Android donc c'est
+
+1018
+00:35:45,599 --> 00:35:47,180
+toujours des téléphones dans une coque
+
+1019
+00:35:47,180 --> 00:35:49,440
+ce qui est très pratique tant qu'il
+
+1020
+00:35:49,440 --> 00:35:51,180
+reste sur Android moi je suis content et
+
+1021
+00:35:51,180 --> 00:35:53,160
+le Quest link celui que tu as testé
+
+1022
+00:35:53,160 --> 00:35:54,839
+c'est rien d'autre que transformer ton
+
+1023
+00:35:54,839 --> 00:35:57,900
+appareil en une conversion pour ton
+
+1024
+00:35:57,900 --> 00:35:59,700
+ordinateur ok donc ça marchera toujours
+
+1025
+00:35:59,700 --> 00:36:02,040
+mais ça reste un téléphone Android donc
+
+1026
+00:36:02,040 --> 00:36:04,260
+en fait par exemple l'avantage aura au
+
+1027
+00:36:04,260 --> 00:36:06,359
+filaire c'est que c'est un écran donc
+
+1028
+00:36:06,359 --> 00:36:07,800
+c'est un flux qui a presque pas de
+
+1029
+00:36:07,800 --> 00:36:09,480
+latence alors que si tu vas faire du
+
+1030
+00:36:09,480 --> 00:36:11,700
+link c'est à dire par câble par wifi tu
+
+1031
+00:36:11,700 --> 00:36:13,440
+vas avoir toujours une latence soit pour
+
+1032
+00:36:13,440 --> 00:36:14,760
+la conversion de l'image dans le câble
+
+1033
+00:36:14,760 --> 00:36:17,220
+soit pour la conversion de l'image dans
+
+1034
+00:36:17,220 --> 00:36:19,440
+le Wi-Fi et d'un retour et un aller quoi
+
+1035
+00:36:19,440 --> 00:36:21,420
+l'envoyer de le recevoir donc tu auras
+
+1036
+00:36:21,420 --> 00:36:23,000
+toujours un peu de latence un peu de
+
+1037
+00:36:23,000 --> 00:36:24,839
+trucs où c'est tout moche dans ton image
+
+1038
+00:36:24,839 --> 00:36:27,660
+un peu de problèmes tu vois ok je
+
+1039
+00:36:27,660 --> 00:36:29,700
+comprends donc si vraiment ton but c'est
+
+1040
+00:36:29,700 --> 00:36:32,940
+de faire de la VR réel très belle et en
+
+1041
+00:36:32,940 --> 00:36:34,859
+live avec un bon PC à ce moment là vaut
+
+1042
+00:36:34,859 --> 00:36:37,200
+mieux acheter un filet ici si votre but
+
+1043
+00:36:37,200 --> 00:36:38,040
+c'est de faire un truc que vous pouvez
+
+1044
+00:36:38,040 --> 00:36:39,119
+prendre le mettre sur le casque d'un
+
+1045
+00:36:39,119 --> 00:36:40,079
+enfant et jouer dans une n'importe
+
+1046
+00:36:40,079 --> 00:36:41,579
+quelle pièce Le Quest est vraiment
+
+1047
+00:36:41,579 --> 00:36:44,480
+énorme chacun ses avantages
+
+1048
+00:36:44,480 --> 00:36:46,859
+chacun a ses défauts sachant que si vous
+
+1049
+00:36:46,859 --> 00:36:48,960
+faites du filaire il y a ça et ça ça
+
+1050
+00:36:48,960 --> 00:36:51,420
+coûte 2000 euros je crois c'est un des
+
+1051
+00:36:51,420 --> 00:36:52,740
+meilleurs casques pour le moment sur le
+
+1052
+00:36:52,740 --> 00:36:54,900
+marché il est traqué par le vive donc il
+
+1053
+00:36:54,900 --> 00:36:57,000
+faut acheter en plus le le trackers du
+
+1054
+00:36:57,000 --> 00:36:59,820
+vif ça se met sur un PC et en fait les
+
+1055
+00:36:59,820 --> 00:37:01,579
+écrans qui sont dedans sont ultra petits
+
+1056
+00:37:01,579 --> 00:37:03,839
+ils sont extrêmement petits donc le
+
+1057
+00:37:03,839 --> 00:37:05,460
+casque est léger il se porte bien sur le
+
+1058
+00:37:05,460 --> 00:37:08,460
+casque et en fait ils vont littéralement
+
+1059
+00:37:08,460 --> 00:37:09,839
+vous demander de scanner votre tête avec
+
+1060
+00:37:09,839 --> 00:37:11,160
+un iPhone pour aller venir mettre le
+
+1061
+00:37:11,160 --> 00:37:12,599
+mousse ici et pour que ça tienne
+
+1062
+00:37:12,599 --> 00:37:14,460
+vraiment bien sur votre tête donc voilà
+
+1063
+00:37:14,460 --> 00:37:15,540
+si vous voulez vraiment aller dans
+
+1064
+00:37:15,540 --> 00:37:17,700
+l'extrême et faire du jeu vidéo sur PC
+
+1065
+00:37:17,700 --> 00:37:18,960
+et il y a vraiment des cas très cher
+
+1066
+00:37:18,960 --> 00:37:20,280
+mais qui sont vraiment très puissants et
+
+1067
+00:37:20,280 --> 00:37:21,740
+qui sont déjà en avance sur les écrans
+
+1068
+00:37:21,740 --> 00:37:23,700
+c'est ça
+
+1069
+00:37:23,700 --> 00:37:25,260
+ici c'est plus ou moins pour montrer ici
+
+1070
+00:37:25,260 --> 00:37:26,760
+qu'en fait la VR on a ce genre de
+
+1071
+00:37:26,760 --> 00:37:28,619
+fioritures dans l'écran on voit des
+
+1072
+00:37:28,619 --> 00:37:30,599
+lignes si vous concentrez bien même dans
+
+1073
+00:37:30,599 --> 00:37:31,980
+le Quest si tu te concentres bien tu
+
+1074
+00:37:31,980 --> 00:37:33,780
+vois les lignes alors je sais pas si je
+
+1075
+00:37:33,780 --> 00:37:37,040
+le veux sur mes lunettes
+
+1076
+00:37:37,079 --> 00:37:39,540
+mais normalement je pense que alors le
+
+1077
+00:37:39,540 --> 00:37:40,740
+truc c'est que maintenant on se commence
+
+1078
+00:37:40,740 --> 00:37:42,359
+tous moi à se reprocher à se rapprocher
+
+1079
+00:37:42,359 --> 00:37:43,680
+de ça avec les écrans qui vont arriver
+
+1080
+00:37:43,680 --> 00:37:45,839
+ces années-ci et ces écrans-ci qui sont
+
+1081
+00:37:45,839 --> 00:37:47,220
+déjà prêts sur le marché mais pas au
+
+1082
+00:37:47,220 --> 00:37:48,480
+courant assez testé pas encore mis dans
+
+1083
+00:37:48,480 --> 00:37:50,400
+les nouveaux casques on se rapproche de
+
+1084
+00:37:50,400 --> 00:37:51,839
+ce que l'oeil peut voir c'est à dire on
+
+1085
+00:37:51,839 --> 00:37:54,119
+ira jamais au même niveau de l'oeil mais
+
+1086
+00:37:54,119 --> 00:37:55,800
+c'est quand même une belle moyenne qu'on
+
+1087
+00:37:55,800 --> 00:37:57,720
+arrive proche
+
+1088
+00:37:57,720 --> 00:37:59,400
+et donc par exemple moi j'attends ce
+
+1089
+00:37:59,400 --> 00:38:01,200
+casque cycle et le lynx parce que ça ça
+
+1090
+00:38:01,200 --> 00:38:04,140
+build toujours ça fait 10 minutes le
+
+1091
+00:38:04,140 --> 00:38:05,880
+lynx lui c'est comme vous pouvez voir il
+
+1092
+00:38:05,880 --> 00:38:07,200
+y a des caméras devant ce qui vous
+
+1093
+00:38:07,200 --> 00:38:08,700
+permet d'aller chercher du RGB donc de
+
+1094
+00:38:08,700 --> 00:38:10,380
+la couleur ça vous permet de scanner
+
+1095
+00:38:10,380 --> 00:38:11,400
+l'environnement vu qu'on peut les
+
+1096
+00:38:11,400 --> 00:38:12,720
+chercher l'image et l'appliquer sur des
+
+1097
+00:38:12,720 --> 00:38:14,460
+librairies de réalité augmentée tu vois
+
+1098
+00:38:14,460 --> 00:38:17,280
+très pratique il y a une énorme batterie
+
+1099
+00:38:17,280 --> 00:38:19,320
+derrière pour bien tenir il tient mieux
+
+1100
+00:38:19,320 --> 00:38:20,700
+du coup vu qu'il va vers l'arrière donc
+
+1101
+00:38:20,700 --> 00:38:22,200
+voilà c'est plein de petit ajout qui
+
+1102
+00:38:22,200 --> 00:38:24,660
+sont très sympathiques et ici vous
+
+1103
+00:38:24,660 --> 00:38:25,859
+pouvez voir qu'il a une lentille qui est
+
+1104
+00:38:25,859 --> 00:38:27,180
+complément différente qui était
+
+1105
+00:38:27,180 --> 00:38:29,160
+propriétaire mais ils l'ont revendu je
+
+1106
+00:38:29,160 --> 00:38:31,200
+crois la licence de la lentille qui va
+
+1107
+00:38:31,200 --> 00:38:32,400
+aller chercher l'écran un tout petit
+
+1108
+00:38:32,400 --> 00:38:33,660
+écran plutôt de l'avoir un grand écran
+
+1109
+00:38:33,660 --> 00:38:34,920
+ce qui fait que c'est pour ça que c'est
+
+1110
+00:38:34,920 --> 00:38:36,839
+plus plat on a petit écran qu'on va
+
+1111
+00:38:36,839 --> 00:38:37,680
+aller chercher plutôt que d'aller
+
+1112
+00:38:37,680 --> 00:38:39,119
+chercher sur le grand écran ok je
+
+1113
+00:38:39,119 --> 00:38:40,619
+comprends et c'est ça l'évolution de la
+
+1114
+00:38:40,619 --> 00:38:42,060
+VR c'est qu'on ça va être un peu plus
+
+1115
+00:38:42,060 --> 00:38:43,619
+aplati il y a toujours besoin de place
+
+1116
+00:38:43,619 --> 00:38:45,300
+pour les hardware mais ça va être un peu
+
+1117
+00:38:45,300 --> 00:38:46,740
+plus aplati on va aller chercher les
+
+1118
+00:38:46,740 --> 00:38:48,420
+tout petits micro LED
+
+1119
+00:38:48,420 --> 00:38:50,220
+OK
+
+1120
+00:38:50,220 --> 00:38:52,079
+ça c'est la version PlayStation 5 si
+
+1121
+00:38:52,079 --> 00:38:53,400
+jamais vous voulez mais il faut avoir
+
+1122
+00:38:53,400 --> 00:38:55,200
+une playstation 5 donc si vous avez la
+
+1123
+00:38:55,200 --> 00:38:56,579
+Playstation 5 ça vous coûte je sais pas
+
+1124
+00:38:56,579 --> 00:38:58,440
+moi 400 euros si vous avez pas la
+
+1125
+00:38:58,440 --> 00:38:59,700
+Playstation 5 ça vous coûte 1000 euros
+
+1126
+00:38:59,700 --> 00:39:00,839
+de faire de la VR sur la Playstation
+
+1127
+00:39:00,839 --> 00:39:02,940
+mais la Playstation ne défaut c'est que
+
+1128
+00:39:02,940 --> 00:39:04,740
+c'est Sony et que Sony a marché qui est
+
+1129
+00:39:04,740 --> 00:39:07,260
+beaucoup plus fermé donc du coup si vous
+
+1130
+00:39:07,260 --> 00:39:08,400
+voulez montrer ça à vos potes ça va être
+
+1131
+00:39:08,400 --> 00:39:10,200
+beaucoup plus dur par exemple je sais
+
+1132
+00:39:10,200 --> 00:39:11,339
+même pas si on peut être en mode
+
+1133
+00:39:11,339 --> 00:39:13,680
+développeur sur ce casque je sais pas si
+
+1134
+00:39:13,680 --> 00:39:15,720
+c'est le cas justement j'aurais aucune
+
+1135
+00:39:15,720 --> 00:39:16,859
+idée je me suis jamais intéressé au
+
+1136
+00:39:16,859 --> 00:39:18,300
+sujet parce que pas assez Open Source à
+
+1137
+00:39:18,300 --> 00:39:20,300
+mon à mon goût
+
+1138
+00:39:20,300 --> 00:39:22,619
+ça c'est la comparaison entre lololens
+
+1139
+00:39:22,619 --> 00:39:25,020
+et le Quest pro donc le Quest que vous
+
+1140
+00:39:25,020 --> 00:39:27,060
+pouvez acheter version enchères en fait
+
+1141
+00:39:27,060 --> 00:39:29,280
+il faut bien comprendre que ici on a on
+
+1142
+00:39:29,280 --> 00:39:30,079
+a
+
+1143
+00:39:30,079 --> 00:39:32,339
+un écran de vol les yeux alors que le
+
+1144
+00:39:32,339 --> 00:39:33,900
+hololens on a des vitres devant les yeux
+
+1145
+00:39:33,900 --> 00:39:35,760
+l'avantage de la vitre c'est que tu peux
+
+1146
+00:39:35,760 --> 00:39:36,960
+voir le monde réel et les gens peut voir
+
+1147
+00:39:36,960 --> 00:39:38,520
+tes yeux et tu peux mettre par dessus le
+
+1148
+00:39:38,520 --> 00:39:40,079
+monde réel le désavantage c'est que tu
+
+1149
+00:39:40,079 --> 00:39:42,420
+peux pas couper du monde réel voilà mais
+
+1150
+00:39:42,420 --> 00:39:44,099
+question c'est ce que quand tu regardes
+
+1151
+00:39:44,099 --> 00:39:46,760
+à travers ces lunettes est-ce que c'est
+
+1152
+00:39:46,760 --> 00:39:49,820
+la qualité elle est bien c'est juste
+
+1153
+00:39:49,820 --> 00:39:53,160
+alors ça c'est comme si tu avais tu mets
+
+1154
+00:39:53,160 --> 00:39:54,140
+tes doigts comme ça
+
+1155
+00:39:54,140 --> 00:39:57,060
+ouais et en fait là tu vas voir des
+
+1156
+00:39:57,060 --> 00:39:58,380
+images genre ouais on va dire plus comme
+
+1157
+00:39:58,380 --> 00:40:00,359
+ça par rapport à moi et donc là tu
+
+1158
+00:40:00,359 --> 00:40:01,680
+verras les images mais tu auras pas le
+
+1159
+00:40:01,680 --> 00:40:04,200
+bas tu auras pas le dessus le côté il y
+
+1160
+00:40:04,200 --> 00:40:05,460
+aura juste une image par dessus et en
+
+1161
+00:40:05,460 --> 00:40:08,000
+fait vu que c'est sur une image
+
+1162
+00:40:08,000 --> 00:40:11,280
+en plastique enfin en vert et que c'est
+
+1163
+00:40:11,280 --> 00:40:12,480
+de vendre tes yeux ça veut aussi dire
+
+1164
+00:40:12,480 --> 00:40:14,099
+que si l'objet est trop proche tu auras
+
+1165
+00:40:14,099 --> 00:40:16,380
+des problèmes visuels elle est le
+
+1166
+00:40:16,380 --> 00:40:18,540
+toucher la cigarette s'il est trop loin
+
+1167
+00:40:18,540 --> 00:40:20,339
+ben en fait la 3D se ressent vraiment
+
+1168
+00:40:20,339 --> 00:40:22,560
+donc c'est vraiment une situation où tu
+
+1169
+00:40:22,560 --> 00:40:24,119
+vas devoir essayer d'avoir que le joueur
+
+1170
+00:40:24,119 --> 00:40:27,660
+joue entre les 80 cm à 3 mètres et là le
+
+1171
+00:40:27,660 --> 00:40:30,119
+c'est parfait mais c'est à long sujet ça
+
+1172
+00:40:30,119 --> 00:40:31,140
+court que je peux donner sur le sujet
+
+1173
+00:40:31,140 --> 00:40:34,700
+ici on va pas trop s'attarder dessus
+
+1174
+00:40:35,540 --> 00:40:37,920
+l'utilisation enfin la meilleure
+
+1175
+00:40:37,920 --> 00:40:39,480
+utilisation que l'équipe peut avoir sur
+
+1176
+00:40:39,480 --> 00:40:42,300
+le domaine du travail mais ça va plus
+
+1177
+00:40:42,300 --> 00:40:44,359
+être dans le domaine de enregistrer
+
+1178
+00:40:44,359 --> 00:40:46,200
+technicien qui veut avoir de l'aide pour
+
+1179
+00:40:46,200 --> 00:40:47,880
+pouvoir réparer un appareil et on va
+
+1180
+00:40:47,880 --> 00:40:49,619
+pouvoir aller regarder ce qu'il voit à
+
+1181
+00:40:49,619 --> 00:40:52,320
+travers les caméras ici tu vois on va
+
+1182
+00:40:52,320 --> 00:40:54,900
+pouvoir en fait afficher ça sur l'écran
+
+1183
+00:40:54,900 --> 00:40:56,400
+de quelqu'un d'autre la personne va
+
+1184
+00:40:56,400 --> 00:40:57,660
+pouvoir déboguer d'ailleurs on m'a fait
+
+1185
+00:40:57,660 --> 00:40:59,520
+une démo dans Team Microsoft m'a fait
+
+1186
+00:40:59,520 --> 00:41:01,619
+une démo dans Team ou basiquement on
+
+1187
+00:41:01,619 --> 00:41:03,960
+voit sur team leur software à eux pour
+
+1188
+00:41:03,960 --> 00:41:06,359
+le chat que le Le Lann c'est streamé
+
+1189
+00:41:06,359 --> 00:41:07,800
+dessus et en fait vu que c'est une
+
+1190
+00:41:07,800 --> 00:41:09,180
+propriété à Microsoft des deux côtés
+
+1191
+00:41:09,180 --> 00:41:12,420
+quand tu dessines sur le truc de team tu
+
+1192
+00:41:12,420 --> 00:41:14,099
+vois en 3D le truc qui se dessine sur le
+
+1193
+00:41:14,099 --> 00:41:15,839
+mec 3D du gars dans la vraie vie
+
+1194
+00:41:15,839 --> 00:41:17,940
+d'accord c'est un autre niveau
+
+1195
+00:41:17,940 --> 00:41:19,560
+c'est moi j'adore ça c'est super
+
+1196
+00:41:19,560 --> 00:41:20,820
+impressionnant et tout mais c'est un
+
+1197
+00:41:20,820 --> 00:41:22,619
+autre niveau de programmation entre
+
+1198
+00:41:22,619 --> 00:41:25,380
+savoir synchroniser de service avoir du
+
+1199
+00:41:25,380 --> 00:41:26,760
+réseau savoir avoir une multijoueur
+
+1200
+00:41:26,760 --> 00:41:28,260
+stream et l'image et tout un truc mais
+
+1201
+00:41:28,260 --> 00:41:30,300
+ça c'est pour ça que Microsoft ne se
+
+1202
+00:41:30,300 --> 00:41:31,460
+positionne pas comme
+
+1203
+00:41:31,460 --> 00:41:34,020
+quelqu'un qui vend produit à utiliser
+
+1204
+00:41:34,020 --> 00:41:36,240
+maintenant il se positionne comme
+
+1205
+00:41:36,240 --> 00:41:38,280
+quelqu'un qui innove et qui font plus de
+
+1206
+00:41:38,280 --> 00:41:40,320
+la publicité en mode on a méga gros
+
+1207
+00:41:40,320 --> 00:41:41,700
+casque on fait des trucs de Blue qu'on
+
+1208
+00:41:41,700 --> 00:41:43,740
+fait vraiment on est on est à l'avance
+
+1209
+00:41:43,740 --> 00:41:45,599
+tu vois et c'est ce qu'ils sont ils sont
+
+1210
+00:41:45,599 --> 00:41:47,220
+largement à l'avance sur le système
+
+1211
+00:41:47,220 --> 00:41:49,200
+d'ailleurs on essaie juste de le
+
+1212
+00:41:49,200 --> 00:41:50,640
+ressembler en gros avec le Quest tu vois
+
+1213
+00:41:50,640 --> 00:41:52,619
+c'est juste que bah oui mais il faut
+
+1214
+00:41:52,619 --> 00:41:54,540
+avoir ça avec 1000 euros et avoir des
+
+1215
+00:41:54,540 --> 00:41:55,680
+gens qui savent gérer le casque et des
+
+1216
+00:41:55,680 --> 00:41:57,480
+gens qui savent développer pour ça quoi
+
+1217
+00:41:57,480 --> 00:41:59,540
+donc
+
+1218
+00:41:59,540 --> 00:42:02,579
+c'est pas non plus ça content ce qu'on
+
+1219
+00:42:02,579 --> 00:42:05,540
+veut que ce soit abordable par les gens
+
+1220
+00:42:07,520 --> 00:42:11,480
+c'est le la fuite du Quest 3 donc
+
+1221
+00:42:11,480 --> 00:42:13,320
+basiquement ça veut pas dire que ça ça
+
+1222
+00:42:13,320 --> 00:42:14,760
+va être le Quest 3 mais vers descendre
+
+1223
+00:42:14,760 --> 00:42:16,440
+on va tout doucement vers tomber sur
+
+1224
+00:42:16,440 --> 00:42:19,440
+Quest 3 j'ai plus de Nick c'est ça nous
+
+1225
+00:42:19,440 --> 00:42:21,119
+on a presque bientôt fini le build il
+
+1226
+00:42:21,119 --> 00:42:22,320
+approche de la fin donc on va pouvoir
+
+1227
+00:42:22,320 --> 00:42:24,560
+voir le résultat
+
+1228
+00:42:24,560 --> 00:42:28,680
+donc je vais passer à son écran je
+
+1229
+00:42:28,680 --> 00:42:29,339
+regarde juste il y a quelque chose
+
+1230
+00:42:29,339 --> 00:42:30,599
+d'important pendant qu'ils bulle
+
+1231
+00:42:30,599 --> 00:42:32,700
+toujours pour montrer il est pour le
+
+1232
+00:42:32,700 --> 00:42:35,400
+moment toi tu es où
+
+1233
+00:42:35,400 --> 00:42:37,020
+je vois plus ton stream d'ailleurs
+
+1234
+00:42:37,020 --> 00:42:38,460
+peut-être parce que je l'ai pu regarder
+
+1235
+00:42:38,460 --> 00:42:39,619
+depuis longtemps
+
+1236
+00:42:39,619 --> 00:42:41,820
+je dirais peut-être parce que je suis en
+
+1237
+00:42:41,820 --> 00:42:43,859
+train de stream mon écran
+
+1238
+00:42:43,859 --> 00:42:46,380
+et qu'il a préféré le couper là à cause
+
+1239
+00:42:46,380 --> 00:42:48,540
+de ça regardez donc voilà pour le moment
+
+1240
+00:42:48,540 --> 00:42:49,859
+on en est là donc vous voyez 14 minutes
+
+1241
+00:42:49,859 --> 00:42:51,359
+vraiment le temps de faire un gros café
+
+1242
+00:42:51,359 --> 00:42:53,220
+là on aurait presque plus pu aller
+
+1243
+00:42:53,220 --> 00:42:54,859
+cuisiner quelque chose
+
+1244
+00:42:54,859 --> 00:42:58,400
+on arrive vers la fin
+
+1245
+00:42:58,920 --> 00:43:01,940
+en attendant que ça tourne
+
+1246
+00:43:02,220 --> 00:43:04,640
+alors
+
+1247
+00:44:16,980 --> 00:44:18,660
+si vous faites ceci ça veut dire tourner
+
+1248
+00:44:18,660 --> 00:44:21,359
+d'accord tournez l'objet si vous faites
+
+1249
+00:44:21,359 --> 00:44:22,619
+les deux en même temps ça veut dire
+
+1250
+00:44:22,619 --> 00:44:25,619
+déplacer tu vois et donc avec ces trois
+
+1251
+00:44:25,619 --> 00:44:28,020
+données tourner déplacer et agrandir
+
+1252
+00:44:28,020 --> 00:44:29,880
+basiquement dans les outils de dessin
+
+1253
+00:44:29,880 --> 00:44:31,200
+vous allez pouvoir prendre des objets et
+
+1254
+00:44:31,200 --> 00:44:32,880
+les faire tourner dans tous les sens les
+
+1255
+00:44:32,880 --> 00:44:34,500
+agrandir tourner la caméra allez
+
+1256
+00:44:34,500 --> 00:44:35,579
+dessiner au bon endroit et des trucs
+
+1257
+00:44:35,579 --> 00:44:37,140
+comme ça c'est extrêmement pratique et
+
+1258
+00:44:37,140 --> 00:44:39,420
+assez impressionnant parlant pour
+
+1259
+00:44:39,420 --> 00:44:41,520
+reproduire la scène de Iron Man par
+
+1260
+00:44:41,520 --> 00:44:43,440
+exemple quand il est en train de
+
+1261
+00:44:43,440 --> 00:44:45,180
+travailler par exemple alors évidemment
+
+1262
+00:44:45,180 --> 00:44:46,500
+on peut moins bien le faire avec les
+
+1263
+00:44:46,500 --> 00:44:48,119
+mains en fait c'est toujours le dilemme
+
+1264
+00:44:48,119 --> 00:44:49,980
+du on veut la précision de la manette et
+
+1265
+00:44:49,980 --> 00:44:51,180
+des boutons et en même temps on veut
+
+1266
+00:44:51,180 --> 00:44:52,980
+avoir les mains si oculus avait permis
+
+1267
+00:44:52,980 --> 00:44:54,000
+d'avoir les deux ça aurait été très
+
+1268
+00:44:54,000 --> 00:44:55,440
+sympa parce qu'on aurait pu utiliser la
+
+1269
+00:44:55,440 --> 00:44:56,940
+précision la manette et les mains mais
+
+1270
+00:44:56,940 --> 00:44:58,740
+dans le code de base ils n'ont pas fait
+
+1271
+00:44:58,740 --> 00:45:00,300
+et par la suite ils n'ont jamais changé
+
+1272
+00:45:00,300 --> 00:45:03,660
+donc on attend c'est un jour et ça
+
+1273
+00:45:03,660 --> 00:45:05,520
+buildé mon dieu
+
+1274
+00:45:05,520 --> 00:45:08,760
+mon Dieu alors en plus de ça ça buildé
+
+1275
+00:45:08,760 --> 00:45:11,040
+avec une jolie erreur alors on va aller
+
+1276
+00:45:11,040 --> 00:45:13,520
+voir ce que ça donne
+
+1277
+00:45:14,240 --> 00:45:17,460
+ici si on va on peut aller voir on va
+
+1278
+00:45:17,460 --> 00:45:20,280
+ignorer les messages ici ignorer cela
+
+1279
+00:45:20,280 --> 00:45:24,319
+voilà et il nous dit quoi il nous dit
+
+1280
+00:45:25,520 --> 00:45:28,079
+impossible d'installer la PK sur le
+
+1281
+00:45:28,079 --> 00:45:30,540
+device et vous devez être sûr d'avoir
+
+1282
+00:45:30,540 --> 00:45:31,980
+installé Android la bonne version
+
+1283
+00:45:31,980 --> 00:45:33,380
+d'Android
+
+1284
+00:45:33,380 --> 00:45:36,480
+allez voir dans ce truc pour savoir si
+
+1285
+00:45:36,480 --> 00:45:38,220
+ok donc on a eu un problème alors
+
+1286
+00:45:38,220 --> 00:45:39,960
+normalement on ne reprendra pas que 15
+
+1287
+00:45:39,960 --> 00:45:41,940
+minutes à Rebuilder mais il faut les
+
+1288
+00:45:41,940 --> 00:45:43,859
+changer un petit peu des trucs
+
+1289
+00:45:43,859 --> 00:45:45,900
+alors normalement vous auriez pas dû
+
+1290
+00:45:45,900 --> 00:45:47,579
+avoir ce message d'erreur mais je vais
+
+1291
+00:45:47,579 --> 00:45:49,280
+aller vérifier quelque chose
+
+1292
+00:45:49,280 --> 00:45:53,060
+alors ici on va aller dans autre setting
+
+1293
+00:45:53,060 --> 00:45:58,220
+on va l'agrandir on va descendre
+
+1294
+00:45:58,500 --> 00:46:01,619
+alors ici normalement on doit être ici
+
+1295
+00:46:01,619 --> 00:46:04,079
+en version 6 en lait on est bien on y
+
+1296
+00:46:04,079 --> 00:46:06,660
+est tous cet été oui ici je vais
+
+1297
+00:46:06,660 --> 00:46:08,160
+maintenant j'ai pas changé parce que de
+
+1298
+00:46:08,160 --> 00:46:09,180
+toute façon je vais changer plus tard ça
+
+1299
+00:46:09,180 --> 00:46:11,099
+c'est le long de l'application là il dit
+
+1300
+00:46:11,099 --> 00:46:13,260
+de l'application ok mais c'était surtout
+
+1301
+00:46:13,260 --> 00:46:14,520
+ici que je pensais qu'il y aurait
+
+1302
+00:46:14,520 --> 00:46:16,079
+peut-être eu une erreur en fait ce qui
+
+1303
+00:46:16,079 --> 00:46:17,880
+se passe c'est que il Unity installer
+
+1304
+00:46:17,880 --> 00:46:20,460
+pour vous java et android et ça se
+
+1305
+00:46:20,460 --> 00:46:22,079
+trouve il a eu un bug là dedans et il a
+
+1306
+00:46:22,079 --> 00:46:24,660
+pas installé la bonne version soit ça
+
+1307
+00:46:24,660 --> 00:46:25,440
+pourrait être quoi d'autre comme
+
+1308
+00:46:25,440 --> 00:46:28,440
+problématique mais la version qui est
+
+1309
+00:46:28,440 --> 00:46:30,060
+sélectionnée ici c'est la version qui
+
+1310
+00:46:30,060 --> 00:46:31,859
+est installé sur mon pc et c'est la
+
+1311
+00:46:31,859 --> 00:46:33,480
+version qui est recommandée donc ça en
+
+1312
+00:46:33,480 --> 00:46:35,220
+fait c'est toi qui dit mon jeu il peut
+
+1313
+00:46:35,220 --> 00:46:37,680
+pas tourner en de ça de ceci ok donc
+
+1314
+00:46:37,680 --> 00:46:39,480
+admettons si je mets là moi mon
+
+1315
+00:46:39,480 --> 00:46:41,579
+téléphone il peut plus tourner si je le
+
+1316
+00:46:41,579 --> 00:46:43,140
+mets là j'ai d'autres téléphones qui
+
+1317
+00:46:43,140 --> 00:46:45,500
+veulent plus tourner et je crois que ici
+
+1318
+00:46:45,500 --> 00:46:48,420
+la VR elle doit être quelque part par là
+
+1319
+00:46:48,420 --> 00:46:50,880
+tu vois niveau de la version Android qui
+
+1320
+00:46:50,880 --> 00:46:53,880
+est utilisable donc ici je le mets en 6
+
+1321
+00:46:53,880 --> 00:46:55,260
+en disant c'est bon si c'est chouette tu
+
+1322
+00:46:55,260 --> 00:46:56,900
+vois
+
+1323
+00:46:56,900 --> 00:46:59,160
+et en fait l'autre c'est plus pour
+
+1324
+00:46:59,160 --> 00:47:01,380
+vraiment avoir une target de ce que tu
+
+1325
+00:47:01,380 --> 00:47:05,460
+veux comme comme version
+
+1326
+00:47:05,460 --> 00:47:07,380
+alors qu'est-ce qu'on va faire pour
+
+1327
+00:47:07,380 --> 00:47:09,240
+essayer de résoudre ce problème on va
+
+1328
+00:47:09,240 --> 00:47:12,660
+peut-être déconnecter le wifi du quest
+
+1329
+00:47:12,660 --> 00:47:14,099
+on sait jamais que c'est le fait qu'il y
+
+1330
+00:47:14,099 --> 00:47:15,119
+en ait deux qui est proposé un problème
+
+1331
+00:47:15,119 --> 00:47:16,200
+ou un truc comme ça donc on va faire
+
+1332
+00:47:16,200 --> 00:47:17,760
+reset je sais pas comment on fait pour
+
+1333
+00:47:17,760 --> 00:47:20,300
+le déconnecter
+
+1334
+00:47:22,220 --> 00:47:24,240
+parce que quand tu le redémarres il
+
+1335
+00:47:24,240 --> 00:47:25,920
+coupe carrément le serveur ADB donc on
+
+1336
+00:47:25,920 --> 00:47:28,339
+aura plus le
+
+1337
+00:47:29,220 --> 00:47:30,960
+pouvoir en attendant que tu redémarre je
+
+1338
+00:47:30,960 --> 00:47:32,160
+vais essayer de rebuler une fois le
+
+1339
+00:47:32,160 --> 00:47:35,220
+l'appareil je suis tu peux oui tu
+
+1340
+00:47:35,220 --> 00:47:36,900
+laisses en français 5 secondes sur le
+
+1341
+00:47:36,900 --> 00:47:39,240
+côté donc si tu laisses entre 5 secondes
+
+1342
+00:47:39,240 --> 00:47:41,400
+on va attendre un bruit
+
+1343
+00:47:41,400 --> 00:47:43,319
+c'est bon voilà le tout doux ça veut
+
+1344
+00:47:43,319 --> 00:47:45,720
+dire qu'il est en train de s'éteindre
+
+1345
+00:47:45,720 --> 00:47:47,040
+donc tu vas pouvoir pousser sur le
+
+1346
+00:47:47,040 --> 00:47:49,200
+bouton et redémarrer là vous allez
+
+1347
+00:47:49,200 --> 00:47:50,359
+essayer à faire tout ce qu'il fallait
+
+1348
+00:47:50,359 --> 00:47:54,359
+tout est fini ok cool chouette parce
+
+1349
+00:47:54,359 --> 00:47:55,619
+qu'on a une équipe ici qui travaille
+
+1350
+00:47:55,619 --> 00:47:57,540
+pour le moment à préparer des casques
+
+1351
+00:47:57,540 --> 00:48:00,420
+pour le hackathon et ouais vous avez
+
+1352
+00:48:00,420 --> 00:48:02,760
+fait du taf de fou
+
+1353
+00:48:02,760 --> 00:48:05,640
+youpiou piou piou et voilà à quoi ça
+
+1354
+00:48:05,640 --> 00:48:09,119
+ressemble une trentaine de casques très
+
+1355
+00:48:09,119 --> 00:48:10,040
+pour
+
+1356
+00:48:10,040 --> 00:48:14,040
+un événement de réalité virtuelle
+
+1357
+00:48:14,040 --> 00:48:15,839
+j'ai les gars
+
+1358
+00:48:15,839 --> 00:48:18,720
+alors
+
+1359
+00:48:18,720 --> 00:48:22,220
+tu la redémarré
+
+1360
+00:48:25,940 --> 00:48:30,060
+alors on va essayer de Clean alors quand
+
+1361
+00:48:30,060 --> 00:48:32,339
+vous rebuildez l'application Unity c'est
+
+1362
+00:48:32,339 --> 00:48:35,099
+bien de le clean comme ça vous savez que
+
+1363
+00:48:35,099 --> 00:48:36,119
+c'est un nouveau message d'erreur et pas
+
+1364
+00:48:36,119 --> 00:48:38,240
+l'ancien
+
+1365
+00:48:39,560 --> 00:48:42,980
+message on a vu
+
+1366
+00:48:45,200 --> 00:48:47,220
+le deuxième message qu'est-ce qu'il
+
+1367
+00:48:47,220 --> 00:48:48,839
+donnait non mais je suis en train
+
+1368
+00:48:48,839 --> 00:48:50,040
+d'essayer de rebuler en disant on sait
+
+1369
+00:48:50,040 --> 00:48:54,020
+jamais que ça passe
+
+1370
+00:48:54,319 --> 00:48:56,099
+victoire des marais maintenant il y en a
+
+1371
+00:48:56,099 --> 00:48:57,560
+plus qu'un seul tu vois donc
+
+1372
+00:48:57,560 --> 00:48:59,760
+à mon avis c'est pas ça l'erreur c'est
+
+1373
+00:48:59,760 --> 00:49:00,780
+autre chose mais on va essayer de
+
+1374
+00:49:00,780 --> 00:49:04,200
+trouver l'erreur autorisation
+
+1375
+00:49:08,460 --> 00:49:11,119
+et du coup
+
+1376
+00:49:15,500 --> 00:49:19,079
+donc j'ai laissé la limite truc activer
+
+1377
+00:49:19,079 --> 00:49:23,339
+le costeling j'active j'active
+
+1378
+00:49:31,079 --> 00:49:34,200
+c'est en train de plier de faire l'appel
+
+1379
+00:49:34,200 --> 00:49:37,020
+à mais il va pas pour refaire vu qu'on a
+
+1380
+00:49:37,020 --> 00:49:39,140
+déjà commencé
+
+1381
+00:49:39,140 --> 00:49:41,940
+une minute et on est déjà plus ou moins
+
+1382
+00:49:41,940 --> 00:49:44,780
+la fin du build
+
+1383
+00:49:44,839 --> 00:49:46,920
+on va attendre pour voir combien de
+
+1384
+00:49:46,920 --> 00:49:49,200
+temps ça prend vraiment voilà là il a
+
+1385
+00:49:49,200 --> 00:49:50,339
+fini le Builder il est en train de créer
+
+1386
+00:49:50,339 --> 00:49:54,300
+la PéKa ici et il a eu le même message
+
+1387
+00:49:54,300 --> 00:49:57,660
+d'erreur donc c'est qu'on aura alors là
+
+1388
+00:49:57,660 --> 00:49:59,640
+ça va être un peu chiant du coup parce
+
+1389
+00:49:59,640 --> 00:50:00,720
+que pour pouvoir régler cette
+
+1390
+00:50:00,720 --> 00:50:02,280
+problématique
+
+1391
+00:50:02,280 --> 00:50:04,680
+c'est technique est-ce que ce serait pas
+
+1392
+00:50:04,680 --> 00:50:06,800
+la version
+
+1393
+00:50:15,200 --> 00:50:17,880
+en fait je vois l'erreur que c'est c'est
+
+1394
+00:50:17,880 --> 00:50:18,839
+juste que je sais pas comment la
+
+1395
+00:50:18,839 --> 00:50:20,760
+corriger rapidement c'est plus ça le
+
+1396
+00:50:20,760 --> 00:50:22,819
+problème
+
+1397
+00:50:30,200 --> 00:50:32,480
+toujours installer la version sur le pc
+
+1398
+00:50:32,480 --> 00:50:34,819
+je me rappelle
+
+1399
+00:50:34,819 --> 00:50:36,839
+directement chercher la bonne version
+
+1400
+00:50:36,839 --> 00:50:38,819
+enfin là je dirais la dernière version
+
+1401
+00:50:38,819 --> 00:50:41,359
+c'est mieux
+
+1402
+00:50:43,700 --> 00:50:46,880
+préférence ici
+
+1403
+00:50:46,880 --> 00:50:49,680
+ça c'est quand tu veux choisir l'éditeur
+
+1404
+00:50:49,680 --> 00:50:51,359
+mais ça n'aura pas besoin mais c'est
+
+1405
+00:50:51,359 --> 00:50:53,280
+external toi non ça c'est l'éditeur ça
+
+1406
+00:50:53,280 --> 00:50:55,800
+c'est si tu veux choisir lequel visuel
+
+1407
+00:50:55,800 --> 00:50:59,460
+studio tu veux prendre comme préférence
+
+1408
+00:50:59,460 --> 00:51:01,380
+et nous ce qu'on veut c'est pas ça c'est
+
+1409
+00:51:01,380 --> 00:51:05,180
+regarder les liens externes
+
+1410
+00:51:11,780 --> 00:51:13,619
+parce qu'en fait si je te montre comment
+
+1411
+00:51:13,619 --> 00:51:16,079
+on fait pour corriger ce bug là avec
+
+1412
+00:51:16,079 --> 00:51:18,300
+Android en fait ça veut dire qu'on va
+
+1413
+00:51:18,300 --> 00:51:19,740
+devoir réinstaller Android visuel studio
+
+1414
+00:51:19,740 --> 00:51:22,020
+qu'on va devoir rouvrir comment c'est
+
+1415
+00:51:22,020 --> 00:51:24,059
+remettre tout à jour ça vous dit vite
+
+1416
+00:51:24,059 --> 00:51:26,220
+prendre beaucoup beaucoup de temps c'est
+
+1417
+00:51:26,220 --> 00:51:27,300
+pour ça que j'essaie de voir s'il y a
+
+1418
+00:51:27,300 --> 00:51:30,059
+pas une autre alternative
+
+1419
+00:51:30,059 --> 00:51:32,460
+mais pas juste avec le navigateur
+
+1420
+00:51:32,460 --> 00:51:34,500
+chercher la dernière version de SDK et
+
+1421
+00:51:34,500 --> 00:51:36,300
+installer directement non ça s'installe
+
+1422
+00:51:36,300 --> 00:51:37,800
+pas comme ça c'est pas aussi simple que
+
+1423
+00:51:37,800 --> 00:51:40,360
+ça enfin pas que je sache
+
+1424
+00:51:40,360 --> 00:51:43,459
+[Musique]
+
+1425
+00:51:45,800 --> 00:51:50,059
+il est toujours on est toujours l'autre
+
+1426
+00:51:51,780 --> 00:51:56,640
+si je builde sans lui demander de Run il
+
+1427
+00:51:56,640 --> 00:51:59,819
+va Builder le truc et normalement il
+
+1428
+00:51:59,819 --> 00:52:01,079
+devrait pas confronté avec le téléphone
+
+1429
+00:52:01,079 --> 00:52:03,599
+et avoir une problème de version mais
+
+1430
+00:52:03,599 --> 00:52:05,700
+normalement ça va pas aider parce que le
+
+1431
+00:52:05,700 --> 00:52:06,780
+laisse des cas c'est un truc que tu
+
+1432
+00:52:06,780 --> 00:52:08,040
+installes sur ton pc pour pouvoir faire
+
+1433
+00:52:08,040 --> 00:52:10,260
+que tu comprennes Android et que tu
+
+1434
+00:52:10,260 --> 00:52:12,059
+puisses Builder et c'est ce que tu dis
+
+1435
+00:52:12,059 --> 00:52:14,400
+il faut le télécharger mais pour ça si
+
+1436
+00:52:14,400 --> 00:52:16,440
+tu veux corriger ça il faut soit de
+
+1437
+00:52:16,440 --> 00:52:18,540
+savoir comment le faire soit aller sur
+
+1438
+00:52:18,540 --> 00:52:19,400
+internet
+
+1439
+00:52:19,400 --> 00:52:23,420
+aller sur Android studio
+
+1440
+00:52:24,740 --> 00:52:28,500
+studio ici parce que dans le temps c'est
+
+1441
+00:52:28,500 --> 00:52:29,640
+ce que tu devais faire tu as toi-même
+
+1442
+00:52:29,640 --> 00:52:32,339
+aller installer Android studio pas
+
+1443
+00:52:32,339 --> 00:52:33,660
+celui-là Google qui me propose toujours
+
+1444
+00:52:33,660 --> 00:52:34,980
+de la pub
+
+1445
+00:52:34,980 --> 00:52:36,599
+tu vas sur Android studio tu télécharges
+
+1446
+00:52:36,599 --> 00:52:38,400
+studios et à partir d'Android studio tu
+
+1447
+00:52:38,400 --> 00:52:40,319
+peux les configurer des préférences
+
+1448
+00:52:40,319 --> 00:52:42,599
+d'Android dans les SDK les installer et
+
+1449
+00:52:42,599 --> 00:52:45,720
+tout et en fait si tu fais ça il y a
+
+1450
+00:52:45,720 --> 00:52:47,700
+Olivier à télécharger
+
+1451
+00:52:47,700 --> 00:52:50,700
+et installer avant de pouvoir changer ce
+
+1452
+00:52:50,700 --> 00:52:52,500
+que tu viens de me dire
+
+1453
+00:52:52,500 --> 00:52:54,059
+sauf que
+
+1454
+00:52:54,059 --> 00:52:55,260
+inutile justement c'est pour ça qu'il a
+
+1455
+00:52:55,260 --> 00:52:57,359
+créé le hub c'est pour que il y ait des
+
+1456
+00:52:57,359 --> 00:52:58,619
+trucs de prêt à installer donc il y a
+
+1457
+00:52:58,619 --> 00:52:59,520
+peut-être une option que je connais pas
+
+1458
+00:52:59,520 --> 00:53:02,099
+qui permet d'aller faire ça mais ici vu
+
+1459
+00:53:02,099 --> 00:53:05,300
+qu'on l'a déjà fait ça là
+
+1460
+00:53:07,020 --> 00:53:08,460
+alors pour les gens qui pourraient se
+
+1461
+00:53:08,460 --> 00:53:10,079
+poser la question de qu'est-ce qu'on a
+
+1462
+00:53:10,079 --> 00:53:12,480
+en train de faire ici je vous présente
+
+1463
+00:53:12,480 --> 00:53:14,819
+le métier doit développeur le métier
+
+1464
+00:53:14,819 --> 00:53:15,980
+doit développeur
+
+1465
+00:53:15,980 --> 00:53:19,079
+Unity et du reste c'est passer son temps
+
+1466
+00:53:19,079 --> 00:53:21,000
+à avoir des bugs des problèmes
+
+1467
+00:53:21,000 --> 00:53:23,099
+techniques aller sur Google chercher
+
+1468
+00:53:23,099 --> 00:53:25,200
+comment les résoudre les résoudre ça
+
+1469
+00:53:25,200 --> 00:53:27,000
+prend une demi-journée pour rien et à la
+
+1470
+00:53:27,000 --> 00:53:28,559
+fin vous avez peut-être réussi à les
+
+1471
+00:53:28,559 --> 00:53:30,300
+résoudre sachant que deux mois plus tard
+
+1472
+00:53:30,300 --> 00:53:31,740
+vous allez avoir le bug mais avec
+
+1473
+00:53:31,740 --> 00:53:33,180
+différentes conditions différents
+
+1474
+00:53:33,180 --> 00:53:34,800
+problèmes différents trucs sans savoir
+
+1475
+00:53:34,800 --> 00:53:36,480
+comment le résoudre faut pas avoir peur
+
+1476
+00:53:36,480 --> 00:53:39,839
+de ça donc ici j'ai l'air un peu paniqué
+
+1477
+00:53:39,839 --> 00:53:40,980
+parce qu'il y a des temps qui viennent
+
+1478
+00:53:40,980 --> 00:53:42,420
+faut pas avoir peur de ça c'est
+
+1479
+00:53:42,420 --> 00:53:43,859
+basiquement notre métier de faire ce que
+
+1480
+00:53:43,859 --> 00:53:45,300
+ce que faire c'est pour ça qu'il faut
+
+1481
+00:53:45,300 --> 00:53:46,380
+savoir faire des bonnes recherches
+
+1482
+00:53:46,380 --> 00:53:48,300
+Google
+
+1483
+00:53:48,300 --> 00:53:50,220
+moi mon CV c'est ce que je mets à Google
+
+1484
+00:53:50,220 --> 00:53:53,640
+Google des recherches Google
+
+1485
+00:53:53,640 --> 00:53:56,280
+bon on va faire des recherches Google
+
+1486
+00:53:56,280 --> 00:53:58,640
+alors
+
+1487
+00:54:00,980 --> 00:54:03,000
+tu vois mais pour ça il faut installer
+
+1488
+00:54:03,000 --> 00:54:05,040
+Android studio
+
+1489
+00:54:05,040 --> 00:54:08,059
+dans mes souvenirs
+
+1490
+00:54:09,300 --> 00:54:10,920
+alors tu peux le télécharger c'est juste
+
+1491
+00:54:10,920 --> 00:54:13,380
+qu'il fait à gigami tu peux le faire au
+
+1492
+00:54:13,380 --> 00:54:14,520
+moins comme ça on sera en aura une
+
+1493
+00:54:14,520 --> 00:54:16,800
+solution de pour les réseaux mais pour
+
+1494
+00:54:16,800 --> 00:54:17,760
+cette vidéo là ça va être un peu chaud
+
+1495
+00:54:17,760 --> 00:54:19,559
+parce qu'il a une idée finalement le
+
+1496
+00:54:19,559 --> 00:54:21,480
+truc là j'ai fait build à part sans
+
+1497
+00:54:21,480 --> 00:54:23,099
+bulle Ed
+
+1498
+00:54:23,099 --> 00:54:27,340
+alors il a l'air d'avoir Builder attends
+
+1499
+00:54:27,340 --> 00:54:29,300
+[Musique]
+
+1500
+00:54:29,300 --> 00:54:32,640
+normalement il aurait du Builder et
+
+1501
+00:54:32,640 --> 00:54:34,920
+pousser sur votre appareil mais il n'y
+
+1502
+00:54:34,920 --> 00:54:36,599
+est pas arrivé ce qui veut dire que
+
+1503
+00:54:36,599 --> 00:54:38,400
+peut-être qu'en changeant la version on
+
+1504
+00:54:38,400 --> 00:54:40,920
+peut aller buter sur l'appareil ce que
+
+1505
+00:54:40,920 --> 00:54:42,240
+je vais faire c'est que je vais rebuler
+
+1506
+00:54:42,240 --> 00:54:43,859
+en poussant sur l'appareil en changeant
+
+1507
+00:54:43,859 --> 00:54:45,240
+la version et pendant ce temps là on va
+
+1508
+00:54:45,240 --> 00:54:46,559
+les déposer je vais vous rappeler
+
+1509
+00:54:46,559 --> 00:54:49,380
+comment dépose un apk sur sidequest un
+
+1510
+00:54:49,380 --> 00:54:50,280
+peu comme on a fait au début de cette
+
+1511
+00:54:50,280 --> 00:54:53,220
+vidéo donc admettons ici vous pouvez
+
+1512
+00:54:53,220 --> 00:54:54,599
+voir qu'on a bulle des alors ça veut
+
+1513
+00:54:54,599 --> 00:54:56,640
+dire quoi Builder ça veut dire que dans
+
+1514
+00:54:56,640 --> 00:54:58,140
+la racine du projet comment on peut
+
+1515
+00:54:58,140 --> 00:54:59,640
+savoir la racine du projet soit vous
+
+1516
+00:54:59,640 --> 00:55:01,859
+savez où il est soit vous faites clic
+
+1517
+00:55:01,859 --> 00:55:05,160
+droit ici explorer
+
+1518
+00:55:05,940 --> 00:55:08,040
+et là vous allez avoir votre projet vu
+
+1519
+00:55:08,040 --> 00:55:10,380
+qu'on avait créé un dossier build que tu
+
+1520
+00:55:10,380 --> 00:55:13,440
+n'as pas mis ici ah non ça c'est le tu
+
+1521
+00:55:13,440 --> 00:55:15,800
+vois oui alors oui
+
+1522
+00:55:15,800 --> 00:55:18,480
+je l'ai mis dans le
+
+1523
+00:55:18,480 --> 00:55:21,380
+ah tu l'as mis dans le début
+
+1524
+00:55:21,859 --> 00:55:25,859
+du projet sauf si pour essayer d'éviter
+
+1525
+00:55:25,859 --> 00:55:27,960
+de perdre tout dans tous les sens voilà
+
+1526
+00:55:27,960 --> 00:55:29,460
+cette version là si on veut l'installer
+
+1527
+00:55:29,460 --> 00:55:30,720
+sur le Quest que celle qu'on vient de
+
+1528
+00:55:30,720 --> 00:55:32,819
+faire ici d'ailleurs j'ai juste envie de
+
+1529
+00:55:32,819 --> 00:55:34,440
+faire un truc
+
+1530
+00:55:34,440 --> 00:55:37,460
+comme ça ça prouve l'idée
+
+1531
+00:55:39,800 --> 00:55:41,760
+admettons que je veux ajouter une
+
+1532
+00:55:41,760 --> 00:55:43,140
+armoire
+
+1533
+00:55:43,140 --> 00:55:45,359
+je crée un cube 3D
+
+1534
+00:55:45,359 --> 00:55:49,140
+ici voilà le cube 3D ici vous pouvez
+
+1535
+00:55:49,140 --> 00:55:52,200
+voir qu'il a un volume de 1 sur 1 sur 1
+
+1536
+00:55:52,200 --> 00:55:54,359
+je vais le prendre alors comment est-ce
+
+1537
+00:55:54,359 --> 00:55:55,740
+qu'on fait pour le prendre on prend ça
+
+1538
+00:55:55,740 --> 00:55:59,040
+pour dire de le dépasser on clique on le
+
+1539
+00:55:59,040 --> 00:56:00,900
+met en note en orthogonique pour savoir
+
+1540
+00:56:00,900 --> 00:56:04,319
+le placer correctement voilà
+
+1541
+00:56:04,319 --> 00:56:06,300
+hop je change de vue désolé si je suis
+
+1542
+00:56:06,300 --> 00:56:08,760
+silence parce qu'on a pas de souris
+
+1543
+00:56:08,760 --> 00:56:10,319
+voilà je vais mettre à côté de la table
+
+1544
+00:56:10,319 --> 00:56:14,900
+et on va aller buller ce projet là
+
+1545
+00:56:15,359 --> 00:56:18,800
+c'est et j'ai pas mis
+
+1546
+00:56:24,300 --> 00:56:26,960
+voilà
+
+1547
+00:56:28,319 --> 00:56:31,200
+et ça va builer ici du coup dans cette
+
+1548
+00:56:31,200 --> 00:56:32,579
+version ci qu'est-ce qu'on devrait voir
+
+1549
+00:56:32,579 --> 00:56:35,400
+on devrait voir le truc de tantôt avec
+
+1550
+00:56:35,400 --> 00:56:37,140
+Ibrahim la chaise et cube à côté de toi
+
+1551
+00:56:37,140 --> 00:56:39,059
+quand tu démarres d'accord sauf que ce
+
+1552
+00:56:39,059 --> 00:56:40,619
+cube ne sera pas calibré dans le sens où
+
+1553
+00:56:40,619 --> 00:56:42,540
+tu pourras pas le déplacer vu qu'on a
+
+1554
+00:56:42,540 --> 00:56:44,819
+pas fait tout pour le déplacer et si
+
+1555
+00:56:44,819 --> 00:56:46,440
+vraiment tu déplaces les objets ce
+
+1556
+00:56:46,440 --> 00:56:47,760
+serait toujours par rapport à ton poids
+
+1557
+00:56:47,760 --> 00:56:50,160
+de départ il serait là
+
+1558
+00:56:50,160 --> 00:56:51,780
+et donc ouais non t'inquiète ça c'est
+
+1559
+00:56:51,780 --> 00:56:53,280
+parce que c'est des erreurs du truc
+
+1560
+00:56:53,280 --> 00:56:55,520
+précédent
+
+1561
+00:56:55,520 --> 00:56:57,900
+mais tu peux pas une fois que tu as
+
+1562
+00:56:57,900 --> 00:56:59,280
+lancé tu peux plus toucher à une ici ici
+
+1563
+00:56:59,280 --> 00:57:01,040
+quand tu fais bulle donc on va attendre
+
+1564
+00:57:01,040 --> 00:57:03,420
+donc pour rappel quand tu veux déposer
+
+1565
+00:57:03,420 --> 00:57:05,940
+une apk tu ouvres saïquest tu déposes la
+
+1566
+00:57:05,940 --> 00:57:08,400
+PK dessus et tu as le truc le buildano
+
+1567
+00:57:08,400 --> 00:57:09,839
+c'est pour éviter de faire ça justement
+
+1568
+00:57:09,839 --> 00:57:11,819
+mais ici on a un problème donc on n'a
+
+1569
+00:57:11,819 --> 00:57:13,319
+pas résolu on peut pas aller plus loin
+
+1570
+00:57:13,319 --> 00:57:15,980
+de ce côté là
+
+1571
+00:57:16,260 --> 00:57:18,260
+on peut pas
+
+1572
+00:57:18,260 --> 00:57:22,220
+dire que il va construire le
+
+1573
+00:57:22,339 --> 00:57:25,559
+lancer sur le copier directement sur la
+
+1574
+00:57:25,559 --> 00:57:28,380
+plateforme et le lancer mais si on le
+
+1575
+00:57:28,380 --> 00:57:30,599
+Buil on peut le mettre sur la plateforme
+
+1576
+00:57:30,599 --> 00:57:31,859
+manuellement ouais c'est ce qu'on va
+
+1577
+00:57:31,859 --> 00:57:33,540
+faire ici en fait vu qu'ici on a un
+
+1578
+00:57:33,540 --> 00:57:35,940
+problème à build et run et pas à build
+
+1579
+00:57:35,940 --> 00:57:38,520
+on a build et le run c'est nous qui
+
+1580
+00:57:38,520 --> 00:57:39,900
+allons le faire ici donc on va aller sur
+
+1581
+00:57:39,900 --> 00:57:42,660
+ça et Quest ici
+
+1582
+00:57:42,660 --> 00:57:45,900
+on va prendre la PK et on va le dragon
+
+1583
+00:57:45,900 --> 00:57:49,920
+drop et là il va installer la PK et donc
+
+1584
+00:57:49,920 --> 00:57:51,540
+du coup tu vas pouvoir aller mettre le
+
+1585
+00:57:51,540 --> 00:57:53,540
+casque et alors tu vas pouvoir le lancer
+
+1586
+00:57:53,540 --> 00:57:55,680
+alors si je voulais le lancer depuis ici
+
+1587
+00:57:55,680 --> 00:57:57,740
+je pourrais aller ici dans les trucs
+
+1588
+00:57:57,740 --> 00:57:59,480
+chercher
+
+1589
+00:57:59,480 --> 00:58:02,520
+notre jeu et le lancer directement mais
+
+1590
+00:58:02,520 --> 00:58:04,700
+je vais te laisser les lancer
+
+1591
+00:58:04,700 --> 00:58:09,800
+alors ici on va cropper
+
+1592
+00:58:10,099 --> 00:58:14,119
+tu vois le résultat
+
+1593
+00:58:15,530 --> 00:58:18,729
+[Musique]
+
+1594
+00:58:21,380 --> 00:58:24,839
+et tu vois le long chemin là le long
+
+1595
+00:58:24,839 --> 00:58:26,900
+texte qui est mis en gris
+
+1596
+00:58:26,900 --> 00:58:29,300
+lorsque tu vois
+
+1597
+00:58:29,300 --> 00:58:32,040
+c'est long texte là c'est l'ID du de
+
+1598
+00:58:32,040 --> 00:58:34,260
+l'application ok mais vu qu'on n'a pas
+
+1599
+00:58:34,260 --> 00:58:35,400
+changé elle est très longue tu peux
+
+1600
+00:58:35,400 --> 00:58:38,460
+lancer ça et là normalement on va voir
+
+1601
+00:58:38,460 --> 00:58:39,660
+Ibrahim mais on va voir au gros cube
+
+1602
+00:58:39,660 --> 00:58:42,020
+dans la scène
+
+1603
+00:58:46,339 --> 00:58:50,059
+ça prend du temps à charger
+
+1604
+00:58:54,559 --> 00:58:57,299
+et alors le cube il est normalement à ta
+
+1605
+00:58:57,299 --> 00:58:59,420
+droite
+
+1606
+00:59:01,220 --> 00:59:03,420
+il est là-bas
+
+1607
+00:59:03,420 --> 00:59:06,780
+non regarde un peu plus attends reviens
+
+1608
+00:59:06,780 --> 00:59:07,980
+vers le truc pour pas le pour le câble
+
+1609
+00:59:07,980 --> 00:59:10,200
+et regarde vers moi
+
+1610
+00:59:10,200 --> 00:59:13,079
+non c'est à ta gauche
+
+1611
+00:59:13,079 --> 00:59:14,940
+sur le sol
+
+1612
+00:59:14,940 --> 00:59:17,420
+il y est
+
+1613
+00:59:17,420 --> 00:59:21,079
+il a pas eu de message d'erreur
+
+1614
+00:59:22,799 --> 00:59:24,059
+en plus il est gros donc il y a pas
+
+1615
+00:59:24,059 --> 00:59:25,140
+moyen de manquer c'est à dire que
+
+1616
+00:59:25,140 --> 00:59:27,540
+j'aurais raté ah j'ai confondu l'écran
+
+1617
+00:59:27,540 --> 00:59:30,140
+avec le cube
+
+1618
+00:59:30,260 --> 00:59:34,200
+l'écran en IRL qui est là-bas regarde un
+
+1619
+00:59:34,200 --> 00:59:37,040
+peu sur toi ou sur le sol alors
+
+1620
+00:59:37,040 --> 00:59:41,119
+je me lève j'ai fait attention
+
+1621
+00:59:44,240 --> 00:59:49,040
+je vais aller voir à étang coup de nota
+
+1622
+00:59:49,040 --> 00:59:51,540
+en fait tantôt qu'on a il a réussi à
+
+1623
+00:59:51,540 --> 00:59:54,799
+Builder donc ouais il a builder mais
+
+1624
+00:59:54,799 --> 00:59:58,400
+il a pas réussi
+
+1625
+00:59:58,920 --> 01:00:01,579
+à installer
+
+1626
+01:00:01,819 --> 01:00:05,480
+tu crois que ça c'est le nôtre
+
+1627
+01:00:07,640 --> 01:00:10,859
+d'Ibrahim il a mis un Stal ok est-ce
+
+1628
+01:00:10,859 --> 01:00:13,440
+qu'il y a la date genre
+
+1629
+01:00:13,440 --> 01:00:16,140
+le dernier version oui ben c'est celle
+
+1630
+01:00:16,140 --> 01:00:17,339
+qu'on a installé mais ici il me dit
+
+1631
+01:00:17,339 --> 01:00:20,180
+qu'il y a un problème à l'installation
+
+1632
+01:00:23,540 --> 01:00:25,380
+espérons que tout le monde n'aura pas ce
+
+1633
+01:00:25,380 --> 01:00:28,280
+bug ça bug là
+
+1634
+01:00:29,579 --> 01:00:31,380
+je vais faire un dernier essai désolé la
+
+1635
+01:00:31,380 --> 01:00:33,660
+vidéo est un peu longue je vais faire un
+
+1636
+01:00:33,660 --> 01:00:35,819
+dernier essai et si ça marche pas je
+
+1637
+01:00:35,819 --> 01:00:37,440
+vous inviterai à essayer vous-même
+
+1638
+01:00:37,440 --> 01:00:40,440
+rechercher sur Google et j'essaierai de
+
+1639
+01:00:40,440 --> 01:00:41,460
+faire une vidéo qui explique juste
+
+1640
+01:00:41,460 --> 01:00:44,339
+comment j'ai résolu ça
+
+1641
+01:00:44,339 --> 01:00:47,640
+alors ça s'arrête de filmer notre
+
+1642
+01:00:47,640 --> 01:00:49,140
+aventure sur la recherche de comment
+
+1643
+01:00:49,140 --> 01:00:51,140
+débloquer
+
+1644
+01:00:51,140 --> 01:00:53,940
+on va aller dans Play après Fab on va
+
+1645
+01:00:53,940 --> 01:00:56,819
+descendre on va aller demander sur
+
+1646
+01:00:56,819 --> 01:00:58,319
+Google c'est quoi la version minimum
+
+1647
+01:00:58,319 --> 01:01:01,140
+pour le Quest 2
+
+1648
+01:01:01,140 --> 01:01:04,140
+minimum
+
+1649
+01:01:09,059 --> 01:01:12,140
+attends je vais sur mon écran
+
+1650
+01:01:13,260 --> 01:01:17,220
+minimum version
+
+1651
+01:01:24,900 --> 01:01:27,319
+Android
+
+1652
+01:01:28,200 --> 01:01:29,579
+alors évidemment vous pouvez regarder
+
+1653
+01:01:29,579 --> 01:01:31,440
+des vidéos de gars qui le font ils vous
+
+1654
+01:01:31,440 --> 01:01:32,400
+diront tout sur le chemin tous les
+
+1655
+01:01:32,400 --> 01:01:34,559
+options activés les trucs comme ça ici
+
+1656
+01:01:34,559 --> 01:01:36,599
+mais que la version minimum c'est à
+
+1657
+01:01:36,599 --> 01:01:39,240
+l'universion numéro 23 on est sur la
+
+1658
+01:01:39,240 --> 01:01:41,960
+version qu'on vient
+
+1659
+01:01:44,640 --> 01:01:45,780
+tu peux retourner dans les métiers
+
+1660
+01:01:45,780 --> 01:01:48,619
+vérifier la version
+
+1661
+01:01:49,940 --> 01:01:53,839
+23 donc ça c'est la minimum
+
+1662
+01:01:57,480 --> 01:01:58,559
+c'est tout ce qu'on peut faire d'autre
+
+1663
+01:01:58,559 --> 01:02:00,480
+c'est d'augmenter la version et voir ce
+
+1664
+01:02:00,480 --> 01:02:03,079
+que ça donne mais laquelle
+
+1665
+01:02:04,619 --> 01:02:06,180
+parce que tout autre solution c'est à
+
+1666
+01:02:06,180 --> 01:02:07,440
+dire d'installer Android studio et de
+
+1667
+01:02:07,440 --> 01:02:10,400
+vérifier plein de données donc
+
+1668
+01:02:10,400 --> 01:02:14,780
+essaie un peu on va essayer la 8
+
+1669
+01:02:16,579 --> 01:02:18,960
+on va bullden run et si ça marche pas ce
+
+1670
+01:02:18,960 --> 01:02:20,339
+sera la fin de cette vidéo et si ça
+
+1671
+01:02:20,339 --> 01:02:22,920
+marche ça sera la fin de cette vidéo
+
+1672
+01:02:22,920 --> 01:02:26,359
+je quitte c'est tout oui
+
+1673
+01:02:30,440 --> 01:02:33,180
+tu le mets à l'endroit où tu as dit mets
+
+1674
+01:02:33,180 --> 01:02:34,920
+un peu enlève un peu les tirer juste on
+
+1675
+01:02:34,920 --> 01:02:36,480
+sait jamais que ce soit justement ça qui
+
+1676
+01:02:36,480 --> 01:02:37,980
+crée des problèmes ça m'étonnerait c'est
+
+1677
+01:02:37,980 --> 01:02:41,059
+exactement pour ça que j'ai essayé
+
+1678
+01:02:53,599 --> 01:02:56,760
+annule d'accord et en fait un truc que
+
+1679
+01:02:56,760 --> 01:02:57,960
+je vais les changer pour être sûr que ce
+
+1680
+01:02:57,960 --> 01:02:59,640
+soit pas ça qui fasse péter ça sera pas
+
+1681
+01:02:59,640 --> 01:03:01,260
+ça qui fera pété une fois que je suis
+
+1682
+01:03:01,260 --> 01:03:02,579
+paumé je sais plus où il faut cliquer
+
+1683
+01:03:02,579 --> 01:03:04,500
+donc du coup j'essaye changer un peu
+
+1684
+01:03:04,500 --> 01:03:05,640
+tout jusqu'à ce que ça marche et
+
+1685
+01:03:05,640 --> 01:03:08,160
+comprendre ce qui arrive ici on va
+
+1686
+01:03:08,160 --> 01:03:10,859
+renommer ça tu vas mettre be pour
+
+1687
+01:03:10,859 --> 01:03:13,040
+Belgique
+
+1688
+01:03:16,380 --> 01:03:19,980
+pour l'entreprise point et ici tu vas
+
+1689
+01:03:19,980 --> 01:03:21,660
+mettre
+
+1690
+01:03:21,660 --> 01:03:25,579
+Ibrahim Beach ou pitch
+
+1691
+01:03:45,200 --> 01:03:48,119
+et on va voir ce que ça donne et ce sera
+
+1692
+01:03:48,119 --> 01:03:49,799
+de toute façon la fin de la vidéo que ça
+
+1693
+01:03:49,799 --> 01:03:51,000
+marche ou non parce qu'elle est trop
+
+1694
+01:03:51,000 --> 01:03:53,220
+longue mais l'idée ici que vous devez
+
+1695
+01:03:53,220 --> 01:03:54,299
+retenir c'est pas nécessairement merde
+
+1696
+01:03:54,299 --> 01:03:56,040
+ça a pas marché l'idée c'est on va
+
+1697
+01:03:56,040 --> 01:03:57,540
+trouver comment ça marche que ce soit
+
+1698
+01:03:57,540 --> 01:03:58,920
+vous pour la catonc moi c'est ça aussi
+
+1699
+01:03:58,920 --> 01:04:01,680
+ça le métier de développeur et c'est la
+
+1700
+01:04:01,680 --> 01:04:03,059
+manière dont vous devez faire c'est
+
+1701
+01:04:03,059 --> 01:04:05,819
+juste prendre le projet copier changer
+
+1702
+01:04:05,819 --> 01:04:08,700
+un peu de trois trucs mettre fair-play
+
+1703
+01:04:08,700 --> 01:04:11,339
+si vous avez un Quest sur le PC et si
+
+1704
+01:04:11,339 --> 01:04:12,119
+vous n'avez pas de quoi sur le PC
+
+1705
+01:04:12,119 --> 01:04:14,160
+Builder c'est juste que mon je vous ai
+
+1706
+01:04:14,160 --> 01:04:15,720
+montré vous allez dedans vous changer
+
+1707
+01:04:15,720 --> 01:04:18,540
+notre paramètres vous faites Builder et
+
+1708
+01:04:18,540 --> 01:04:20,460
+puis vous le déposez sur l'appareil ou
+
+1709
+01:04:20,460 --> 01:04:21,900
+vous faites build and run si votre
+
+1710
+01:04:21,900 --> 01:04:24,119
+appareil est connecté et vous l'avez qui
+
+1711
+01:04:24,119 --> 01:04:25,859
+est disponible
+
+1712
+01:04:25,859 --> 01:04:27,200
+alors
+
+1713
+01:04:27,200 --> 01:04:30,680
+il est bientôt fini
+
+1714
+01:04:33,000 --> 01:04:35,880
+pendant ce temps il y a juste dehors ça
+
+1715
+01:04:35,880 --> 01:04:37,260
+c'est les précédents warning qui n'a pas
+
+1716
+01:04:37,260 --> 01:04:39,920
+nettoyé OK
+
+1717
+01:04:53,119 --> 01:04:55,020
+faut savoir que des fois il y a des bugs
+
+1718
+01:04:55,020 --> 01:04:56,400
+qui sont plus propres PC d'une personne
+
+1719
+01:04:56,400 --> 01:04:58,020
+par exemple s'il a installé deux trois
+
+1720
+01:04:58,020 --> 01:04:59,880
+logiciels avec Android avant et qu'il y
+
+1721
+01:04:59,880 --> 01:05:01,140
+a un truc qui est pas le même ou si moi
+
+1722
+01:05:01,140 --> 01:05:03,359
+j'ai installé des trucs avant aussi des
+
+1723
+01:05:03,359 --> 01:05:05,640
+fois c'est juste des le PC qui est pas
+
+1724
+01:05:05,640 --> 01:05:08,700
+qui est déjà non vierge et qui du coup
+
+1725
+01:05:08,700 --> 01:05:11,280
+il y a des bugs quoi maintenant ici on
+
+1726
+01:05:11,280 --> 01:05:13,400
+va voir
+
+1727
+01:05:13,440 --> 01:05:16,140
+et ça a l'air d'avoir fonctionné donc on
+
+1728
+01:05:16,140 --> 01:05:17,460
+a juste changé la version on a mis au
+
+1729
+01:05:17,460 --> 01:05:18,660
+lieu d'avoir une vieille version on a
+
+1730
+01:05:18,660 --> 01:05:20,760
+mis un peu plus récente ça pourrait être
+
+1731
+01:05:20,760 --> 01:05:23,280
+dû au fait que oculus et ont une dette
+
+1732
+01:05:23,280 --> 01:05:25,020
+sur son logiciel a besoin que la version
+
+1733
+01:05:25,020 --> 01:05:26,700
+soit un peu plus grande ou bien que
+
+1734
+01:05:26,700 --> 01:05:28,319
+Unity est installé une autre version au
+
+1735
+01:05:28,319 --> 01:05:30,559
+moment où on a installé
+
+1736
+01:05:30,559 --> 01:05:32,640
+je vais lancer saïquest pour qu'on voit
+
+1737
+01:05:32,640 --> 01:05:35,599
+ce que tu vois alors
+
+1738
+01:05:36,799 --> 01:05:39,680
+paramètres hello le code
+
+1739
+01:05:39,680 --> 01:05:43,920
+jay-xr permettre pardon d'accéder aux
+
+1740
+01:05:43,920 --> 01:05:46,440
+photos et obtenu multimédia de son
+
+1741
+01:05:46,440 --> 01:05:49,380
+travail donc je dis autorisé
+
+1742
+01:05:49,380 --> 01:05:53,040
+et là on a ici qui se lance
+
+1743
+01:05:53,040 --> 01:05:55,579
+et on a
+
+1744
+01:05:55,579 --> 01:05:58,799
+la salle attention au câble il est censé
+
+1745
+01:05:58,799 --> 01:06:01,339
+à droite ou à gauche
+
+1746
+01:06:04,400 --> 01:06:07,980
+finalement on a un cube bon Dieu on est
+
+1747
+01:06:07,980 --> 01:06:09,480
+ok
+
+1748
+01:06:09,480 --> 01:06:11,460
+alors voilà basiquement ce que vous
+
+1749
+01:06:11,460 --> 01:06:12,780
+devez retenir ici c'est que maintenant
+
+1750
+01:06:12,780 --> 01:06:14,220
+vous avez un projet que j'ai fait pour
+
+1751
+01:06:14,220 --> 01:06:16,160
+vous qui est pré-construit
+
+1752
+01:06:16,160 --> 01:06:18,240
+l'idée c'est de comprendre comment ce
+
+1753
+01:06:18,240 --> 01:06:19,619
+projet fonctionne alors je ferai
+
+1754
+01:06:19,619 --> 01:06:20,819
+peut-être une vidéo ce soir ou pendant
+
+1755
+01:06:20,819 --> 01:06:22,319
+ce week-end pour vous expliquer plus en
+
+1756
+01:06:22,319 --> 01:06:25,440
+détail oui je crois pas que tu étais sur
+
+1757
+01:06:25,440 --> 01:06:27,660
+mon écran si tu suis juste sur l'écran
+
+1758
+01:06:27,660 --> 01:06:30,020
+comme ça
+
+1759
+01:06:31,160 --> 01:06:33,240
+j'ai oublié de mettre alors tu peux
+
+1760
+01:06:33,240 --> 01:06:35,839
+rentrer le cube
+
+1761
+01:06:37,260 --> 01:06:39,180
+il est là-bas on a juste changé le nom
+
+1762
+01:06:39,180 --> 01:06:40,940
+du fichier donc
+
+1763
+01:06:40,940 --> 01:06:43,260
+on a changé le nom de fichier au lieu de
+
+1764
+01:06:43,260 --> 01:06:44,160
+mettre des tirets on a mis des
+
+1765
+01:06:44,160 --> 01:06:47,400
+underscore et on a changé surtout la
+
+1766
+01:06:47,400 --> 01:06:49,980
+version au lieu d'être en 6 Marshall on
+
+1767
+01:06:49,980 --> 01:06:53,460
+était en 8 Oreo ou en tout cas on peut
+
+1768
+01:06:53,460 --> 01:06:54,440
+le montrer
+
+1769
+01:06:54,440 --> 01:06:56,960
+donc c'est dans
+
+1770
+01:06:56,960 --> 01:06:59,160
+j'ai pas filmé à ce moment là pas du
+
+1771
+01:06:59,160 --> 01:07:03,000
+tout j'espère que on est venu ici et on
+
+1772
+01:07:03,000 --> 01:07:05,520
+a changé en 8 donc de base on était en 6
+
+1773
+01:07:05,520 --> 01:07:08,480
+mars un pays level 23
+
+1774
+01:07:08,480 --> 01:07:12,059
+on est monté jusqu'à API Level 26 le 8
+
+1775
+01:07:12,059 --> 01:07:13,619
+oreo
+
+1776
+01:07:13,619 --> 01:07:16,440
+et puis voilà c'est ça et ici on a juste
+
+1777
+01:07:16,440 --> 01:07:18,960
+changé aussi on a changé le nom parce
+
+1778
+01:07:18,960 --> 01:07:20,640
+que le package si jamais on n'a pas
+
+1779
+01:07:20,640 --> 01:07:23,220
+filmé tantôt on a changé le nom ici
+
+1780
+01:07:23,220 --> 01:07:24,299
+parce que ce qui se passe c'est que ça
+
+1781
+01:07:24,299 --> 01:07:26,579
+c'est ce qui identifie l'application et
+
+1782
+01:07:26,579 --> 01:07:28,140
+normalement la convention veut qu'on
+
+1783
+01:07:28,140 --> 01:07:30,720
+mette le pays pour l'entreprise pour le
+
+1784
+01:07:30,720 --> 01:07:33,480
+nom de l'application alpha numérique et
+
+1785
+01:07:33,480 --> 01:07:34,859
+là dans la version précédente il était
+
+1786
+01:07:34,859 --> 01:07:36,299
+super long il y avait plein de fois
+
+1787
+01:07:36,299 --> 01:07:38,039
+partout il y avait des tirets donc du
+
+1788
+01:07:38,039 --> 01:07:39,960
+coup j'ai renommé ça c'est peut-être pas
+
+1789
+01:07:39,960 --> 01:07:41,579
+ça on sait pas lequel des trucs à
+
+1790
+01:07:41,579 --> 01:07:44,099
+planter ici après chaque changement il y
+
+1791
+01:07:44,099 --> 01:07:45,480
+a pas besoin d'appliquer sur un bouton
+
+1792
+01:07:45,480 --> 01:07:48,180
+pour ça il faut juste quitter ça
+
+1793
+01:07:48,180 --> 01:07:50,099
+sauvegarde automatiquement et on a fait
+
+1794
+01:07:50,099 --> 01:07:52,680
+un build and run qui a marché et ça a
+
+1795
+01:07:52,680 --> 01:07:54,299
+marché on a le truc donc voilà
+
+1796
+01:07:54,299 --> 01:07:56,339
+basiquement ce que vous devez faire ici
+
+1797
+01:07:56,339 --> 01:07:58,200
+pour le week-end c'est vous prenez ce
+
+1798
+01:07:58,200 --> 01:07:59,940
+projet là vous le copiez ce qui vous
+
+1799
+01:07:59,940 --> 01:08:01,380
+permet de pas tout configurer alors
+
+1800
+01:08:01,380 --> 01:08:03,440
+peut-être qu'avoir le signal vidéo
+
+1801
+01:08:03,440 --> 01:08:05,460
+ça vaut la peine que je vous montre ce
+
+1802
+01:08:05,460 --> 01:08:07,200
+que je veux dire pas de configurer tout
+
+1803
+01:08:07,200 --> 01:08:09,660
+en fait quand vous faites de la VR il
+
+1804
+01:08:09,660 --> 01:08:12,539
+faut installer oculus donc
+
+1805
+01:08:12,539 --> 01:08:13,740
+non en fait je vais faire ça dans la
+
+1806
+01:08:13,740 --> 01:08:16,319
+vidéo suivante on va on va couper ici et
+
+1807
+01:08:16,319 --> 01:08:17,460
+la vidéo suivante je vais vous montrer
+
+1808
+01:08:17,460 --> 01:08:19,259
+ce que vous auriez dû plus ou moins à
+
+1809
+01:08:19,259 --> 01:08:21,960
+faire non
+
+1810
+01:08:21,960 --> 01:08:25,560
+non c'est trop long il y a des vidéos il
+
+1811
+01:08:25,560 --> 01:08:26,520
+y a plein de vidéos qui expliquent
+
+1812
+01:08:26,520 --> 01:08:27,960
+comment le faire il y a ma vidéo de base
+
+1813
+01:08:27,960 --> 01:08:29,339
+qui est de 2 heures où je monte comment
+
+1814
+01:08:29,339 --> 01:08:31,439
+on fait pour fêter tout ça donc je vais
+
+1815
+01:08:31,439 --> 01:08:32,339
+pas tout réexpliquer on va partir
+
+1816
+01:08:32,339 --> 01:08:35,179
+directement sur le dessin avant
+
+1817
+01:08:35,179 --> 01:08:38,399
+prochaine vidéo on va ouvrir un projet
+
+1818
+01:08:38,399 --> 01:08:41,399
+non VR Unity on va dessiner un objet 3D
+
+1819
+01:08:41,399 --> 01:08:44,160
+qui représente la pièce ici on va les
+
+1820
+01:08:44,160 --> 01:08:45,899
+porter dans une fille et on va mettre
+
+1821
+01:08:45,899 --> 01:08:47,880
+une texture une petite vidéo vite fait
+
+1822
+01:08:47,880 --> 01:08:50,399
+donc c'est une vidéo où on va un peu
+
+1823
+01:08:50,399 --> 01:08:51,839
+explorer ce que c'est Unity plutôt que
+
+1824
+01:08:51,839 --> 01:08:53,520
+la VR pour comme ça les gens qui ne
+
+1825
+01:08:53,520 --> 01:08:54,899
+travailleront pas dans le projet inutile
+
+1826
+01:08:54,899 --> 01:08:56,698
+VR pourront quand même travailler dans
+
+1827
+01:08:56,698 --> 01:08:57,839
+Unity sans que ça crache toutes les deux
+
+1828
+01:08:57,839 --> 01:08:58,920
+secondes
+
+1829
+01:08:58,920 --> 01:09:02,698
+du rose week-end ok ça va passer un bon
+
+1830
+01:09:02,698 --> 01:09:03,839
+moment on se voit dans la vidéo suivante
+
+1831
+01:09:03,839 --> 01:09:06,859
+plus plus
+

@@ -1,8 +1,6 @@
-16VoZuS4iHA
-https://youtu.be/16VoZuS4iHA?list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2
-# 16VoZuS4iHA
-![image]()  
-Video: https://www.youtube.com/watch?v=16VoZuS4iHA  
+# v1CuT0UdbFw
+![image](v1CuT0UdbFw)  
+Video: https://www.youtube.com/watch?v=v1CuT0UdbFw  
 Youtube Subtitle: [Txt](Subtitle.txt)  [Srt](Subtitle.srt)  
 Youtube Subtitle ponctuated by ChatGPT: [Txt corrected by ChatGPT](SubtitleChatGPT.txt)  
 

@@ -1,0 +1,1184 @@
+salut à vous et bienvenue sur cette
+
+vidéo qui fait suite à quatre autres
+
+vidéos où on montre un peu comment Unity
+
+fonctionne comment est-ce fonctionne
+
+parce que c'est qu'est-ce que c'est des
+
+installations et notre ami et très fan
+
+de guide comme je le suis enfin ça passe
+
+on l'utilise parce qu'il est intéressant
+
+moi de mon côté tout ce que je fais
+
+héberger ce guide parce que c'est
+
+vraiment un outil extrêmement puissant
+
+que soit pour le backup si vous avez
+
+votre projet sur un site web et sur
+
+votre ordinateur vous ne pouvez
+
+littéralement jamais le perdre un petit
+
+backup en plus sera disque dur là vous
+
+êtes sûr de ne jamais perdre votre vie
+
+ne jamais perdre votre code ça permet de
+
+revenir dans le temps pour voir le code
+
+quand vous étiez il y a un an ça permet
+
+de partager de travailler en groupe
+
+c'est un outil qui est on peut mettre
+
+les sites en ligne par exemple toute ma
+
+documentation administrative et dessus
+
+et il y a pas moyen de les perdre du
+
+coup donc ma vie est au guide et au
+
+moins je suis sûr que jamais la perdre
+
+alors que mes disques durs je les ai
+
+fait tomber une fois et l'autre était
+
+corrompu et j'ai perdu il m'a dit toute
+
+ma vie avant 18 ans
+
+donc voilà un peu pourquoi j'aime bien
+
+geek vous allez me dire oui mais
+
+pourquoi pas Dropbox vous pouvez
+
+utiliser Dropbox et pas avec Unity parce
+
+que ça risque de créer des problèmes
+
+avec les fichiers et en plus de ça
+
+Dropbox ça veut dire que vous faites
+
+confiance à une personne tierce de ne
+
+pas utiliser vos trucs et une personne
+
+tierce de ne pas de devoir gérer vos
+
+backup et vous devriez gérer vos bacs
+
+donc on va utiliser
+
+les marketeux
+
+les gens qui n'aiment pas l'informatique
+
+vous pouvez fuir ceci est pour les
+
+codeurs et les gens qui veulent étudier
+
+sachant que guide peut être utilisé pour
+
+les noncodeurs c'est juste que c'est un
+
+peu friand donc ce cours ci va être un
+
+peu effray donc il faut utiliser des
+
+lignes de commande c'est ça c'est pas
+
+dur mais c'est juste que dans celui-ci
+
+on vous demande de cacher les yeux alors
+
+déjà il faut installer guide
+
+effectivement donc il faut aller sur le
+
+site officiel de Git donc c'est pas
+
+GitHub mais c'est guide Bosch qui font
+
+installer ouais d'ailleurs tu peux aller
+
+directement sur le site de guide tout
+
+court
+
+la différence c'est quoi GitHub c'est un
+
+hébergeur de GITS c'est un serveur sur
+
+lequel vous pouvez les mettre votre
+
+guide et travailler avec vos équipes
+
+faire vos backup et des trucs comme ça
+
+nous ce qu'on veut c'est installer le
+
+logiciel ok du coup on va taper git
+
+voilà tu peux faire télécharger dans
+
+l'autre ça va arriver sur le site ICI ou
+
+le gars qui gère ça à tout expliquer il
+
+y a des documentations il y a des tutos
+
+et tout on va télécharger la version
+
+Windows on télécharge celle qui nous est
+
+propre donc 32 ou 64 bits 64 bits dans
+
+ton cas mais comme moi je l'ai déjà
+
+téléchargé comme lui il a déjà
+
+téléchargé il va pas le faire mais vas-y
+
+comment vous devez télécharger ça et
+
+après il faut juste faire next next next
+
+next next next next next next sachant
+
+que si vous êtes un peu plus expert vous
+
+pouvez paramétrer les trucs mais vas-y
+
+moi tout est prévu pour les débutants
+
+donc faites Suivant jusqu'à la fin
+
+j'ouvre mon terminal admettons que vous
+
+avez que vous arrivez à installer GITS
+
+vous avez un terminal et là on peut
+
+mettre GITS et si tu mets guides
+
+normalement on devrait voir quelle
+
+version de Gith il a installé mais un
+
+peu geek enter donc là ça veut dire que
+
+lui il a réussi son installer sinon
+
+qu'on vous a pas monté mais il a réussi
+
+et donc si mes guides V il va aussi voir
+
+la version de GITS
+
+c'est super cool alors le truc c'est que
+
+maintenant ce qu'on aimerait bien faire
+
+nous c'est prendre le dernier projet
+
+qu'on a fait ensemble pour montrer un
+
+peu ce que c'était des assets et le met
+
+à disposition des gens qui vont
+
+participer au workshop pour ça il faut
+
+qu'on héberge quelque part vous avez le
+
+choix entre guide Lab qui a un serveur
+
+privé avec des trucs un peu payant et
+
+tout mais voilà c'est un autre
+
+concurrent de Gith up GitHub qui est
+
+très connu mais qui se permet de prendre
+
+les projets avec couteau avec
+
+autopilotes et de voler vos données pour
+
+apprendre à Ilia comment on connaît donc
+
+en gros il protège vos données et il est
+
+rentré mais en même temps il les utilise
+
+donc soit aller chez d'autres
+
+concurrents soit élargir votre propre
+
+serveur nous on va pas aller dans le
+
+complexe on va laisser lia s'alimenter
+
+le truc on va aller sur Get Up mais du
+
+coup je vais aller sur le GitHub je vais
+
+créer un nouveau projet c'est ça et si
+
+je vais je vais l'appeler imaginons
+
+workshop
+
+par exemple juste
+
+je peux le mettre en mode privé pour que
+
+les gens ne le voient pas mais je vais
+
+le laisser en public pour que tout le
+
+monde puisse y accéder et je crée le
+
+répertoire tu pouvais ajouter un redmi
+
+en fait ce qui se passe ici c'est que si
+
+vous laissez comme ça vous allez devoir
+
+vous même créer un premier fichier le
+
+coucher en ligne et faire toutes les
+
+lignes de commande que ici on vous
+
+demande de faire une autre méthode pour
+
+les débutants c'est de cliquer sur redmi
+
+donc de créer un rythmie ici inclus de
+
+inclure un rythmique
+
+de juste mettre un vrai texte donc ici
+
+voilà comme ça
+
+et de le coït
+
+et donc ça va permettre de le faire
+
+commit en ligne je pars du principe que
+
+vous connaissez un minimum guide parce
+
+que sinon je vais devoir répondre tout
+
+de suite ok je prépare du principe que
+
+vous connaissez minimum git et que vous
+
+voulez l'utiliser dans Unity donc ici on
+
+va aller cloner ce dossier là près du
+
+projet que l'on va faire comment est-ce
+
+qu'on aurait préféré garder les lignes
+
+de commande les lignes de commande qui
+
+te donnent ouais parce que je les copie
+
+et je colle directement ici dans le
+
+terminal pour envoyer directement mon
+
+projet tu peux mais
+
+trop tard mais du coup ici est-ce que
+
+vous allez faire c'est que vous allez
+
+aller là chercher HTML parce que vous
+
+avez pas utilisé ces saches et d'autres
+
+c'est des trucs de sécurité on va aller
+
+dans le projet
+
+ouais par contre j'ai envie de montrer
+
+un truc qui est assez intéressant que
+
+les gens connaissent pas c'est que tu
+
+peux aller dans le dossier de
+
+ton projet tu tapes dans le chemin
+
+d'accès ici de windows tu écris CMD
+
+donc ici on va faire les commandes peu
+
+importe le terminal on va faire la
+
+commande donc on va aller près du projet
+
+guide clone
+
+on va mettre le lien et qu'on avait on
+
+va dire oui et là il va nous créer du
+
+coup à dossier guide le truc c'est que
+
+il est pas à la racine du projet
+
+il a créé un dossier non il a créé un
+
+dossier qui s'appelle hello Unity le
+
+problème c'est que nous on veut que le
+
+Unity soit tu vois à la racine mais si
+
+tu déplaces Unity tu vas perdre des
+
+liens dans une scie donc il va pouvoir
+
+tout Rebuilder ce qu'on va faire c'est
+
+qu'on va ouvrir ça on va afficher les
+
+dossiers cachés donc comment est-ce
+
+qu'on fait ça on va dans affichage
+
+voilà et on va copier tout ça c'est à
+
+dire faire contrôle a et on va le
+
+descendre d'un cran dans My projet
+
+voilà voilà
+
+maintenant si on fait guide statut
+
+statut ça veut dire voir les fichiers
+
+qui vont être modifiés ou ajouter si on
+
+fait les commandes on peut voir que il y
+
+a plein de trucs qui n'ont pas été
+
+encore ajouté au guide c'est à dire la
+
+sauvegarde locale et qu'on va ajouter
+
+mais dedans on voit qu'il y en a une qui
+
+s'appelle librairie problème c'est que
+
+librairie il y a des milliers des
+
+milliers de tout petits fichiers avec
+
+des noms bizarres qui sont des fichiers
+
+temporaires il faut savoir l'ignorer
+
+pour l'ignorer vous avez soit votre
+
+guide habituel gitting Nord habituel
+
+soit vous allez chercher sur le site web
+
+githique Nord tu peux aller sur un site
+
+web qui s'appelle githique Nord
+
+que vous devez faire donc ici si on tape
+
+une
+
+fois et qu'on fait créer il va nous
+
+créer tout ce que les gens ont
+
+l'habitude d'ignorer donc je copie tout
+
+ça
+
+voilà on va aller créer un fichier
+
+là-bas donc à la racine du projet
+
+et alors en fait la partie qualité dans
+
+c'est que c'est pas gitting Nord poids
+
+quelque chose c'est rien point gitting
+
+Nord parce qu'en fait gitting Nord c'est
+
+le c'est l'extension du fichier et le
+
+fichier n'a pas de nom donc c'est point
+
+donc là vous allez voir que maintenant
+
+on a un certain fichiers githique Nord
+
+qui a été créé on va aller l'éditer
+
+alors dites le dans le truc normal parce
+
+que les gens connaissent pas ton
+
+interface du coup directement tu peux
+
+aller juste ouvrir vs code donc j'ouvre
+
+vs code comme ça je peux éditer ici de
+
+manière
+
+graphique donc vous voyez
+
+tout ça c'est sauvegarder je peux
+
+quitter c'est ça et donc là maintenant
+
+maintenant ce qui se passe c'est que si
+
+vous faites guide statut
+
+on va voir que maintenant le librairie a
+
+été ignoré le log a été ignoré donc on
+
+ne garde plus que ce qui est essentiel à
+
+Unity ce qui est très pratique donc
+
+maintenant on va pouvoir dire bah c'est
+
+bon alors on va ajouter ça à la version
+
+sauvegarder localement donc on va faire
+
+un guide add point pour dire ajoute-moi
+
+tout ce qui a été modifié dernièrement
+
+depuis la dernière sauvegarde alors moi
+
+j'aurais tendance à mettre une toile tu
+
+peux mettre étoile ça des petites
+
+nuances mais les expliquer ça va être
+
+chiant
+
+maintenant tu peux faire guide statut
+
+pour montrer un peu à quoi ça ressemble
+
+va nous montrer qu'en fait voilà tout ce
+
+qui va être ajouté dans la version
+
+suivante ok bah du coup c'est chouette
+
+alors il a pas ajouté le githique Nord
+
+je sais pas pourquoi parce que là
+
+avec tirer
+
+mi
+
+pour dire il y a un message derrière
+
+alors comics c'est une sauvegarde une
+
+sauvegarde doit toujours essayer si vous
+
+êtes propre d'avoir un contexte donc ici
+
+basiquement par exemple mettre première
+
+version
+
+première version publiée ou autre comme
+
+ça vous pouvez mettre j'ai ajouté un
+
+arbre j'ai fait ceci j'ai fait cela le
+
+but c'est de donner du contexte pour
+
+qu'on voit un historique du projet
+
+avancé donc là juste lui prendre la
+
+version voilà on peut refaire un guide
+
+statut et là on voit que le Nord a pas
+
+été ajouté ça peut gitad
+
+guide statut du coup attends tu as
+
+oublié ses guides espace point
+
+[Musique]
+
+il a été ajouté dans celui-ci donc tu
+
+peux refaire un guide comique
+
+faites gaffe que si vous faites des
+
+fautes d'orthographe dans celui-ci c'est
+
+éternellement dans le projet guide si
+
+jamais vous mettre Fox disproject dans
+
+le guide c'est éternel il y a moyen le
+
+modifier mais c'est très dur alors
+
+maintenant
+
+parce que le problème c'est que c'est
+
+jamais à l'abri bon ici dans ce bloc
+
+dans ce cas-ci on est tout seul ok mais
+
+on n'est jamais à l'abri que quelqu'un a
+
+été modifié sur le serveur quelque chose
+
+par exemple si tu vas dans le redmi et
+
+que tu modifies les ridmis bah tu es tu
+
+te fais autoconcurrence donc d'abord
+
+faut d'abord faire un guide pool ou un
+
+guide pêche ça veut dire on va aller
+
+vérifier qu'il y a pas quelque chose de
+
+nouveau et puis on va le télécharger
+
+Deadpool ça veut dire on s'en fout vas-y
+
+télécharge moi tout comme ça
+
+ça écrase et ça fait un conflit si
+
+jamais quelque chose ici nous dit non
+
+c'est bon tu es à jour il y a personne
+
+qui a travaillé depuis ni toi ni
+
+quelqu'un d'autre donc on va faire pour
+
+faire une couche
+
+voilà alors ici nous demande du coup de
+
+nous connecter donc ici c'est la
+
+première fois
+
+donc du coup ici on va devoir aller dire
+
+ouais ouais tu peux aller mettre dans le
+
+navigateur c'est bien moi il va ouvrir
+
+le navigateur le navigateur va regarder
+
+sur votre git-up est-ce que c'est bien
+
+vous
+
+alors pour ça il va ouvrir Gith up
+
+normalement gentiment
+
+on va lui laisser un peu le temps on
+
+sait jamais qu'il soit grand
+
+on va faire la fenêtre vient de la
+
+console
+
+Racing objet
+
+il faut pas mettre le lien d'acheter
+
+voilà bah il a fait il a fait
+
+l'identification c'est bon donc en fait
+
+ce qu'il a fait c'est qu'il a ouvert le
+
+navigateur il était voir que vous êtes
+
+bien sur le guide de yak à cloné au
+
+départ c'était bien lui et donc du coup
+
+il a bien poussé le code en ligne
+
+comment savoir que ça a marché il faut
+
+juste revenir ici les fresh la page et
+
+on voit les nouveautés qui ont été le
+
+projet en ligne sur son projet enfin sur
+
+son guide à lui alors comment est-ce que
+
+on se posait la question oui mais
+
+comment est-ce qu'on va faire pour que
+
+moi j'ai eu le projet alors que c'est
+
+sur son compte à lui ici que je peux
+
+faire c'est collaborateur donc ici je
+
+vais pouvoir aller ajouter quelqu'un qui
+
+va venir pouvoir travailler avec moi
+
+mais il va pouvoir aussi modifier alors
+
+ça c'est la première méthode le problème
+
+de cette méthode là c'est qu'elle risque
+
+parce qu'en gros ça veut dire que je
+
+peux supprimer son projet je peux
+
+modifier des trucs ça va pas être très
+
+pratique du coup vu qu'il a fait un
+
+projet qui publie moi je vais pouvoir y
+
+aller alors je vais vous montrer sur mon
+
+écran je suis sur mon écran
+
+je t'envoie juste le lien sur le score
+
+ouais ben je peux aussi aller regarder
+
+ce qui tu es sur Gith up ok donc so get
+
+up tu t'appelles comment toi tu
+
+t'appelles
+
+najip donc on va aller
+
+pour qu'il recherche des achats est-ce
+
+que tu es dedans non je pense que c'est
+
+le
+
+je t'envoie ça si
+
+ça compte attends on va essayer donc la
+
+première lettre
+
+ou sinon je peux directement copier ça
+
+dans ton au-dessus sur guide ici je te
+
+trouve pas je sais pas pourquoi mais ton
+
+répertoire
+
+donc en fait c'est les projets que lui
+
+fait apparemment il en a fait 7 il en a
+
+fait plein de trucs et ici on a le hello
+
+Unity en fait ce qui se passe c'est que
+
+vu qu'il m'a pas de donner
+
+l'autorisation de modifier mais que moi
+
+j'ai quand même envie d'avoir son projet
+
+je vais faire ce qu'on appelle au guide
+
+fork et le fork c'est ce truc là moi
+
+j'ai cliqué sur ce bouton je veux dire
+
+oui j'ai envie de copier ce projet sauf
+
+que moi j'aime pas ton titre du coup je
+
+vais le redonner et vu que moi j'ai une
+
+convention de nommage pour mes projets
+
+c'est de commencer avec la date pas
+
+besoin de le faire c'est juste ma
+
+confiance en moi c'est pas obligatoire
+
+moi je mets toujours la date le mois et
+
+le jour pour dire j'ai commencé la
+
+création de ce projet à ce moment là
+
+comme ça ça me donne un historique sur
+
+mes disques durs et j'ai pas besoin de
+
+trier et j'ai tous mes projets en mode
+
+ok je l'ai commencé à telle date j'ai
+
+commencé à telle date donc ici c'est pas
+
+vraiment hello Unity c'est plus ça
+
+how to import à 7 si
+
+par exemple
+
+des mots of you can
+
+importe à 7
+
+Rome il Unity external
+
+je dis que c'est bon je vais faire une
+
+copie et en fait ce qui va se passer je
+
+vais recevoir un notification peut-être
+
+ici ce qui va se passer c'est qu'il va
+
+copier le guide il va me le mettre sur
+
+le mien ce qui veut dire que si lui un
+
+jour il supprime son fort si il lui
+
+supprime son projet j'ai toujours mon
+
+projet ok donc normalement tu ne peux
+
+pas supprimer mon ma version donc faut
+
+faire gaffe que quand vous faites de
+
+l'Open Source dès le moment où quelqu'un
+
+a fait du fort qu'il a votre code donc
+
+c'est bon je le possède ton code
+
+maintenant c'est toujours lui le
+
+créateur niveau de la propriété
+
+intellectuelle donc si jamais je veux
+
+réellement l'utiliser je dois d'abord
+
+lui demander son accord donc en gros
+
+est-ce que je peux utiliser ton assiette
+
+pour présenter aux élèves tu en fais ce
+
+que tu veux et vu que c'est enregistré
+
+c'est bon
+
+alors juste ici des
+
+amis alors ici c'est des alertes qui ont
+
+pas avoir avec moi donc c'est des
+
+alertes sécuritaires
+
+peut-être des gens qui essaient de se
+
+connecter je serais pas dire donc
+
+maintenant qu'on a ça ben moi si moi je
+
+veux la voir sur mon ordinateur je vais
+
+faire pareil que ce que lui a fait
+
+tantôt je vais aller copier ce truc là
+
+et le mettre sur mon ordinateur ok donc
+
+on va faire copier alors ouais le truc
+
+c'est que
+
+vous pouvez copier en html ou en SSH non
+
+je vais pas vous expliquer ça c'est trop
+
+compliqué pour la vidéo ça sert à rien
+
+c'est pas le sujet je vais vous
+
+l'expliquer ce que c'était les SSH mais
+
+de manière de copier de manière
+
+sécurisée de sécuriser avec un fichier
+
+clé qui est sur votre ordinateur pour
+
+être sûr que ce soit bien vous et
+
+personne d'autre que personne puisse
+
+voir ok quoi
+
+mais on s'en fout on va les copier ça
+
+sur ma machine
+
+alors moi je me suis mis dans Windows 7
+
+on a un truc qui normalement s'appelle
+
+molengeek
+
+je crois
+
+voilà
+
+nos quetsches on va aller ici CMD
+
+guide clone en clone le projet ici
+
+voilà j'ai donc son projet qui est ici
+
+qui est le vôtre alors
+
+ça c'est le projet d'hier c'est pas
+
+celui-là voilà c'est celui-là et on va
+
+aller leur ouvrir avec Unity donc on va
+
+inutile open
+
+ceci on lui dit l'ouvrir il nous dit oui
+
+mais mec t'as pas la même version que
+
+lui en fait ce qui se passe c'est que
+
+moi j'ai toujours pas installé la
+
+nouvelle version que lui a qui est la
+
+21F si on travaille ensemble sur le même
+
+projet pour longtemps je réinstaller la
+
+même version que lui donc ici je peux
+
+soit faire un stade soit dire ben non
+
+mais en fait on va l'ouvrir avec un
+
+autre par exemple ici moi je vais le
+
+forcer
+
+avant on avait l'option donc je suis en
+
+train de la chercher
+
+missing version tête à table
+
+théoriquement il y a moyen d'ouvrir avec
+
+une autre version je dirais peut-être
+
+parce que j'ai la version la dernière
+
+version tu peux pas le faire avec
+
+l'ancien
+
+vu qu'il va te manquer la version
+
+avec un autre éditeur plus bas niveau
+
+plus haut niveau mais je sais pas
+
+pourquoi ils ont fait une modification
+
+qui m'empêche de faire ça
+
+donc en gros si je veux travailler avec
+
+lui il va falloir que j'installe la
+
+version 2023 ou que je débloque une
+
+ancienne version du Inke pour aller
+
+ouvrir avec Yeti donc pour l'instant
+
+j'ai juste installer pour que comme ça
+
+au moins tantôt j'ai une version à jour
+
+alors vous pouvez voir que ça va
+
+reprendre de la place sur mon pc parce
+
+que basiquement je vais réinstaller des
+
+trucs qui vont peut-être être doublons
+
+directement
+
+alors il faut savoir attends remote
+
+aussi donc là il va envoyer je sais pas
+
+si ça va marcher tout de suite ou pas
+
+parce que le projet sur le pour lequel
+
+j'envoie il a déjà été envoyé une fois
+
+finalement et donc voilà il y a mille et
+
+une manière de faire des choses et on en
+
+apprend tous les jours si j'arrive
+
+fraîche la page ici bah j'ai tout ce qui
+
+est tout ce qui a été envoyé qui est là
+
+le petit détail pour ceux qui
+
+connaissent pas vous êtes dans le train
+
+vous voulez travailler et vous voulez
+
+utiliser git sachez que ici dans les
+
+premières lignes qui vous a montré donc
+
+si tu les remontes ici on a dit init qui
+
+veut dire créer le projet guide sur
+
+Windows donc ça permet d'initier un
+
+projet guide puis on a du guide ad
+
+commit et tout c'est pour faire des
+
+sauvegardes donc en fait dès le moment
+
+vous avez fait gitanit sur votre projet
+
+sur votre ordinateur ça veut dire c'est
+
+bon tu peux commencer à travailler vite
+
+donc vous êtes dans le train vous
+
+travaillez pendant trois ou quatre
+
+heures vous pouvez faire trois quatre
+
+comites sauvegarder au fur et à mesure
+
+pour revenir en arrière faire des
+
+embranchements et tout et leur remote
+
+ici on a mis directement après mais vous
+
+pouvez le faire
+
+on peut le faire plus tard en fait donc
+
+une fois que vous êtes sorti du train
+
+vous arrivez au cowork vous pouvez
+
+commencer à mettre tout ça en ligne sur
+
+GitHub donc vous n'êtes pas obligé de
+
+directement être sur le serveur vous
+
+pouvez le faire ici même pas obligé de
+
+pêche non plus directement
+
+pour ceux qui par exemple ils ont la
+
+flemme de taper des commandes et tout
+
+dans mon cas par exemple j'ai créé un
+
+script qui permet juste d'écrire un mot
+
+et qui réussit me propose un message à
+
+mettre donc je vais dire moi message
+
+c'est pas grave
+
+mais là ici il le fait de lui-même il
+
+envoie donc si j'arrive fraîche la page
+
+ici il y a mon message qui c'est ça
+
+alors ils viennent me dire c'est pas
+
+grave je le modifierai après
+
+alors ah le projet en fait ce que
+
+j'allais dire c'est en fait moi je m'en
+
+fous un peu parce que j'ai fort son
+
+projet donc en fait maintenant il peut
+
+faire de la mer sur son projet
+
+mais c'est pas grave c'est pour
+
+l'exemple
+
+admettons que lui il continue à faire du
+
+code
+
+tu continues à faire de ton projet en
+
+fait moi vu que j'ai forqué on s'en fout
+
+j'ai un projet qui est complètement
+
+différent mais lié à son projet c'est à
+
+dire que si un jour je me dis j'ai envie
+
+de me mettre à jour sur lui je peux
+
+aller le tirer prendre les codes qui lui
+
+a fait et si moi mon côté j'ai fait un
+
+truc qui était propre et je me dis ah
+
+j'ai bien envie de lui envoyer le truc
+
+qui était propre je peux lui faire un
+
+pull requestre c'est-à-dire lui dire je
+
+t'envoie quelque chose et lui pourra
+
+accepter ou refuser de le mettre dans le
+
+projet principal s'il l'accepte tous les
+
+mecs qui ont
+
+hérité de ce projet qui ont Forté ce
+
+projet vont recevoir une notification en
+
+mode et il y a quelque chose de nouveau
+
+tu veux te mettre à jour ce qui veut
+
+dire qu'en fait si on travaille je sais
+
+pas moi 50 derrière toi bah 50 personnes
+
+que je te proposer du code et toi tu
+
+peux accepter et de faire répercuter au
+
+50 qui veulent et se mettre à jour c'est
+
+vraiment ça qui est beau dans une ici
+
+dans guide pardon et donc ouais un très
+
+beau et très belle outil
+
+sur ce les gars on va aller dormir on
+
+vous souhaite un bon une bonne fin de
+
+soirée pour si vous êtes aussi en fin de
+
+soirée et à bon moment
+
+avec vous
+
