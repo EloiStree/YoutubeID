@@ -1,0 +1,236 @@
+hello everybody and welcome to this
+
+video today I want to present you the Z
+
+MIDI basically it's a stereoscopic
+
+camera that allow you if you merge it
+
+with the oculus at the back back to do
+
+crazy project so this video is just
+
+telling about the research and the
+
+result I've done basically stills could
+
+be run during and as you can see if you
+
+cross your eyes
+
+it's crazy it's precise you can really
+
+feel the object touch it have a feeling
+
+of reality
+
+now you can feed your hand you can do
+
+crazy stuff like serving you a tea you
+
+know - hot stuff and the precision is so
+
+good that I'm trusting - it's based on
+
+the telescopic image and give you a 3d
+
+model in real time that is not based on
+
+infrared so you can scan outside you can
+
+just can't really model that is metal
+
+one so it's perfect to scan any objects
+
+so I was wondering can I scan a shoes or
+
+small objects and yes it does but mainly
+
+it will scan a room so my second
+
+question was okay can i scan the room
+
+and in a how many time and as you can
+
+see it's kind of perfect for kangaroo
+
+because it take less than a minute and
+
+you have the shape the volume and the 3d
+
+mesh at the end you can record it with
+
+the texture if you want you can record
+
+it raw if you want and you can choose
+
+the precision if you want something
+
+better or 20 centimeter so for example
+
+for this chair it was a bit better than
+
+the small objects you have the shape you
+
+have the texture
+
+all you need to be able to do a tweety
+
+bowl a little bit so i detroy know so
+
+small object check if it is me who is
+
+carrying badly but as you can see yeah
+
+it's perfect to scan just the idea of
+
+the objects but I don't think I will be
+
+able to scan a small object with this
+
+kind of device maybe we'll try my other
+
+try was to scan myself because I really
+
+want to be able to scan the size of the
+
+guy in a quick manner Oh at least to be
+
+able to scan the body and animate it but
+
+it was a fail again but I think it's
+
+just a matter of time for this one
+
+because it's perfect so I was like okay
+
+I will try to scan outside to see the
+
+distant I can scan and as you can see I
+
+have bike and if you wonder am I crazy
+
+no I'm not because indeed it's still
+
+here scope in camera and so what you
+
+don't understand is that when you are on
+
+the bike with this kind of camera you
+
+really are on a bike like in reality so
+
+I feel the deep I feel the distance and
+
+it's impossible for me to fall off the
+
+bike as you can see it's kind of crazy
+
+the perfection you can have because here
+
+I did ask the scanning to be 20
+
+centimeter and as you can see I can scan
+
+a street in less than 2 minutes just
+
+walking in the street and bam I has a 3d
+
+model of it so during my test that it
+
+try lots of objects like your by bike
+
+like the wall and stuff like this
+
+and it works each time good but not good
+
+enough to do a 3d model of it so you
+
+really need to edit it the good part is
+
+that you can scan just watch some object
+
+and recalled the environment and then
+
+asked to do the 3d rendering when you
+
+are back home for example here I did
+
+recall just the church and a guy and at
+
+the home I was doing the 3d model as you
+
+can see it's were kind of better than my
+
+first test with the guy but he was
+
+moving and so the 3d model is kind of
+
+true but yeah it work well so people
+
+have interests they ask a lot of
+
+question about it and they are not
+
+afraid of you running in the street with
+
+a bike and a lot of equipment on your
+
+face I suppose that they are used to
+
+Google's
+
+so here is the model in unity of the 3d
+
+scanner as you can see it's kind of good
+
+for the time I scan because ten seconds
+
+scanning here and as you can see for the
+
+road the scan is kind of super cool
+
+because the 3d model is not totally
+
+completed but at least the proportion
+
+and the measurement are perfect because
+
+if there is mixed reality positional
+
+tracking that is working really really
+
+well also I meet me I meet some people
+
+on the road and as you can see they were
+
+a bit surprised ninety and so yeah I
+
+will try a lot of experiment like doing
+
+the dishes and playing BR and doing
+
+crazy stuff so don't hesitate to ask
+
+questions participate to propose me some
+
+experiments you would like me to try
+
+with the equipment and ask any question
+
+in the commentary I will be glad and so
+
+yeah have a nice day
+
+feel free to contact me and I will see
+
+you later bye if you want to be aware of
+
+what I'm doing and the news don't
+
+hesitate to become a patreon and stay
+
+crazy please stay crazy
+
+you
+
